@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Gunshine.net (Zombies Online) — Preservation Archive
 
-Complete archive of **Gunshine.net**, also known as **Zombies Online** — the first browser game developed by **Supercell** (2011–2012). Servers were shut down on November 30, 2012.
+Complete archive of **Gunshine.net**, also known as **Zombies Online** — the first browser game developed by **Supercell** (2011–2012). Servers were shut down on **November 30, 2012**.
 
 ## Contents
 
@@ -12,11 +11,10 @@ Complete archive of **Gunshine.net**, also known as **Zombies Online** — the f
 | `graphics/atlas/` | Full image atlas from SWF | 592 PNG |
 | `swf/` | Original compressed Adobe Flash SWF files | 6 SWF |
 | `decompiled/` | Decompressed SWFs + 185 AS3 scripts | 185 AS |
-| `docs/` | Class names, asset lists, findings | 5 TXT |
+| `docs/` | Class names, asset lists | 5 TXT |
 
 ## Data Files (194 CSVs)
 
-**Content includes:**
 - **Characters** — 1,188 entries with attributes, skills, equipment
 - **Weapons** — Hand guns, shotguns, rifles, SMGs, snipers, swords, axes, knives, saws, miniguns
 - **Missions** — 5 mission sets + daily + boss missions + mission groups
@@ -33,6 +31,7 @@ Complete archive of **Gunshine.net**, also known as **Zombies Online** — the f
 ## Graphics
 
 **161 named UI sprites** extracted from `hud.swf`:
+
 - `LoginScreen.png` — Login interface
 - `CharacterSelectionScreen.png` — Character selection
 - `CreateCharacterScreen.png` — Character creation
@@ -46,7 +45,7 @@ Complete archive of **Gunshine.net**, also known as **Zombies Online** — the f
 - `Window_Settings.png`, `HelpWindow.png` — Settings
 - `scoreboard_1.png` — Leaderboard
 - `NotificationBox.png`, `QuestionBox.png`, `TreasureBoxPopUp.png` — Popups
-- And **140+ more** UI elements
+- And 140+ more UI elements
 
 **592 atlas images** — Full raw images extracted from SWF.
 
@@ -88,7 +87,3 @@ The **main client** (`GamePopup.swf`, ~10-20 MB) has not been located in any pub
 ---
 
 **Preserved for video game history.**
-=======
-# gunshine.net-archive
-Complete preservation archive of Gunshine.net (Zombies Online) — the first game by Supercell (2011-2012)
->>>>>>> c612a101608cda4548d106c1c54ab1255d74c8cf
