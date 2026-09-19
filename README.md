@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gunshine.net (Zombies Online) — Preservation Archive
 
 Complete archive of **Gunshine.net**, also known as **Zombies Online** — the first browser game developed by **Supercell** (2011–2012). Servers were shut down on November 30, 2012.
@@ -87,3 +88,7 @@ The **main client** (`GamePopup.swf`, ~10-20 MB) has not been located in any pub
 ---
 
 **Preserved for video game history.**
+=======
+# gunshine.net-archive
+Complete preservation archive of Gunshine.net (Zombies Online) — the first game by Supercell (2011-2012)
+>>>>>>> c612a101608cda4548d106c1c54ab1255d74c8cf
