@@ -57,7 +57,7 @@ Shut down on November 30, 2012. Everything here is what's left.
 
 - Game data — Supercell package on archive.org
 - SWFs — Rackspace CDN via Wayback Machine
-- Protocol — https://github.com/antzsmt/Gunshine.net
+- Protocol — [antzsmt/Gunshine.net](https://github.com/antzsmt/Gunshine.net)
 - Community contributions
 
 ## Missing
