@@ -1,0 +1,239 @@
+Name,Text
+TID_TOOLTIP_CONSUMABLE_DYNAMITE,Enemies in the explosion area receive <DAMAGE> damage.
+TID_TOOLTIP_CONSUMABLE_GRENADE,Enemies in the explosion area gets knocked back and receive <DAMAGE> damage.
+TID_TOOLTIP_CONSUMABLE_SHURIKEN,Causes <DAMAGE> damage to the targeted enemy.
+TID_TOOLTIP_CONSUMABLE_MEDIKIT,Instantly increases your health by <DAMAGE>.
+TID_TOOLTIP_CONSUMABLE_ENERGIZER,Instantly increases your energy by <ENERGY>.
+TID_CONSUMABLE_ITEM_SKILL_0,Small Grenade
+TID_CONSUMABLE_ITEM_SKILL_1,Grenade
+TID_CONSUMABLE_ITEM_SKILL_2,Big Grenade
+TID_CONSUMABLE_ITEM_SKILL_3,Great Grenade
+TID_CONSUMABLE_ITEM_SKILL_4,Greater Grenade
+TID_CONSUMABLE_ITEM_SKILL_5,Superior Grenade
+TID_CONSUMABLE_ITEM_SKILL_6,Small Dynamite
+TID_CONSUMABLE_ITEM_SKILL_7,Dynamite
+TID_CONSUMABLE_ITEM_SKILL_8,Big Dynamite
+TID_CONSUMABLE_ITEM_SKILL_9,Great Dynamite
+TID_CONSUMABLE_ITEM_SKILL_10,Greater Dynamite
+TID_CONSUMABLE_ITEM_SKILL_11,Superior Dynamite
+TID_CONSUMABLE_ITEM_SKILL_12,Small Shuriken
+TID_CONSUMABLE_ITEM_SKILL_13,Shuriken
+TID_CONSUMABLE_ITEM_SKILL_14,Big Shuriken
+TID_CONSUMABLE_ITEM_SKILL_15,Great Shuriken
+TID_CONSUMABLE_ITEM_SKILL_16,Greater Shuriken
+TID_CONSUMABLE_ITEM_SKILL_17,Superior Shuriken
+TID_CONSUMABLE_ITEM_SKILL_18,Small Medikit
+TID_CONSUMABLE_ITEM_SKILL_19,Medikit
+TID_CONSUMABLE_ITEM_SKILL_20,Big Medikit
+TID_CONSUMABLE_ITEM_SKILL_21,Great Medikit
+TID_CONSUMABLE_ITEM_SKILL_22,Greater Medikit
+TID_CONSUMABLE_ITEM_SKILL_23,Superior Medikit
+TID_CONSUMABLE_ITEM_SKILL_24,Small Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_25,Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_26,Big Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_27,Great Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_28,Greater Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_29,Superior Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_30,Small Molotov Cocktail
+TID_CONSUMABLE_ITEM_SKILL_31,Molotov Cocktail
+TID_CONSUMABLE_ITEM_SKILL_32,Big Molotov Cocktail
+TID_CONSUMABLE_ITEM_SKILL_33,Great Molotov Cocktail
+TID_CONSUMABLE_ITEM_SKILL_34,Greater Molotov Cocktail
+TID_CONSUMABLE_ITEM_SKILL_35,Superior Molotov Cocktail
+TID_CONSUMABLE_ITEM_SKILL_36,Shock Grenade
+TID_CONSUMABLE_ITEM_SKILL_37,Big Shock Grenade
+TID_CONSUMABLE_ITEM_SKILL_38,Great Shock Grenade
+TID_CONSUMABLE_ITEM_SKILL_39,Greater Shock Grenade
+TID_CONSUMABLE_ITEM_SKILL_40,Superior Shock Grenade
+TID_CONSUMABLE_ITEM_SKILL_41,Big Gas Grenade
+TID_CONSUMABLE_ITEM_SKILL_42,Great Gas Grenade
+TID_CONSUMABLE_ITEM_SKILL_43,Greater Gas Grenade
+TID_CONSUMABLE_ITEM_SKILL_44,Superior Gas Grenade
+TID_CONSUMABLE_ITEM_SKILL_45,Small Bazooka
+TID_CONSUMABLE_ITEM_SKILL_46,Bazooka
+TID_CONSUMABLE_ITEM_SKILL_47,Big Bazooka
+TID_CONSUMABLE_ITEM_SKILL_48,Great Bazooka
+TID_CONSUMABLE_ITEM_SKILL_49,Greater Bazooka
+TID_CONSUMABLE_ITEM_SKILL_50,Super Bazooka
+TID_CONSUMABLE_ITEM_SKILL_51,Minor Air Strike
+TID_CONSUMABLE_ITEM_SKILL_52,Air Strike
+TID_CONSUMABLE_ITEM_SKILL_53,Major Air Strike
+TID_CONSUMABLE_ITEM_SKILL_54,Huge Air Strike
+TID_CONSUMABLE_ITEM_SKILL_55,Minor Shock Blow
+TID_CONSUMABLE_ITEM_SKILL_56,Shock Blow
+TID_CONSUMABLE_ITEM_SKILL_57,Major Shock Blow
+TID_CONSUMABLE_ITEM_SKILL_58,Great Shock Blow
+TID_CONSUMABLE_ITEM_SKILL_59,Greater Shock Blow
+TID_CONSUMABLE_ITEM_SKILL_60,Superior Shock Blow
+TID_CONSUMABLE_ITEM_SKILL_61,Weak Force Field
+TID_CONSUMABLE_ITEM_SKILL_62,Force Field
+TID_CONSUMABLE_ITEM_SKILL_63,Strong Force Field
+TID_CONSUMABLE_ITEM_SKILL_64,Combat Speed Increase
+TID_CONSUMABLE_ITEM_SKILL_65,Walking Speed Increase
+TID_CONSUMABLE_ITEM_SKILL_66,Extended Armor
+TID_CONSUMABLE_ITEM_SKILL_67,XP Booster (150%)
+TID_CONSUMABLE_ITEM_SKILL_68,XP Booster (200%)
+TID_CONSUMABLE_ITEM_SKILL_69,Extended Armor (Group)
+TID_CONSUMABLE_ITEM_SKILL_70,Small Health Boost
+TID_CONSUMABLE_ITEM_SKILL_71,Health Boost
+TID_TOOLTIP_CONSUMABLE_MOLOTOV,Enemies in the area of effect burn for <DAMAGE> damage plus additional <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_SHOCKGRENADE,"Causes enemies in the target area to lose energy by <ENERGY> and paralyzing them for <BUFF_DURATION>. In addition, targets receive <BUFF_DAMAGE> damage over time."
+TID_TOOLTIP_CONSUMABLE_GASGRENADE,"Slows down enemies in the target area by <BUFF_MOVEMENT_SPEED> for <BUFF_DURATION>. In addition, targets receive <BUFF_DAMAGE> damage over time."
+TID_TOOLTIP_CONSUMABLE_BAZOOKA,"Knocks back the enemy, dealing <DAMAGE> damage. In addition, targets receive <BUFF_DAMAGE> damage over time."
+TID_TOOLTIP_CONSUMABLE_AIRSTRIKE,Order an air strike to take care of enemies across a wider area. Causes <DAMAGE> damage plus additional <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_SHOCKBLOW,"Releases a shockwave that makes all the surrounding enemies fall back, dealing <DAMAGE> damage to all of them. Enemies are stunned for <BUFF_DURATION> giving you time to escape."
+TID_TOOLTIP_CONSUMABLE_FORCEFIELD,"This innovation from Labycore Warfare Industries is a damage absording, protective field. Activate it to increase your armor by <BUFF_ARMOR> for <BUFF_DURATION>."
+TID_TOOLTIP_CONSUMABLE_COMBATSPEEDINCREASE,"Combat booster that makes you deal damage faster, lasts for <BUFF_DURATION>."
+TID_TOOLTIP_CONSUMABLE_WALKSPEEDINCREASE,Combat booster that makes you run faster for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_EXTENDEDENERGY,Combat booster that increases your intelligence by <BUFF_INTELLIGENCE> for <BUFF_DURATION>. Intelligence increases your maximum energy capacity.
+TID_TOOLTIP_CONSUMABLE_BETTERAIM,Temporary implant that increases your ranged power by <BUFF_AGILITY> for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_MUSCLEBOOST,Temporary implant that increases your melee power by <BUFF_STRENGTH> for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_STAMINABOOST,Temporary implant that increases your stamina by <BUFF_STAMINA> for <BUFF_DURATION>. Stamina has a direct impact to your maximum health.
+TID_TOOLTIP_CONSUMABLE_EXTENDEDARMOR,DNA modifier which makes your skin harder. Increases your armor by <BUFF_ARMOR%> for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_CREDIBLELOOKS,DNA modifier which improves your looks. Increases your credibility by <BUFF_CREDIBILITY> for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_XPBOOSTER01,"Get more experience, faster! Labycore Industries proudly present a DNA modifier that makes you gain 150% experience for <BUFF_DURATION>."
+TID_TOOLTIP_CONSUMABLE_XPBOOSTER02,"Get more experience, faster! Labycore Industries proudly present a DNA modifier that makes you gain double experience for <BUFF_DURATION>."
+TID_TOOLTIP_CONSUMABLE_EXTENDEDENERGYG,Combat booster for groups that increases intelligence by <BUFF_INTELLIGENCE> for <BUFF_DURATION>. Intelligence increases the maximum energy capacity.
+TID_TOOLTIP_CONSUMABLE_BETTERAIMG,Temporary implant that increases group's ranged power by <BUFF_AGILITY> for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_MUSCLEBOOSTG,Temporary implant that hardens your skin for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_STAMINABOOSTG,Temporary implant that increases group's stamina by <BUFF_STAMINA> for <BUFF_DURATION>. Stamina has a direct impact to the maximum health.
+TID_TOOLTIP_CONSUMABLE_EXTENDEDARMORG,DNA modifier which makes the group more durable. Increases the armor of group members by <BUFF_ARMOR%> for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_CREDIBLELOOKSG,DNA modifier which improves the looks of the whole group. Increases the credibility by <BUFF_CREDIBILITY> for <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_FLAMETHROWER,"Turns the enemy to a burning flame, causing <DAMAGE> damage with additional <BUFF_DAMAGE> over <BUFF_DURATION>."
+TID_TOOLTIP_CONSUMABLE_HEALINGSALVE,Increases your health by <BUFF_DAMAGE> over <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_ENERGYDRINK,Increases your energy by <BUFF_ENERGY> over <BUFF_DURATION>.
+TID_TOOLTIP_CONSUMABLE_ENERGYBOMB,Throws an energy pack to the targeted location. Friendly characters in the area receive <ENERGY> energy.
+TID_CONSUMABLE_ITEM_SKILL_72,Big Health Boost
+TID_CONSUMABLE_ITEM_SKILL_73,Great Health Boost
+TID_CONSUMABLE_ITEM_SKILL_74,Greater Health Boost
+TID_CONSUMABLE_ITEM_SKILL_75,Superior Health Boost
+TID_CONSUMABLE_ITEM_SKILL_76,Hi-Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_77,Big Hi-Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_78,Great Hi-Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_79,Greater Hi-Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_80,Superior Hi-Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_81,Flame Thrower
+TID_CONSUMABLE_ITEM_SKILL_82,Big Flame Thrower
+TID_CONSUMABLE_ITEM_SKILL_83,Great Flame Thrower
+TID_CONSUMABLE_ITEM_SKILL_84,Greater Flame Thrower
+TID_CONSUMABLE_ITEM_SKILL_85,Super Flame Thrower
+TID_CONSUMABLE_ITEM_SKILL_86,Small Energy Surprise (Group)
+TID_CONSUMABLE_ITEM_SKILL_87,Energy Surprise (Group)
+TID_CONSUMABLE_ITEM_SKILL_88,Big Energy Surprise (Group)
+TID_CONSUMABLE_ITEM_SKILL_89,Great Energy Surprise (Group)
+TID_CONSUMABLE_ITEM_SKILL_90,Greater Energy Surprise (Group)
+TID_CONSUMABLE_ITEM_SKILL_91,Superior Energy Surprise (Group)
+TID_CONSUMABLE_ITEM_SKILL_92,Extended Energy
+TID_CONSUMABLE_ITEM_SKILL_93,Better Aim
+TID_CONSUMABLE_ITEM_SKILL_94,Muscle Boost
+TID_CONSUMABLE_ITEM_SKILL_95,Stamina Boost
+TID_CONSUMABLE_ITEM_SKILL_96,Credible Looks
+TID_CONSUMABLE_ITEM_SKILL_97,Extended Energy (Group)
+TID_CONSUMABLE_ITEM_SKILL_98,Better Aim (Group)
+TID_CONSUMABLE_ITEM_SKILL_99,Muscle Boost (Group)
+TID_CONSUMABLE_ITEM_SKILL_100,Stamina Boost (Group)
+TID_CONSUMABLE_ITEM_SKILL_101,"Bandage, rank 1"
+TID_CONSUMABLE_ITEM_SKILL_102,"Bandage, rank 2"
+TID_CONSUMABLE_ITEM_SKILL_103,"Bandage, rank 3"
+TID_CONSUMABLE_ITEM_SKILL_104,"Bandage, rank 4"
+TID_CONSUMABLE_ITEM_SKILL_105,"Bandage, rank 5"
+TID_CONSUMABLE_ITEM_SKILL_106,"Bandage, rank 6"
+TID_CONSUMABLE_ITEM_SKILL_107,Small Energy Drink
+TID_CONSUMABLE_ITEM_SKILL_108,Energy Drink
+TID_CONSUMABLE_ITEM_SKILL_109,Big Energy Drink
+TID_CONSUMABLE_ITEM_SKILL_110,Great Energy Drink
+TID_CONSUMABLE_ITEM_SKILL_111,Greater Energy Drink
+TID_CONSUMABLE_ITEM_SKILL_112,Superior Energy Drink
+TID_CONSUMABLE_ITEM_SKILL_113,Credible Looks (Group)
+TID_CONSUMABLE_ITEM_SKILL_114,Small Hi-Energy Boost
+TID_CONSUMABLE_ITEM_SKILL_115,Light Molotov Cocktail
+TID_TOOLTIP_CONSUMABLE_FIREBOMB,Throws a Fire Bomb to the targeted location and deals <DAMAGE> damage and additional <BUFF_DAMAGE> over <BUFF_DURATION>
+TID_CONSUMABLE_ITEM_SKILL_116,Fire Bomb
+TID_CONSUMABLE_ITEM_SKILL_117,Stone Skin
+TID_CONSUMABLE_ITEM_SKILL_118,Super Bullet
+TID_CONSUMABLE_ITEM_SKILL_119,Exploding Bullet
+TID_CONSUMABLE_ITEM_SKILL_120,Piercing Bullet
+TID_CONSUMABLE_ITEM_SKILL_121,Modified Haft
+TID_CONSUMABLE_ITEM_SKILL_122,Exploding Add-on
+TID_CONSUMABLE_ITEM_SKILL_123,Cyanide Surprise
+TID_CONSUMABLE_ITEM_SKILL_124,Beanut Butter Cookie
+TID_CONSUMABLE_ITEM_SKILL_125,Spiced Bread
+TID_CONSUMABLE_ITEM_SKILL_126,Potato Soup
+TID_CONSUMABLE_ITEM_SKILL_127,Fruit Salsa
+TID_CONSUMABLE_ITEM_SKILL_128,Omelette with Herbs
+TID_CONSUMABLE_ITEM_SKILL_129,BBQ Chicken Wings
+TID_CONSUMABLE_ITEM_SKILL_130,Apple Juice
+TID_CONSUMABLE_ITEM_SKILL_131,Wiki Juice
+TID_CONSUMABLE_ITEM_SKILL_132,Pineapple Juice
+TID_CONSUMABLE_ITEM_SKILL_133,Orange Juice
+TID_CONSUMABLE_ITEM_SKILL_134,Peach Juice
+TID_CONSUMABLE_ITEM_SKILL_135,Mixed Fruits Juice
+TID_CONSUMABLE_ITEM_SKILL_136,Dave's Special Bullets
+TID_CONSUMABLE_ITEM_SKILL_137,Dave's Special Hafts
+TID_CONSUMABLE_ITEM_SKILL_138,Blink
+TID_CONSUMABLE_ITEM_SKILL_139,Quick Help
+TID_CONSUMABLE_ITEM_SKILL_140,Sacrifier
+TID_CONSUMABLE_ITEM_SKILL_141,Emergency Treatment
+TID_CONSUMABLE_ITEM_SKILL_142,Healing Rays
+TID_CONSUMABLE_ITEM_SKILL_143,Friendly Enemy
+TID_CONSUMABLE_ITEM_SKILL_144,Heal Wave
+TID_CONSUMABLE_ITEM_SKILL_145,Medicine Shot
+TID_CONSUMABLE_ITEM_SKILL_146,Renew
+TID_CONSUMABLE_ITEM_SKILL_147,Smart Minds
+TID_TOOLTIP_ENHANCED_BULLET,"Specially crafted, enhanced bullet that causes <DAMAGE> damage to the target."
+TID_TOOLTIP_EXPLODING_BULLET,Explosive bullet makes the target and all the enemies near the target receive <DAMAGE> damage.
+TID_TOOLTIP_PIERCING_BULLET,Special bullet that penetrates any armor. Target suffers from <DAMAGE> damage plus additional <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_TOOLTIP_ENHANCED_WEAPON,Special modification to your melee weapon makes it cause <DAMAGE> damage to the target.
+TID_TOOLTIP_EXPLODING_ADDON,Target and all the enemies near the target receive <DAMAGE> damage.
+TID_TOOLTIP_SYANIDE_SURPRISE,Hitting the target with a syanide capsule makes them receive <DAMAGE> damage plus additional <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_TOOLTIP_BANDAGE,Instantly increases your health by <DAMAGE>.
+TID_CONSUMABLE_ITEM_SKILL_148,Nerve Gas
+TID_CONSUMABLE_ITEM_SKILL_149,Toxic Avenger
+TID_CONSUMABLE_ITEM_SKILL_150,Wounding Shot
+TID_CONSUMABLE_ITEM_SKILL_151,Trauma Shot
+TID_CONSUMABLE_ITEM_SKILL_152,Sinister Shot
+TID_CONSUMABLE_ITEM_SKILL_153,Head Shot
+TID_CONSUMABLE_ITEM_SKILL_154,Dum-Dum
+TID_CONSUMABLE_ITEM_SKILL_155,Shooting Madness
+TID_CONSUMABLE_ITEM_SKILL_156,Bouncing Bullet
+TID_CONSUMABLE_ITEM_SKILL_157,Flesh Eater
+TID_CONSUMABLE_ITEM_SKILL_158,Bone Cracker
+TID_CONSUMABLE_ITEM_SKILL_159,Skull Crusher
+TID_CONSUMABLE_ITEM_SKILL_160,Thruster
+TID_CONSUMABLE_ITEM_SKILL_161,Deception
+TID_CONSUMABLE_ITEM_SKILL_162,Leg Breaker
+TID_CONSUMABLE_ITEM_SKILL_163,Mass Damage
+TID_CONSUMABLE_ITEM_SKILL_164,Wounds For All
+TID_TOOLTIP_BLINK,Booster prototype that enables sprinting from one point to another in a blink of an eye. Needs a target selected and attacked for full performance!
+TID_CONSUMABLE_ITEM_SKILL_165,Jaws Breaker
+TID_ABILITY_QuickHelp,Heals yourself or friendly target for <DAMAGE>. High threat.
+TID_ABILITY_Sacrifier,Heals your friendly target for <DAMAGE> but with a cost of you losing <HEALTH_COST> health.
+TID_ABILITY_EmergencyTreatment,Heals your friendly target for <DAMAGE>. Cannot be self-targeted.
+TID_ABILITY_HealingRays,Turns your friendly target into a beacon of health that heals surrounding friendly units for <BUFF_DAMAGE> over <BUFF_DURATION>.
+TID_ABILITY_UnrealShot,"Special bullet that deals <DAMAGE> damage to hostile target, turning it into a beacon that sends waves to surrounding friendly units healing them for <BUFF_DAMAGE> over <BUFF_DURATION>."
+TID_ABILITY_PulseHeal,Sends a wave that heals surrounding friendly units for <DAMAGE>.
+TID_ABILITY_MedicineShot,Heals your friendly target for <DAMAGE> plus additional <BUFF_DAMAGE> health over <BUFF_DURATION>.
+TID_ABILITY_Renew,Heals yourself or your friendly target for <DAMAGE> plus additional <BUFF_DAMAGE> health over <BUFF_DURATION>.
+TID_ABILITY_SmartMinds,"Gives a bonus for <BUFF_DURATION> to all the group members near the friendly target, increasing their melee damage and energy pool."
+TID_ABILITY_NerveGas,Causes <DAMAGE> damage to hostile target plus additional <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_ABILITY_ToxicAvenger,Causes enemy to suffer for <BUFF_DAMAGE> damage over <BUFF_DURATION> and reducing their armor by <BUFF_ARMOR%> for the time being.
+TID_ABILITY_WoundingShot,Deals <DAMAGE> damage to the enemy making it bleed for <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_ABILITY_TraumaShot,"Deals <DAMAGE> damage to the target, reducing the attack speed of the target by <BUFF_SKILL_SPEED> over <BUFF_DURATION>."
+TID_ABILITY_SinisterShot,Deals <DAMAGE> damage to the target.
+TID_ABILITY_HeadShot,Deals <DAMAGE> damage to the target and reduces its movement speed for <BUFF_DURATION>.
+TID_ABILITY_DumDum,"Deals <DAMAGE> damage to the target, causing all the surrounding hostile units ignite and suffer <BUFF_DAMAGE> damage over <BUFF_DURATION>."
+TID_ABILITY_ShootingMadness,"You go berserk, increasing your attack speed by <BUFF_SKILL_SPEED> for <BUFF_DURATION>."
+TID_ABILITY_BouncingBullet,Deals <DAMAGE> damage to the target and all the surrounding enemies.
+TID_ABILITY_FleshEater,Deals <DAMAGE> damage to the target with a cost of you losing <HEALTH_COST> health. Reduces target's movement speed by <BUFF_MOVEMENT_SPEED> and skill speed by <BUFF_SKILL_SPEED> for <BUFF_DURATION>.
+TID_ABILITY_BoneCracker,Deals <DAMAGE> damage to the target with a cost of you losing <HEALTH_COST> health. In addition target suffers from <BUFF_DAMAGE> over <BUFF_DURATION>.
+TID_ABILITY_SkullCrusher,Deals <DAMAGE> damage to the target plus additional <BUFF_DAMAGE> over <BUFF_DURATION>.
+TID_ABILITY_Thruster,Boosts your armor by <BUFF_ARMOR%> for <BUFF_DURATION> but with the cost of reducing your attack power. High threat.
+TID_ABILITY_Deception,Deals <DAMAGE> damage to surrounding hostile units knocking them back. High threat.
+TID_ABILITY_LegBreaker,"Deals <DAMAGE> damage to the hostile unit, reducing target's movement speed by <BUFF_MOVEMENT_SPEED> for <BUFF_DURATION>. High threat."
+TID_ABILITY_MassDamage,Deals <DAMAGE> damage to all the surrounding hostile units.
+TID_ABILITY_WoundsForAll,Deals <DAMAGE> damage to all the surrounding hostile units plus additional <BUFF_DAMAGE> over <BUFF_DURATION>. Hostile units will attack faster while receiving damage.
+TID_ABILITY_JawsBreaker,"Deals <DAMAGE> damage to all the surrounding hostile units, reducing their armor by <BUFF_ARMOR%> for <BUFF_DURATION>."
+TID_TOOLTIP_CONSUMABLE_PREMIUM,"Get more experience and cash, faster! Makes you gain double experience and double money for <BUFF_DURATION> gameplay time."
+TID_CONSUMABLE_ITEM_SKILL_166,Premium Membership
+TID_CONSUMABLE_ITEM_SKILL_167,Nuke
+TID_TOOLTIP_CONSUMABLE_NUKE,This \q\qpit cleaner\q\q is full of power! Causes devastating damage.

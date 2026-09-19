@@ -1,0 +1,151 @@
+Name,Text
+TID_MISSION_4_0_OBJECTIVE,"Labycore customs seized machine parts that I was shipping in! If you get my shipment back, I'll let you keep some of the best ingredients."
+TID_MISSION_4_0_RECEIVING_MESSAGE,"Thanks! Here you go, your share of the ingredients as agreed. Craft something for yourself?"
+TID_MISSION_4_0_TASK_0,Collect shipment
+TID_MISSION_4_0,Nuts & Bolts
+TID_MISSION_4_1_OBJECTIVE,Hmm... Seems that a lot of my merchandise ended up in the pockets of those corrupt Labycore Security. How about you reclaim those too?
+TID_MISSION_4_1_RECEIVING_MESSAGE,Excellent work! Here's your reward.
+TID_MISSION_4_1_TASK_0,Get Package from Trooper
+TID_MISSION_4_1_TASK_1,Get package from Officer
+TID_MISSION_4_2_OBJECTIVE,You showed a certain gleeful proficiency in taking out those LabSec baddies. How about thinning them out some more? I have another shipment coming in.
+TID_MISSION_4_2_RECEIVING_MESSAGE,"Wow, you really showed them! Maybe you should talk to Tollman. I hear he's looking for people who can take on Labycore."
+TID_MISSION_4_2_TASK_0,Take Out Security
+TID_MISSION_4_1,Pickpocket
+TID_MISSION_4_2,Toll Free
+TID_MISSION_4_3_OBJECTIVE,"We can't make any honest profit with the corrupt Customs breathing down our necks. With your particular skills, I know you can help us!"
+TID_MISSION_4_3_RECEIVING_MESSAGE,Fantastic! It'll be a while before they get their ledgers back in order.
+TID_MISSION_4_3_TASK_0,Take out Chief Inspector
+TID_MISSION_4_3,Chief Inspector
+TID_MISSION_4_4_OBJECTIVE,"TROLL is a dangerous Labycore guardian robot. It's hunkered down on the pier, and we're not sure if it's active or not. Care to check it out?"
+TID_MISSION_4_4_RECEIVING_MESSAGE,That was a fantastic show! We all had drinks and popcorn and throughly enjoyed ourselves.
+TID_MISSION_4_4_TASK_0,Seek and Destroy the Troll
+TID_MISSION_4_4,Troll's Lair
+TID_MISSION_4_5_OBJECTIVE,"Where did those massive crabs come from? And more importantly, who could stop them from snapping mooring lines and destroying our shipping?"
+TID_MISSION_4_5_RECEIVING_MESSAGE,"Wow, that's a nice catch! We're going to have a real shoreman's feast tonight!"
+TID_MISSION_4_5_TASK_0,Hunt crabs
+TID_MISSION_4_5,Crayfish Party
+TID_MISSION_4_6_OBJECTIVE,I don't know what vile toxins Labycore has been dumping at our shores. You've seen the green guys right? I heard it's contagious too.
+TID_MISSION_4_6_RECEIVING_MESSAGE,"Ok, I think that's enough disease control for now."
+TID_MISSION_4_6_TASK_0,Reduce infection threat
+TID_MISSION_4_6,Infected
+TID_MISSION_4_7_OBJECTIVE,Piggy Bob and his pigs have taken over one of our warehouses!
+TID_MISSION_4_7_RECEIVING_MESSAGE,There'll be a barbeque tonight! Yessir.
+TID_MISSION_4_7_TASK_0,Kill Piggy Bob
+TID_MISSION_4_7,Got Bacon?
+TID_MISSION_4_8_OBJECTIVE,"I wonder what's going on at the super secret research lab! Trucks have been coming in day and night. Look into it, would you? I'll make it worth your while."
+TID_MISSION_4_8_RECEIVING_MESSAGE,"> Tollman: Ok, here we are. I'll leave the approach to you - either sneak in or attack head-on."
+TID_MISSION_4_8_TASK_0,Report to Tollman
+TID_MISSION_4_8,I Spy
+TID_MISSION_4_9_OBJECTIVE,"> Tollman: Well, what are you waiting for? I need some information!"
+TID_MISSION_4_9_TALK_TASK_0,"This is our newest marketing research study. By using subliminal messages, we can get ordinary housewives to fight to death over a cleaning product! Amazing, isn't it?"
+TID_MISSION_4_9_TALK_TASK_1,"Now, this test setup should be particularly interesting to you kids in the group. We're finding out if video games REALLY desensitize people to violence. Great stuff, right?"
+TID_MISSION_4_9_TALK_TASK_2,"Welcome, dear visitors! Here at Eureka Science Center we're researching new technologies that will improve your lives. Go right in and find out about our current research projects!"
+TID_MISSION_4_9_RECEIVING_MESSAGE,"> Tollman: Holy darn!! I knew the Labycore were up to no good, but I had no idea..."
+TID_MISSION_4_9_TASK_0,Examine Eureka
+TID_MISSION_4_9_TASK_1,Investigate Eureka
+TID_MISSION_4_9_TASK_2,Discover Eureka
+TID_MISSION_4_9,Guided Tour
+TID_MISSION_4_10_OBJECTIVE,"With the guns we can get with these coupons, we'll finally be able to defend ourselves! Listen, I need you to tell this to a friend of mine. You like beaches, right?"
+TID_MISSION_4_10_TALK_TASK_0,Yes...I'm Ron.
+TID_MISSION_4_10_RECEIVING_MESSAGE,"Discounted guns sounds great, but I'm more worried about the stuff that's going on at Eureka Research. The people you saved were abducted from this refugee camp!"
+TID_MISSION_4_10_TASK_0,Find Ron
+TID_MISSION_4_10,Beach Party
+TID_MISSION_4_11_OBJECTIVE,"There's an automated tank running amok! I sent my best hunters to take it out, but they peed their pants. Maybe you have more guts?"
+TID_MISSION_4_11_RECEIVING_MESSAGE,Cheers mate! You're an inspiration to all us refugees.
+TID_MISSION_4_11,Eliminate Tankinator
+TID_MISSION_4_12_OBJECTIVE,You're shaping up to be a real hero of the people! I know a damsel in distress who could really use a champion right now.
+TID_MISSION_4_12_RECEIVING_MESSAGE,"Hi honey, I'll get right to business. The Eastern Mob runs a slave girl operation on this island. Every week they trick more girls to come and put them in chains."
+TID_MISSION_4_12,Club Night
+TID_MISSION_4_13_OBJECTIVE,"Friendly Matches against other freedom fighters is a great way to practice your fighting skills. If you win, you get a special prize!"
+TID_MISSION_4_13_RECEIVING_MESSAGE,Nice moves. I won't bet against you next time.
+TID_MISSION_4_13_TASK_0,Win a Friendly Match
+TID_MISSION_4_13,Friendly Match
+TID_MISSION_4_14_OBJECTIVE,"Hey, the ferry is about to leave for Achilles Island. Want a free ride? All you have to do is check up on my friend there."
+TID_MISSION_4_14_RECEIVING_MESSAGE,Good to see a friendly face. This island was getting dangerous!
+TID_MISSION_4_14_TASK_0,Speak to Flux
+TID_MISSION_4_14,Travel To Achilles
+TID_MISSION_4_15_OBJECTIVE,"Hey, you look like you can fight! We're missing a contestant in tonight's card. Step in the arena if you have what it takes! Defeat any other freedom fighter in the arena for cash and plans for special weapon."
+TID_MISSION_4_15_RECEIVING_MESSAGE,"Here's your purse money, and something else: a tip from a veteran."
+TID_MISSION_4_15_TASK_0,Defeat an opponent
+TID_MISSION_4_15,Challenge Yourself
+TID_MISSION_4_16,Unfair Advantage
+TID_MISSION_4_16_OBJECTIVE,This is not exactly a fair sport with weight classes and such. Kit yourself with the best weapons and you'll have a much better chance of winning.
+TID_MISSION_4_16_RECEIVING_MESSAGE,"You sure put a nasty blade on that knife.\n\nRemember, we need undercard fighters every day."
+TID_MISSION_4_17_OBJECTIVE,I heard an explosion coming from Anchorage block. Go check it out!\n\nAfter that report to Alton. He wants to see you.
+TID_MISSION_4_17_RECEIVING_MESSAGE,Labycore Security? That means these documents must be something special. Great job!
+TID_MISSION_4_17_TASK_0,Grab Documents
+TID_MISSION_4_17,Unusual Activity
+TID_MISSION_4_18_OBJECTIVE,"My friend Raul went to clear out our stash at the Storehouse, but he's taking mighty long. Care to go check on him?"
+TID_MISSION_4_18_RECEIVING_MESSAGE,So they confiscated everything? We have to get our stuff back somehow.
+TID_MISSION_4_18_TASK_0,Find Raul
+TID_MISSION_4_18,The Stash
+TID_MISSION_4_19_OBJECTIVE,I hear Labycore have left vehicle microcontrollers lying out in the open. Those chips are worth a fortune! Interested?
+TID_MISSION_4_19_RECEIVING_MESSAGE,"Nice work <PLAYER_NAME>. Here, we'll pay back in kind."
+TID_MISSION_4_19_TASK_0,Eliminate troopers
+TID_MISSION_4_19_TASK_1,Get the chips
+TID_MISSION_4_19,Car Jacking
+TID_MISSION_4_20_OBJECTIVE,"Man, that was awesome! You need to tell our shift manager Alton about this."
+TID_MISSION_4_20_RECEIVING_MESSAGE,You are safe for now. This block is controlled by the Resistance. Welcome to the Pirate Bay.
+TID_MISSION_4_20_TASK_0,Talk to Alton
+TID_MISSION_4_20,On The Dock
+TID_MISSION_4_21,Da Capo Al Fine
+TID_MISSION_4_21_OBJECTIVE,Don Wang is a capo who united Dawnbreak's Sicilian and Asian gangs under one organization. Kill him and you take out two bosses with one stone.
+TID_MISSION_4_21_RECEIVING_MESSAGE,"Amazing job, <PLAYER_NAME>! Don Wang is facing the music now."
+TID_MISSION_4_21_TASK_0,Get Capo's Keycard
+TID_MISSION_4_21_TASK_1,Liquidate Don Wang
+TID_MISSION_4_22_OBJECTIVE,"Even though you liquidated Kingpin, we seem to have another case on our hands. One of our Docker informants disappeared. Go check out his crib!"
+TID_MISSION_4_22_RECEIVING_MESSAGE,That's just sick! A killing room like you described means we're dealing with real professionals. No wonder they never left a trace before.
+TID_MISSION_4_22,No Trace
+TID_MISSION_4_22_TASK_0,Find evidence about real boss
+TID_MISSION_4_23_OBJECTIVE,The killers left a package that tipped us of their next target. Get over there quick and see if you can't catch them red handed!
+TID_MISSION_4_23_RECEIVING_MESSAGE,"So Don Wang is the man behind all these contract killings. His base is a regular hit factory, and I want you to crash the party."
+TID_MISSION_4_23,"Killing You, Killing Me"
+TID_MISSION_4_23_TASK_0,Catch hitmen
+TID_MISSION_4_23_TALK_TASK_1,Yeah... I was trying to con Don Wang cause he stole my girlfriend. Never thought he'd put a hit on me!
+TID_MISSION_4_23_TASK_1,Gather information
+TID_MISSION_4_18_TALK_TASK_0,Hey ese. Customs agents everywhere! Tell Javier that they have confiscated everything.
+TID_MISSION_4_24_OBJECTIVE,"I just know that General Adama has survived this thing.. whatever this is. He's ex-military, you know. Find him and get a word to him that we are still alive.\n"
+TID_MISSION_4_24_RECEIVING_MESSAGE,"WOW, easy there, great to see a friendly face! Or a face, that is to say, not some lump of rotting meat. So Angelin sent you and she is still alive. That's great news!\n"
+TID_MISSION_4_24_TASK_0,Find General Adama
+TID_MISSION_4_24,Still alive
+TID_MISSION_4_25_OBJECTIVE,"We still have a radio here so we could keep contact with other survivors, but we are running out of energy. There are still some laying about in the area, bring me all you can find.\n"
+TID_MISSION_4_25_RECEIVING_MESSAGE,"Great, this will keep us going.\n"
+TID_MISSION_4_25_TASK_0,Find energy coupons
+TID_MISSION_4_25,Running out
+TID_MISSION_4_26,The Quartermaster
+TID_MISSION_4_26_OBJECTIVE,"You should talk to our quartermaster, he too needs someone who can survive a trip outside.\n"
+TID_MISSION_4_26_RECEIVING_MESSAGE,"Oh, there you are! General Adama told me to expect you .\n"
+TID_MISSION_4_26_TASK_0,Talk to the Quartermaster
+TID_MISSION_4_27_OBJECTIVE,"We'll have to block these windows by nightfall, otherwise we'll never survive another attack. Find some boards or something we can use to reinforce this place.\n"
+TID_MISSION_4_27_RECEIVING_MESSAGE,"Good work, thanks! Before you go, here is something I thought you might find useful.\n"
+TID_MISSION_4_27_TASK_0,Find blocking material
+TID_MISSION_4_27,Reinforce the stronghold
+TID_MISSION_4_28_OBJECTIVE,"General Adama was looking for you, you should go speak to him."
+TID_MISSION_4_28_RECEIVING_MESSAGE,"I was looking for you, good that you're here.\n"
+TID_MISSION_4_28_TASK_0,Talk to General Adama
+TID_MISSION_4_28,Search General Adama
+TID_MISSION_4_29_OBJECTIVE,(You should probably deliver the bad news to General Adama.)
+TID_MISSION_4_29_RECEIVING_MESSAGE,"I was afraid of this. But thanks for making the trip, now we know."
+TID_MISSION_4_29,I see dead people
+TID_MISSION_4_30_OBJECTIVE,"Take one of my men and get these batteries to Frank, he's in South Park Garden. We haven't heard from them for a while now, so I hope they too are just out of batteries. Trip there is dangerous, so I'll give you the best soldier I've got. Make sure he makes it back."
+TID_MISSION_4_30_RECEIVING_MESSAGE,"(Note in his pocket says: if someone reads this, it's too late for us already. Save yourselves!)"
+TID_MISSION_4_30_TASK_0,Take batteries to Frank
+TID_MISSION_4_30,No news...
+TID_MISSION_4_29_TASK_0,Deliver the news to General Adama
+TID_MISSION_4_30_TALK_TASK_0,Adama sent you? Good. I need some serious backup.
+TID_MISSION_4_31_OBJECTIVE,"I heard that there is a small group of new arrivals in Freedom Park. Can you believe that, in Freedom Park of all places! Will you go and see if they are OK?"
+TID_MISSION_4_31_RECEIVING_MESSAGE,Another survivor! Yay!
+TID_MISSION_4_31,Survivors
+TID_MISSION_4_31_TASK_0,Find the new arrivals
+TID_MISSION_4_32_OBJECTIVE,"We have to get the word out that there still are people alive here. Someone has to be looking for us. There are some barrels in the forest, will you go and light them for a signal before it's too late?"
+TID_MISSION_4_32_RECEIVING_MESSAGE,"Thanks, lets hope that someone rescues us! I don't wanna end up like one of those brain chewing freaks!"
+TID_MISSION_4_32_TASK_0,Make some noise and fire
+TID_MISSION_4_32,SOS
+TID_MISSION_4_33_OBJECTIVE,"Have you seen any gas canisters laying around? I need to get my car started. If you find any, I'll trade them for these useless Nanochips"
+TID_MISSION_4_33_RECEIVING_MESSAGE,Damn! This is not enough! Now we have to wait for that SOS signal to work and by any means defend ourselves. There is no way I'm having my brains eaten ..
+TID_MISSION_4_33,Gas off
+TID_MISSION_4_33_TASK_0,Find gasoline
+TID_MISSION_4_34_OBJECTIVE,"You mean we should blow up all passageways and bunker ourselves in? Hmm. Well, if you're sure about it. I guess we will be saved by a helicopter anyway, so I guess it wont hurt. Can you do that?"
+TID_MISSION_4_34_RECEIVING_MESSAGE,"This is great news, all we have to do is wait for rescue."
+TID_MISSION_4_34,Seek and destroy
+TID_MISSION_4_34_TASK_0,Empty bunkers

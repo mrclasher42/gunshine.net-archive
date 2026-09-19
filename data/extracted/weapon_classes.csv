@@ -1,0 +1,191 @@
+Name,ParentClass,ShowInQuickShop,Speed,DamageScaleMin,DamageScaleMax,ItemLevelModifier,Range,ArmorClassBonus,PushBack,LootScale,DefaultModel,DefaultMesh,DefaultModelTexture,PoorModelTexture,UncommonModelTexture,RareModel,RareMesh,RareModelTexture,EpicModel,EpicMesh,EpicModelTexture,SkillAnimation_AutoAttack,SkillAnimation_AimedShot,SkillAnimation_BoastShooting,SkillAnimation_LegShot,SkillAnimation_TraumaShot,SkillAnimation_Slammer,WalkAnimation,RunAnimation,IdleReadyAnimation,AttachmentBone,Sound,ShootDuration,ShootCount,SwingSound,Muzzle,MuzzleGlow,BulletTrail,BulletFlash,MeleeTrail,EpicMeleeWeaponConstantTrail,Icon
+Melee Weapon,,,,,,240,20,,,100,,,,,,,,,,,,AutoAttackHits,,,,,Slammer,Walk 1-handed weapon,Run 1-handed weapon,Idle,katana,FistHit,,,MeleeFist,,,,,,Trail,
+Ranged Weapon,,,,,,220,,,,100,,,,,,,,,,,,AutoAttackRifle,,,,,,WalkRifle,RunRifle,IdleRifleReady,rifle,,,,,Muzzle,Glow,,Tracer,,,
+Basic Weapon: Melee,Melee Weapon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medic Tool - Melee,Melee Weapon,,,,,,,,,,graphics/3d/weapons/weapons.SUP,healing_gun,graphics/3d/weapons/textures/healing_gun.png,,,,,,,,,AutoAttackPistol,ShootPistol3,ShootPistol2,ShootPistol1,ShootPistol3,,Walk 1-handed weapon,Run 1-handed weapon,IdlePistolReady,pistol,Pistol,,,,Muzzle,Glow,,Tracer,,,46
+Unarmed,Melee Weapon,,700,6,10,,,,,,,,,,,,,,,,,AutoAttackUnarmed,,,,,,Walk 1-handed weapon,Run 1-handed weapon,Idle,,,,,,,,,,,,
+Blade,Basic Weapon: Melee,,600,7,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Basher,Basic Weapon: Melee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Long Blade,Blade,,600,7,10,,,,,,,,,,,,,,,,,AutoAttackSpear,SpearC,SpearB,SpearA,SpearC,,WalkSpear,RunSpear,IdleSpearReady,spear,SwordHit,,,MeleeSharpSwing,,,,,,,
+Short Blade,Blade,,520,6,10,,,,,,,,,,,,,,,,,,,,,,,,,,,SwordHit,,,MeleeSharpSwing,,,,,,,
+1-handed Basher,Basher,,575,6,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2-handed Basher,Basher,,680,8,10,,,,,,,,,,,,,,,,,AutoAttackSpear,SpearC,SpearB,SpearA,SpearC,,WalkSpear,RunSpear,IdleSpearReady,spear,SwordHit,,,MeleeSharpSwing,,,,,,,96
+Knife,Short Blade,,,,,,,Unarmored,,,graphics/3d/weapons/weapons.SUP,blades_knife,graphics/3d/weapons/textures/knife.png,,,graphics/3d/weapons/weapons_rare.SUP,rhino_sword,graphics/3d/weapons/textures/rhino_sword_rare_01.png,graphics/3d/weapons/weapons_rare.SUP,rhino_sword,graphics/3d/weapons/textures/rhino_sword_rare_01.png,,,,,,,,,,,,,,,,,,,,,86
+,,,,,,,,,,,graphics/3d/weapons/weapons.SUP,big_knife,graphics/3d/weapons/textures/big_knife.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jungle Knife,Short Blade,,,,,,,Unarmored,,,graphics/3d/weapons/weapons.SUP,blades_jungleKnife,graphics/3d/weapons/textures/jungle_knife.png,,,graphics/3d/weapons/weapons.SUP,blades_jungleKnife02,graphics/3d/weapons/textures/badass_jungleknife_02.png,,,,,,,,,,,,,,,,,,,,,,,,6
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/badass_jungleknife_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/badass_jungleknife_04.png,,,,,,,,,,,,,,,,,,,,,,,,
+Cleaver,Short Blade,,,,,,,Armored,,,graphics/3d/weapons/weapons.SUP,blades_Cleaver,graphics/3d/weapons/textures/cleaver.png,,,graphics/3d/weapons/weapons_rare.SUP,carbon_cleaver,graphics/3d/weapons/textures/carbon_cleaver_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,106
+Power Cutter,Short Blade,,,,,,,Mechanical,,150,graphics/3d/weapons/weapons.SUP,Power Cutter,graphics/3d/weapons/textures/powercutter.png,,,,,,,,,,,,,,,,,,,Chainsaw,,,MeleeSwing,,,,,,,162
+Jigsaw,Short Blade,,,,,,,Mechanical,,100,graphics/3d/weapons/weapons.SUP,Jigsaw,graphics/3d/weapons/textures/jigsaw.png,,,graphics/3d/weapons/weapons_rare.SUP,laser_sword,graphics/3d/weapons/textures/laser_sword_rare_01.png,,,,,,,,,,,,,,Chainsaw,,,MeleeSwing,,,,,,,162
+Labytech Knife,Short Blade,,,,,,,Armored,,,,,,,,,,,graphics/3d/weapons/weapons.SUP,scythe_dagger,graphics/3d/weapons/textures/scythe_dagger.png,,,,,,,,,,,,,,,,,,,,,
+Knife Fork,Short Blade,,,,,,,Unarmored,,,graphics/3d/weapons/weapons.SUP,knife_fork,graphics/3d/weapons/textures/knife_fork.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Paperbag Bottle,Short Blade,,,,,,,Unarmored,,,graphics/3d/props/bottle.SUP,bottle_paperbag,graphics/3d/props/textures/bottle_in_paperbag.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Axe,Long Blade,,,,,,,Armored,,120,,,,,,graphics/3d/weapons/weapons.SUP,combat_axe,graphics/3d/weapons/textures/combat_axe.png,,,,,,,,,,Walk 1-handed weapon,Run 1-handed weapon,Idle,katana,Axe,,,MeleeSwing,,,,,,,186
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/combat_axe_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/combat_axe_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Saw,Long Blade,,,,,,,Unarmored,,150,graphics/3d/weapons/weapons.SUP,rusty_saw,graphics/3d/weapons/textures/rusty_saw.png,,,,,,,,,,,,,,,,,,,Bat,,,MeleeSwing,,,,,,,160
+Reciprocating Saw,Long Blade,,,,,,,Mechanical,,120,graphics/3d/weapons/weapons.SUP,Reciprocating Saw,graphics/3d/weapons/textures/reciprocating_saw.png,,,graphics/3d/weapons/weapons.SUP,tools_chainsawsword,graphics/3d/weapons/textures/chainsaw_sword.png,,,,,,,,,,,,,,Chainsaw,,,,,,,,,,173
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/chainsaw_sword_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/chainsaw_sword_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Circular Saw,Long Blade,,,,,,,Armored,,,graphics/3d/weapons/weapons.SUP,circularsaw,graphics/3d/weapons/textures/circularsaw.png,,,,,,,,,,,,,,,,,,,Chainsaw,,,,,,,,,,165
+Sword,Blade,,600,7,10,,,Unarmored,,120,graphics/3d/weapons/weapons.SUP,blades_katana,graphics/3d/weapons/textures/katana.png,,,graphics/3d/weapons/weapons.SUP,extended_cleaver,graphics/3d/weapons/textures/extended_cleaver.png,,,,,,,,,,Walk 1-handed weapon,Run 1-handed weapon,Idle,katana,SwordHit,,,MeleeSharpSwing,,,,,,,96
+,,,,,,,,,,,graphics/3d/weapons/weapons.SUP,katana_spiked,graphics/3d/weapons/textures/katana_spiked.png,,,,,graphics/3d/weapons/textures/extended_cleaver_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/extended_cleaver_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Chainsaw,Long Blade,,,,,,,Mechanical,,120,graphics/3d/weapons/weapons.SUP,tools_chainsaw,graphics/3d/weapons/textures/chainsaw_diffuse.png,,,graphics/3d/weapons/weapons.SUP,tools_chainsaw,graphics/3d/weapons/textures/chainsaw_diffuse_02.png,graphics/3d/weapons/weapons.SUP,tools_chainsaw,graphics/3d/weapons/textures/chainsaw_diffuse_02.png,AutoAttackChainSaw,,,,,,WalkMinigun,RunMinigun,IdleMinigunReady,minigun,Chainsaw,,,,,,,,,,71
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/chainsaw_diffuse_03.png,,,graphics/3d/weapons/textures/chainsaw_diffuse_03.png,,,,,,,,,,,,,,,,,,,,,
+Hi-Tech Scythe,Long Blade,,,,,,,Armored,,100,,,,,,,,,graphics/3d/weapons/weapons.SUP,two_handed_scythe,graphics/3d/weapons/textures/two_handed_scythe.png,,,,,,,,,,,,,,,,,,,,,196
+,,,,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/two_handed_scythe_02.png,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/two_handed_scythe_03.png,,,,,,,,,,,,,,,,,,,,,
+Scimitar,Long Blade,,,,,,,Unarmored,,,,,,,,graphics/3d/weapons/weapons.SUP,scimitar,graphics/3d/weapons/textures/scimitar.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/scimitar_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/scimitar_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Bat,1-handed Basher,,,,,,,Unarmored,,130,graphics/3d/weapons/weapons.SUP,tools_bat,graphics/3d/weapons/textures/bat.png,,,graphics/3d/weapons/weapons_rare.SUP,edge_club,graphics/3d/weapons/textures/edge_club_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,16
+Club,1-handed Basher,,,,,,,Unarmored,,130,graphics/3d/weapons/weapons.SUP,golf_club,graphics/3d/weapons/textures/golfclub.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121
+Pipe,1-handed Basher,,,,,,,Unarmored,,150,graphics/3d/weapons/weapons.SUP,regularpipe,graphics/3d/weapons/textures/regularpipe.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142
+Plank,1-handed Basher,,,,,,,Armored,,150,graphics/3d/weapons/weapons.SUP,Plank,graphics/3d/weapons/textures/plank.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16
+Flat Iron,1-handed Basher,,,,,,,Armored,,150,graphics/3d/weapons/weapons.SUP,flat_iron,graphics/3d/weapons/textures/flat_iron.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132
+Golf Club,1-handed Basher,,,,,,,Unarmored,,150,graphics/3d/weapons/weapons.SUP,golf_club,graphics/3d/weapons/textures/golfclub.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121
+Shovel,1-handed Basher,,,,,,,Armored,,150,graphics/3d/weapons/weapons.SUP,tools_shovel,graphics/3d/weapons/textures/shovel.png,,,graphics/3d/weapons/weapons.SUP,tool_supershovel,graphics/3d/weapons/textures/supershovel.png,,,,,,,,,,,,,,,,,,,,,,,,137
+Wrench,1-handed Basher,,,,,,,Mechanical,,150,graphics/3d/weapons/weapons.SUP,tools_wrench,graphics/3d/weapons/textures/wrench.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26
+Monkey Wrench,1-handed Basher,,,,,,,Mechanical,,150,graphics/3d/weapons/weapons.SUP,monkey_wrench,graphics/3d/weapons/textures/monkeywrench.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26
+Crowbar,1-handed Basher,,,,,,,Mechanical,,150,graphics/3d/weapons/weapons.SUP,crowbar,graphics/3d/weapons/textures/crowbar.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,146
+Beer Bottle,1-handed Basher,,,,,,,Unarmored,,150,graphics/3d/props/bottle.SUP,beer_bottle,graphics/3d/props/textures/beer_bottle.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16
+Police Baton,1-handed Basher,,,,,,,Unarmored,,130,graphics/3d/weapons/weapons.SUP,tools_bat,graphics/3d/weapons/textures/bat_02.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16
+MeleeBazooka,2-handed Basher,,1000,10,12,,20,Armored,,130,graphics/3d/weapons/weapons.SUP,launcher,graphics/3d/weapons/textures/launcher.png,,,,,,,,,AutoAttackHits,AutoAttackHits,AutoAttackHits,AutoAttackHits,AutoAttackHits,,Walk,Run,Idle,launcher,MissileLaunch,,,,Muzzle,Glow,,Tracer,,,71
+Hockey Stick,2-handed Basher,,,,,,,Unarmored,,130,graphics/3d/weapons/weapons.SUP,hockey_stick,graphics/3d/weapons/textures/hockeystick.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21
+Pole,2-handed Basher,false,,,,,,,,100,graphics/3d/weapons/dancepole.SUP,dancepole,graphics/3d/weapons/textures/launcher.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21
+Whip,2-handed Basher,false,,,,,,,,,graphics/3d/weapons/weapons_whip.SUP,whip,graphics/3d/weapons/textures/launcher.png,,,,,,,,,AutoAttackUnarmed,AutoAttackUnarmed,AutoAttackUnarmed,AutoAttackUnarmed,AutoAttackUnarmed,,Walk,Run,Idle,katana,,,,,,,,,,,21
+Voodoo Club,2-handed Basher,,,,,,,Unarmored,,,,,,,,graphics/3d/weapons/weapons.SUP,skull_club,graphics/3d/weapons/textures/skull_club.png,,,,,,,,,,,,,,,,,,,,,,,,181
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/skull_club_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/skull_club_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Hydraulic Hammer,2-handed Basher,,,,,,,Mechanical,,,,,,,,graphics/3d/weapons/weapons.SUP,pneumatic_hammer,graphics/3d/weapons/textures/pneumatic_hammer.png,,,,,,,,,,,,,,HugeElectricHammerImpact,,,HugeElectricHammerSwing,,,,,,,191
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/pneumatic_hammer_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/pneumatic_hammer_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Mega Hammer,2-handed Basher,,,,,,,Mechanical,,,,,,,,graphics/3d/weapons/weapons.SUP,pneumatic_hammer,graphics/3d/weapons/textures/pneumatic_hammer.png,,,,,,,,,,,,,,,,,,,,,,,,191
+Tech Sword,2-handed Basher,,,,,,,Armored,,,,,,,,,,,graphics/3d/weapons/weapons.SUP,scythe_dagger,graphics/3d/weapons/textures/scythe_dagger.png,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/scythe_dagger_02.png,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/scythe_dagger_03.png,,,,,,,,,,,,,,,,,,,,,
+Sledge Hammer,2-handed Basher,,,,,,,Mechanical,,130,,,,,,,,,,,,AutoAttackSpear,SpearC,SpearB,SpearA,SpearC,,WalkSpear,RunSpear,IdleSpearReady,spear,SwordHit,,,MeleeSharpSwing,,,,,,,191
+Basic Weapon: Ranged,Ranged Weapon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medic Tool - Ranged,Ranged Weapon,,,,,,100,,,,graphics/3d/weapons/weapons.SUP,healing_gun,graphics/3d/weapons/textures/healing_gun.png,,,,,,,,,AutoAttackPistol,ShootPistol3,ShootPistol2,ShootPistol1,ShootPistol3,,Walk 1-handed weapon,Run 1-handed weapon,IdlePistolReady,pistol,Pistol,,,,Muzzle,Glow,,Tracer,,,46
+Hand Gun,Basic Weapon: Ranged,,,,,215,120,,,,,,,,,,,,,,,AutoAttackPistol,ShootPistol3,ShootPistol2,ShootPistol1,ShootPistol3,,Walk 1-handed weapon,Run 1-handed weapon,IdlePistolReady,pistol,Pistol,,,,Muzzle,Glow,,Tracer,,,46
+Shotgun,Basic Weapon: Ranged,,,,,,80,,,,,,,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,,ShotgunPump,,3,,Muzzle,Glow,,Tracer,,,56
+Machine Gun,Basic Weapon: Ranged,,,,,,100,,,,,,,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,,SMG,200,3,,Muzzle,Glow,,Tracer,,,31
+Rifle,Basic Weapon: Ranged,,900,8,10,,100,,,,,,,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,,,,,,,,,,,,
+Sniper Rifle,Basic Weapon: Ranged,,1200,8,11,,155,,,120,,,,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,,Pistol,,,,Muzzle,Glow,,Tracer,,,116
+Plasma Gun,Basic Weapon: Ranged,,800,9,11,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pistol,Hand Gun,,350,6,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61
+.32 Pistol,Pistol,,,,,,,Unarmored,,150,graphics/3d/weapons/weapons.SUP,Browning high power,graphics/3d/weapons/textures/browning_hp.png,,,graphics/3d/weapons/weapons_rare.SUP,browning_high_power_rare,graphics/3d/weapons/textures/browning_high_power_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,61
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/browning_high_power_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/browning_high_power_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+9mm Pistol,Pistol,,,,,,,Unarmored,,200,graphics/3d/weapons/weapons.SUP,Colt autoload,graphics/3d/weapons/textures/beretta9mm.png,,,graphics/3d/weapons/weapons_rare.SUP,colt_autoload_rare,graphics/3d/weapons/textures/colt_autoload_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,111
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/colt_autoload_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/colt_autoload_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+.40 Pistol,Pistol,,,,,,,Armored,,150,graphics/3d/weapons/weapons.SUP,.40cal,graphics/3d/weapons/textures/040cal_diffuse.png,,,graphics/3d/weapons/weapons_rare.SUP,.40 cal_rare,graphics/3d/weapons/textures/40cal_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,61
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/40cal_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/40cal_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Sleek pistol,Pistol,,,,,,,Mechanical,,150,graphics/3d/weapons/weapons2.SUP,Sleek_pistol,graphics/3d/weapons/textures/sleek_pistol_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Labytech Pistol,Pistol,,,,,,,Mechanical,,,,,,,,graphics/3d/weapons/weapons.SUP,auto_pistol,graphics/3d/weapons/textures/auto_pistol.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/auto_pistol_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/auto_pistol_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Wasteland Pistol,Pistol,,,,,,,Armored,,150,,,,,,graphics/3d/weapons/weapons.SUP,eagle,graphics/3d/weapons/textures/eagle.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/eagle_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/eagle_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Silenced pistol,Pistol,,,,,,,Unarmored,,,graphics/3d/weapons/weapons2.SUP,Silenced_pistol,graphics/3d/weapons/textures/silenced_pistol_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Revolver,Hand Gun,,500,7,9,,,Armored,,200,graphics/3d/weapons/weapons.SUP,.32 cal,graphics/3d/weapons/textures/032cal_diffuse.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46
+Six-shooter,Revolver,,,,,,,Armored,,150,graphics/3d/weapons/weapons.SUP,magnum,graphics/3d/weapons/textures/044cal_diffuse.png,,graphics/3d/weapons/textures/magnum_rare_01.png,graphics/3d/weapons/weapons_rare.SUP,magnum_rare,graphics/3d/weapons/textures/magnum_rare_01.png,,,,AutoAttackPistol,ShootPistol3,ShootPistol2,ShootPistol1,ShootPistol3,,Walk 1-handed weapon,Run 1-handed weapon,IdlePistolReady,,,,,,,,,,,,81
+,,,,,,,,,,,,,,,graphics/3d/weapons/textures/magnum_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,graphics/3d/weapons/textures/magnum_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pump Shotgun,Shotgun,,750,6,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56
+12ga Shotgun,Pump Shotgun,,,,,,,Unarmored,,,graphics/3d/weapons/weapons.SUP,shotgun_singleBarreled,graphics/3d/weapons/textures/single_barreled.png,,,graphics/3d/weapons/weapons_rare.SUP,shotgun_singlebarreled_rare,graphics/3d/weapons/textures/shotgun_singlebarreled_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/shotgun_singlebarreled_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/shotgun_singlebarreled_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+20ga Shotgun,Pump Shotgun,,,,,,,Armored,,,graphics/3d/weapons/weapons.SUP,shotgun_10gauge,graphics/3d/weapons/textures/10gauge.png,,,graphics/3d/weapons/weapons_rare.SUP,shotgun_10gauge_rare,graphics/3d/weapons/textures/shotgun_10gauge_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/shotgun_10gauge_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/shotgun_10gauge_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Mafioso,Pump Shotgun,,,,,,,Unarmored,,,graphics/3d/weapons/weapons.SUP,shotgun_sawnoff,graphics/3d/weapons/textures/sawnoff.png,,,graphics/3d/weapons/weapons_rare.SUP,shotgun_sawnoff_rare,graphics/3d/weapons/textures/shotgun_sawnoff_rare_01.png,graphics/3d/weapons/weapons_rare.SUP,shotgun_sawnoff_rare,graphics/3d/weapons/textures/shotgun_sawnoff_rare_01.png,AutoAttackRifle,Shoot_A,Shoot_A,Shoot_A,Shoot_A,,Walk,Run,Idle,,,,,,,,,,,,36
+Autoloading Shotgun,Shotgun,,670,6,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12ga Double Barrel,Autoloading Shotgun,,,,,,,Unarmored,,,graphics/3d/weapons/weapons.SUP,shotgun_doubleBarreled,graphics/3d/weapons/textures/double_barreled.png,,,graphics/3d/weapons/weapons_rare.SUP,shotgun_doublebarreled_rare,graphics/3d/weapons/textures/shotgun_doublebarreled_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/shotgun_doublebarreled_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/shotgun_doublebarreled_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+12ga Sawed-off,Autoloading Shotgun,,,,,,,Armored,,,graphics/3d/weapons/weapons.SUP,shotgun_sawnoff,graphics/3d/weapons/textures/sawnoff.png,,,graphics/3d/weapons/weapons_rare.SUP,shotgun_sawnoff_rare,graphics/3d/weapons/textures/shotgun_sawnoff_rare_01.png,graphics/3d/weapons/weapons_rare.SUP,shotgun_sawnoff_rare,graphics/3d/weapons/textures/shotgun_sawnoff_rare_01.png,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/shotgun_sawnoff_rare_02.png,,,graphics/3d/weapons/textures/shotgun_sawnoff_rare_02.png,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/shotgun_sawnoff_rare_03.png,,,graphics/3d/weapons/textures/shotgun_sawnoff_rare_03.png,,,,,,,,,,,,,,,,,,,,,
+SWAT Shotgun,Autoloading Shotgun,,,,,,,Mechanical,,,,,,,,graphics/3d/weapons/weapons.SUP,ops_shotgun,graphics/3d/weapons/textures/ops_shotgun.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/ops_shotgun_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/ops_shotgun_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Homemade shotgun 01,Pump Shotgun,,,,,,,Unarmored,,,graphics/3d/weapons/weapons2.SUP,Homemade_shotgun_01,graphics/3d/weapons/textures/homemade_shotgun_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Homemade shotgun 02,Pump Shotgun,,,,,,,Armored,,,graphics/3d/weapons/weapons2.SUP,Homemade_shotgun_02,graphics/3d/weapons/textures/homemade_shotgun.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SMG,Machine Gun,,700,6,10,,,Armored,,,graphics/3d/weapons/weapons.SUP,mg_smg,graphics/3d/weapons/textures/smg.png,,,graphics/3d/weapons/weapons_rare.SUP,smg_rare,graphics/3d/weapons/textures/smg_rare_01.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/smg_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/smg_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+SMG Unarmored,SMG,,,,,,,Unarmored,,150,graphics/3d/weapons/weapons.SUP,mg_smg,graphics/3d/weapons/textures/smg.png,,,graphics/3d/weapons/weapons_rare.SUP,smg_rare,graphics/3d/weapons/textures/smg_rare_01.png,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,,SMG,200,3,,Muzzle,Glow,,Tracer,,,31
+Minigun,Machine Gun,,1000,7,11,,,,,,graphics/3d/weapons/weapons.SUP,mg_minigun,graphics/3d/weapons/textures/minigun.png,,,graphics/3d/weapons/weapons.SUP,mg_minigun06,graphics/3d/weapons/textures/minigun6_02.png,,,,AutoAttackMiniGun,ShootMinigun,ShootMinigun,ShootMinigun,ShootMinigun,,WalkMinigun,RunMinigun,IdleMinigunReady,minigun,Minigun,350,3,,Muzzle,Glow,,Tracer,,,126
+,,,,,,,,,,,graphics/3d/weapons/weapons.SUP,mg_minigun02,graphics/3d/weapons/textures/minigun2.png,,,graphics/3d/weapons/weapons.SUP,mg_minigun05,graphics/3d/weapons/textures/minigun5_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,graphics/3d/weapons/weapons.SUP,mg_minigun03,graphics/3d/weapons/textures/minigun3.png,,,graphics/3d/weapons/weapons.SUP,mg_minigun04,graphics/3d/weapons/textures/minigun4_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+Heavy Weapons,Minigun,,,,,,,Mechanical,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muzzle,Glow,,Tracer,,,
+Gatling,Minigun,TRUE,,,,,,Armored,,130,graphics/3d/weapons/weapons.SUP,mg_minigun,graphics/3d/weapons/textures/minigun.png,,,graphics/3d/weapons/weapons.SUP,mg_minigun06,graphics/3d/weapons/textures/minigun6_02.png,,,,AutoAttackMiniGun,ShootMinigun,ShootMinigun,ShootMinigun,ShootMinigun,,WalkMinigun,RunMinigun,IdleMinigunReady,minigun,Minigun,350,3,,Muzzle,Glow,,Tracer,,,126
+50 cal Minigun,Minigun,,,,,,,Mechanical,,,graphics/3d/weapons/weapons2.SUP,50_cal_Minigun,graphics/3d/weapons/textures/50_cal_Minigun.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Homemade cannon,Minigun,,,,,,,Armored,,,graphics/3d/weapons/weapons2.SUP,Homemade_cannon,graphics/3d/weapons/textures/homemade_cannon_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Turrent Minigun,Minigun,,,,,,,Unarmored,,,graphics/3d/weapons/turret_weapon.SUP,turret_gun,graphics/3d/character/labycorp_textures/turret_gun_texture.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Weldingbot Minigun,Minigun,,,,,,,Unarmored,,,graphics/3d/weapons/weldingbot_weapon.SUP,weldingbot_gun,graphics/3d/character/labycorp_textures/turret_gun_texture.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Warehousebot Minigun,Minigun,,,,,,,Unarmored,,,graphics/3d/weapons/special_weapons.SUP,warehousebot_gun,graphics/3d/weapons/textures/warehousebot_gun.png,,,,,,,,,,,,,,,,,,,HugeElectricHammerImpact,,,,,,,,,,
+Battle Rifle,Rifle,,,,,,,Armored,,,graphics/3d/weapons/weapons.SUP,mg_battleRifle,graphics/3d/weapons/textures/battle_rifle.png,,,graphics/3d/weapons/weapons_rare.SUP,mg_battle_rifle_rare,graphics/3d/weapons/textures/mg_battle_rifle_rare_01.png,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,,BattleRifle,,,,,,,,,,66
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/mg_battle_rifle_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/mg_battle_rifle_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Assault Rifle,Rifle,,,,,,,Unarmored,,,graphics/3d/weapons/weapons.SUP,mg_assaultRifle,graphics/3d/weapons/textures/assault_rifle.png,,,graphics/3d/weapons/weapons.SUP,labycore_g_gun,graphics/3d/weapons/textures/labycore_g_gun.png,graphics/3d/weapons/weapons_rare.SUP,mg_assault_rifle_rare,graphics/3d/weapons/textures/mg_assault_rifle_rare_01.png,,,,,,,,,,,AssaultRifle,,,,,,,,,,
+,,,,,,,,,,,,,,,,graphics/3d/weapons/weapons_rare.SUP,mg_assault_rifle_rare,graphics/3d/weapons/textures/mg_assault_rifle_rare_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,graphics/3d/weapons/weapons_rare.SUP,mg_assault_rifle_rare,graphics/3d/weapons/textures/mg_assault_rifle_rare_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Assault rifle 2,Rifle,,,,,,,Unarmored,,,graphics/3d/weapons/weapons2.SUP,Assault_rifle,graphics/3d/weapons/textures/assault_rifle_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+.308 Bolt-Action,Sniper Rifle,,,,,,,Mechanical,,,graphics/3d/weapons/weapons.SUP,Sniper_03,graphics/3d/weapons/textures/sniper_03.png,,,graphics/3d/weapons/weapons_rare.SUP,sniper_03_rare,graphics/3d/weapons/textures/sniper_rare_03_01.png,,,,,,,,,,,,,,,,,,,,,,,,116
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/sniper_rare_03_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/sniper_rare_03_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+7.62mm Bolt-Action,Sniper Rifle,,,,,,,Unarmored,,,graphics/3d/weapons/weapons.SUP,Sniper_04,graphics/3d/weapons/textures/sniper_04.png,,,graphics/3d/weapons/weapons_rare.SUP,sniper_04_rare,graphics/3d/weapons/textures/sniper_rare_04_01.png,graphics/3d/weapons/weapons.SUP,double_clip_sniper,graphics/3d/weapons/textures/double_clip_sniper.png,,,,,,,,,,,,,,,,,,,,,101
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/sniper_rare_04_02.png,,,graphics/3d/weapons/textures/double_clip_sniper_02.png,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/sniper_rare_04_03.png,,,graphics/3d/weapons/textures/double_clip_sniper_03.png,,,,,,,,,,,,,,,,,,,,,
+7.62mm Recoil-based,Sniper Rifle,,,,,,,Armored,,,graphics/3d/weapons/weapons.SUP,Sniper_01,graphics/3d/weapons/textures/sniper_01.png,,,graphics/3d/weapons/weapons_rare.SUP,sniper_01_rare,graphics/3d/weapons/textures/sniper_rare_01_01.png,,,,,,,,,,,,,,,,,,,,,,,,51
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/sniper_rare_01_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/sniper_rare_01_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+7.62mm Gas-Operated,Sniper Rifle,,,,,,,Mechanical,,,graphics/3d/weapons/weapons.SUP,Sniper_02,graphics/3d/weapons/textures/sniper_02.png,,,graphics/3d/weapons/weapons_rare.SUP,sniper_02_rare,graphics/3d/weapons/textures/sniper_rare_02_01.png,,,,,,,,,,,,,,,,,,,,,,,,41
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/sniper_rare_02_02.png,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/sniper_rare_02_03.png,,,,,,,,,,,,,,,,,,,,,,,,
+Next-Gen Sniper,Sniper Rifle,,,,,,,Mechanical,,,,,,,,,,,graphics/3d/weapons/weapons.SUP,double_clip_sniper,graphics/3d/weapons/textures/double_clip_sniper.png,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/double_clip_sniper_02.png,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,graphics/3d/weapons/textures/double_clip_sniper_03.png,,,,,,,,,,,,,,,,,,,,,
+Sniper Rifle 2,Sniper Rifle,,,,,,,Mechanical,,,graphics/3d/weapons/weapons2.SUP,Sniper_rifle,graphics/3d/weapons/textures/dniper_rifle_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bot Sniper,Sniper Rifle,,,,,,,Unarmored,,,,,,,,,,,graphics/3d/weapons/weapons.SUP,double_clip_sniper,graphics/3d/weapons/textures/double_clip_sniper.png,,,,,,,,,,,,,,,,,,,,,
+Industrial assault rifle,Sniper Rifle,,,,,,,Armored,,,graphics/3d/weapons/weapons2.SUP,Industrial_assault_rifle,graphics/3d/weapons/textures/industrial_assault_rifle_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plasma Rifle,Plasma Gun,,,,,,,Mechanical,,,graphics/3d/weapons/weapons.SUP,mg_assaultRifle,graphics/3d/weapons/textures/assault_rifle.png,,,graphics/3d/weapons/weapons.SUP,labycore_g_gun,graphics/3d/weapons/textures/labycore_g_gun.png,graphics/3d/weapons/weapons_rare.SUP,mg_assault_rifle_rare,graphics/3d/weapons/textures/mg_assault_rifle_rare_01.png,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,,AssaultRifle,,,,,,,,,,76
+Sonicgun,Plasma Gun,,,,,,,Unarmored,,130,graphics/3d/weapons/weapons.SUP,sonic_gun,graphics/3d/weapons/textures/sonic_gun_texture.png,,,,,,,,,AutoAttackSonicGun,Shoot_SonicGun_A,Shoot_SonicGun_B,Shoot_SonicGun_A,Shoot_SonicGun_B,,WalkSonicGun,RunMinigun,IdleSonicGun,minigun,Minigun,500,,,sonic_burst_muzzle,,SonicAuto,Tracer_sonic,,,76
+SonicGun_pc,Plasma Gun,,,,,,,Unarmored,,130,graphics/3d/weapons/weapons.SUP,sonic_gun,graphics/3d/weapons/textures/sonic_gun_texture.png,,,,,,,,,Shoot_SonicGun,Shoot_SonicGun,Shoot_SonicGun,Shoot_SonicGun,Shoot_SonicGun,,WalkMinigun,RunMinigun,IdleMinigunReady,minigun,SonicGun,300,,,sonic_burst_muzzle,,SonicAuto,Tracer_sonic,,,76
+Old industrial plasma gun,Plasma Gun,,,,,,,Mechanical,,,graphics/3d/weapons/weapons2.SUP,Old_industrial_plasma_gun,graphics/3d/weapons/textures/old_industrial_plasma_gun_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Old plasma gun,Plasma Gun,,,,,,,Armored,,,graphics/3d/weapons/weapons2.SUP,Old_plasma_gun,graphics/3d/weapons/textures/old_plasma_gun_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plasma,Plasma Gun,TRUE,,,,,,Armored,,,,,,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,,PlasmaRifle,,1,,Muzzle_plasma,Glow,,Trail_plasma,,,56
+SonicGun_npc,Plasma Gun,,,,,,,Unarmored,,130,graphics/3d/weapons/weapons.SUP,sonic_gun,graphics/3d/weapons/textures/sonic_gun_texture.png,,,,,,,,,ShootMinigun,ShootMinigun,ShootMinigun,ShootMinigun,ShootMinigun,,WalkMinigun,RunMinigun,IdleMinigunReady,minigun,SonicGun,300,,,sonic_burst_muzzle,,SonicAuto,Tracer_sonic,,,76
+Flame Thrower,Ranged Weapon,,1000,10,12,,80,,,150,graphics/3d/weapons/weapons.SUP,flamethrower_1,graphics/3d/weapons/textures/flamethrower_1.png,,,,,,,,,FlameThrower,FlameThrower,FlameThrower,FlameThrower,FlameThrower,,WalkRifle,RunRifle,IdleRifleReady,rifle,BarrelOnFire,,,,muzzle_heal,QuickShot,,,,,71
+Bazooka,Ranged Weapon,,1000,10,12,,80,,,130,graphics/3d/weapons/weapons.SUP,launcher,graphics/3d/weapons/textures/launcher.png,,,,,,,,,AutoAttackHits,AutoAttackHits,AutoAttackHits,AutoAttackHits,AutoAttackHits,,Walk,Run,Idle,launcher,MissileLaunch,,,,Muzzle,Glow,,,,,71
+Rocket launcher,Bazooka,,,,,,,,,,graphics/3d/weapons/weapons2.SUP,Rocket_launcher,graphics/3d/weapons/textures/rocket_launcher_01.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Antitank launcher,Bazooka,,,,,,,,,,graphics/3d/weapons/weapons2.SUP,Antitank_launcher,graphics/3d/weapons/textures/antitank_launcher_02.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Generic launcher,Bazooka,,,,,,,,,,graphics/3d/weapons/weapons2.SUP,Generic_launcher,graphics/3d/weapons/textures/generic_launcher_03.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Handcannon,Bazooka,,,,,,,,,,graphics/3d/weapons/weapons2.SUP,Handcannon,graphics/3d/weapons/textures/handcannon.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Key,Melee Weapon,TRUE,500,1,2,,,,,120,graphics/3d/weapons/weapons.SUP,blades_katana,graphics/3d/weapons/textures/katana.png,,,graphics/3d/weapons/weapons.SUP,extended_cleaver,graphics/3d/weapons/textures/extended_cleaver.png,,,,,,,,,,,,,,Bat,,,MeleeSwing,,,,,,,204
+Unarmed_Burn,Unarmed,,700,6,10,,,,,,graphics/3d/weapons/weapons.SUP,flat_iron,graphics/3d/weapons/textures/katana.png,,,,,,,,,AutoAttackUnarmed,,,,,,Walk 1-handed weapon,Die_RunBurning,Idle,,,,,,,,,,,,26
+Ant,Unarmed,,700,6,10,,,,,,,,,,,,,,,,,AutoAttackUnarmed,,,,,,Walk 1-handed weapon,Run 1-handed weapon,Idle,,SwordHit,,,VoGiantAntAttack,,,,,,,
+Dog,Unarmed,,700,6,10,,,,,,,,,,,,,,,,,AutoAttackUnarmed,,,,,,Walk 1-handed weapon,Run 1-handed weapon,Idle,,SwordHit,,,VoDogAttack,,,,,,,
+Lizard,Unarmed,,700,6,10,,,,,,,,,,,,,,,,,AutoAttackUnarmed,,,,,,Walk 1-handed weapon,Run 1-handed weapon,Idle,,SwordHit,,,VoLizardAttack,,,,,,,
+AntQueen,Unarmed,,700,6,10,,,,,,,,,,,,,,,,,AutoAttackUnarmed,,,,,,Walk 1-handed weapon,Run 1-handed weapon,Idle,,SwordHit,,,VoQueenAntAttack,,,,,,,
+Pig Dynamite,Unarmed,,,,,,,,,150,graphics/3d/weapons/pig_dynamite.SUP,dynamite,graphics/3d/character/animals/pig_texture.png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Weapon,Ranged Weapon,,,,,220,,,,100,,,,,,,,,,,,AutoAttackPistol,,,,,,WalkRifle,RunRifle,IdleRifleReady,rifle,,,,,Muzzle,Glow,,Tracer,,,
+Special Weapon: Insta-Healer,Ranged Weapon,false,400,6,10,190,120,Unarmored,,150,graphics/3d/weapons/weapons.SUP,healing_gun,graphics/3d/weapons/textures/healing_gun.png,,,,,,,,,AutoAttackPistol,ShootPistol3,ShootPistol2,ShootPistol1,ShootPistol3,,Walk 1-handed weapon,Run 1-handed weapon,IdlePistolReady,pistol,Pistol,,,,Muzzle,Glow,,Tracer,,,46
+Laser,Pistol,,,,,,,Armored,,,,,,,,,,,,,,,,,,,,,,,,LaserGun,,3,,Muzzle_laser,Glow,Laser,Trail_laser,,,
+Special Weapon: Prolonger,Ranged Weapon,false,400,3,5,190,145,Unarmored,,150,graphics/3d/weapons/weapons.SUP,healing_gun,graphics/3d/weapons/textures/healing_gun.png,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,rifle,AssaultRifle,,,,Muzzle,Glow,,Tracer,,,46
+Healing Gun,Medical Weapon,false,400,3,5,190,120,Unarmored,,150,graphics/3d/weapons/weapons.SUP,healing_gun,graphics/3d/weapons/textures/healing_gun.png,,,,,,,,,AutoAttackPistol,ShootPistol3,ShootPistol2,ShootPistol1,ShootPistol3,,Walk 1-handed weapon,Run 1-handed weapon,IdlePistolReady,pistol,Pistol,,,,Muzzle,Glow,,Tracer,,,46
+Special Weapon: Area-Healer,Ranged Weapon,,350,5,7,190,130,Unarmored,,150,graphics/3d/weapons/weapons.SUP,healing_gun,graphics/3d/weapons/textures/healing_gun.png,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,rifle,AssaultRifle,,,,Muzzle,Glow,,Tracer,,,
+Special Weapon: Wasp,Ranged Weapon,,350,6,8,190,110,Unarmored,,150,,,,,,,,,,,,AutoAttackPistol,ShootPistol3,ShootPistol2,ShootPistol1,ShootPistol3,,Walk 1-handed weapon,Run 1-handed weapon,IdlePistolReady,pistol,Pistol,,,,,,,,,,
+Special Weapon: Firefly,Ranged Weapon,,900,7,10,,100,Armored,,150,,,,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,rifle,AssaultRifle,,,,,,,,,,
+Special Weapon: Leviathan,Ranged Weapon,,1200,8,10,,145,Mechanical,,150,,,,,,,,,,,,AutoAttackRifle,ShootRifle2,ShootRifle2,ShootRifle1,ShootRifle2,,WalkRifle,RunRifle,IdleRifleReady,rifle,AssaultRifle,,,,,,,,,,
+Special Weapon: Rampage,Melee Weapon,,640,8,9,,,Unarmored,,150,,,,,,,,,,,,AutoAttackChainSaw,,,,,,WalkMinigun,RunMinigun,IdleMinigunReady,minigun,Chainsaw,,,MeleeSharpSwing,,,,,,,
+Special Weapon: Bulwark,Melee Weapon,,700,8,11,,,Armored,,150,,,,,,,,,,,,AutoAttackSpear,SpearC,SpearB,SpearA,SpearC,,WalkSpear,RunSpear,IdleSpearReady,spear,SwordHit,,,MeleeSharpSwing,,,,,,,
+Special Weapon: Hurricane,Melee Weapon,,600,7,10,,,Mechanical,,150,,,,,,,,,,,,AutoAttackSpear,SpearC,SpearB,SpearA,SpearC,,WalkSpear,RunSpear,IdleSpearReady,spear,SwordHit,,,MeleeSharpSwing,,,,,,,46
+Special Scythe,2-handed Basher,,,8,12,,,Unarmored,,150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,665 @@
+Name,NPCItem,EquipmentClass,ClothClass,RequiredLevel,Rarity,PlaceableInEditor,Tier,Enhancement,PostToSocialNetworks,Texture,FemaleTexture,ModelTexture,FemaleModelTexture,LootDisabled,Icon
+Worthy Anarchy Jacket,,Anarchy Jacket,Large,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Boosted Anarchy Jacket,,Anarchy Jacket,Large,7,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Acute Anarchy Jacket,,Anarchy Jacket,Large,9,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Genuine Anarchy Jacket,,Anarchy Jacket,Large,11,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Exquisite Armored Jacket,,Armored Jacket,Large,20,Rare,,,of the Judgment,TRUE,graphics/3d/character/jacket/armored_jacket_outfit_01_m.png,graphics/3d/character/jacket/armored_jacket_outfit_01_f.png,,,TRUE,21
+High-Power Armored Jacket,,Armored Jacket,Large,24,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/armored_jacket_outfit_01_m.png,graphics/3d/character/jacket/armored_jacket_outfit_01_f.png,,,TRUE,21
+Jagged Armored Jacket,,Armored Jacket,Large,28,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/armored_jacket_outfit_01_m.png,graphics/3d/character/jacket/armored_jacket_outfit_01_f.png,,,TRUE,21
+High-Power Biker Jacket,,Biker Jacket,Large,30,Rare,,3,of the Predator,TRUE,graphics/3d/character/jacket/twotone_jacket_01_m.png,graphics/3d/character/jacket/twotone_jacket_01_f.png,,,TRUE,1
+Jagged Biker Jacket,,Biker Jacket,Large,30,Rare,,,,TRUE,graphics/3d/character/jacket/twotone_jacket_02_m.png,graphics/3d/character/jacket/twotone_jacket_02_f.png,,,TRUE,1
+Warped Blue Sport Coat,,Blue Sport Coat,Large,3,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Lousy Blue Sport Coat,,Blue Sport Coat,Large,4,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Worthless Blue Sport Coat,,Blue Sport Coat,Large,8,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Poor Blue Sport Coat,,Blue Sport Coat,Large,11,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Shabby Blue Sport Coat,,Blue Sport Coat,Large,14,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Inferior Blue Sport Coat,,Blue Sport Coat,Large,17,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Universal Blue Sport Coat,,Blue Sport Coat,Large,10,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Average Blue Sport Coat,,Blue Sport Coat,Large,12,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Basic Blue Sport Coat,,Blue Sport Coat,Large,15,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Everyday Blue Sport Coat,,Blue Sport Coat,Large,18,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Regular Blue Sport Coat,,Blue Sport Coat,Large,19,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Average Blue Striped Jacket,,Blue Striped Jacket,Large,6,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Basic Blue Striped Jacket,,Blue Striped Jacket,Large,8,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Everyday Blue Striped Jacket,,Blue Striped Jacket,Large,10,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Regular Blue Striped Jacket,,Blue Striped Jacket,Large,12,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Popular Blue Striped Jacket,,Blue Striped Jacket,Large,14,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Worthless Blue Sweater,,Blue Sweater,Large,15,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Poor Blue Sweater,,Blue Sweater,Large,18,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Shabby Blue Sweater,,Blue Sweater,Large,19,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Inferior Blue Sweater,,Blue Sweater,Large,21,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Rural Blue Sweater,,Blue Sweater,Large,23,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Barebones Blue Sweater,,Blue Sweater,Large,25,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Basic Blue Sweater,,Blue Sweater,Large,4,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Everyday Blue Sweater,,Blue Sweater,Large,5,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Regular Blue Sweater,,Blue Sweater,Large,6,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Popular Blue Sweater,,Blue Sweater,Large,7,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Common Blue Sweater,,Blue Sweater,Large,8,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Outstanding Braided Leather Jacket,,Braided Leather Jacket,Large,15,Rare,,,of the Judgment,TRUE,graphics/3d/character/jacket/braided_jacket_black_01_m.png,graphics/3d/character/jacket/braided_jacket_black_01_f.png,,,TRUE,21
+Superfine Braided Leather Jacket,,Braided Leather Jacket,Large,17,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/braided_jacket_black_01_m.png,graphics/3d/character/jacket/braided_jacket_black_01_f.png,,,TRUE,21
+Excellent Braided Leather Jacket,,Braided Leather Jacket,Large,19,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/braided_jacket_black_01_m.png,graphics/3d/character/jacket/braided_jacket_black_01_f.png,,,TRUE,21
+Cool Brown Armor Vest,,Brown Armor Vest,Large,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_armor_vestoutfit_01_m.png,graphics/3d/character/jacket/brown_armor_vestoutfit_01_f.png,,,TRUE,66
+Good Brown Leather Jacket,,Brown Leather Jacket,Large,20,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Fine Brown Leather Jacket,,Brown Leather Jacket,Large,22,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Credible Brown Leather Jacket,,Brown Leather Jacket,Large,24,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Street Wise Brown Leather Jacket,,Brown Leather Jacket,Large,26,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Common Brown Sweater,,Brown Sweater,Large,1,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Simple Brown Sweater,,Brown Sweater,Large,2,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Typical Brown Sweater,,Brown Sweater,Large,3,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Usual Brown Sweater,,Brown Sweater,Large,4,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Plain Brown Sweater,,Brown Sweater,Large,5,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Simple Butcher's Jacket,,Butcher's Jacket,Large,2,Common,,,,,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Typical Butcher's Jacket,,Butcher's Jacket,Large,3,Common,,,,,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Usual Butcher's Jacket,,Butcher's Jacket,Large,6,Common,,,,,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Plain Butcher's Jacket,,Butcher's Jacket,Large,7,Common,,,,,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Standard Butcher's Jacket,,Butcher's Jacket,Large,9,Common,,,,TRUE,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Greater Buttoned Leather Jacket,,Buttoned Leather Jacket,Large,4,Rare,,,of the Judgment,TRUE,graphics/3d/character/jacket/buttoned_leather_jacket_01_m.png,graphics/3d/character/jacket/buttoned_leather_jacket_01_f.png,,,TRUE,21
+Singular Buttoned Leather Jacket,,Buttoned Leather Jacket,Large,8,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/buttoned_leather_jacket_01_m.png,graphics/3d/character/jacket/buttoned_leather_jacket_01_f.png,,,TRUE,21
+Exquisite Buttoned Leather Jacket,,Buttoned Leather Jacket,Large,12,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/buttoned_leather_jacket_01_m.png,graphics/3d/character/jacket/buttoned_leather_jacket_01_f.png,,,TRUE,21
+Singular Camo Shirt,,Camo Shirt,Large,3,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/tshirt_green_01_m.png,graphics/3d/character/jacket/tshirt_green_01_f.png,,,TRUE,6
+Exquisite Camo Shirt,,Camo Shirt,Large,5,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_green_01_m.png,graphics/3d/character/jacket/tshirt_green_01_f.png,,,TRUE,6
+High-Power Camo Shirt,,Camo Shirt,Large,11,Rare,,,of the Ambusher,TRUE,graphics/3d/character/jacket/tshirt_green_01_m.png,graphics/3d/character/jacket/tshirt_green_01_f.png,,,TRUE,6
+Plain Casual Vest,,Casual Vest,Large,10,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Standard Casual Vest,,Casual Vest,Large,11,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Universal Casual Vest,,Casual Vest,Large,13,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Average Casual Vest,,Casual Vest,Large,16,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Basic Casual Vest,,Casual Vest,Large,19,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Acute Cowhide Jacket,,Cowhide Jacket,Large,10,Uncommon,,,,TRUE,graphics/3d/character/jacket/cowhide_jacket_01_m.png,graphics/3d/character/jacket/cowhide_jacket_01_f.png,,,TRUE,21
+Genuine Cowhide Jacket,,Cowhide Jacket,Large,12,Uncommon,,,,TRUE,graphics/3d/character/jacket/cowhide_jacket_01_m.png,graphics/3d/character/jacket/cowhide_jacket_01_f.png,,,TRUE,21
+Special Cowhide Jacket,,Cowhide Jacket,Large,14,Uncommon,,,,TRUE,graphics/3d/character/jacket/cowhide_jacket_01_m.png,graphics/3d/character/jacket/cowhide_jacket_01_f.png,,,TRUE,21
+Elegant Cowhide Jacket,,Cowhide Jacket,Large,16,Uncommon,,,,TRUE,graphics/3d/character/jacket/cowhide_jacket_01_m.png,graphics/3d/character/jacket/cowhide_jacket_01_f.png,,,TRUE,21
+Universal Dark Red Sport Coat,,Dark Red Sport Coat,Large,20,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,56
+Average Dark Red Sport Coat,,Dark Red Sport Coat,Large,21,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,56
+Basic Dark Red Sport Coat,,Dark Red Sport Coat,Large,22,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,56
+Everyday Dark Red Sport Coat,,Dark Red Sport Coat,Large,24,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,56
+Regular Dark Red Sport Coat,,Dark Red Sport Coat,Large,26,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,56
+Radical Dark Trench Coat,,Dark Trench Coat,Large,30,Rare,,4,of the Judgment,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Ragged Denim Vest,,Denim Vest,Large,20,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Worn Denim Vest,,Denim Vest,Large,22,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Old Denim Vest,,Denim Vest,Large,26,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Lame Denim Vest,,Denim Vest,Large,27,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Warped Denim Vest,,Denim Vest,Large,28,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Lousy Denim Vest,,Denim Vest,Large,30,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Elegant Denim Vest,,Denim Vest,Large,2,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Great Denim Vest,,Denim Vest,Large,4,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Cool Denim Vest,,Denim Vest,Large,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Good Denim Vest,,Denim Vest,Large,8,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Great Distressed Jacket,,Distressed Jacket,Large,15,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_jacket_black_01_m.png,graphics/3d/character/jacket/distressed_jacket_black_01_f.png,,,TRUE,1
+Cool Distressed Jacket,,Distressed Jacket,Large,16,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_jacket_black_01_m.png,graphics/3d/character/jacket/distressed_jacket_black_01_f.png,,,TRUE,1
+Good Distressed Jacket,,Distressed Jacket,Large,17,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_jacket_black_01_m.png,graphics/3d/character/jacket/distressed_jacket_black_01_f.png,,,TRUE,1
+Fine Distressed Jacket,,Distressed Jacket,Large,19,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_jacket_black_01_m.png,graphics/3d/character/jacket/distressed_jacket_black_01_f.png,,,TRUE,1
+Regular Drum Dyed Jacket,,Drum Dyed Jacket,Large,19,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Popular Drum Dyed Jacket,,Drum Dyed Jacket,Large,23,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Common Drum Dyed Jacket,,Drum Dyed Jacket,Large,25,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Simple Drum Dyed Jacket,,Drum Dyed Jacket,Large,27,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Typical Drum Dyed Jacket,,Drum Dyed Jacket,Large,30,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Cool Drum Dyed Jacket,,Drum Dyed Jacket,Large,20,Uncommon,,,,TRUE,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Good Drum Dyed Jacket,,Drum Dyed Jacket,Large,22,Uncommon,,,,TRUE,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Fine Drum Dyed Jacket,,Drum Dyed Jacket,Large,23,Uncommon,,,,TRUE,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Credible Drum Dyed Jacket,,Drum Dyed Jacket,Large,25,Uncommon,,,,TRUE,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Good Faux Leather Jacket,,Faux Leather Jacket,Large,2,Uncommon,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Fine Faux Leather Jacket,,Faux Leather Jacket,Large,4,Uncommon,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Credible Faux Leather Jacket,,Faux Leather Jacket,Large,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Street Wise Faux Leather Jacket,,Faux Leather Jacket,Large,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Fine Gang Vest,,Gang Vest,Large,4,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_06_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,21
+Credible Gang Vest,,Gang Vest,Large,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_06_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,21
+Street Wise Gang Vest,,Gang Vest,Large,8,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_06_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,21
+Worthy Gang Vest,,Gang Vest,Large,9,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_06_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,21
+Credible Gray Fit Shirt,,Gray Fit Shirt,Large,3,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Street Wise Gray Fit Shirt,,Gray Fit Shirt,Large,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Worthy Gray Fit Shirt,,Gray Fit Shirt,Large,7,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Boosted Gray Fit Shirt,,Gray Fit Shirt,Large,10,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Typical Gray Sweater,,Gray Sweater,Large,6,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Usual Gray Sweater,,Gray Sweater,Large,9,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Plain Gray Sweater,,Gray Sweater,Large,11,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Standard Gray Sweater,,Gray Sweater,Large,1,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_02_f.png,,,TRUE,36
+Universal Gray Sweater,,Gray Sweater,Large,3,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_02_f.png,,,TRUE,36
+Average Gray Sweater,,Gray Sweater,Large,4,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_02_f.png,,,TRUE,36
+Usual Green Sport Coat,,Green Sport Coat,Large,5,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Plain Green Sport Coat,,Green Sport Coat,Large,8,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Standard Green Sport Coat,,Green Sport Coat,Large,11,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Universal Green Sport Coat,,Green Sport Coat,Large,12,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Average Green Sport Coat,,Green Sport Coat,Large,14,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Plain Green Sweater,,Green Sweater,Large,8,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Standard Green Sweater,,Green Sweater,Large,9,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Universal Green Sweater,,Green Sweater,Large,10,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Average Green Sweater,,Green Sweater,Large,11,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Basic Green Sweater,,Green Sweater,Large,14,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Acute Hooded Jacket,,Hooded Jacket,Large,8,Uncommon,,,,TRUE,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Genuine Hooded Jacket,,Hooded Jacket,Large,9,Uncommon,,,,TRUE,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Special Hooded Jacket,,Hooded Jacket,Large,11,Uncommon,,,,TRUE,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Elegant Hooded Jacket,,Hooded Jacket,Large,12,Uncommon,,,,TRUE,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Jagged Leather Uniform,,Leather Uniform,Large,30,Rare,,2,of the Judgment,TRUE,graphics/3d/character/jacket/leather_uniform_black_02_m.png,graphics/3d/character/jacket/leather_uniform_outfit_black_02_f.png,,,TRUE,21
+Radical Leather Vest,,Leather Vest,Large,8,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/vest_brown_01_m.png,graphics/3d/character/jacket/vest_brown_01_f.png,,,TRUE,66
+First-Class Leather Vest,,Leather Vest,Large,11,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_brown_01_m.png,graphics/3d/character/jacket/vest_brown_01_f.png,,,TRUE,66
+Outstanding Leather Vest,,Leather Vest,Large,13,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/vest_brown_01_m.png,graphics/3d/character/jacket/vest_brown_01_f.png,,,TRUE,66
+Superfine Leather Vest,,Leather Vest,Large,30,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/vest_brown_02_m.png,graphics/3d/character/jacket/vest_brown_02_f.png,,,TRUE,66
+Elegant M.C. Jacket,,M.C. Jacket,Large,3,Uncommon,,,,TRUE,graphics/3d/character/jacket/mc_jacket_black_01_m.png,graphics/3d/character/jacket/mc_jacket_black_01_f.png,,,TRUE,21
+Great M.C. Jacket,,M.C. Jacket,Large,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/mc_jacket_black_01_m.png,graphics/3d/character/jacket/mc_jacket_black_01_f.png,,,TRUE,21
+Cool M.C. Jacket,,M.C. Jacket,Large,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/mc_jacket_black_01_m.png,graphics/3d/character/jacket/mc_jacket_black_01_f.png,,,TRUE,21
+Good M.C. Jacket,,M.C. Jacket,Large,10,Uncommon,,,,TRUE,graphics/3d/character/jacket/mc_jacket_black_01_m.png,graphics/3d/character/jacket/mc_jacket_black_01_f.png,,,TRUE,21
+Outstanding Motorcycle Jacket,,Motorcycle Jacket,Large,30,Rare,,,of the Judgment,TRUE,graphics/3d/character/jacket/rider_jacket_outfit_01_m.png,graphics/3d/character/jacket/rider_jacket_outfit_01_f.png,,,TRUE,1
+Regular Multicolor Shirt,,Multicolor Shirt,Large,11,Common,,,,,graphics/3d/character/jacket/tshirt_darkcyan_02_m.png,graphics/3d/character/jacket/tshirt_darkcyan_02_f.png,,,TRUE,46
+Popular Multicolor Shirt,,Multicolor Shirt,Large,13,Common,,,,,graphics/3d/character/jacket/tshirt_darkcyan_02_m.png,graphics/3d/character/jacket/tshirt_darkcyan_02_f.png,,,TRUE,46
+Common Multicolor Shirt,,Multicolor Shirt,Large,15,Common,,,,,graphics/3d/character/jacket/tshirt_darkcyan_02_m.png,graphics/3d/character/jacket/tshirt_darkcyan_02_f.png,,,TRUE,46
+Simple Multicolor Shirt,,Multicolor Shirt,Large,18,Common,,,,,graphics/3d/character/jacket/tshirt_red_01_m.png,graphics/3d/character/jacket/tshirt_red_01_f.png,,,TRUE,46
+Typical Multicolor Shirt,,Multicolor Shirt,Large,19,Common,,,,,graphics/3d/character/jacket/tshirt_red_01_m.png,graphics/3d/character/jacket/tshirt_red_01_f.png,,,TRUE,46
+Battered Multicolor T-shirt,,Multicolor T-shirt,Large,5,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Cracked Multicolor T-shirt,,Multicolor T-shirt,Large,7,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Broken Multicolor T-shirt,,Multicolor T-shirt,Large,10,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Ragged Multicolor T-shirt,,Multicolor T-shirt,Large,12,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Worn Multicolor T-shirt,,Multicolor T-shirt,Large,16,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Old Multicolor T-shirt,,Multicolor T-shirt,Large,18,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Popular Multicolor T-shirt,,Multicolor T-shirt,Large,5,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Common Multicolor T-shirt,,Multicolor T-shirt,Large,7,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Simple Multicolor T-shirt,,Multicolor T-shirt,Large,8,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Typical Multicolor T-shirt,,Multicolor T-shirt,Large,10,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Usual Multicolor T-shirt,,Multicolor T-shirt,Large,12,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Marvelous Navy Jacket,,Navy Jacket,Large,30,Rare,,4,of the Judgment,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Awesome Night Jacket,,Night Jacket,Large,30,Rare,,,of the Judgment,TRUE,graphics/3d/character/jacket/night_jacket_01_m.png,graphics/3d/character/jacket/night_jacket_01_f.png,graphics/3d/character/jacket/night_jacket_add_01_m.png,,TRUE,21
+Street Wise Open Blouse,,Open Blouse,Large,24,Uncommon,,,,TRUE,graphics/3d/character/jacket/open_blouse_01_m.png,graphics/3d/character/jacket/open_blouse_01_f.png,,,TRUE,51
+Worthy Open Blouse,,Open Blouse,Large,26,Uncommon,,,,TRUE,graphics/3d/character/jacket/open_blouse_01_m.png,graphics/3d/character/jacket/open_blouse_01_f.png,,,TRUE,51
+Boosted Open Blouse,,Open Blouse,Large,27,Uncommon,,,,TRUE,graphics/3d/character/jacket/open_blouse_01_m.png,graphics/3d/character/jacket/open_blouse_01_f.png,,,TRUE,51
+Acute Open Blouse,,Open Blouse,Large,29,Uncommon,,,,TRUE,graphics/3d/character/jacket/open_blouse_01_m.png,graphics/3d/character/jacket/open_blouse_01_f.png,,,TRUE,51
+Worn Orange Worker Coat,,Orange Worker Coat,Large,1,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Old Orange Worker Coat,,Orange Worker Coat,Large,2,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Lame Orange Worker Coat,,Orange Worker Coat,Large,6,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Warped Orange Worker Coat,,Orange Worker Coat,Large,7,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Lousy Orange Worker Coat,,Orange Worker Coat,Large,9,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Worthless Orange Worker Coat,,Orange Worker Coat,Large,10,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Usual Orange Worker Coat,,Orange Worker Coat,Large,2,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Plain Orange Worker Coat,,Orange Worker Coat,Large,3,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Standard Orange Worker Coat,,Orange Worker Coat,Large,4,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Universal Orange Worker Coat,,Orange Worker Coat,Large,6,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Average Orange Worker Coat,,Orange Worker Coat,Large,9,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Boosted Patterned Jacket,,Patterned Jacket,Large,10,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Acute Patterned Jacket,,Patterned Jacket,Large,13,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Genuine Patterned Jacket,,Patterned Jacket,Large,16,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Special Patterned Jacket,,Patterned Jacket,Large,18,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Elegant Patterned Jacket,,Patterned Jacket,Large,19,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Exquisite Patterned Jacket,,Patterned Jacket,Large,30,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/pattered_long_jacket_gray_01_m.png,graphics/3d/character/jacket/pattered_long_jacket_gray_01_f.png,graphics/3d/character/jacket/pattered_long_jacket_gray_add_01_m.png,graphics/3d/character/jacket/pattered_long_jacket_gray_add_01_f.png,TRUE,36
+Acute Protective Vest,,Protective Vest,Large,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_02_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+High-Power Protective Vest,,Protective Vest,Large,20,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Jagged Protective Vest,,Protective Vest,Large,22,Rare,,,of the Ambusher,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Radical Protective Vest,,Protective Vest,Large,23,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+First-Class Protective Vest,,Protective Vest,Large,29,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/vest_black_03_f.png,,,TRUE,66
+Outstanding Protective Vest,,Protective Vest,Large,30,Rare,,2,of the Legend,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/vest_black_03_f.png,,,TRUE,66
+Genuine Red Coat,,Red Coat,Large,2,Uncommon,,,,TRUE,graphics/3d/character/jacket/red_flame_jacket_01_m.png,graphics/3d/character/jacket/red_flame_jacket_01_f.png,,,TRUE,56
+Special Red Coat,,Red Coat,Large,3,Uncommon,,,,TRUE,graphics/3d/character/jacket/red_flame_jacket_01_m.png,graphics/3d/character/jacket/red_flame_jacket_01_f.png,,,TRUE,56
+Elegant Red Coat,,Red Coat,Large,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/red_flame_jacket_01_m.png,graphics/3d/character/jacket/red_flame_jacket_01_f.png,,,TRUE,56
+Great Red Coat,,Red Coat,Large,7,Uncommon,,,,TRUE,graphics/3d/character/jacket/red_flame_jacket_01_m.png,graphics/3d/character/jacket/red_flame_jacket_01_f.png,,,TRUE,56
+Average Red Sport Coat,,Red Sport Coat,Large,25,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,51
+Basic Red Sport Coat,,Red Sport Coat,Large,26,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,51
+Everyday Red Sport Coat,,Red Sport Coat,Large,27,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,51
+Regular Red Sport Coat,,Red Sport Coat,Large,28,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,51
+Popular Red Sport Coat,,Red Sport Coat,Large,30,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,51
+Basic Red Sweater,,Red Sweater,Large,24,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Everyday Red Sweater,,Red Sweater,Large,27,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Regular Red Sweater,,Red Sweater,Large,28,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Popular Red Sweater,,Red Sweater,Large,29,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Common Red Sweater,,Red Sweater,Large,30,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Outstanding Skull T-shirt,,Skull T-shirt,Large,10,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Dawnbreak Shirt,,Skull T-shirt,Large,,Poor,,,,,graphics/3d/character/jacket/start_tshirt_male.png,graphics/3d/character/jacket/start_tshirt_female.png,,,TRUE,61
+Superfine Smart Jacket,,Smart Jacket,Large,29,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/smart_jacket_black_01_f.png,,,TRUE,1
+Excellent Smart Jacket,,Smart Jacket,Large,30,Rare,,,of the Ambusher,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/smart_jacket_black_01_f.png,,,TRUE,1
+Excellent SPC Rider Jacket,,SPC Rider Jacket,Large,11,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_m.png,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_f.png,,,TRUE,21
+Marvelous SPC Rider Jacket,,SPC Rider Jacket,Large,16,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_m.png,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_f.png,,,TRUE,21
+Awesome SPC Rider Jacket,,SPC Rider Jacket,Large,21,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_m.png,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_f.png,,,TRUE,21
+Fine Sporty Vest,,Sporty Vest,Large,25,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_black_05_f.png,,,TRUE,66
+Credible Sporty Vest,,Sporty Vest,Large,26,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_black_05_f.png,,,TRUE,66
+Street Wise Sporty Vest,,Sporty Vest,Large,28,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_black_05_f.png,,,TRUE,66
+Worthy Sporty Vest,,Sporty Vest,Large,29,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_black_05_f.png,,,TRUE,66
+Credible Spy Coat,,Spy Coat,Large,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/spy_coat_01_m.png,graphics/3d/character/jacket/spy_coat_01_f.png,,,TRUE,21
+Street Wise Studded Anarchy Jacket,,Studded Anarchy Jacket,Large,12,Uncommon,,,,TRUE,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Worthy Studded Anarchy Jacket,,Studded Anarchy Jacket,Large,13,Uncommon,,,,TRUE,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Boosted Studded Anarchy Jacket,,Studded Anarchy Jacket,Large,15,Uncommon,,,,TRUE,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Acute Studded Anarchy Jacket,,Studded Anarchy Jacket,Large,18,Uncommon,,,,TRUE,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Singular Studded Vest,,Studded Vest,Large,6,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/vest_studded_01_m.png,graphics/3d/character/jacket/vest_studded_01_f.png,,,TRUE,66
+Exquisite Studded Vest,,Studded Vest,Large,7,Rare,,,of the Ambusher,TRUE,graphics/3d/character/jacket/vest_studded_01_m.png,graphics/3d/character/jacket/vest_studded_01_f.png,,,TRUE,66
+High-Power Studded Vest,,Studded Vest,Large,9,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_studded_01_m.png,graphics/3d/character/jacket/vest_studded_01_f.png,,,TRUE,66
+Plain Suede Jacket,,Suede Jacket,Large,25,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Standard Suede Jacket,,Suede Jacket,Large,26,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Universal Suede Jacket,,Suede Jacket,Large,27,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Average Suede Jacket,,Suede Jacket,Large,29,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_02_f.png,,,TRUE,36
+Basic Suede Jacket,,Suede Jacket,Large,30,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_02_f.png,,,TRUE,36
+Acute Suit Jacket,,Suit Jacket,Large,25,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_01_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Genuine Suit Jacket,,Suit Jacket,Large,27,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_01_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Special Suit Jacket,,Suit Jacket,Large,29,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_01_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Elegant Suit Jacket,,Suit Jacket,Large,26,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_03_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Great Suit Jacket,,Suit Jacket,Large,28,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_03_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Cool Suit Jacket,,Suit Jacket,Large,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_03_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+High-Power Suit Jacket,,Suit Jacket,Large,30,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/suit_black_02_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Jagged Thick Coat,,Thick Coat,Large,30,Rare,,2,of the Ambusher,TRUE,graphics/3d/character/jacket/trench_coat_black_01_m.png,graphics/3d/character/jacket/trench_coat_black_01_f.png,graphics/3d/character/jacket/trench_coat_black_add_01_m.png,graphics/3d/character/jacket/trench_coat_black_add_01_f.png,TRUE,21
+Special Torso Protector,,Torso Protector,Large,25,Uncommon,,,,TRUE,graphics/3d/character/jacket/armored_torso_protector.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,66
+Elegant Torso Protector,,Torso Protector,Large,29,Uncommon,,,,TRUE,graphics/3d/character/jacket/armored_torso_protector.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,66
+Great Torso Protector,,Torso Protector,Large,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/armored_torso_protector.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,66
+First-Class Trench Coat,,Trench Coat,Large,30,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/trench_coat_01_m.png,graphics/3d/character/jacket/trench_coat_01_f.png,graphics/3d/character/jacket/trench_coat_01_skirt_m.png,graphics/3d/character/jacket/trench_coat_add_01_f.png,TRUE,21
+Great Two Tone Sweater,,Two Tone Sweater,Large,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_whitered_01_m.png,graphics/3d/character/jacket/sweater_whitered_01_f.png,,,TRUE,51
+Cool Two Tone Sweater,,Two Tone Sweater,Large,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_whitered_01_m.png,graphics/3d/character/jacket/sweater_whitered_01_f.png,,,TRUE,51
+Good Two Tone Sweater,,Two Tone Sweater,Large,8,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_whitered_01_m.png,graphics/3d/character/jacket/sweater_whitered_01_f.png,,,TRUE,51
+Old Two Tone T-shirt,,Two Tone T-shirt,Large,9,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Lame Two Tone T-shirt,,Two Tone T-shirt,Large,13,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Warped Two Tone T-shirt,,Two Tone T-shirt,Large,17,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Lousy Two Tone T-shirt,,Two Tone T-shirt,Large,19,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Worthless Two Tone T-shirt,,Two Tone T-shirt,Large,20,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Poor Two Tone T-shirt,,Two Tone T-shirt,Large,24,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Regular Two Tone T-shirt,,Two Tone T-shirt,Large,18,Common,,,,,graphics/3d/character/jacket/tshirt_black_05_m.png,graphics/3d/character/jacket/tshirt_black_05_f.png,,,TRUE,46
+Popular Two Tone T-shirt,,Two Tone T-shirt,Large,22,Common,,,,,graphics/3d/character/jacket/tshirt_black_05_m.png,graphics/3d/character/jacket/tshirt_black_05_f.png,,,TRUE,46
+Common Two Tone T-shirt,,Two Tone T-shirt,Large,10,Common,,,,,graphics/3d/character/jacket/tshirt_blue_03_m.png,graphics/3d/character/jacket/tshirt_blue_03_f.png,,,TRUE,46
+Simple Two Tone T-shirt,,Two Tone T-shirt,Large,14,Common,,,,,graphics/3d/character/jacket/tshirt_blue_03_m.png,graphics/3d/character/jacket/tshirt_blue_03_f.png,,,TRUE,46
+Typical Two Tone T-shirt,,Two Tone T-shirt,Large,17,Common,,,,,graphics/3d/character/jacket/tshirt_blue_03_m.png,graphics/3d/character/jacket/tshirt_blue_03_f.png,,,TRUE,46
+Good Two Tone Vest,,Two Tone Vest,Large,17,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Fine Two Tone Vest,,Two Tone Vest,Large,18,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Credible Two Tone Vest,,Two Tone Vest,Large,19,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Street Wise Two Tone Vest,,Two Tone Vest,Large,21,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Marvelous Vented Leather Jacket,,Vented Leather Jacket,Large,25,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/vented_leather_jacket_01_m.png,graphics/3d/character/jacket/vented_leather_jacket_01_f.png,,,TRUE,21
+Awesome Vented Leather Jacket,,Vented Leather Jacket,Large,26,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/vented_leather_jacket_01_m.png,graphics/3d/character/jacket/vented_leather_jacket_01_f.png,,,TRUE,21
+Greater Vented Leather Jacket,,Vented Leather Jacket,Large,27,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/vented_leather_jacket_01_m.png,graphics/3d/character/jacket/vented_leather_jacket_01_f.png,,,TRUE,21
+Awesome White Custom Jacket,,White Custom Jacket,Large,30,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/suit_white_01_m.png,graphics/3d/character/jacket/white_jacket_outfit_04_f.png,,,TRUE,46
+Greater White Hoodie,,White Hoodie,Large,14,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/tshirt_white_01_m.png,graphics/3d/character/jacket/tshirt_white_01_f.png,,,TRUE,46
+Worthy White Sweater,,White Sweater,Large,3,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_white_01_m.png,graphics/3d/character/jacket/sweater_white_01_f.png,,,TRUE,46
+Boosted White Sweater,,White Sweater,Large,4,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_white_01_m.png,graphics/3d/character/jacket/sweater_white_01_f.png,,,TRUE,46
+Acute White Sweater,,White Sweater,Large,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_white_01_m.png,graphics/3d/character/jacket/sweater_white_01_f.png,,,TRUE,46
+Genuine White Sweater,,White Sweater,Large,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_white_01_m.png,graphics/3d/character/jacket/sweater_white_01_f.png,,,TRUE,46
+Exquisite Rider Jacket,,Yellow Rider Jacket,Large,30,Rare,,3,of the Destroyer,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/yellow_rider_jacket_outfit_01_f.png,,,TRUE,31
+Standard Yellow Sweater,,Yellow Sweater,Large,10,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Universal Yellow Sweater,,Yellow Sweater,Large,14,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Average Yellow Sweater,,Yellow Sweater,Large,15,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Basic Yellow Sweater,,Yellow Sweater,Large,16,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Everyday Yellow Sweater,,Yellow Sweater,Large,17,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Jagged Zipped Gray Jacket,,Zipped Gray Jacket,Large,18,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/jacket_gray_zipped_03_m.png,graphics/3d/character/jacket/jacket_gray_zipped_03_f.png,,,TRUE,36
+Special Anarchy Jacket,,Anarchy Jacket,Small,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Elegant Anarchy Jacket,,Anarchy Jacket,Small,7,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Great Anarchy Jacket,,Anarchy Jacket,Small,9,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Cool Anarchy Jacket,,Anarchy Jacket,Small,11,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Radical Armored Jacket,,Armored Jacket,Small,20,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/armored_jacket_outfit_01_m.png,graphics/3d/character/jacket/armored_jacket_outfit_01_f.png,,,TRUE,21
+First-Class Armored Jacket,,Armored Jacket,Small,24,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/armored_jacket_outfit_01_m.png,graphics/3d/character/jacket/armored_jacket_outfit_01_f.png,,,TRUE,21
+Outstanding Armored Jacket,,Armored Jacket,Small,28,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/armored_jacket_outfit_01_m.png,graphics/3d/character/jacket/armored_jacket_outfit_01_f.png,,,TRUE,21
+Radical Biker Jacket,,Biker Jacket,Small,30,Rare,,2,of the Ambusher,TRUE,graphics/3d/character/jacket/twotone_jacket_01_m.png,graphics/3d/character/jacket/twotone_jacket_01_f.png,,,TRUE,6
+First-Class Biker Jacket,,Biker Jacket,Small,30,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/twotone_jacket_02_m.png,graphics/3d/character/jacket/twotone_jacket_02_f.png,,,TRUE,6
+Rural Blue Sport Coat,,Blue Sport Coat,Small,3,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Barebones Blue Sport Coat,,Blue Sport Coat,Small,4,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Beer-soaked Blue Sport Coat,,Blue Sport Coat,Small,8,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Dirty Blue Sport Coat,,Blue Sport Coat,Small,11,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Crappy Blue Sport Coat,,Blue Sport Coat,Small,14,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Battered Blue Sport Coat,,Blue Sport Coat,Small,17,Poor,,,,,graphics/3d/character/jacket/sportcoat_blue_02_m.png,graphics/3d/character/jacket/sportcoat_blue_02_f.png,,,TRUE,41
+Popular Blue Sport Coat,,Blue Sport Coat,Small,10,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Common Blue Sport Coat,,Blue Sport Coat,Small,12,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Simple Blue Sport Coat,,Blue Sport Coat,Small,15,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Typical Blue Sport Coat,,Blue Sport Coat,Small,18,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Usual Blue Sport Coat,,Blue Sport Coat,Small,19,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Common Blue Striped Jacket,,Blue Striped Jacket,Small,6,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Simple Blue Striped Jacket,,Blue Striped Jacket,Small,8,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Typical Blue Striped Jacket,,Blue Striped Jacket,Small,10,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Usual Blue Striped Jacket,,Blue Striped Jacket,Small,12,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Plain Blue Striped Jacket,,Blue Striped Jacket,Small,14,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Beer-soaked Blue Sweater,,Blue Sweater,Small,15,Poor,,,,TRUE,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Dirty Blue Sweater,,Blue Sweater,Small,18,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Crappy Blue Sweater,,Blue Sweater,Small,19,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Battered Blue Sweater,,Blue Sweater,Small,21,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Cracked Blue Sweater,,Blue Sweater,Small,23,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Broken Blue Sweater,,Blue Sweater,Small,25,Poor,,,,,graphics/3d/character/jacket/sweater_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_01_f.png,,,TRUE,41
+Simple Blue Sweater,,Blue Sweater,Small,4,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_02_f.png,,,TRUE,41
+Typical Blue Sweater,,Blue Sweater,Small,5,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_02_f.png,,,TRUE,41
+Usual Blue Sweater,,Blue Sweater,Small,6,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_02_f.png,,,TRUE,41
+Plain Blue Sweater,,Blue Sweater,Small,7,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_02_f.png,,,TRUE,41
+Standard Blue Sweater,,Blue Sweater,Small,8,Common,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sweater_blue_02_f.png,,,TRUE,41
+Marvelous Braided Leather Jacket,,Braided Leather Jacket,Small,15,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/braided_jacket_black_01_m.png,graphics/3d/character/jacket/braided_jacket_black_01_f.png,,,TRUE,21
+Awesome Braided Leather Jacket,,Braided Leather Jacket,Small,17,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/braided_jacket_black_01_m.png,graphics/3d/character/jacket/braided_jacket_black_01_f.png,,,TRUE,21
+Greater Braided Leather Jacket,,Braided Leather Jacket,Small,19,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/braided_jacket_black_01_m.png,graphics/3d/character/jacket/braided_jacket_black_01_f.png,,,TRUE,21
+Good Brown Armor Vest,,Brown Armor Vest,Small,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_armor_vestoutfit_01_m.png,graphics/3d/character/jacket/brown_armor_vestoutfit_01_f.png,,,TRUE,66
+Worthy Brown Leather Jacket,,Brown Leather Jacket,Small,20,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Boosted Brown Leather Jacket,,Brown Leather Jacket,Small,22,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Acute Brown Leather Jacket,,Brown Leather Jacket,Small,24,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Genuine Brown Leather Jacket,,Brown Leather Jacket,Small,26,Uncommon,,,,TRUE,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Standard Brown Sweater,,Brown Sweater,Small,1,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Universal Brown Sweater,,Brown Sweater,Small,2,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Average Brown Sweater,,Brown Sweater,Small,3,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Basic Brown Sweater,,Brown Sweater,Small,4,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Everyday Brown Sweater,,Brown Sweater,Small,5,Common,,,,,graphics/3d/character/jacket/sweater_brown_01_m.png,graphics/3d/character/jacket/sweater_brown_01_f.png,,,TRUE,11
+Universal Butcher's Jacket,,Butcher's Jacket,Small,2,Common,,,,TRUE,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Average Butcher's Jacket,,Butcher's Jacket,Small,3,Common,,,,,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Basic Butcher's Jacket,,Butcher's Jacket,Small,6,Common,,,,,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Everyday Butcher's Jacket,,Butcher's Jacket,Small,7,Common,,,,,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+Regular Butcher's Jacket,,Butcher's Jacket,Small,9,Common,,,,,graphics/3d/character/jacket/butcher_shirt_01_m.png,graphics/3d/character/jacket/butcher_shirt_01_f.png,,,TRUE,46
+High-Power Buttoned Leather Jacket,,Buttoned Leather Jacket,Small,4,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/buttoned_leather_jacket_01_m.png,graphics/3d/character/jacket/buttoned_leather_jacket_01_f.png,,,TRUE,21
+Jagged Buttoned Leather Jacket,,Buttoned Leather Jacket,Small,8,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/buttoned_leather_jacket_01_m.png,graphics/3d/character/jacket/buttoned_leather_jacket_01_f.png,,,TRUE,21
+Radical Buttoned Leather Jacket,,Buttoned Leather Jacket,Small,12,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/buttoned_leather_jacket_01_m.png,graphics/3d/character/jacket/buttoned_leather_jacket_01_f.png,,,TRUE,21
+Jagged Camo Shirt,,Camo Shirt,Small,3,Rare,,,of the Ambusher,TRUE,graphics/3d/character/jacket/tshirt_green_01_m.png,graphics/3d/character/jacket/tshirt_green_01_f.png,,,TRUE,6
+Radical Camo Shirt,,Camo Shirt,Small,5,Rare,,,of the Crymaker,TRUE,graphics/3d/character/jacket/tshirt_green_01_m.png,graphics/3d/character/jacket/tshirt_green_01_f.png,,,TRUE,6
+First-Class Camo Shirt,,Camo Shirt,Small,11,Rare,,,of 6th Sense,TRUE,graphics/3d/character/jacket/tshirt_green_01_m.png,graphics/3d/character/jacket/tshirt_green_01_f.png,,,TRUE,6
+Everyday Casual Vest,,Casual Vest,Small,10,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Regular Casual Vest,,Casual Vest,Small,11,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Popular Casual Vest,,Casual Vest,Small,13,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Common Casual Vest,,Casual Vest,Small,16,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Simple Casual Vest,,Casual Vest,Small,19,Common,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Great Cowhide Jacket,,Cowhide Jacket,Small,10,Uncommon,,,,TRUE,graphics/3d/character/jacket/cowhide_jacket_01_m.png,graphics/3d/character/jacket/cowhide_jacket_01_f.png,,,TRUE,21
+Cool Cowhide Jacket,,Cowhide Jacket,Small,12,Uncommon,,,,TRUE,graphics/3d/character/jacket/cowhide_jacket_01_m.png,graphics/3d/character/jacket/cowhide_jacket_01_f.png,,,TRUE,21
+Good Cowhide Jacket,,Cowhide Jacket,Small,14,Uncommon,,,,TRUE,graphics/3d/character/jacket/cowhide_jacket_01_m.png,graphics/3d/character/jacket/cowhide_jacket_01_f.png,,,TRUE,21
+Fine Cowhide Jacket,,Cowhide Jacket,Small,16,Uncommon,,,,TRUE,graphics/3d/character/jacket/cowhide_jacket_01_m.png,graphics/3d/character/jacket/cowhide_jacket_01_f.png,,,TRUE,21
+Popular Dark Red Sport Coat,,Dark Red Sport Coat,Small,20,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,56
+Common Dark Red Sport Coat,,Dark Red Sport Coat,Small,21,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,56
+Simple Dark Red Sport Coat,,Dark Red Sport Coat,Small,22,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,56
+Typical Dark Red Sport Coat,,Dark Red Sport Coat,Small,24,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,56
+Usual Dark Red Sport Coat,,Dark Red Sport Coat,Small,26,Common,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,56
+First-Class Dark Trench Coat,,Dark Trench Coat,Small,30,Rare,,,of 6th Sense,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Worthless Denim Vest,,Denim Vest,Small,20,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Poor Denim Vest,,Denim Vest,Small,22,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Shabby Denim Vest,,Denim Vest,Small,26,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Inferior Denim Vest,,Denim Vest,Small,27,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Rural Denim Vest,,Denim Vest,Small,28,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Barebones Denim Vest,,Denim Vest,Small,30,Poor,,,,,graphics/3d/character/jacket/vest_blue_02_m.png,graphics/3d/character/jacket/vest_blue_02_f.png,,,TRUE,76
+Fine Denim Vest,,Denim Vest,Small,2,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Credible Denim Vest,,Denim Vest,Small,4,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Street Wise Denim Vest,,Denim Vest,Small,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Worthy Denim Vest,,Denim Vest,Small,8,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Credible Distressed Jacket,,Distressed Jacket,Small,15,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_jacket_black_01_m.png,graphics/3d/character/jacket/distressed_jacket_black_01_f.png,,,TRUE,1
+Street Wise Distressed Jacket,,Distressed Jacket,Small,16,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_jacket_black_01_m.png,graphics/3d/character/jacket/distressed_jacket_black_01_f.png,,,TRUE,1
+Worthy Distressed Jacket,,Distressed Jacket,Small,17,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_jacket_black_01_m.png,graphics/3d/character/jacket/distressed_jacket_black_01_f.png,,,TRUE,1
+Boosted Distressed Jacket,,Distressed Jacket,Small,19,Uncommon,,,,TRUE,graphics/3d/character/jacket/distressed_jacket_black_01_m.png,graphics/3d/character/jacket/distressed_jacket_black_01_f.png,,,TRUE,1
+Usual Drum Dyed Jacket,,Drum Dyed Jacket,Small,19,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Plain Drum Dyed Jacket,,Drum Dyed Jacket,Small,23,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Standard Drum Dyed Jacket,,Drum Dyed Jacket,Small,25,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Universal Drum Dyed Jacket,,Drum Dyed Jacket,Small,27,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Average Drum Dyed Jacket,,Drum Dyed Jacket,Small,30,Common,,,,,graphics/3d/character/jacket/drum_dyet_jacket_01_m.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,21
+Street Wise Drum Dyed Jacket,,Drum Dyed Jacket,Small,20,Uncommon,,,,TRUE,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Worthy Drum Dyed Jacket,,Drum Dyed Jacket,Small,22,Uncommon,,,,TRUE,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Boosted Drum Dyed Jacket,,Drum Dyed Jacket,Small,23,Uncommon,,,,TRUE,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Acute Drum Dyed Jacket,,Drum Dyed Jacket,Small,25,Uncommon,,,,TRUE,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Worthy Faux Leather Jacket,,Faux Leather Jacket,Small,2,Uncommon,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Boosted Faux Leather Jacket,,Faux Leather Jacket,Small,4,Uncommon,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Acute Faux Leather Jacket,,Faux Leather Jacket,Small,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Genuine Faux Leather Jacket,,Faux Leather Jacket,Small,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Boosted Gang Vest,,Gang Vest,Small,4,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_06_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,21
+Acute Gang Vest,,Gang Vest,Small,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_06_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,21
+Genuine Gang Vest,,Gang Vest,Small,8,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_06_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,21
+Special Gang Vest,,Gang Vest,Small,9,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_06_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,21
+Acute Gray Fit Shirt,,Gray Fit Shirt,Small,3,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Genuine Gray Fit Shirt,,Gray Fit Shirt,Small,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Special Gray Fit Shirt,,Gray Fit Shirt,Small,7,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Elegant Gray Fit Shirt,,Gray Fit Shirt,Small,10,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Basic Gray Sweater,,Gray Sweater,Small,6,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Everyday Gray Sweater,,Gray Sweater,Small,9,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Regular Gray Sweater,,Gray Sweater,Small,11,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_01_f.png,,,TRUE,36
+Popular Gray Sweater,,Gray Sweater,Small,1,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_02_f.png,,,TRUE,36
+Common Gray Sweater,,Gray Sweater,Small,3,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_02_f.png,,,TRUE,36
+Simple Gray Sweater,,Gray Sweater,Small,4,Common,,,,,graphics/3d/character/jacket/sweater_gray_01_m.png,graphics/3d/character/jacket/sweater_gray_02_f.png,,,TRUE,36
+Basic Green Sport Coat,,Green Sport Coat,Small,5,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Everyday Green Sport Coat,,Green Sport Coat,Small,8,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Regular Green Sport Coat,,Green Sport Coat,Small,11,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Popular Green Sport Coat,,Green Sport Coat,Small,12,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Common Green Sport Coat,,Green Sport Coat,Small,14,Common,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Everyday Green Sweater,,Green Sweater,Small,8,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Regular Green Sweater,,Green Sweater,Small,9,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Popular Green Sweater,,Green Sweater,Small,10,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Common Green Sweater,,Green Sweater,Small,11,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Simple Green Sweater,,Green Sweater,Small,14,Common,,,,,graphics/3d/character/jacket/sweater_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+Great Hooded Jacket,,Hooded Jacket,Small,8,Uncommon,,,,TRUE,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Cool Hooded Jacket,,Hooded Jacket,Small,9,Uncommon,,,,TRUE,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Good Hooded Jacket,,Hooded Jacket,Small,11,Uncommon,,,,TRUE,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Fine Hooded Jacket,,Hooded Jacket,Small,12,Uncommon,,,,TRUE,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Radical Leather Uniform,,Leather Uniform,Small,30,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/leather_uniform_black_02_m.png,graphics/3d/character/jacket/leather_uniform_outfit_black_02_f.png,,,TRUE,21
+Excellent Leather Vest,,Leather Vest,Small,8,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/vest_brown_01_m.png,graphics/3d/character/jacket/vest_brown_01_f.png,,,TRUE,66
+Marvelous Leather Vest,,Leather Vest,Small,11,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/vest_brown_01_m.png,graphics/3d/character/jacket/vest_brown_01_f.png,,,TRUE,66
+Awesome Leather Vest,,Leather Vest,Small,13,Rare,,,of the Ambusher,TRUE,graphics/3d/character/jacket/vest_brown_01_m.png,graphics/3d/character/jacket/vest_brown_01_f.png,,,TRUE,66
+Greater Leather Vest,,Leather Vest,Small,30,Rare,,,of the Crymaker,TRUE,graphics/3d/character/jacket/vest_brown_02_m.png,graphics/3d/character/jacket/vest_brown_02_f.png,,,TRUE,66
+Fine M.C. Jacket,,M.C. Jacket,Small,3,Uncommon,,,,TRUE,graphics/3d/character/jacket/mc_jacket_black_01_m.png,graphics/3d/character/jacket/mc_jacket_black_01_f.png,,,TRUE,21
+Credible M.C. Jacket,,M.C. Jacket,Small,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/mc_jacket_black_01_m.png,graphics/3d/character/jacket/mc_jacket_black_01_f.png,,,TRUE,21
+Street Wise M.C. Jacket,,M.C. Jacket,Small,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/mc_jacket_black_01_m.png,graphics/3d/character/jacket/mc_jacket_black_01_f.png,,,TRUE,21
+Worthy M.C. Jacket,,M.C. Jacket,Small,10,Uncommon,,,,TRUE,graphics/3d/character/jacket/mc_jacket_black_01_m.png,graphics/3d/character/jacket/mc_jacket_black_01_f.png,,,TRUE,21
+Superfine Motorcycle Jacket,,Motorcycle Jacket,Small,30,Rare,,,of 6th Sense,TRUE,graphics/3d/character/jacket/rider_jacket_outfit_01_m.png,graphics/3d/character/jacket/rider_jacket_outfit_01_f.png,,,TRUE,1
+Usual Multicolor Shirt,,Multicolor Shirt,Small,11,Common,,,,,graphics/3d/character/jacket/tshirt_darkcyan_02_m.png,graphics/3d/character/jacket/tshirt_darkcyan_02_f.png,,,TRUE,46
+Plain Multicolor Shirt,,Multicolor Shirt,Small,13,Common,,,,,graphics/3d/character/jacket/tshirt_darkcyan_02_m.png,graphics/3d/character/jacket/tshirt_darkcyan_02_f.png,,,TRUE,46
+Standard Multicolor Shirt,,Multicolor Shirt,Small,15,Common,,,,,graphics/3d/character/jacket/tshirt_darkcyan_02_m.png,graphics/3d/character/jacket/tshirt_darkcyan_02_f.png,,,TRUE,46
+Universal Multicolor Shirt,,Multicolor Shirt,Small,18,Common,,,,,graphics/3d/character/jacket/tshirt_red_01_m.png,graphics/3d/character/jacket/tshirt_red_01_f.png,,,TRUE,46
+Average Multicolor Shirt,,Multicolor Shirt,Small,19,Common,,,,,graphics/3d/character/jacket/tshirt_red_01_m.png,graphics/3d/character/jacket/tshirt_red_01_f.png,,,TRUE,46
+Lame Multicolor T-shirt,,Multicolor T-shirt,Small,5,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Warped Multicolor T-shirt,,Multicolor T-shirt,Small,7,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Lousy Multicolor T-shirt,,Multicolor T-shirt,Small,10,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Worthless Multicolor T-shirt,,Multicolor T-shirt,Small,12,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Poor Multicolor T-shirt,,Multicolor T-shirt,Small,16,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Shabby Multicolor T-shirt,,Multicolor T-shirt,Small,18,Poor,,,,,graphics/3d/character/jacket/tshirt_twotone_01_m.png,graphics/3d/character/jacket/tshirt_twotone_01_f.png,,,TRUE,16
+Plain Multicolor T-shirt,,Multicolor T-shirt,Small,5,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Standard Multicolor T-shirt,,Multicolor T-shirt,Small,7,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Universal Multicolor T-shirt,,Multicolor T-shirt,Small,8,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Average Multicolor T-shirt,,Multicolor T-shirt,Small,10,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Basic Multicolor T-shirt,,Multicolor T-shirt,Small,12,Common,,,,,graphics/3d/character/jacket/tshirt_white_04_m.png,graphics/3d/character/jacket/tshirt_white_04_f.png,,,TRUE,46
+Awesome Navy Jacket,,Navy Jacket,Small,30,Rare,,4,of 6th Sense,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Greater Night Jacket,,Night Jacket,Small,30,Rare,,,of 6th Sense,TRUE,graphics/3d/character/jacket/night_jacket_01_m.png,graphics/3d/character/jacket/night_jacket_01_f.png,graphics/3d/character/jacket/night_jacket_add_01_m.png,,TRUE,21
+Genuine Open Blouse,,Open Blouse,Small,24,Uncommon,,,,TRUE,graphics/3d/character/jacket/open_blouse_01_m.png,graphics/3d/character/jacket/open_blouse_01_f.png,,,TRUE,51
+Special Open Blouse,,Open Blouse,Small,26,Uncommon,,,,TRUE,graphics/3d/character/jacket/open_blouse_01_m.png,graphics/3d/character/jacket/open_blouse_01_f.png,,,TRUE,51
+Elegant Open Blouse,,Open Blouse,Small,27,Uncommon,,,,TRUE,graphics/3d/character/jacket/open_blouse_01_m.png,graphics/3d/character/jacket/open_blouse_01_f.png,,,TRUE,51
+Great Open Blouse,,Open Blouse,Small,29,Uncommon,,,,TRUE,graphics/3d/character/jacket/open_blouse_01_m.png,graphics/3d/character/jacket/open_blouse_01_f.png,,,TRUE,51
+Poor Orange Worker Coat,,Orange Worker Coat,Small,1,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Shabby Orange Worker Coat,,Orange Worker Coat,Small,2,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Inferior Orange Worker Coat,,Orange Worker Coat,Small,6,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Rural Orange Worker Coat,,Orange Worker Coat,Small,7,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Barebones Orange Worker Coat,,Orange Worker Coat,Small,9,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Beer-soaked Orange Worker Coat,,Orange Worker Coat,Small,10,Poor,,,,,graphics/3d/character/jacket/jacket_orange_02_m.png,graphics/3d/character/jacket/jacket_orange_02_f.png,,,TRUE,16
+Basic Orange Worker Coat,,Orange Worker Coat,Small,2,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Everyday Orange Worker Coat,,Orange Worker Coat,Small,3,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Regular Orange Worker Coat,,Orange Worker Coat,Small,4,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Popular Orange Worker Coat,,Orange Worker Coat,Small,6,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Common Orange Worker Coat,,Orange Worker Coat,Small,9,Common,,,,,graphics/3d/character/jacket/jacket_orange_01_m.png,graphics/3d/character/jacket/jacket_orange_01_f.png,,,TRUE,16
+Great Patterned Jacket,,Patterned Jacket,Small,10,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Cool Patterned Jacket,,Patterned Jacket,Small,13,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Good Patterned Jacket,,Patterned Jacket,Small,16,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Fine Patterned Jacket,,Patterned Jacket,Small,18,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+Credible Patterned Jacket,,Patterned Jacket,Small,19,Uncommon,,,,TRUE,graphics/3d/character/jacket/patterned_jacket_01_m.png,graphics/3d/character/jacket/patterned_jacket_01_f.png,,,TRUE,36
+High-Power Patterned Jacket,,Patterned Jacket,Small,30,Rare,,,of 6th Sense,TRUE,graphics/3d/character/jacket/pattered_long_jacket_gray_01_m.png,graphics/3d/character/jacket/pattered_long_jacket_gray_01_f.png,graphics/3d/character/jacket/pattered_long_jacket_gray_add_01_m.png,graphics/3d/character/jacket/pattered_long_jacket_gray_add_01_f.png,TRUE,36
+Genuine Protective Vest,,Protective Vest,Small,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_black_02_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Superfine Protective Vest,,Protective Vest,Small,20,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Excellent Protective Vest,,Protective Vest,Small,22,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Marvelous Protective Vest,,Protective Vest,Small,23,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Awesome Protective Vest,,Protective Vest,Small,29,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/vest_black_03_f.png,,,TRUE,66
+Greater Protective Vest,,Protective Vest,Small,30,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/vest_black_03_f.png,,,TRUE,66
+Cool Red Coat,,Red Coat,Small,2,Uncommon,,,,TRUE,graphics/3d/character/jacket/red_flame_jacket_01_m.png,graphics/3d/character/jacket/red_flame_jacket_01_f.png,,,TRUE,56
+Good Red Coat,,Red Coat,Small,3,Uncommon,,,,TRUE,graphics/3d/character/jacket/red_flame_jacket_01_m.png,graphics/3d/character/jacket/red_flame_jacket_01_f.png,,,TRUE,56
+Fine Red Coat,,Red Coat,Small,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/red_flame_jacket_01_m.png,graphics/3d/character/jacket/red_flame_jacket_01_f.png,,,TRUE,56
+Credible Red Coat,,Red Coat,Small,7,Uncommon,,,,TRUE,graphics/3d/character/jacket/red_flame_jacket_01_m.png,graphics/3d/character/jacket/red_flame_jacket_01_f.png,,,TRUE,56
+Common Red Sport Coat,,Red Sport Coat,Small,25,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,51
+Simple Red Sport Coat,,Red Sport Coat,Small,26,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,51
+Typical Red Sport Coat,,Red Sport Coat,Small,27,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,51
+Usual Red Sport Coat,,Red Sport Coat,Small,28,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,51
+Plain Red Sport Coat,,Red Sport Coat,Small,30,Common,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,51
+Simple Red Sweater,,Red Sweater,Small,24,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Typical Red Sweater,,Red Sweater,Small,27,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Usual Red Sweater,,Red Sweater,Small,28,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Plain Red Sweater,,Red Sweater,Small,29,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Standard Red Sweater,,Red Sweater,Small,30,Common,,,,,graphics/3d/character/jacket/sweater_red_01_m.png,graphics/3d/character/jacket/sweater_red_01_f.png,,,TRUE,51
+Superfine Skull T-shirt,,Skull T-shirt,Small,10,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/vest_black_03_f.png,,,TRUE,61
+Dawnbreak T-Shirt,,Skull T-shirt,Small,1,Poor,,,,,graphics/3d/character/jacket/start_tshirt_male.png,graphics/3d/character/jacket/start_tshirt_female.png,,,TRUE,61
+Marvelous Smart Jacket,,Smart Jacket,Small,29,Rare,,,,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/smart_jacket_black_01_f.png,,,TRUE,1
+Awesome Smart Jacket,,Smart Jacket,Small,30,Rare,,2,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/smart_jacket_black_01_f.png,,,TRUE,1
+Greater SPC Rider Jacket,,SPC Rider Jacket,Small,11,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_m.png,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_f.png,,,TRUE,21
+Singular SPC Rider Jacket,,SPC Rider Jacket,Small,16,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_m.png,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_f.png,,,TRUE,21
+Exquisite SPC Rider Jacket,,SPC Rider Jacket,Small,21,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_m.png,graphics/3d/character/jacket/spc_rider_jacket_outfit_04_f.png,,,TRUE,21
+Boosted Sporty Vest,,Sporty Vest,Small,25,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_black_05_f.png,,,TRUE,66
+Acute Sporty Vest,,Sporty Vest,Small,26,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_black_05_f.png,,,TRUE,66
+Genuine Sporty Vest,,Sporty Vest,Small,28,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_black_05_f.png,,,TRUE,66
+Special Sporty Vest,,Sporty Vest,Small,29,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_black_05_f.png,,,TRUE,66
+Street Wise Spy Coat,,Spy Coat,Small,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/spy_coat_01_m.png,graphics/3d/character/jacket/spy_coat_01_f.png,,,TRUE,21
+Genuine Studded Anarchy Jacket,,Studded Anarchy Jacket,Small,12,Uncommon,,,,TRUE,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Special Studded Anarchy Jacket,,Studded Anarchy Jacket,Small,13,Uncommon,,,,TRUE,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Elegant Studded Anarchy Jacket,,Studded Anarchy Jacket,Small,15,Uncommon,,,,TRUE,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Great Studded Anarchy Jacket,,Studded Anarchy Jacket,Small,18,Uncommon,,,,TRUE,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Jagged Studded Vest,,Studded Vest,Small,6,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_studded_01_m.png,graphics/3d/character/jacket/vest_studded_01_f.png,,,TRUE,66
+Radical Studded Vest,,Studded Vest,Small,7,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/vest_studded_01_m.png,graphics/3d/character/jacket/vest_studded_01_f.png,,,TRUE,66
+First-Class Studded Vest,,Studded Vest,Small,9,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_studded_01_m.png,graphics/3d/character/jacket/vest_studded_01_f.png,,,TRUE,66
+Everyday Suede Jacket,,Suede Jacket,Small,25,Common,,,,,graphics/3d/character/jacket/gray_suede_jacket_01_m.png,graphics/3d/character/jacket/gray_suede_jacket_01_f.png,,,TRUE,36
+Regular Suede Jacket,,Suede Jacket,Small,26,Common,,,,,graphics/3d/character/jacket/gray_suede_jacket_01_m.png,graphics/3d/character/jacket/gray_suede_jacket_01_f.png,,,TRUE,36
+Popular Suede Jacket,,Suede Jacket,Small,27,Common,,,,,graphics/3d/character/jacket/gray_suede_jacket_01_m.png,graphics/3d/character/jacket/gray_suede_jacket_01_f.png,,,TRUE,36
+Common Suede Jacket,,Suede Jacket,Small,29,Common,,,,,graphics/3d/character/jacket/gray_suede_jacket_01_m.png,graphics/3d/character/jacket/gray_suede_jacket_01_f.png,,,TRUE,36
+Simple Suede Jacket,,Suede Jacket,Small,30,Common,,,,,graphics/3d/character/jacket/gray_suede_jacket_01_m.png,graphics/3d/character/jacket/gray_suede_jacket_01_f.png,,,TRUE,36
+Good Suit Jacket,,Suit Jacket,Small,25,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_01_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Fine Suit Jacket,,Suit Jacket,Small,27,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_01_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Credible Suit Jacket,,Suit Jacket,Small,29,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_01_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Street Wise Suit Jacket,,Suit Jacket,Small,26,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_03_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Worthy Suit Jacket,,Suit Jacket,Small,28,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_03_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Boosted Suit Jacket,,Suit Jacket,Small,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/suit_black_03_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Jagged Suit Jacket,,Suit Jacket,Small,30,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/suit_black_02_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Radical Thick Coat,,Thick Coat,Small,30,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/trench_coat_black_01_m.png,graphics/3d/character/jacket/trench_coat_black_01_f.png,graphics/3d/character/jacket/trench_coat_black_add_01_m.png,graphics/3d/character/jacket/trench_coat_black_add_01_f.png,TRUE,21
+Cool Torso Protector,,Torso Protector,Small,25,Uncommon,,,,TRUE,graphics/3d/character/jacket/armored_torso_protector.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,66
+Good Torso Protector,,Torso Protector,Small,29,Uncommon,,,,TRUE,graphics/3d/character/jacket/armored_torso_protector.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,66
+Fine Torso Protector,,Torso Protector,Small,30,Uncommon,,,,TRUE,graphics/3d/character/jacket/armored_torso_protector.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,66
+Outstanding Trench Coat,,Trench Coat,Small,30,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/trench_coat_01_m.png,graphics/3d/character/jacket/trench_coat_01_f.png,graphics/3d/character/jacket/trench_coat_black_add_01_m.png,graphics/3d/character/jacket/trench_coat_add_01_f.png,TRUE,21
+Fine Two Tone Sweater,,Two Tone Sweater,Small,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_whitered_01_m.png,graphics/3d/character/jacket/sweater_whitered_01_f.png,,,TRUE,51
+Credible Two Tone Sweater,,Two Tone Sweater,Small,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_whitered_01_m.png,graphics/3d/character/jacket/sweater_whitered_01_f.png,,,TRUE,51
+Street Wise Two Tone Sweater,,Two Tone Sweater,Small,8,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_whitered_01_m.png,graphics/3d/character/jacket/sweater_whitered_01_f.png,,,TRUE,51
+Shabby Two Tone T-shirt,,Two Tone T-shirt,Small,9,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Inferior Two Tone T-shirt,,Two Tone T-shirt,Small,13,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Rural Two Tone T-shirt,,Two Tone T-shirt,Small,17,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Barebones Two Tone T-shirt,,Two Tone T-shirt,Small,19,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Beer-soaked Two Tone T-shirt,,Two Tone T-shirt,Small,20,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Dirty Two Tone T-shirt,,Two Tone T-shirt,Small,24,Poor,,,,,graphics/3d/character/jacket/tshirt_white_03_m.png,graphics/3d/character/jacket/tshirt_white_03_f.png,,,TRUE,11
+Usual Two Tone T-shirt,,Two Tone T-shirt,Small,18,Common,,,,,graphics/3d/character/jacket/tshirt_black_05_m.png,graphics/3d/character/jacket/tshirt_black_05_f.png,,,TRUE,46
+Plain Two Tone T-shirt,,Two Tone T-shirt,Small,22,Common,,,,,graphics/3d/character/jacket/tshirt_black_05_m.png,graphics/3d/character/jacket/tshirt_black_05_f.png,,,TRUE,46
+Standard Two Tone T-shirt,,Two Tone T-shirt,Small,10,Common,,,,,graphics/3d/character/jacket/tshirt_blue_03_m.png,graphics/3d/character/jacket/tshirt_blue_03_f.png,,,TRUE,46
+Universal Two Tone T-shirt,,Two Tone T-shirt,Small,14,Common,,,,,graphics/3d/character/jacket/tshirt_blue_03_m.png,graphics/3d/character/jacket/tshirt_blue_03_f.png,,,TRUE,46
+Average Two Tone T-shirt,,Two Tone T-shirt,Small,17,Common,,,,,graphics/3d/character/jacket/tshirt_blue_03_m.png,graphics/3d/character/jacket/tshirt_blue_03_f.png,,,TRUE,46
+Worthy Two Tone Vest,,Two Tone Vest,Small,17,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Boosted Two Tone Vest,,Two Tone Vest,Small,18,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Acute Two Tone Vest,,Two Tone Vest,Small,19,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Genuine Two Tone Vest,,Two Tone Vest,Small,21,Uncommon,,,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Singular Vented Leather Jacket,,Vented Leather Jacket,Small,25,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vented_leather_jacket_01_m.png,graphics/3d/character/jacket/vented_leather_jacket_01_f.png,,,TRUE,21
+Exquisite Vented Leather Jacket,,Vented Leather Jacket,Small,26,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vented_leather_jacket_01_m.png,graphics/3d/character/jacket/vented_leather_jacket_01_f.png,,,TRUE,21
+High-Power Vented Leather Jacket,,Vented Leather Jacket,Small,27,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/vented_leather_jacket_01_m.png,graphics/3d/character/jacket/vented_leather_jacket_01_f.png,,,TRUE,21
+Greater White Custom Jacket,,White Custom Jacket,Small,30,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/suit_white_01_m.png,graphics/3d/character/jacket/white_jacket_outfit_04_f.png,,,TRUE,46
+Singular White Hoodie,,White Hoodie,Small,14,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/tshirt_white_01_m.png,graphics/3d/character/jacket/tshirt_white_01_f.png,,,TRUE,46
+Special White Sweater,,White Sweater,Small,3,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_white_01_m.png,graphics/3d/character/jacket/sweater_white_01_f.png,,,TRUE,46
+Elegant White Sweater,,White Sweater,Small,4,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_white_01_m.png,graphics/3d/character/jacket/sweater_white_01_f.png,,,TRUE,46
+Great White Sweater,,White Sweater,Small,5,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_white_01_m.png,graphics/3d/character/jacket/sweater_white_01_f.png,,,TRUE,46
+Cool White Sweater,,White Sweater,Small,6,Uncommon,,,,TRUE,graphics/3d/character/jacket/sweater_white_01_m.png,graphics/3d/character/jacket/sweater_white_01_f.png,,,TRUE,46
+High-Power Rider Jacket,,Yellow Rider Jacket,Small,30,Rare,,3,of the Painmaker,TRUE,graphics/3d/character/jacket/vest_black_03_m.png,graphics/3d/character/jacket/yellow_rider_jacket_outfit_01_f.png,,,TRUE,31
+Regular Yellow Sweater,,Yellow Sweater,Small,10,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Popular Yellow Sweater,,Yellow Sweater,Small,14,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Common Yellow Sweater,,Yellow Sweater,Small,15,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Simple Yellow Sweater,,Yellow Sweater,Small,16,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Typical Yellow Sweater,,Yellow Sweater,Small,17,Common,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Radical Zipped Gray Jacket,,Zipped Gray Jacket,Small,18,Rare,,,of the Painmaker,TRUE,graphics/3d/character/jacket/jacket_gray_zipped_03_m.png,graphics/3d/character/jacket/jacket_gray_zipped_03_f.png,,,TRUE,36
+NPC FEMALE Eastern Queen Shirt 01,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_13diablos_tshirt_white_01.png,graphics/3d/character/jacket/npc_queens_shirt_01.png,,,TRUE,6
+NPC FEMALE Eastern Queen Shirt 02,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_13diablos_tshirt_white_01.png,graphics/3d/character/jacket/npc_queens_shirt_02.png,,,TRUE,6
+NPC FEMALE Valkyeries Jacket 01,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_mad_dogs_shirt_01.png,graphics/3d/character/jacket/npc_valkyries_shirt_01.png,,,TRUE,6
+NPC FEMALE Valkyeries Jacket 02,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_mad_dogs_shirt_02.png,graphics/3d/character/jacket/npc_valkyries_shirt_02.png,,,TRUE,6
+NPC MALE Docker Worker Jacket,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_docker_jacket_01.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,6
+NPC MALE 13 Diablos Jacket 01,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_13diablos_jacket_green_01.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE 13 Diablos Jacket 02,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_13diablos_tshirt_white_01.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Vermillion Jacket 01,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_vermillion_jacket_01.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Voodoo Jacket 01,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_voodoo_jacket_01.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Hooligan Jacket 01,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_hooligan_jacket_01.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Hooligan Jacket 02,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_hooligan_jacket_02.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Mad Dogs Jacket 01,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_mad_dogs_shirt_01.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Mad Dogs Jacket 02,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_mad_dogs_shirt_02.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Hired Guns Jacket 01,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/npc_hired_guns_vest.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Voodoo Jacket 02,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/suit_jacket_blue_03_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC MALE Hired Guns Jacket 02,true,Jacket,,1,Common,,,,,graphics/3d/character/jacket/tshirt_green_01_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,6
+NPC FEMALE Tour Guide,true,Jacket,Small,1,Common,,,,,graphics/3d/character/jacket/npc_tourguide.png,graphics/3d/character/jacket/npc_tourguide.png,,,TRUE,6
+Credible Spider Jacket,,Dark Red Sport Coat,Small,30,Uncommon,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,56
+Boosted Spider Jacket,,Dark Red Sport Coat,Large,30,Uncommon,,,,,graphics/3d/character/jacket/sportcoat_red_03_m.png,graphics/3d/character/jacket/sportcoat_red_03_f.png,,,TRUE,56
+Good Spider Shirt,,Yellow Sweater,Small,25,Uncommon,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Elegant Spider Shirt,,Yellow Sweater,Large,25,Uncommon,,,,,graphics/3d/character/jacket/sweater_yellow_01_m.png,graphics/3d/character/jacket/sweater_yellow_01_f.png,,,TRUE,31
+Genuine Blackbeard Jacket,,Studded Anarchy Jacket,Small,13,Uncommon,,,,,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+Boosted Blackbeard Jacket,,Studded Anarchy Jacket,Large,13,Uncommon,,,,,graphics/3d/character/jacket/studded_anarchist_jacket_01_m.png,graphics/3d/character/jacket/studded_anarchist_jacket_01_f.png,,,TRUE,21
+NPC Chef Jacket,true,Casual Vest,Large,1,Common,,,,,graphics/3d/character/labycorp_textures/butcher_boss_texture.png,graphics/3d/character/jacket/sweater_green_01_f.png,graphics/3d/character/labycorp_textures/butcher_boss_essu_add.png,,TRUE,66
+Labycore Worker's Jacket,,Yellow Sweater,Small,1,Poor,,,,,graphics/3d/character/jacket/orange_jail_jacket_01_m.png,graphics/3d/character/jacket/orange_jail_jacket_01_f.png,,,TRUE,31
+Labycore Worker's Coat,,Yellow Sweater,Large,1,Poor,TRUE,,,,graphics/3d/character/jacket/orange_jail_jacket_01_m.png,graphics/3d/character/jacket/orange_jail_jacket_01_f.png,,,TRUE,31
+Labycore Worker's Orange Jacket,,Yellow Sweater,Small,1,Poor,TRUE,,,,graphics/3d/character/jacket/orange_jail_jacket_02_m.png,graphics/3d/character/jacket/orange_jail_jacket_02_f.png,,,TRUE,31
+Labycore Worker's Orange Coat,,Yellow Sweater,Large,1,Poor,,,,,graphics/3d/character/jacket/orange_jail_jacket_02_m.png,graphics/3d/character/jacket/orange_jail_jacket_02_f.png,,,TRUE,31
+NPC MALE Prison Warder Jacket,true,Jacket,Large,1,Poor,,,,,graphics/3d/character/labycorp_textures/npc_security_guard_jacket.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,31
+ED's Armor Plate,,Suede Jacket,Large,18,Uncommon,,,,TRUE,graphics/3d/character/jacket/gray_suede_jacket_01_m.png,graphics/3d/character/jacket/gray_suede_jacket_01_f.png,,,TRUE,36
+ED's Armor Mesh,,Suede Jacket,Small,18,Uncommon,,,,TRUE,graphics/3d/character/jacket/gray_suede_jacket_01_m.png,graphics/3d/character/jacket/gray_suede_jacket_01_f.png,,,TRUE,36
+Mighty Jacket of Awesomeness,,Jacket,Large,1,Poor,,,,,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+Healing Scrubs of Epic,,Jacket,Small,1,Poor,,,,,graphics/3d/character/jacket/doctor_jacket_m.png,graphics/3d/character/jacket/doctor_jacket_f.png,,,TRUE,36
+Fluffy West of Legendary,,Jacket,Small,1,Poor,,,,,graphics/3d/character/jacket/hunter_jacket_m.png,graphics/3d/character/jacket/hunter_jacket_f.png,,,TRUE,36
+NPC MALE Scientist Jacket,true,Jacket,Small,1,Poor,,,,,graphics/3d/character/jacket/scientist_jacket_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,graphics/3d/character/jacket/scientist_jacket_add_m.png,,TRUE,31
+NPC Harbor Worker Blue Jacket,true,Orange Worker Coat,Large,1,Poor,,,,,graphics/3d/character/jacket/npc_harbor_worker_jacket_02.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,
+Tough Dark Trench Coat,,Dark Trench Coat,Small,10,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Superior Dark Trench Coat,,Dark Trench Coat,Small,15,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Greater Dark Trench Coat,,Dark Trench Coat,Small,20,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Extreme Dark Trench Coat,,Dark Trench Coat,Small,25,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Awesome Dark Trench Coat,,Dark Trench Coat,Large,10,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Excellent Dark Trench Coat,,Dark Trench Coat,Large,15,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Jagged Dark Trench Coat,,Dark Trench Coat,Large,20,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Exquisite Dark Trench Coat,,Dark Trench Coat,Large,25,Rare,,,of the Predator,TRUE,graphics/3d/character/jacket/long_jacket_outfit_03_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_f.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_m.png,graphics/3d/character/jacket/long_jacket_outfit_03_add_f.png,TRUE,21
+Black Protective Vest,,Protective Vest,Small,3,Rare,,,of the Crymaker,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Dark Protective Vest,,Protective Vest,Small,7,Rare,,,of the Crymaker,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Strong Protective Vest,,Protective Vest,Large,3,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Superior Protective Vest,,Protective Vest,Large,7,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/vest_black_01_m.png,graphics/3d/character/jacket/vest_black_01_f.png,,,TRUE,66
+Mighty Jacket,,Jacket,Small,7,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+Awesome Jacket,,Jacket,Small,13,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+First Class Jacket,,Jacket,Small,22,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+Superfine Jacket,,Jacket,Small,29,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+Excellent Jacket,,Jacket,Large,7,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+Marvelous Jacket,,Jacket,Large,13,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+Singular Jacket,,Jacket,Large,22,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+Greater Jacket,,Jacket,Large,29,Rare,,,of the Legend,TRUE,graphics/3d/character/jacket/bodyguard_jacket_m.png,graphics/3d/character/jacket/bodyguard_jacket_f.png,,,TRUE,36
+Excellent Vest,,Protective Vest,Small,6,Rare,,,of the Crymaker,TRUE,graphics/3d/character/jacket/vest_black_02_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Singular Vest,,Protective Vest,Small,16,Rare,,,of the Crymaker,TRUE,graphics/3d/character/jacket/vest_black_02_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Greater Vest,,Protective Vest,Large,6,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/vest_black_02_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Mighty Vest,,Protective Vest,Large,16,Rare,,,of the Destroyer,TRUE,graphics/3d/character/jacket/vest_black_02_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+First Class Skull T-shirt,,Skull T-shirt,Small,14,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Singular Skull T-shirt,,Skull T-shirt,Small,18,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Greater Skull T-shirt,,Skull T-shirt,Small,26,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Tough Skull T-shirt,,Skull T-shirt,Small,30,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Awesome Skull T-shirt,,Skull T-shirt,Large,14,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Superior Skull T-shirt,,Skull T-shirt,Large,18,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Jagged Skull T-shirt,,Skull T-shirt,Large,26,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Mercelous Skull T-shirt,,Skull T-shirt,Large,30,Rare,,3,of the Legend,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+NPC Mutant Shirt,true,Jacket,Large,1,Poor,,,,,graphics/3d/character/labycorp_textures/mutant_tshirt_white_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,31
+NPC Hired Gung T-Shirt,true,Jacket,Large,1,Poor,,,,,graphics/3d/character/jacket/npc_hired_guns_tshirt.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,31
+NPC Mutant Vest,true,Jacket,Large,1,Poor,,,,,graphics/3d/character/labycorp_textures/mutant_vest_m.png,graphics/3d/character/jacket/sweater_green_01_f.png,,,TRUE,31
+Surgeon's Scrubs,,Jacket,Small,30,Epic,,,of the Crymaker,TRUE,graphics/3d/character/jacket/doctor_jacket_m.png,graphics/3d/character/jacket/doctor_jacket_f.png,,,TRUE,36
+Manhunter's Overcoat,,Night Jacket,Small,30,Epic,,,of the Ambusher,TRUE,graphics/3d/character/jacket/night_jacket_01_m.png,graphics/3d/character/jacket/night_jacket_01_f.png,graphics/3d/character/jacket/night_jacket_add_01_m.png,,TRUE,21
+Bodybreaker's Greatcoat,,Navy Jacket,Large,30,Epic,,,of the Judgment,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Submariner's Anarchy Jacket,,Anarchy Jacket,Large,27,Uncommon,,,,,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Submariner's Suit Jacket,,Suit Jacket,Small,27,Uncommon,,,,,graphics/3d/character/jacket/suit_black_03_m.png,graphics/3d/character/jacket/suit_black_02_f.png,,,TRUE,21
+Submariner's Spy Coat,,Spy Coat,Small,27,Uncommon,,,,,graphics/3d/character/jacket/spy_coat_01_m.png,graphics/3d/character/jacket/spy_coat_01_f.png,,,TRUE,21
+Saboteur's Drum Dyed Jacket,,Drum Dyed Jacket,Large,17,Uncommon,,,,,graphics/3d/character/jacket/drumdyed_jacket_02_m.png,graphics/3d/character/jacket/drumdyed_jacket_02_f.png,,,TRUE,1
+Saboteur's Hooded Jacket,,Hooded Jacket,Small,17,Uncommon,,,,,graphics/3d/character/jacket/hooded_jacket_01_m.png,graphics/3d/character/jacket/hooded_jacket_01_f.png,,,TRUE,1
+Saboteur's Brown Leather Jacket,,Brown Leather Jacket,Small,17,Uncommon,,,,,graphics/3d/character/jacket/brown_leather_jacket_01_m.png,graphics/3d/character/jacket/brown_leather_jacket_01_f.png,,,TRUE,66
+Acid-splashed Leather Vest,,Leather Vest,Large,9,Uncommon,,,,,graphics/3d/character/jacket/vest_brown_01_m.png,graphics/3d/character/jacket/vest_brown_01_f.png,,,TRUE,66
+Acid-splashed Casual Vest,,Casual Vest,Small,9,Uncommon,,,,,graphics/3d/character/jacket/vest_black_04_m.png,graphics/3d/character/jacket/vest_black_02_f.png,,,TRUE,66
+Acid-splashed Denim Vest,,Denim Vest,Small,9,Uncommon,,,,,graphics/3d/character/jacket/vest_blue_01_m.png,graphics/3d/character/jacket/vest_blue_01_f.png,,,TRUE,76
+Bomber's Blue Sport Coat,,Blue Sport Coat,Large,7,Uncommon,,,,,graphics/3d/character/jacket/sportcoat_blue_01_m.png,graphics/3d/character/jacket/sportcoat_blue_01_f.png,,,TRUE,41
+Bomber's Green Sport Coat,,Green Sport Coat,Small,7,Uncommon,,,,,graphics/3d/character/jacket/sportcoat_green_01_m.png,graphics/3d/character/jacket/sportcoat_green_01_f.png,,,TRUE,6
+Bomber's Red Sport Coat,,Red Sport Coat,Small,7,Uncommon,,,,,graphics/3d/character/jacket/sportcoat_red_02_m.png,graphics/3d/character/jacket/sportcoat_red_02_f.png,,,TRUE,51
+Patched Up Leather Jacket,,Faux Leather Jacket,Large,1,Common,,,,TRUE,graphics/3d/character/jacket/faux_jacket_black_01_m.png,graphics/3d/character/jacket/faux_jacket_black_01_f.png,,,TRUE,21
+Patched Up Camo Shirt,,Camo Shirt,Small,1,Common,,,,TRUE,graphics/3d/character/jacket/tshirt_green_01_m.png,graphics/3d/character/jacket/tshirt_green_01_f.png,,,TRUE,6
+Patched Up Scrubs,,Jacket,Small,1,Common,,,,TRUE,graphics/3d/character/jacket/doctor_jacket_m.png,graphics/3d/character/jacket/doctor_jacket_f.png,,,TRUE,36
+Elastic Labcoat,,Jacket,Small,20,Rare,,,of Rationality,TRUE,graphics/3d/character/jacket/doctor_jacket_m.png,graphics/3d/character/jacket/doctor_jacket_f.png,,,TRUE,36
+Fireheart's Favorite T-shirt,,Skull T-shirt,Large,20,Rare,,,of the Thug,TRUE,graphics/3d/character/jacket/tshirt_white_02_m.png,graphics/3d/character/jacket/tshirt_white_02_f.png,,,TRUE,61
+Diamond-Studded Vest,,Studded Vest,Large,20,Rare,,,of Determination,TRUE,graphics/3d/character/jacket/vest_studded_01_m.png,graphics/3d/character/jacket/vest_studded_01_f.png,,,TRUE,66
+Amorous Vest,,Studded Vest,Small,20,Rare,,,of Determination,TRUE,graphics/3d/character/jacket/vest_studded_01_m.png,graphics/3d/character/jacket/vest_studded_01_f.png,,,TRUE,66
+Salvaged Armor Plate,,Torso Protector,Large,20,Uncommon,,2,of Health,TRUE,graphics/3d/character/jacket/armored_torso_protector.png,graphics/3d/character/jacket/drum_dyet_jacket_01_f.png,,,TRUE,66
+Anarchy Coat,,Anarchy Jacket,Small,30,Rare,,,of Determination,TRUE,graphics/3d/character/jacket/distressed_anarchist_jacket_01_m.png,graphics/3d/character/jacket/distressed_anarchist_jacket_01_f.png,,,TRUE,21
+Supersoldier's Uniform,,Armored Jacket,Large,30,Epic,,,of the Thug,TRUE,graphics/3d/character/jacket/armored_jacket_outfit_01_m.png,graphics/3d/character/jacket/armored_jacket_outfit_01_f.png,,,TRUE,21
+Riot Uniform,,Leather Uniform,Large,30,Rare,,2,of the Judgment,TRUE,graphics/3d/character/jacket/leather_uniform_black_02_m.png,graphics/3d/character/jacket/leather_uniform_outfit_black_02_f.png,,,TRUE,21
+Liutenant's Uniform,,Leather Uniform,Small,30,Rare,,2,of the Crymaker,TRUE,graphics/3d/character/jacket/leather_uniform_black_02_m.png,graphics/3d/character/jacket/leather_uniform_outfit_black_02_f.png,,,TRUE,21
+Hothead's Navy Jacket,,Navy Jacket,Large,1,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Daredevil's Navy Jacket,,Navy Jacket,Large,3,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Crymaker's Navy Jacket,,Navy Jacket,Large,6,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Anguisher's Navy Jacket,,Navy Jacket,Large,9,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Painmaker's Navy Jacket,,Navy Jacket,Large,12,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Wacko's Navy Jacket,,Navy Jacket,Large,14,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Pimp's Navy Jacket,,Navy Jacket,Large,16,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Maniac's Navy Jacket,,Navy Jacket,Large,18,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Destroyer's Navy Jacket,,Navy Jacket,Large,20,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Killer's Navy Jacket,,Navy Jacket,Large,22,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Psycho's Navy Jacket,,Navy Jacket,Large,24,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Hannibal's Navy Jacket,,Navy Jacket,Large,26,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Damn Nice Navy Jacket,,Navy Jacket,Large,28,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Helluva Navy Jacket,,Navy Jacket,Large,30,Epic,,2,,TRUE,graphics/3d/character/jacket/armored_navy_jacket_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_01_f.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_m.png,graphics/3d/character/jacket/armored_navy_jacket_add_01_f.png,TRUE,21
+Criminal's Two Tone Vest,,Two Tone Vest,Small,1,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Ruffian's Two Tone Vest,,Two Tone Vest,Small,3,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Thug's Two Tone Vest,,Two Tone Vest,Small,6,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Lawbreaker's Two Tone Vest,,Two Tone Vest,Small,9,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Offender's Two Tone Vest,,Two Tone Vest,Small,12,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Hitman's Two Tone Vest,,Two Tone Vest,Small,14,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Lunatic's Two Tone Vest,,Two Tone Vest,Small,16,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Cleaner's Two Tone Vest,,Two Tone Vest,Small,18,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Devastator's Two Tone Vest,,Two Tone Vest,Small,20,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Interrogator's Two Tone Vest,,Two Tone Vest,Small,22,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Torture's Two Tone Vest,,Two Tone Vest,Small,24,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Troublemaker's Two Tone Vest,,Two Tone Vest,Small,26,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Hustla's Two Tone Vest,,Two Tone Vest,Small,28,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76
+Madcap's Two Tone Vest,,Two Tone Vest,Small,30,Epic,,2,,TRUE,graphics/3d/character/jacket/vest_green_01_m.png,graphics/3d/character/jacket/vest_green_01_f.png,,,TRUE,76

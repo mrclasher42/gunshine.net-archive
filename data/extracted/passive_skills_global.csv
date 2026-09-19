@@ -1,0 +1,61 @@
+Name,Agility%,Strength%,Stamina%,Intelligence%,Armor%,MaxHP%,MaxEnergy%,Icon,TOOL_TIP_TID
+Melee Master,,1,,,,,,1,
+,,2,,,,,,,
+,,3,,,,,,,
+,,4,,,,,,,
+,,5,,,,,,,
+Ranged Master,1,,,,,,,1,
+,2,,,,,,,,
+,3,,,,,,,,
+,4,,,,,,,,
+,5,,,,,,,,
+Armor Improvement,,,,,2,,,85,TID_PASSIVE_GLOBAL_TOOL_TIP_ArmorImprovement
+,,,,,4,,,,
+,,,,,6,,,,
+,,,,,8,,,,
+,,,,,10,,,,
+Bodybuilder,,2,2,,,,,88,TID_PASSIVE_GLOBAL_TOOL_TIP_Bodybuilder
+,,4,4,,,,,,
+,,6,6,,,,,,
+,,8,8,,,,,,
+,,10,10,,,,,,
+Street Credibility,,,,,,,1,96,TID_PASSIVE_GLOBAL_TOOL_TIP_StreetCredibility
+,,,,,,,3,,
+,,,,,,,5,,
+,,,,,,,6,,
+,,,,,,,7,,
+Swift Muscles,,,,,,1,,97,TID_PASSIVE_GLOBAL_TOOL_TIP_SwiftMuscles
+,,,,,,2,,,
+,,,,,,3,,,
+,,,,,,4,,,
+,,,,,,5,,,
+Strongheart,,,,,-1,2,,98,TID_PASSIVE_GLOBAL_TOOL_TIP_Strongheart
+,,,,,-2,4,,,
+,,,,,-3,6,,,
+,,,,,-4,8,,,
+,,,,,-5,10,,,
+Wise One,,,,4,,,,99,TID_PASSIVE_GLOBAL_TOOL_TIP_WiseOne
+,,,,8,,,,,
+,,,,12,,,,,
+,,,,16,,,,,
+,,,,20,,,,,
+Additional Studies,,,,3,,,,100,TID_PASSIVE_GLOBAL_TOOL_TIP_AdditionalStudies
+,,,,6,,,,,
+,,,,9,,,,,
+,,,,12,,,,,
+,,,,15,,,,,
+Survival Instinct,,,,,,1,,101,TID_PASSIVE_GLOBAL_TOOL_TIP_SurvivalInstinct
+,,,,,,2,,,
+,,,,,,3,,,
+,,,,,,4,,,
+,,,,,,5,,,
+Nimble Doctor,2,,,2,,,,102,TID_PASSIVE_GLOBAL_TOOL_TIP_NimbleDoctor
+,4,,,4,,,,,
+,6,,,6,,,,,
+,8,,,8,,,,,
+,10,,,10,,,,,
+Bookworm,,,-10,10,,,,92,TID_PASSIVE_GLOBAL_TOOL_TIP_Bookworm
+,,,-20,20,,,,,
+,,,-30,30,,,,,
+,,,-40,40,,,,,
+,,,-50,50,,,,,

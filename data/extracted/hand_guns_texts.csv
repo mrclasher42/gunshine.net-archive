@@ -1,0 +1,227 @@
+Name,Text
+TID_WEAPON_HAND_GUN_0,Basic .32 Pistol
+TID_WEAPON_HAND_GUN_1,Average .32 Pistol
+TID_WEAPON_HAND_GUN_2,Everyday .32 Pistol
+TID_WEAPON_HAND_GUN_3,Universal .32 Pistol
+TID_WEAPON_HAND_GUN_4,Regular .32 Pistol
+TID_WEAPON_HAND_GUN_5,Popular .32 Pistol
+TID_WEAPON_HAND_GUN_6,Common .32 Pistol
+TID_WEAPON_HAND_GUN_7,Simple .32 Pistol
+TID_WEAPON_HAND_GUN_8,Typical .32 Pistol
+TID_WEAPON_HAND_GUN_9,Usual .32 Pistol
+TID_WEAPON_HAND_GUN_10,Plain .32 Pistol
+TID_WEAPON_HAND_GUN_11,Standard .32 Pistol
+TID_WEAPON_HAND_GUN_12,Basic Revolver
+TID_WEAPON_HAND_GUN_13,Okayish Revolver
+TID_WEAPON_HAND_GUN_14,Average Revolver
+TID_WEAPON_HAND_GUN_15,Everyday Revolver
+TID_WEAPON_HAND_GUN_16,Popular Revolver
+TID_WEAPON_HAND_GUN_17,Common Revolver
+TID_WEAPON_HAND_GUN_18,Simple Revolver
+TID_WEAPON_HAND_GUN_19,Basic .40 Pistol
+TID_WEAPON_HAND_GUN_20,Average .40 Pistol
+TID_WEAPON_HAND_GUN_21,Everyday .40 Pistol
+TID_WEAPON_HAND_GUN_22,Regular .40 Pistol
+TID_WEAPON_HAND_GUN_23,Basic 9mm Pistol
+TID_WEAPON_HAND_GUN_24,Average 9mm Pistol
+TID_WEAPON_HAND_GUN_25,Regular 9mm Pistol
+TID_WEAPON_HAND_GUN_26,Everyday 9mm Pistol
+TID_WEAPON_HAND_GUN_27,Popular 9mm Pistol
+TID_WEAPON_HAND_GUN_28,Common 9mm Pistol
+TID_WEAPON_HAND_GUN_29,Simple 9mm Pistol
+TID_WEAPON_HAND_GUN_30,Typical 9mm Pistol
+TID_WEAPON_HAND_GUN_31,Basic Six-shooter
+TID_WEAPON_HAND_GUN_32,Average Six-shooter
+TID_WEAPON_HAND_GUN_33,Everyday Six-shooter
+TID_WEAPON_HAND_GUN_34,Popular .40 Pistol
+TID_WEAPON_HAND_GUN_35,Regular Six-shooter
+TID_WEAPON_HAND_GUN_36,Crappy .32 Pistol
+TID_WEAPON_HAND_GUN_37,Old 9mm Pistol
+TID_WEAPON_HAND_GUN_38,Antiquated .32 Pistol
+TID_WEAPON_HAND_GUN_39,Crude .32 Pistol
+TID_WEAPON_HAND_GUN_40,Piece of Crap .32 Pistol
+TID_WEAPON_HAND_GUN_41,Lame .40 Pistol
+TID_WEAPON_HAND_GUN_42,Old .32 Pistol
+TID_WEAPON_HAND_GUN_43,Lame .32 Pistol
+TID_WEAPON_HAND_GUN_44,Battered .32 Pistol
+TID_WEAPON_HAND_GUN_45,Brittle .32 Pistol
+TID_WEAPON_HAND_GUN_46,Well Worn .32 Pistol
+TID_WEAPON_HAND_GUN_47,Crappy Revolver
+TID_WEAPON_HAND_GUN_48,Antiquated Revolver
+TID_WEAPON_HAND_GUN_49,Piece of Crap Revolver
+TID_WEAPON_HAND_GUN_50,Battered Revolver
+TID_WEAPON_HAND_GUN_51,Brittle Revolver
+TID_WEAPON_HAND_GUN_52,Lousy Revolver
+TID_WEAPON_HAND_GUN_53,Well Worn Revolver
+TID_WEAPON_HAND_GUN_54,Crappy .40 Pistol
+TID_WEAPON_HAND_GUN_55,Brittle .40 Pistol
+TID_WEAPON_HAND_GUN_56,Lousy .40 Pistol
+TID_WEAPON_HAND_GUN_57,Antiquated .40 Pistol
+TID_WEAPON_HAND_GUN_58,Piece of Crap .40 Pistol
+TID_WEAPON_HAND_GUN_59,Well Worn .40 Pistol
+TID_WEAPON_HAND_GUN_60,Poor .40 Pistol
+TID_WEAPON_HAND_GUN_61,Shoddy .40 Pistol
+TID_WEAPON_HAND_GUN_62,Inferior .40 Pistol
+TID_WEAPON_HAND_GUN_63,Crappy 9mm Pistol
+TID_WEAPON_HAND_GUN_64,Antiquated 9mm Pistol
+TID_WEAPON_HAND_GUN_65,Lame 9mm Pistol
+TID_WEAPON_HAND_GUN_66,Brittle 9mm Pistol
+TID_WEAPON_HAND_GUN_67,Lousy 9mm Pistol
+TID_WEAPON_HAND_GUN_68,Piece of Crap 9mm Pistol
+TID_WEAPON_HAND_GUN_69,Well Worn 9mm Pistol
+TID_WEAPON_HAND_GUN_70,Poor 9mm Pistol
+TID_WEAPON_HAND_GUN_71,Battered 9mm Pistol
+TID_WEAPON_HAND_GUN_72,Shoddy 9mm Pistol
+TID_WEAPON_HAND_GUN_73,Inferior 9mm Pistol
+TID_WEAPON_HAND_GUN_74,Crappy Six-shooter
+TID_WEAPON_HAND_GUN_75,Lousy Six-shooter
+TID_WEAPON_HAND_GUN_76,Well Worn Six-shooter
+TID_WEAPON_HAND_GUN_77,Poor Six-shooter
+TID_WEAPON_HAND_GUN_78,Shoddy Six-shooter
+TID_WEAPON_HAND_GUN_79,Inferior Six-shooter
+TID_WEAPON_HAND_GUN_80,Rural Six-shooter
+TID_WEAPON_HAND_GUN_81,Barebones Six-shooter
+TID_WEAPON_HAND_GUN_82,Antiquated Six-shooter
+TID_WEAPON_HAND_GUN_83,Piece of Crap Six-shooter
+TID_WEAPON_HAND_GUN_84,Greater .32 Pistol
+TID_WEAPON_HAND_GUN_85,Awesome .32 Pistol
+TID_WEAPON_HAND_GUN_86,Brutal .32 Pistol
+TID_WEAPON_HAND_GUN_87,Marvelous .32 Pistol
+TID_WEAPON_HAND_GUN_88,Mighty .32 Pistol
+TID_WEAPON_HAND_GUN_89,Righteuous .32 Pistol
+TID_WEAPON_HAND_GUN_90,Victorious .32 Pistol
+TID_WEAPON_HAND_GUN_91,First-Class .32 Pistol
+TID_WEAPON_HAND_GUN_92,Singular .32 Pistol
+TID_WEAPON_HAND_GUN_93,Excellent .32 Pistol
+TID_WEAPON_HAND_GUN_94,Outstanding .32 Pistol
+TID_WEAPON_HAND_GUN_95,Superfine .32 Pistol
+TID_WEAPON_HAND_GUN_96,Exquisite .32 Pistol
+TID_WEAPON_HAND_GUN_97,Respectable .32 Pistol
+TID_WEAPON_HAND_GUN_98,Crazy .32 Pistol
+TID_WEAPON_HAND_GUN_99,Extreme .32 Pistol
+TID_WEAPON_HAND_GUN_100,Mighty Revolver
+TID_WEAPON_HAND_GUN_101,Greater Revolver
+TID_WEAPON_HAND_GUN_102,Righteous Revolver
+TID_WEAPON_HAND_GUN_103,Jagged Revolver
+TID_WEAPON_HAND_GUN_104,Brutal Revolver
+TID_WEAPON_HAND_GUN_105,Victorious Revolver
+TID_WEAPON_HAND_GUN_106,First-Class Revolver
+TID_WEAPON_HAND_GUN_107,Singular Revolver
+TID_WEAPON_HAND_GUN_108,Excellent Revolver
+TID_WEAPON_HAND_GUN_109,Wacky .32 Pistol
+TID_WEAPON_HAND_GUN_110,Mighty .40 Pistol
+TID_WEAPON_HAND_GUN_111,Greater .40 Pistol
+TID_WEAPON_HAND_GUN_112,Righteous .40 Pistol
+TID_WEAPON_HAND_GUN_113,Brutal .40 Pistol
+TID_WEAPON_HAND_GUN_114,Victorious .40 Pistol
+TID_WEAPON_HAND_GUN_115,First-Class .40 Pistol
+TID_WEAPON_HAND_GUN_116,Singular .40 Pistol
+TID_WEAPON_HAND_GUN_117,Brutal 9mm Pistol
+TID_WEAPON_HAND_GUN_118,Marvelous 9mm Pistol
+TID_WEAPON_HAND_GUN_119,Greater 9mm Pistol
+TID_WEAPON_HAND_GUN_120,Mighty 9mm Pistol
+TID_WEAPON_HAND_GUN_121,Gruesome 9mm Pistol
+TID_WEAPON_HAND_GUN_122,Righteous 9mm Pistol
+TID_WEAPON_HAND_GUN_123,Victorious 9mm Pistol
+TID_WEAPON_HAND_GUN_124,First-Class 9mm Pistol
+TID_WEAPON_HAND_GUN_125,Singular 9mm Pistol
+TID_WEAPON_HAND_GUN_126,Excellent 9mm Pistol
+TID_WEAPON_HAND_GUN_127,Outstanding 9mm Pistol
+TID_WEAPON_HAND_GUN_128,Righteous Six-shooter
+TID_WEAPON_HAND_GUN_129,Greater Six-shooter
+TID_WEAPON_HAND_GUN_130,Victorious Six-shooter
+TID_WEAPON_HAND_GUN_131,Brutal Six-shooter
+TID_WEAPON_HAND_GUN_132,First-Class Six-shooter
+TID_WEAPON_HAND_GUN_133,Singular Six-shooter
+TID_WEAPON_HAND_GUN_134,Excellent Six-shooter
+TID_WEAPON_HAND_GUN_135,Outstanding Six-shooter
+TID_WEAPON_HAND_GUN_136,Superfine Six-shooter
+TID_WEAPON_HAND_GUN_137,Okayish .32 Pistol
+TID_WEAPON_HAND_GUN_138,Nifty .32 Pistol
+TID_WEAPON_HAND_GUN_139,Great .32 Pistol
+TID_WEAPON_HAND_GUN_140,Ideal .32 Pistol
+TID_WEAPON_HAND_GUN_141,Elegant .32 Pistol
+TID_WEAPON_HAND_GUN_142,Illegal .32 Pistol
+TID_WEAPON_HAND_GUN_143,Cool .32 Pistol
+TID_WEAPON_HAND_GUN_144,Boosted .32 Pistol
+TID_WEAPON_HAND_GUN_145,Good .32 Pistol
+TID_WEAPON_HAND_GUN_146,Fine .32 Pistol
+TID_WEAPON_HAND_GUN_147,Advanced .32 Pistol
+TID_WEAPON_HAND_GUN_148,Street Credible .32 Pistol
+TID_WEAPON_HAND_GUN_149,Credible .32 Pistol
+TID_WEAPON_HAND_GUN_150,Massive .32 Pistol
+TID_WEAPON_HAND_GUN_151,Street Wise .32 Pistol
+TID_WEAPON_HAND_GUN_152,Elegant Revolver
+TID_WEAPON_HAND_GUN_153,Great Revolver
+TID_WEAPON_HAND_GUN_154,Boosted Revolver
+TID_WEAPON_HAND_GUN_155,Illegal Revolver
+TID_WEAPON_HAND_GUN_156,Cool Revolver
+TID_WEAPON_HAND_GUN_157,Acute Revolver
+TID_WEAPON_HAND_GUN_158,Advanced Revolver
+TID_WEAPON_HAND_GUN_159,Good Revolver
+TID_WEAPON_HAND_GUN_160,Fine Revolver
+TID_WEAPON_HAND_GUN_161,Street Credible Revolver
+TID_WEAPON_HAND_GUN_162,Credible Revolver
+TID_WEAPON_HAND_GUN_163,Massive Revolver
+TID_WEAPON_HAND_GUN_164,Street Wise Revolver
+TID_WEAPON_HAND_GUN_165,Boosted Six-shooter
+TID_WEAPON_HAND_GUN_166,Worthy Revolver
+TID_WEAPON_HAND_GUN_167,Nifty Revolver
+TID_WEAPON_HAND_GUN_168,Okayish .40 Pistol
+TID_WEAPON_HAND_GUN_169,Ideal .40 Pistol
+TID_WEAPON_HAND_GUN_170,Illegal .40 Pistol
+TID_WEAPON_HAND_GUN_171,Cool .40 Pistol
+TID_WEAPON_HAND_GUN_172,Good .40 Pistol
+TID_WEAPON_HAND_GUN_173,Elegant .40 Pistol
+TID_WEAPON_HAND_GUN_174,Boosted .40 Pistol
+TID_WEAPON_HAND_GUN_175,Credible .40 Pistol
+TID_WEAPON_HAND_GUN_176,Acute .40 Pistol
+TID_WEAPON_HAND_GUN_177,Advanced .40 Pistol
+TID_WEAPON_HAND_GUN_178,Street Credible .40 Pistol
+TID_WEAPON_HAND_GUN_179,Okayish 9mm Pistol
+TID_WEAPON_HAND_GUN_180,Great 9mm Pistol
+TID_WEAPON_HAND_GUN_181,Illegal 9mm Pistol
+TID_WEAPON_HAND_GUN_182,Nifty 9mm Pistol
+TID_WEAPON_HAND_GUN_183,Ideal 9mm Pistol
+TID_WEAPON_HAND_GUN_184,Elegant 9mm Pistol
+TID_WEAPON_HAND_GUN_185,Boosted 9mm Pistol
+TID_WEAPON_HAND_GUN_186,Good 9mm Pistol
+TID_WEAPON_HAND_GUN_187,Fine 9mm Pistol
+TID_WEAPON_HAND_GUN_188,Acute 9mm Pistol
+TID_WEAPON_HAND_GUN_189,Street Wise 9mm Pistol
+TID_WEAPON_HAND_GUN_190,Advanced 9mm Pistol
+TID_WEAPON_HAND_GUN_191,Worthy 9mm Pistol
+TID_WEAPON_HAND_GUN_192,Street Credible 9mm Pistol
+TID_WEAPON_HAND_GUN_193,Massive 9mm Pistol
+TID_WEAPON_HAND_GUN_194,Okayish Six-shooter
+TID_WEAPON_HAND_GUN_195,Great Six-shooter
+TID_WEAPON_HAND_GUN_196,Acute Six-shooter
+TID_WEAPON_HAND_GUN_197,Advanced Six-shooter
+TID_WEAPON_HAND_GUN_198,Street Credible Six-shooter
+TID_WEAPON_HAND_GUN_199,Massive Six-shooter
+TID_WEAPON_HAND_GUN_200,Illegal Six-shooter
+TID_WEAPON_HAND_GUN_201,Cool Six-shooter
+TID_WEAPON_HAND_GUN_202,Good Six-shooter
+TID_WEAPON_HAND_GUN_203,Fine Six-shooter
+TID_WEAPON_HAND_GUN_204,Credible Six-shooter
+TID_WEAPON_HAND_GUN_205,Street Wise Six-shooter
+TID_WEAPON_HAND_GUN_206,Worthy Six-shooter
+TID_WEAPON_HAND_GUN_207,Toxine-Heal Gun
+TID_WEAPON_HAND_GUN_208,"Wasteland Crow, LT-04"
+TID_WEAPON_HAND_GUN_209,"Wasteland Crow, LT-10"
+TID_WEAPON_HAND_GUN_210,"Wasteland Crow, LT-30"
+TID_WEAPON_HAND_GUN_211,"Labytech Pistol, LBTP-02"
+TID_WEAPON_HAND_GUN_212,"Labytech Pistol, LBTP-03"
+TID_WEAPON_HAND_GUN_213,"Labytech Pistol, LBTP-04"
+TID_WEAPON_HAND_GUN_214,"Labytech Pistol, LBTP-05"
+TID_WEAPON_HAND_GUN_215,"Wasteland Crow, LT-01"
+TID_WEAPON_HAND_GUN_216,"Wasteland Crow, LT-24"
+TID_WEAPON_HAND_GUN_217,"Wasteland Crow, L-10"
+TID_WEAPON_HAND_GUN_218,"Wasteland Crow, L-30"
+TID_WEAPON_HAND_GUN_219,"Wasteland Crow, L-20"
+TID_WEAPON_HAND_GUN_220,Kingpin's Pistol
+TID_WEAPON_HAND_GUN_221,Diabolic Revolver
+TID_WEAPON_HAND_GUN_222,Champ's Training Gun
+TID_WEAPON_HAND_GUN_223,Pimped Out Six-shooter
+TID_WEAPON_HAND_GUN_224,Tooth Shooter
+TID_WEAPON_HAND_GUN_225,Mental Pistol

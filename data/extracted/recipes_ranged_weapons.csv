@@ -1,0 +1,142 @@
+Name,LevelUpUnlock,UnlockedByMission,Item,Ingredient,IngredientCount,IngredientsAdditional,DiamondCost,CraftTimeHours,CraftTimeMinutes,CraftTimeSeconds,LootDisabled,DiamondsOnly,DropSound,LootResource,LootExportName,DropOnlyTo
+Plans: Street Gun,TRUE,TRUE,Police Special,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,45 Auto,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Smirnov-47,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Hunting Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Machine Pistol,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Modded Shotgun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Hunter's Shotgun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Lurker's Sniper,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Heavy Shooter,TRUE,TRUE,Gatling,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Modified SMG,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Stakeout Shotgun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Techno Weapon,TRUE,TRUE,.50 Caliber Rifle,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Elephant Gun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Heavy Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Machinegun,TRUE,TRUE,Nasty SMG,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Chaingun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Sniper,TRUE,TRUE,North Wind,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Disruptor,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Rifle,TRUE,TRUE,Bullet Shover,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Anti-Tank Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Standard .40,,,Standard .40,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Rusty Carbine,,,Rusty Carbine,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Auto Carbine,,,Auto Carbine,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Home-made Minigun,,,Home-made Minigun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Rhino Stopper,,,Rhino Stopper,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Dum-Dum Special,,,Dum-Dum Special,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Smythe & Weston,,,Smythe & Weston,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Spitfire,,,Spitfire,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: 7.62mm Rifle,,,7.62mm Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Sharpshooter,,,Sharpshooter,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Experimental Rifle,,,Experimental Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Nerve Wrecker,,,Nerve Wrecker,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Sawn-off Shotgun,,,Sawn-off Shotgun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Splattershot,,,Splattershot,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hello Bullet,,,Hello Bullet,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Orbit Hunter,,,Orbit Hunter,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Mutant Modifed Shotgun,,,Mutant Modifed Shotgun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Customer Service,,,Customer Service,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Deadly Rainstick,,,Deadly Rainstick,Raider Tech,40,TRUE,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Sawyer,,,Sawyer,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Custom Rifle,,,Custom Rifle,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Turkey Gun,,,Turkey Gun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Backup Pistol,,,Backup Pistol,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Deer Rifle,,,Deer Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hermano,,,Hermano,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+,,,,,,,,,,3,,,,,,Doctor
+Plans: Mafioso Shotgun,,,Mafioso Shotgun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Laser Lasher,,,Laser Lasher,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Plasma Rifle,,,Plasma Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Heatwave,,,Heatwave,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Scorcher,,,Scorcher,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Cherub,,,Cherub,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Dark Angel,,,Dark Angel,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Pulse Rifle,,,Pulse Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Matrix Pistol,,,Matrix Pistol,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Neo Blaster,,,Neo Blaster,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Riddler,,,Riddler,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Rage Against,,,Rage Against,Raider Tech,10,TRUE,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Acedia,,,Acedia,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Sparrow Hawk,,,Sparrow Hawk,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Fire Up,,TRUE,Fire Up,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Vera,,TRUE,Vera,,,,,8,,,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Shooting Star,,TRUE,Shooting Star,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Snake Eye,,TRUE,Snake Eye,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Whisperwind,,TRUE,Whisperwind,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Bada-boom!,,TRUE,Bada-boom!,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Thumper,,TRUE,Thumper,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Ghetto Blaster,,TRUE,Ghetto Blaster,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Boom! Headshot!,,TRUE,Boom! Headshot!,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Crater Launcher,,TRUE,Crater Launcher,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Dirty,,TRUE,Dirty,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Heavy Barrel,,TRUE,Heavy Barrel,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hello Sailor!,,TRUE,Hello Sailor!,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hole Punch,,TRUE,Hole Punch,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hot Fizz,,TRUE,Hot Fizz,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hound Dog,,TRUE,Hound Dog,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Reaperman,,TRUE,Reaperman,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Meteor Storm,,TRUE,Meteor Storm,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: One Shot,,TRUE,One Shot,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Trinity,,TRUE,Trinity,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Kingfisher,,TRUE,Kingfisher,,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Lifebringer [Insta-Healer],,,Lifebringer [Insta-Healer],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Six Saver [Insta-Healer],,,Six Saver [Insta-Healer],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Used 9mm Pistol,,,Used 9mm Pistol,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Deathbringer [Firefly],,,Deathbringer [Firefly],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Breathtaker [Wasp],,,Breathtaker [Wasp],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Ordinary 9mm,,,Ordinary 9mm,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Stardust [Insta-Healer],,,Stardust [Insta-Healer],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Fulmar [Insta-Healer],,,Fulmar [Insta-Healer],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Labycore Proto Pistol,,,Labycore Proto Pistol,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Deadly Whisper [Wasp],,,Deadly Whisper [Wasp],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Deadly Shout [Wasp],,,Deadly Shout [Wasp],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Deadly Scream [Wasp],,,Deadly Scream [Wasp],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Punk Killer,,,Punk Killer,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Nice Six Shooter,,,Nice Six Shooter,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Little Kelly,,,Little Kelly,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Lightbringer [Area-Healer],,,Lightbringer [Area-Healer],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Golden Angel [Area-Healer],,,Golden Angel [Area-Healer],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Airbender,,,Airbender,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Blightstopper,,,Blightstopper,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Deathdisk,,,Deathdisk,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Gorebuster,,,Gorebuster,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Longrattler,,,Longrattler,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Zap Gone,,,Zap Gone,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Big Martha,,,Big Martha,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Moon Owl [Prolonger],,,Moon Owl [Prolonger],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Labycore Proto Shotgun,,,Labycore Proto Shotgun,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Deadhunter [Firefly],,,Deadhunter [Firefly],,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Manhunter [Firefly],,,Manhunter [Firefly],Raider Tech,20,TRUE,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Sun Owl [Prolonger],,,Sun Owl [Prolonger],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: The Judge [Firefly],,,The Judge [Firefly],Raider Tech,20,TRUE,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Stunmaster,,,Stunmaster,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Kauna,,,Kauna,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Snow Owl [Prolonger],,,Snow Owl [Prolonger],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Bolt-Action Sniper,,,Bolt-Action Sniper,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: 7.62mm Common Sniper,,,7.62mm Common Sniper,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Terralash,,,Terralash,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Terrakill,,,Terrakill,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: White Eagle [Area-Healer],,,White Eagle [Area-Healer],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Deviscerator [Leviathan],,,Deviscerator [Leviathan],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Incinerator [Leviathan],,,Incinerator [Leviathan],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Obliterator [Leviathan],,,Obliterator [Leviathan],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Undertaker [Leviathan],,,Undertaker [Leviathan],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Blood Owl [Prolonger],,,Blood Owl [Prolonger],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Silver Owl [Prolonger],,,Silver Owl [Prolonger],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Omenfreezer,,,Omenfreezer,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Iron Maiden [Area-Healer],,,Iron Maiden [Area-Healer],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Crowd Control Infector Pistol,,,Crowd Control Infector Pistol,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hyperblaster Rifle,,,Hyperblaster Rifle,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Single-shot Terraripper,,,Single-shot Terraripper,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: High-power Negadestroyer,,,High-power Megadestroyer,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Mama [Area-Healer],,,Mama [Area-Healer],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Liberator [Leviathan],,,Liberator [Leviathan],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Painfinder,,,Painfinder,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Eliminator Equalizer,,,Eliminator Equalizer,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Healeranoid [Insta-Healer],,,Healeranoid [Insta-Healer],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Unstable [Wasp],,,Unstable [Wasp],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Astroblender [Firefly],,,Astroblender [Firefly],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Articulated Insulter [Area-Healer],,,Articulated Insulter [Area-Healer],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor
+Plans: Minty Ultrasonic [Leviathan],,,Minty Ultrasonic [Leviathan],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Hunter
+Plans: Motor Sneezer [Prolonger],,,Motor Sneezer [Prolonger],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Doctor

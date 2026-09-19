@@ -1,0 +1,121 @@
+Name,WeaponClass,RequiredLevel,Rarity,Tier,DiamondsOnly,Enhancement,ShopRecommend,CriticalChance,LootMinLevel,LootMaxLevel,LootResource,LootExportName,YELLOW_TEXT_TID,Muzzle,MuzzleGlow,BulletTrail,BulletFlash,MeleeTrail,LootDisabled,GameMoneyCost,RealMoneyCost,Icon,PostToSocialNetworks
+Basic 7.62mm Gas-Operated,7.62mm Gas-Operated,2,Common,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Universal 7.62mm Gas-Operated,7.62mm Gas-Operated,8,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Average 7.62mm Gas-Operated,7.62mm Gas-Operated,12,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Everyday 7.62mm Gas-Operated,7.62mm Gas-Operated,16,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Regular 7.62mm Gas-Operated,7.62mm Gas-Operated,18,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Popular 7.62mm Gas-Operated,7.62mm Gas-Operated,22,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Common 7.62mm Gas-Operated,7.62mm Gas-Operated,25,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Simple 7.62mm Gas-Operated,7.62mm Gas-Operated,29,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Plain .308 Bolt-Action,.308 Bolt-Action,4,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Standard .308 Bolt-Action,.308 Bolt-Action,6,Common,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Normal .308 Bolt-Action,.308 Bolt-Action,7,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Universal .308 Bolt-Action,.308 Bolt-Action,13,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Basic .308 Bolt-Action,.308 Bolt-Action,18,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Average .308 Bolt-Action,.308 Bolt-Action,22,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Popular .308 Bolt-Action,.308 Bolt-Action,27,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Everyday .308 Bolt-Action,.308 Bolt-Action,28,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Basic 7.62mm Bolt-Action,7.62mm Bolt-Action,6,Common,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Average 7.62mm Bolt-Action,7.62mm Bolt-Action,9,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Standard 7.62mm Bolt-Action,7.62mm Bolt-Action,15,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Normal 7.62mm Bolt-Action,7.62mm Bolt-Action,20,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Everyday 7.62mm Bolt-Action,7.62mm Bolt-Action,22,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Universal 7.62mm Bolt-Action,7.62mm Bolt-Action,29,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Regular 7.62mm Bolt-Action,7.62mm Bolt-Action,30,Common,,,,,,,,,,,,,,,,TRUE,40,100,,
+Typical .308 Bolt-Action,.308 Bolt-Action,1,Common,,,,,,,,,,,,,,,,TRUE,120,100,,TRUE
+Usual 7.62mm Bolt-Action,7.62mm Bolt-Action,1,Common,,,,,,,,,,,,,,,,TRUE,130,100,,
+Plain 7.62mm Recoil-based,7.62mm Recoil-based,1,Common,,,,,,,,,,,,,,,,TRUE,140,100,,
+Standard 7.62mm Gas-Operated,7.62mm Gas-Operated,1,Common,,,,,,,,,,,,,,,,TRUE,150,100,,TRUE
+Rusted 7.62mm Gas-Operated,7.62mm Gas-Operated,1,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Crude 7.62mm Gas-Operated,7.62mm Gas-Operated,5,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Old 7.62mm Gas-Operated,7.62mm Gas-Operated,11,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Lame 7.62mm Gas-Operated,7.62mm Gas-Operated,13,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Brittle 7.62mm Gas-Operated,7.62mm Gas-Operated,17,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Lousy 7.62mm Gas-Operated,7.62mm Gas-Operated,24,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Crappy 7.62mm Gas-Operated,7.62mm Gas-Operated,26,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Poor 7.62mm Gas-Operated,7.62mm Gas-Operated,30,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Crappy .308 Bolt-Action,.308 Bolt-Action,1,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Cracked .308 Bolt-Action,.308 Bolt-Action,5,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Broken .308 Bolt-Action,.308 Bolt-Action,12,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Corroded .308 Bolt-Action,.308 Bolt-Action,16,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Crude .308 Bolt-Action,.308 Bolt-Action,17,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Old .308 Bolt-Action,.308 Bolt-Action,21,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Lame .308 Bolt-Action,.308 Bolt-Action,29,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Broken 7.62mm Bolt-Action,7.62mm Bolt-Action,11,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Corroded 7.62mm Bolt-Action,7.62mm Bolt-Action,14,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Crude 7.62mm Bolt-Action,7.62mm Bolt-Action,19,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Antiquated 7.62mm Bolt-Action,7.62mm Bolt-Action,21,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Old 7.62mm Bolt-Action,7.62mm Bolt-Action,25,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Lame 7.62mm Bolt-Action,7.62mm Bolt-Action,28,Poor,,,,,,,,,,,,,,,,TRUE,40,100,,
+Greater 7.62mm Recoil-based,7.62mm Recoil-based,7,Rare,,,of the Judgment,,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Awesome 7.62mm Recoil-based,7.62mm Recoil-based,11,Rare,,,of the Destroyer,,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Brutal 7.62mm Recoil-based,7.62mm Recoil-based,15,Rare,,,of the Painmaker,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Wacky 7.62mm Recoil-based,7.62mm Recoil-based,21,Rare,,,of the Predator,TRUE,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Marvelous 7.62mm Recoil-based,7.62mm Recoil-based,23,Rare,,,of the Legend,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Mighty 7.62mm Recoil-based,7.62mm Recoil-based,27,Rare,,,of the Ambusher,,6,,,,,,,,,,,TRUE,40,100,,TRUE
+Righteous 7.62mm Recoil-based,7.62mm Recoil-based,30,Rare,,,of the Crymaker,,4,,,,,,,,,,,TRUE,40,100,,TRUE
+Awesome 7.62mm Gas-Operated,7.62mm Gas-Operated,4,Rare,,,of 6th Sense,TRUE,4,,,,,,,,,,,TRUE,40,100,,TRUE
+Brutal 7.62mm Gas-Operated,7.62mm Gas-Operated,7,Rare,,,of the Ambusher,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Marvelous 7.62mm Gas-Operated,7.62mm Gas-Operated,9,Rare,,,of the Crymaker,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Mighty 7.62mm Gas-Operated,7.62mm Gas-Operated,15,Rare,,,of 6th Sense,,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Righteous 7.62mm Gas-Operated,7.62mm Gas-Operated,20,Rare,,,of the Judgment,,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Victorious 7.62mm Gas-Operated,7.62mm Gas-Operated,21,Rare,,,of the Destroyer,,,,,,,,,,,,,TRUE,40,100,,TRUE
+First-Class 7.62mm Gas-Operated,7.62mm Gas-Operated,27,Rare,,,of the Painmaker,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Singular 7.62mm Gas-Operated,7.62mm Gas-Operated,30,Rare,,,of the Predator,,9,,,,,,,,,,,TRUE,40,100,,TRUE
+Jagged .308 Bolt-Action,.308 Bolt-Action,3,Rare,,,of the Legend,,4,,,,,,,,,,,TRUE,40,100,,TRUE
+Radical .308 Bolt-Action,.308 Bolt-Action,8,Rare,,,of the Ambusher,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Greater .308 Bolt-Action,.308 Bolt-Action,11,Rare,,,of the Crymaker,TRUE,,,,,,,,,,,,TRUE,40,100,,TRUE
+Awesome .308 Bolt-Action,.308 Bolt-Action,19,Rare,,,of 6th Sense,TRUE,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Brutal .308 Bolt-Action,.308 Bolt-Action,24,Rare,,,of the Ambusher,TRUE,8,,,,,,,,,,,TRUE,40,100,,TRUE
+Marvelous .308 Bolt-Action,.308 Bolt-Action,30,Rare,,,of the Crymaker,,7,,,,,,,,,,,TRUE,40,100,,TRUE
+Mighty .308 Bolt-Action,.308 Bolt-Action,30,Rare,,,of 6th Sense,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Radical 7.62mm Bolt-Action,7.62mm Bolt-Action,8,Rare,,,of 6th Sense,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Greater 7.62mm Bolt-Action,7.62mm Bolt-Action,13,Rare,,,of 6th Sense,TRUE,9,,,,,,,,,,,TRUE,40,100,,TRUE
+Awesome 7.62mm Bolt-Action,7.62mm Bolt-Action,16,Rare,,,of the Legend,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Brutal 7.62mm Bolt-Action,7.62mm Bolt-Action,18,Rare,,,of the Ambusher,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Marvelous 7.62mm Bolt-Action,7.62mm Bolt-Action,24,Rare,,,of the Crymaker,,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Mighty 7.62mm Bolt-Action,7.62mm Bolt-Action,27,Rare,,,of the Legend,,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Righteous 7.62mm Bolt-Action,7.62mm Bolt-Action,30,Rare,,,of the Ambusher,,11,,,,,,,,,,,TRUE,40,100,,TRUE
+Victorious 7.62mm Bolt-Action,7.62mm Bolt-Action,30,Rare,,,of the Crymaker,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Great 7.62mm Recoil-based,7.62mm Recoil-based,5,Uncommon,,,,,2,,,,,,,,,,,TRUE,40,100,,TRUE
+Street Wise 7.62mm Recoil-based,7.62mm Recoil-based,9,Uncommon,,,,,1,,,,,,,,,,,TRUE,40,100,,TRUE
+Worthy 7.62mm Recoil-based,7.62mm Recoil-based,13,Uncommon,,,,,1,,,,,,,,,,,TRUE,40,100,,TRUE
+Illegal 7.62mm Recoil-based,7.62mm Recoil-based,17,Uncommon,,,,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Nifty 7.62mm Recoil-based,7.62mm Recoil-based,19,Uncommon,,,,,4,,,,,,,,,,,TRUE,40,100,,TRUE
+Ideal 7.62mm Recoil-based,7.62mm Recoil-based,25,Uncommon,,,,,2,,,,,,,,,,,TRUE,40,100,,TRUE
+Elegant 7.62mm Recoil-based,7.62mm Recoil-based,29,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Boosted 7.62mm Recoil-based,7.62mm Recoil-based,30,Uncommon,,,,,2,,,,,,,,,,,TRUE,40,100,,TRUE
+Okayish 7.62mm Gas-Operated,7.62mm Gas-Operated,3,Uncommon,,,,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Worthy 7.62mm Gas-Operated,7.62mm Gas-Operated,6,Uncommon,,,,,1,,,,,,,,,,,TRUE,40,100,,TRUE
+Nifty 7.62mm Gas-Operated,7.62mm Gas-Operated,10,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Ideal 7.62mm Gas-Operated,7.62mm Gas-Operated,14,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Elegant 7.62mm Gas-Operated,7.62mm Gas-Operated,19,Uncommon,,,,,2,,,,,,,,,,,TRUE,40,100,,TRUE
+Boosted 7.62mm Gas-Operated,7.62mm Gas-Operated,23,Uncommon,,,,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Acute 7.62mm Gas-Operated,7.62mm Gas-Operated,28,Uncommon,,,,,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Advanced 7.62mm Gas-Operated,7.62mm Gas-Operated,30,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Fine .308 Bolt-Action,.308 Bolt-Action,2,Uncommon,,,,,2,,,,,,,,,,,TRUE,40,100,,TRUE
+Credible .308 Bolt-Action,.308 Bolt-Action,9,Uncommon,,,,,2,,,,,,,,,,,TRUE,40,100,,TRUE
+Street Wise .308 Bolt-Action,.308 Bolt-Action,10,Uncommon,,,,,1,,,,,,,,,,,TRUE,40,100,,TRUE
+Worthy .308 Bolt-Action,.308 Bolt-Action,14,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Great .308 Bolt-Action,.308 Bolt-Action,15,Uncommon,,,,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Nifty .308 Bolt-Action,.308 Bolt-Action,20,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Ideal .308 Bolt-Action,.308 Bolt-Action,23,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Elegant .308 Bolt-Action,.308 Bolt-Action,25,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Boosted .308 Bolt-Action,.308 Bolt-Action,26,Uncommon,,,,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Acute .308 Bolt-Action,.308 Bolt-Action,30,Uncommon,,,,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Credible 7.62mm Bolt-Action,7.62mm Bolt-Action,5,Uncommon,,,,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Okayish 7.62mm Bolt-Action,7.62mm Bolt-Action,7,Uncommon,,,,,5,,,,,,,,,,,TRUE,40,100,,TRUE
+Street Wise 7.62mm Bolt-Action,7.62mm Bolt-Action,10,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Great 7.62mm Bolt-Action,7.62mm Bolt-Action,12,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Worthy 7.62mm Bolt-Action,7.62mm Bolt-Action,17,Uncommon,,,,,3,,,,,,,,,,,TRUE,40,100,,TRUE
+Nifty 7.62mm Bolt-Action,7.62mm Bolt-Action,23,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Cool 7.62mm Bolt-Action,7.62mm Bolt-Action,26,Uncommon,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE
+Ideal 7.62mm Bolt-Action,7.62mm Bolt-Action,30,Uncommon,,,,,8,,,,,,,,,,,TRUE,40,100,,TRUE
+Next-Gen Sniper: LTDC-05,Next-Gen Sniper,5,Epic,,,of the Legend,,10,,,,,,,,,,,TRUE,40,100,,TRUE
+Next-Gen Sniper: LTDC-30,Next-Gen Sniper,30,Epic,4,,of the Ambusher,TRUE,10,,,,,,,,,,,TRUE,40,100,,TRUE
+Next-Gen Sniper: LTDC-10,Next-Gen Sniper,10,Epic,,,of the Crymaker,,10,,,,,,,,,,,TRUE,40,100,,TRUE
+Next-Gen Sniper: LTDC-15,Next-Gen Sniper,15,Epic,,,of the Legend,,10,,,,,,,,,,,TRUE,40,100,,TRUE
+Next-Gen Sniper: LTDC-20,Next-Gen Sniper,20,Epic,,,of the Ambusher,,10,,,,,,,,,,,TRUE,40,100,,TRUE
+Next-Gen Sniper: LTDC-25,Next-Gen Sniper,25,Epic,,,of the Crymaker,,10,,,,,,,,,,,TRUE,40,100,,TRUE
+Next-Gen Sniper: LT-30,Next-Gen Sniper,30,Epic,,,of the Ambusher,,15,,,,,,,,,,,TRUE,40,100,,TRUE
+Pimp Buster,7.62mm Gas-Operated,20,Rare,,,,,,,,,,,,,,,,TRUE,40,100,,TRUE

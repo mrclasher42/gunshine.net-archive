@@ -1,0 +1,5 @@
+Name,DiamondCostExact,MoneyValue,Rarity,LootDisabled,DiamondsOnly,Icon
+Handful of Cash,6,600,Common,TRUE,TRUE,7
+Wad of Cash,20,2000,Common,TRUE,TRUE,7
+Pile of Cash,100,10000,Uncommon,TRUE,TRUE,7
+Treasure Trove,500,50000,Rare,TRUE,TRUE,7

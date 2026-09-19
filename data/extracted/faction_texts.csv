@@ -1,0 +1,89 @@
+Name,Text
+TID_FACTION_0,General
+TID_FACTION_1,Westside Grips
+TID_FACTION_2,Neutral
+TID_FACTION_3,VermillionVerdict
+TID_FACTION_4,EasternDiablos
+TID_FACTION_5,Valkyries
+TID_FACTION_6,Capardi Family
+TID_FACTION_7,99 Souls
+TID_FACTION_8,Blood Bits
+TID_FACTION_9,Muggers
+TID_FACTION_10,Dockers
+TID_FACTION_11,Hooligans
+TID_FACTION_12,Mad Dogs
+TID_FACTION_13,Mercenary
+TID_FACTION_14,DAPD
+TID_FACTION_15,13 Diablos
+TID_FACTION_16,Player
+TID_FACTION_17,Labycore
+TID_FACTION_18,Eastern Queens
+TID_FACTION_19,Hired Guns
+TID_FACTION_20,Junkie
+TID_FACTION_21,Sewer Voodoo
+TID_FACTION_22,Club Flesh
+TID_FACTION_23,Disrupters
+TID_FACTION_24,Prison Warder
+TID_FACTION_25,Inmate
+TID_FACTION_26,Knocked down
+TID_FACTION_27,Resistance
+TID_FACTION_28,Dawnbreak City
+TID_FACTION_11_DESCRIPTION_0,"\qOi mate, you took a wrong turn there. Time to pay the road toll.\q"
+TID_FACTION_11_DESCRIPTION_1,"Simple thugs who believe in the law of the jungle, Hooligans pose a serious danger when grouped up."
+TID_FACTION_11_DESCRIPTION_2,Hooligans are highly unstable and prone to senseless violence due to their heavy drinking and drug use.
+TID_FACTION_15_DESCRIPTION_0,\qWhat you looking at ese? You wanna get dropped?\q
+TID_FACTION_15_DESCRIPTION_1,The Diablos are real Old School. Their gang traditions are built on 20th century TV and movies.
+TID_FACTION_22_DESCRIPTION_0,\qIt's time for a feast. Will you join me for dinner?\q
+TID_FACTION_22_DESCRIPTION_1,\qYou know what they say - the rich eat the poor!\q
+TID_FACTION_22_DESCRIPTION_2,These predatory businessmen have found a new kind of thrill.
+TID_FACTION_10_DESCRIPTION_0,"\qLook, forget about the Suits. Without us nothing moves on or off these islands.\q"
+TID_FACTION_10_DESCRIPTION_1,"Dawnbreak's dockworkers have organized into a strong union, largely independent of Labycore."
+TID_FACTION_10_DESCRIPTION_2,"The Dockers are fiercely protective of their turf, overtime benefits and professional pride."
+TID_FACTION_18_DESCRIPTION_0,"\qAhh, you are such a lovely little thing. I want to chain you to the wall and let some freak whip you for money!\q"
+TID_FACTION_18_DESCRIPTION_1,"You don't have to be a sadist to smuggle, pimp and brutalize girls, but it helps."
+TID_FACTION_18_DESCRIPTION_2,Prostitution and slave trade can always use people who speak the victims' language.
+TID_FACTION_19_DESCRIPTION_0,"\qHired Guns... they are flies attracted to the stench of blood, gold and cordite.\q"
+TID_FACTION_19_DESCRIPTION_1,"\qWhat, I'm one of the bad guys? Don't be ridiculous, I just work here!\q"
+TID_FACTION_19_DESCRIPTION_2,"Private security contracting is a growth business, which has led to a rather variable quality of services offered."
+TID_FACTION_17_DESCRIPTION_0,"\qHalt, citizen! I am authorized to use extreme force.\q"
+TID_FACTION_17_DESCRIPTION_1,\qRaise your hands above your head and prepare for summary execution.\q
+TID_FACTION_17_DESCRIPTION_2,"Behind their armor, Labycore Troopers are in fact human beings - despite their cyborg-like appearance and emotional capacity."
+TID_FACTION_12_DESCRIPTION_0,"\qWhy work your way from money to power to women, when you can bring in all of them at once aboard a nice ship?\q"
+TID_FACTION_12_DESCRIPTION_1,\qWe just supply what people want. Of course we also tell them what it is they want.\q
+TID_FACTION_12_DESCRIPTION_2,The Mad Dogs are a well-organized and equipped gang connected to many different criminal activities.
+TID_FACTION_12_DESCRIPTION_3,"Smuggling contraband under the nose of corrupt port authorities, Mad Dogs have drawn the ire of Dockers."
+TID_FACTION_27_DESCRIPTION_0,"\qThere will always be doubters and naysayers, people who don't believe in progress and human achievement.\q\n-Sid Lovens"
+TID_FACTION_27_DESCRIPTION_1,More of Dawnbreak's outcasts join the Resistance every day. What they lack is high tech weapons and equipment needed to challenge Labycore.
+TID_FACTION_21_DESCRIPTION_0,"\qNaa mek mi vex, mon!\q"
+TID_FACTION_21_DESCRIPTION_1,"Fresh off the boat, these cultists live on the fringes of Dawnbreak and practice their native tradition."
+TID_FACTION_5_DESCRIPTION_0,\qThe bitch gave me lip so I swelled it up for him.\q
+TID_FACTION_5_DESCRIPTION_1,\qWe both have guns but I make this one look sexy.\q
+TID_FACTION_5_DESCRIPTION_2,"Dawnbreak's original all-girl gang, Valkyries redefine \qviolent feminism\q."
+TID_FACTION_28_DESCRIPTION_0,"Your better, brighter future begins."
+TID_FACTION_28_DESCRIPTION_1,"Labycore's crown jewel, a land of opportunity and adventure!"
+TID_FACTION_29,Raiders
+TID_FACTION_30,Crafting Bot
+TID_FACTION_31,Mutants
+TID_FACTION_32,Ants
+TID_FACTION_33,Dead
+TID_FACTION_31_DESCRIPTION_0,"Muties, cavemen, abominations - people have come up with various names for them. Mutants themselves prefer to be called the New Breed."
+TID_FACTION_31_DESCRIPTION_1,"The Green Monsters of Paradise Island are rumored to be intelligent and communicative. Their red-skinned brethren roam the deserts and city sewers, attacking anyone they see."
+TID_FACTION_31_DESCRIPTION_2,The cause of aggressive mutations on Paradise Island is shrouded in mystery.
+TID_FACTION_31_DESCRIPTION_3,"Legend tells of a green cloud enveloping Sunny Lagoon holiday resort, followed by a gruesome transmogrification of its inhabitants."
+TID_FACTION_31_DESCRIPTION_4,"\qTread lightly on New Breed territory, little human.\q"
+TID_FACTION_29_DESCRIPTION_0,\qKill 'em! Kill! Kill! Kill!\q
+TID_FACTION_29_DESCRIPTION_1,Bloodthirsty bands of Raiders roam the deserts of Paradise Island.
+TID_FACTION_29_DESCRIPTION_2,"The Raiders do some trading with the Mad Dogs and Eastern Queens, mostly to satisfy their depraved pleasures."
+TID_FACTION_34,Refugee
+TID_FACTION_35,Lizard
+TID_FACTION_36,Refugee Girls
+TID_FACTION_37_DESCRIPTION_0,\qYou have just arrived on Dawnbreak in search of a better life.\q
+TID_FACTION_38_DESCRIPTION_0,\qYou have to escape before Labycore cuts up your brain!\q
+TID_FACTION_39_DESCRIPTION_0,\qGrim Gonzales stands between you and freedom.\q
+TID_FACTION_40_DESCRIPTION_0,\qDEFOE is a heavily armed Walker Mech. Good thing it's on your side!\q
+TID_FACTION_37,Welcome!
+TID_FACTION_38,Locked Up
+TID_FACTION_39,Hunted!
+TID_FACTION_40,Heavy Metal
+TID_FACTION_41,PVP
+TID_FACTION_42,Undead

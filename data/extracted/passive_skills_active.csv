@@ -1,0 +1,46 @@
+Name,Deprecated,Skill1,Skill2,Skill3,DamageOrHeal%,CriticalChance,CoolDown,EnergyCost%,Threat%,Icon,TOOL_TIP_TID
+Improved Taunt,true,Taunt,,,,,-2000,-5,1,86,TID_PASSIVE_ACTIVE_TOOL_TIP_IMPROVEDTAUNT
+,,,,,,,-4000,-10,3,,
+,,,,,,,-6000,-15,5,,
+,,,,,,,-8000,,,,
+,,,,,,,-10000,,,,
+Bullet Threat,true,Bullet Rain,,,1,,,,5,89,TID_PASSIVE_ACTIVE_TOOL_TIP_BULLETTHREAT
+,,,,,2,,,,10,,
+,,,,,3,,,,15,,
+Striking Ace,true,Mega Strike,,,,2,-500,,,90,TID_PASSIVE_ACTIVE_TOOL_TIP_STRIKINGACE
+,,,,,,4,-1000,,,,
+,,,,,,6,-1500,,,,
+Threatening Act,true,Slammer,Leg Breaker,,,,,,3,91,TID_PASSIVE_ACTIVE_TOOL_TIP_THREATENINGACT
+,,,,,,,,,6,,
+,,,,,,,,,9,,
+Power Blast,true,Mega Strike,Rude Smash,,5,,,,2,92,TID_PASSIVE_ACTIVE_TOOL_TIP_POWERBLAST
+,,,,,10,,,,4,,
+,,,,,15,,,,6,,
+Poison Knowledge,true,Toxic Avenge,Poison Shot,,2,,,,2,103,TID_PASSIVE_ACTIVE_TOOL_TIP_POISONKNOWLEDGE
+,,,,,4,,,,4,,
+,,,,,6,,,,6,,
+,,,,,8,,,,8,,
+,,,,,10,,,,10,,
+Quick Mixing,true,Poison Shot,Healing Shot,,,,-1000,,,104,TID_PASSIVE_ACTIVE_TOOL_TIP_QUICKMIXING
+,,,,,,,-2000,,,,
+,,,,,,,-3000,,,,
+,,,,,,,-4000,,,,
+,,,,,,,-5000,,,,
+Skilled Avenger,true,Toxic Avenge,,,,,,-10,5,105,TID_PASSIVE_ACTIVE_TOOL_TIP_SKILLEDAVENGER
+,,,,,,,,-20,10,,
+,,,,,,,,-30,15,,
+,,,,,,,,-40,20,,
+,,,,,,,,-50,25,,
+Improved Aimed Shot,true,Aimed Shot,,,,2,,,2,106,TID_PASSIVE_ACTIVE_TOOL_TIP_IMPROVEDAIMED
+,,,,,,4,,,4,,
+,,,,,,6,,,6,,
+Medicine Knowledge,true,Healing Shot,,,,,-2000,,,107,TID_PASSIVE_ACTIVE_TOOL_TIP_MEDICINEKNOWLEDGE
+,,,,,,,-4000,,,,
+,,,,,,,-6000,,,,
+,,,,,,,-8000,,,,
+,,,,,,,-10000,,,,
+Sandman,true,Mass Blackout,,,,,-10000,,,94,TID_PASSIVE_ACTIVE_TOOL_TIP_SANDMAN
+,,,,,,,-15000,,,,
+,,,,,,,-20000,,,,
+EMP Mastery,true,EMP Shot,,,5,2,-4000,,10,46,TID_PASSIVE_ACTIVE_TOOL_TIP_EMPMASTERY
+Poison Mastery,true,Virus Shot,,,5,2,-4000,,10,131,TID_PASSIVE_ACTIVE_TOOL_TIP_POISONMASTERY

@@ -1,0 +1,272 @@
+Name,Text
+TID_HAT_0,Average Police Cap
+TID_HAT_1,Basic Nurse Hat
+TID_HAT_2,Everyday Cap
+TID_HAT_3,Regular Cap
+TID_HAT_4,Popular Cap
+TID_HAT_5,Common Cap
+TID_HAT_6,Simple Cap
+TID_HAT_7,Basic Police Cap
+TID_HAT_8,Everyday Nurse Hat
+TID_HAT_9,Typical Cap
+TID_HAT_10,Usual Cap
+TID_HAT_11,Plain Cap
+TID_HAT_12,Standard Cap
+TID_HAT_13,Universal Cap
+TID_HAT_14,Lame Hat
+TID_HAT_15,Warped Hat
+TID_HAT_16,Jagged Brimmed Hat
+TID_HAT_17,Radical Brimmed Hat
+TID_HAT_18,First-Class Brimmed Hat
+TID_HAT_19,Outstanding Brimmed Hat
+TID_HAT_20,Genuine Brimmed Hat
+TID_HAT_21,Special Brimmed Hat
+TID_HAT_22,Elegant Brimmed Hat
+TID_HAT_23,Great Brimmed Hat
+TID_HAT_24,Cool Brimmed Hat
+TID_HAT_25,Good Brimmed Hat
+TID_HAT_26,Acute Hat
+TID_HAT_27,Genuine Hat
+TID_HAT_28,Special Hat
+TID_HAT_29,Fine Brimmed Hat
+TID_HAT_30,Credible Brimmed Hat
+TID_HAT_31,Street Wise Brimmed Hat
+TID_HAT_32,Worthy Brimmed Hat
+TID_HAT_33,Boosted Brimmed Hat
+TID_HAT_34,Acute Brimmed Hat
+TID_HAT_35,Elegant Hat
+TID_HAT_36,Great Hat
+TID_HAT_37,Cool Hat
+TID_HAT_38,Genuine Cowboy Hat
+TID_HAT_39,Special Cowboy Hat
+TID_HAT_40,Elegant Cowboy Hat
+TID_HAT_41,Great Cowboy Hat
+TID_HAT_42,Cool Cowboy Hat
+TID_HAT_43,Good Cowboy Hat
+TID_HAT_44,Fine Cowboy Hat
+TID_HAT_45,Average Fedora Hat
+TID_HAT_46,Basic Fedora Hat
+TID_HAT_47,Everyday Fedora Hat
+TID_HAT_48,Regular Fedora Hat
+TID_HAT_49,Great Sombrero
+TID_HAT_50,Cool Sombrero
+TID_HAT_51,Good Sombrero
+TID_HAT_52,Fine Sombrero
+TID_HAT_53,Elegant Felt Hat
+TID_HAT_54,Great Felt Hat
+TID_HAT_55,Cool Felt Hat
+TID_HAT_56,Good Felt Hat
+TID_HAT_57,Good Ivy Cap
+TID_HAT_58,Fine Ivy Cap
+TID_HAT_59,Credible Ivy Cap
+TID_HAT_60,Street Wise Ivy Cap
+TID_HAT_61,Cool Reggae Hat
+TID_HAT_62,Good Reggae Hat
+TID_HAT_63,Fine Reggae Hat
+TID_HAT_64,Credible Reggae Hat
+TID_HAT_65,Boosted Cap
+TID_HAT_66,Acute Cap
+TID_HAT_67,Genuine Cap
+TID_HAT_68,Special Cap
+TID_HAT_69,Elegant Cap
+TID_HAT_70,Great Cap
+TID_HAT_71,Cool Cap
+TID_HAT_72,Good Cap
+TID_HAT_73,Acute Helmet
+TID_HAT_74,Genuine Helmet
+TID_HAT_75,Special Helmet
+TID_HAT_76,Elegant Helmet
+TID_HAT_77,Typical Police Cap
+TID_HAT_78,Usual Nurse Hat
+TID_HAT_79,Warped Green Cap
+TID_HAT_80,Lousy Green Cap
+TID_HAT_81,Worthless Green Cap
+TID_HAT_82,Poor Green Cap
+TID_HAT_83,Shabby Green Cap
+TID_HAT_84,Usual Police Cap
+TID_HAT_85,Plain Nurse Hat
+TID_HAT_86,Common Green Cap
+TID_HAT_87,Simple Green Cap
+TID_HAT_88,Typical Green Cap
+TID_HAT_89,Usual Green Cap
+TID_HAT_90,Plain Green Cap
+TID_HAT_91,Rural Hat
+TID_HAT_92,Barebones Hat
+TID_HAT_93,Jagged Cowboy Hat
+TID_HAT_94,Radical Cowboy Hat
+TID_HAT_95,First-Class Cowboy Hat
+TID_HAT_96,Outstanding Cowboy Hat
+TID_HAT_97,Credible Cowboy Hat
+TID_HAT_98,Street Wise Cowboy Hat
+TID_HAT_99,Worthy Cowboy Hat
+TID_HAT_100,Boosted Cowboy Hat
+TID_HAT_101,Acute Cowboy Hat
+TID_HAT_102,Universal Cowboy Hat
+TID_HAT_103,Fine Hat
+TID_HAT_104,Credible Hat
+TID_HAT_105,Street Wise Hat
+TID_HAT_106,Superfine Cowboy Hat
+TID_HAT_107,Excellent Cowboy Hat
+TID_HAT_108,Marvelous Cowboy Hat
+TID_HAT_109,Worthy Stetson
+TID_HAT_110,Boosted Stetson
+TID_HAT_111,Acute Stetson
+TID_HAT_112,Worthy Hat
+TID_HAT_113,Boosted Hat
+TID_HAT_114,Good Hat
+TID_HAT_115,Genuine Stetson
+TID_HAT_116,Special Stetson
+TID_HAT_117,Elegant Stetson
+TID_HAT_118,Great Stetson
+TID_HAT_119,Cool Stetson
+TID_HAT_120,Good Stetson
+TID_HAT_121,Fine Stetson
+TID_HAT_122,Popular Fedora Hat
+TID_HAT_123,Common Fedora Hat
+TID_HAT_124,Simple Fedora Hat
+TID_HAT_125,Typical Fedora Hat
+TID_HAT_126,Credible Sombrero
+TID_HAT_127,Street Wise Sombrero
+TID_HAT_128,Worthy Sombrero
+TID_HAT_129,Boosted Sombrero
+TID_HAT_130,Fine Felt Hat
+TID_HAT_131,Credible Felt Hat
+TID_HAT_132,Street Wise Felt Hat
+TID_HAT_133,Worthy Felt Hat
+TID_HAT_134,Worthy Ivy Cap
+TID_HAT_135,Boosted Ivy Cap
+TID_HAT_136,Acute Ivy Cap
+TID_HAT_137,Genuine Ivy Cap
+TID_HAT_138,Street Wise Reggae Hat
+TID_HAT_139,Worthy Reggae Hat
+TID_HAT_140,Boosted Reggae Hat
+TID_HAT_141,Acute Reggae Hat
+TID_HAT_142,Credible Star Cap
+TID_HAT_143,Street Wise Star Cap
+TID_HAT_144,Worthy Star Cap
+TID_HAT_145,Boosted Star Cap
+TID_HAT_146,Street Wise Worker's Cap
+TID_HAT_147,Worthy Worker's Cap
+TID_HAT_148,Boosted Worker's Cap
+TID_HAT_149,Acute Worker's Cap
+TID_HAT_150,Great Helmet
+TID_HAT_151,Cool Helmet
+TID_HAT_152,Good Helmet
+TID_HAT_153,Fine Helmet
+TID_HAT_154,Marvelous Reggae Hat
+TID_HAT_155,Jagged Cap
+TID_HAT_156,Exquisite Brimmed Hat
+TID_HAT_157,Jagged Mask
+TID_HAT_158,Awesome Reggae Hat
+TID_HAT_159,Radical Cap
+TID_HAT_160,Radical Mask
+TID_HAT_161,First Class Cap
+TID_HAT_162,First Class Mask
+TID_HAT_163,Outstanding Mask
+TID_HAT_164,High Power Brimmed Hat
+TID_HAT_165,Superfine Mask
+TID_HAT_166,Greater Reggae Hat
+TID_HAT_167,Excellent Mask
+TID_HAT_168,Marvelous Mask
+TID_HAT_169,First Class Brimmed Hat
+TID_HAT_170,Awesome Mask
+TID_HAT_171,Awesome Cowboy Hat
+TID_HAT_172,Greater Mask
+TID_HAT_173,Singular Mask
+TID_HAT_174,Singular Reggae Hat
+TID_HAT_175,Superfine Brimmed Hat
+TID_HAT_176,Exquisite Mask
+TID_HAT_177,Greater Cowboy Hat
+TID_HAT_178,High Power Mask
+TID_HAT_179,Radical Ski Mask
+TID_HAT_180,Singular Cowboy Hat
+TID_HAT_181,Exquisite Cowboy Hat
+TID_HAT_182,First Class Ski Mask
+TID_HAT_183,Outstanding Ski Mask
+TID_HAT_184,Superfine Ski Mask
+TID_HAT_185,Exquisite Reggae Hat
+TID_HAT_186,Outstanding Cap
+TID_HAT_187,Excellent Ski Mask
+TID_HAT_188,High Power Reggae Hat
+TID_HAT_189,Superfine Cap
+TID_HAT_190,Marvelous Ski Mask
+TID_HAT_191,Awesome Ski Mask
+TID_HAT_192,Greater Ski Mask
+TID_HAT_193,Excellent Brimmed Hat
+TID_HAT_194,Singular Ski Mask
+TID_HAT_195,Jagged Reggae Hat
+TID_HAT_196,Exquisite Ski Mask
+TID_HAT_197,High Power Ski Mask
+TID_HAT_198,Marvelous Brimmed Hat
+TID_HAT_199,Jagged Ski Mask
+TID_HAT_200,High Power Cowboy Hat
+TID_HAT_201,Modified Headgear
+TID_HAT_202,Jagged Skull Mask
+TID_HAT_203,Radical Reggae Hat
+TID_HAT_204,Awesome Brimmed Hat
+TID_HAT_205,First Class Headgear
+TID_HAT_206,Jagged Cowhide Hat
+TID_HAT_207,Outstanding Headgear
+TID_HAT_208,Superfine Headgear
+TID_HAT_209,Modified Cowboy Hat
+TID_HAT_210,Magnificent Hat
+TID_HAT_211,Excellent Headgear
+TID_HAT_212,Modified Mask
+TID_HAT_213,Gimp's Mask
+TID_HAT_214,Cowhide Hat
+TID_HAT_215,Excellent Cap
+TID_HAT_216,Marvelous Cap
+TID_HAT_217,Greater Brimmed Hat
+TID_HAT_218,Radical Helmet
+TID_HAT_219,First Class Helmet
+TID_HAT_220,Greater Headgear
+TID_HAT_221,Awesome Cap
+TID_HAT_222,Greater Cap
+TID_HAT_223,Outstanding Leather Hat
+TID_HAT_224,Outstanding Helmet
+TID_HAT_225,Superfine Helmet
+TID_HAT_226,Singular Headgear
+TID_HAT_227,Security Captain's Formal Cap
+TID_HAT_228,Security Captain's Formal Hat
+TID_HAT_229,1 Botmask Helmet
+TID_HAT_230,1 Cyborg Helmet
+TID_HAT_231,1 Droid Helmet
+TID_HAT_232,1 Gasbooster Helmet
+TID_HAT_233,1 Grandvisor Helmet
+TID_HAT_234,1 Multieye Helmet
+TID_HAT_235,1 Pilot Helmet
+TID_HAT_236,1 Predator Helmet
+TID_HAT_237,1 Spy Helmet
+TID_HAT_238,1 Winged Helmet
+TID_HAT_239,Bodybreaker's Helmet
+TID_HAT_240,Manhunter's Mask
+TID_HAT_241,Surgeon's Hat
+TID_HAT_242,Refugee's Cap
+TID_HAT_243,Refugee's Reggae Hat
+TID_HAT_244,Refugee's Ivy Cap
+TID_HAT_245,Confiscated Police Cap
+TID_HAT_246,Confiscated Nurse Hat
+TID_HAT_247,Confiscated Brimmed Hat
+TID_HAT_248,Salty Cowboy Hat
+TID_HAT_249,Salty Sombrero
+TID_HAT_250,Salty Fedora Hat
+TID_HAT_251,Cityfighter's Helmet
+TID_HAT_252,Cityfighter's Hat
+TID_HAT_253,Cityfighter's Cap
+TID_HAT_254,Rebel's Ivy Cap
+TID_HAT_255,Rebel's Fedora Hat
+TID_HAT_256,Rebel's Felt Hat
+TID_HAT_257,Botmask Helmet L
+TID_HAT_258,Cyborg Helmet L
+TID_HAT_259,Droid Helmet L
+TID_HAT_260,Gasbooster Helmet L
+TID_HAT_261,Grandvisor Helmet L
+TID_HAT_262,Multieye Helmet L
+TID_HAT_263,Pilot Helmet L
+TID_HAT_264,Predator Helmet L
+TID_HAT_265,Spy Helmet L
+TID_HAT_266,Winged Helmet L
+TID_HAT_267,Riot Helmet
+TID_HAT_268,Riot Headgear
+TID_HAT_269,Synthetic Android Headgear
+TID_HAT_270,Organic Android Headgear

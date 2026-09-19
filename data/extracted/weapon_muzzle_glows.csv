@@ -1,0 +1,8 @@
+Name,SWF,ExportName
+Glow,graphics/3d/weapons/muzzle.swf,MuzzleGlow
+AimedShot,graphics/3d/weapons/muzzle.swf,MuzzleGlow_AimedShot
+QuickShot,graphics/3d/weapons/muzzle.swf,MuzzleGlow_QuickShot
+CrippleShot,graphics/3d/weapons/muzzle.swf,MuzzleGlow_CrippleShot
+WoundShot,graphics/3d/weapons/muzzle.swf,MuzzleGlow_WoundShot
+HealShot,graphics/3d/weapons/muzzle.swf,MuzzleGlow_heal_shot
+SonicBurst,graphics/3d/weapons/muzzle.swf,MuzzleGlowSonicBurst

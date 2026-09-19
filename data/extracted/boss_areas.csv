@@ -1,0 +1,62 @@
+Name,Level,LayerInstanceIndex,StartX,StartY,Bosses,ExpLevel
+0: Mutated Zombie,Subway station,,40,47,Mutated Zombie,4
+1: Piggy Bob,Weed Patch,,36,20,Piggy Bob,6
+2: Troll's Lair,Troll's Lair,,42,66,TROLL,7
+3: Don Wang,Import Area,,75,76,Mafioso,10
+4: Headless Zombie (Beta Key),Omega Avenue,,38,52,Headmaster,10
+5: Calavera Ant,Toxic Wasteland,,17,7,Calavera Ant,13
+,,,,,Hermit Manny,
+6: Blackbeard,Blackbeard's Base,,44,67,Captain Blackbeard,14
+7: Demolisherbot,Mill Park,,6,19,Demolisherbot,15
+8: ED-187,Steel Heliport,,20,39,ED-187,16
+9: Pimp Mother,Casino Royale,,8,69,Pimp Mother,20
+10: Gentec Lab,Foundry Way,,53,77,Mutated Scientist,20
+,,,,,Breeding Mutant,
+,,,,,Fireheart,
+11: Yellow Spider,Orleans Street,,13,47,Yellow Spider,24
+12: Killmaster,Lovens Park North,,58,68,Killmaster,25
+13: Sun Spider,New Moscow Street,,54,37,Sun Spider,25
+14: Prison (Hard),Prison,,64,60,Undead Butcher,30
+,,,,,Gyros,
+,,,,,Anger,
+,,,,,Bomber,
+15: Wetlands (HARD - Beta Key),Wetlands,,44,7,Big Boss,30
+16: Omega Harbor (HARD - Beta Key),Omega Island Harbor,,5,57,Swarmbot,30
+17: SENTINEL (Easy),Dawnbreak Square,,22,26,SENTINEL,30
+18: Akirun (Easy),East Canal,,10,30,Akirun,30
+19: Power Plant (Key - Medium),Power Plant West,,36,21,The Red Spider Mite,30
+,,,,,DAEMON,
+,,,,,Chief Engineer,
+20: Maniac Mansion (HARD),Copenhagen Street,,77,50,Bob De La Muerte,30
+,,,,,Victor De La Muerte,
+,,,,,Hector De La Muerte,
+21: Dr. Bauhoff (Key - Medium),New Naples Street,,82,32,Dr. Bauhoff,30
+,,,,,Doctor Catherine,
+,,,,,Security Captain,
+22: 7 Deadly Sins (Key - Hard),New Venice Square,,8,77,Wrath,30
+,,,,,Glutton,
+,,,,,Envy,
+,,,,,Chimera,
+,,,,,Dr. Evil Emmett,
+23: QoD (Key - Hard),Venice Canal East,,12,77,Slave Eater,30
+,,,,,The Diseased,
+,,,,,Mr. Arms,
+,,,,,Queen Mary,
+,,,,,Rockhead,
+,,,,,VIP Guard Bot,
+24: Ship de Palma (Easy),New Venice Hotel,,77,80,Queen Bathory,30
+25: Riot Town (Key - Hard),New Peking Street,,21,77,Antiriot Sentry,30
+,,,,,Riot Captain,
+,,,,,Supersoldier Officer,
+26: Red Hot (Easy),Lovens Park West,,27,71,SPARTAN,30
+,,,,,Pyrox,
+,,,,,Lava Ant,
+27: The Slavemaster (Key - Hard),Desert Storm,,22,13,Raider Slavemaster,30
+28: Raider Valley (Key - Hard),Lemon Desert,,63,19,Raider Shaman,30
+,,,,,Raider Chieftain,
+29: Devourer Dragon (Key - Hard),Power Drive,,72,77,Devourer Dragon,30
+30: Secret Cave (HARD - Beta Key),The Road,,52,4,Brains,30
+31: L.A.R.P.U. (HARD - Beta Key),L.A.R.P.U.,,74,40,Sneaky Zombie,30
+32: Raider Village (Key - Medium),Deserted Village,,72,23,Raider Jules,30
+,,,,,Vega,
+,,,,,Vega 2.0,

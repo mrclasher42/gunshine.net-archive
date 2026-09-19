@@ -1,0 +1,576 @@
+Name,Text
+TID_BUTTON_OK,Ok
+TID_BUTTON_CANCEL,Cancel
+TID_BUTTON_START,Start
+TID_BUTTON_RESTART,Restart
+TID_BUTTON_YES,Yes
+TID_BUTTON_NO,No
+TID_BUTTON_SELECT,Select
+TID_BUTTON_PLAY,Play
+TID_LOOT_PICKUP_TEXT,<ITEM_NAME>
+TID_ITEM_RECEIVED,You received <ITEM_NAME>
+TID_ITEM_RECEIVED_OTHER,<NAME> received <ITEM_NAME>
+TID_MONEY_RECEIVED,You received $<MONEY_NUMBER>
+TID_MONEY_RECEIVED_OTHER,<NAME> received $<MONEY_NUMBER>
+TID_DIAMONDS_RECEIVED_OTHER,<NAME> received <MONEY_NUMBER> diamonds
+TID_ONE_DIAMOND_RECEIVED_OTHER,<NAME> received 1 diamond
+TID_CANT_CREATE_MORE_CHARACTERS,You can't create more characters
+TID_CHARACTER_DISPLAY_NAME_LEVEL,"<NAME>, Level <NUMBER> <CLASS>"
+TID_CHARACTER_DISPLAY_NAME_PRESTIGE,"<NAME>, <PRESTIGE> <NUMBER> <CLASS>"
+TID_EXPERIENCE_LEVEL_TOO_LOW,Your experience level is too low
+TID_SKILL_FAIL_WEAPON,You don't have the required weapon
+TID_SKILL_FAIL_COOLDOWN,That ability is not ready yet
+TID_SKILL_FAIL_ENERGY,Not enough energy
+TID_SKILL_FAIL_NO_TARGET,You don't have a target
+TID_SKILL_FAIL_INVALID_TARGET,Invalid target
+TID_SKILL_FAIL_CONSUMABLE_ITEM,You don't have the required item
+TID_INVENTORY_FULL,Bag is full
+TID_SKILL_RANK,Rank <NUMBER>
+TID_NEXT_SKILL_RANK,Next Rank
+TID_REQUIRED_LEVEL,Required Level <NUMBER>
+TID_EXP_LEVEL,Level <NUMBER>
+TID_ITEM_RARITY,Rarity: <RARITY_NAME>
+TID_SKILL_REQUIRES_WEAPON,Requires <WEAPON_CLASS_NAME>
+TID_SKILL_COOLDOWN,Cooldown: <NUMBER>
+TID_SKILL_ENERGY_COST,Energy Cost: <NUMBER>
+TID_RANGE,<NUMBER>yd
+TID_DRAG_CONSUMABLE_HERE_TIP,Drag an usable item here.
+TID_DRAG_TO_SKILL_BAR_TIP,Drag the icon to the skill bar to use it.
+TID_DRAG_EQUIPMENT_HERE_TIP,Drag a <EQUIPMENT_TYPE> here to equip it.
+TID_ATTRIBUTE_AGILITY,Ranged Power: <NUMBER>
+TID_ATTRIBUTE_INTELLIGENCE,Energy: <NUMBER>
+TID_ATTRIBUTE_STAMINA,Health: <NUMBER>
+TID_ATTRIBUTE_STRENGTH,Melee Power: <NUMBER>
+TID_ATTRIBUTE_ARMOR,Armor: <NUMBER>
+TID_ATTRIBUTE_CRITICAL_CHANCE,Critical Chance: <NUMBER>
+TID_ATTRIBUTE_DPS,Damage: <NUMBER>
+TID_MONEY,$<NUMBER>
+TID_ATTACK_TIP,Click to attack
+TID_TALK_TIP,Click to talk
+TID_USE_TIP,Click to use
+TID_WEAPON_SWITCH_BUTTON,Switch
+TID_MAP,Map
+TID_CHARACTER_SHEET,Character Sheet
+TID_MAP_CURRENT_LOCATION,Current Location: <LEVEL_NAME>
+TID_INVENTORY,Bag
+TID_NEW_MISSION,New Mission
+TID_MISSION_INVENTORY_FULL,Mission list is full
+TID_MAP_TRAVEL_QUERY,Travel to <ITEM_NAME>?
+TID_CANT_TAKE_TAXI_THERE,Area needs to be explored by foot or have ongoing missions
+TID_MAP_PLAYER_POSITION,You are here.
+TID_MAP_GROUP_MEMBER_POSITION,<PLAYER_NAME> is here.
+TID_MAP_RECOMMENDED_EXP_LEVEL,Recommended xp level: <NUMBER>
+TID_MAP_UNEXPLORED_ZONE,Unexplored area
+TID_LOGIN_FAILED,Login failed. Error code: <NUMBER>
+TID_CREATE_NEW_CHARACTER_BUTTON,New Character
+TID_CREATE_CHARACTER_SCREEN_TITLE,New Character
+TID_SELECT_CHARACTER_SCREEN_TITLE,Select Character
+TID_CHARACTER_NAME,Character Name
+TID_CREATE_CHARACTER_FAILED,Character creation failed.
+TID_CREATE_CHARACTER_FAILED_ILLEGAL_NAME,Character creation failed. Name is invalid.
+TID_CREATE_CHARACTER_FAILED_NAME_TAKEN,Character creation failed. Name is already taken.
+TID_CREATE_CHARACTER_GENDER_TITLE,Gender
+TID_CREATE_CHARACTER_BUTTON_MALE,Male
+TID_CREATE_CHARACTER_BUTTON_FEMALE,Female
+TID_CREATE_CHARACTER_CLASS_TITLE,Character Class
+TID_CREATE_CHARACTER_SKIN_COLOR_TITLE,Skin Color
+TID_CREATE_CHARACTER_HAIR_CUT_TITLE,Hair Cut
+TID_CREATE_CHARACTER_HAIR_COLOR_TITLE,Hair Color
+TID_CREATE_CHARACTER_FACE_TITLE,Face
+TID_CREATE_CHARACTER_FACIAL_HAIR_CUT_TITLE,Facial Hair Cut
+TID_CREATE_CHARACTER_FACIAL_HAIR_COLOR_TITLE,Facial Hair Color
+TID_CREATE_CHARACTER_INVALID_NAME,Character name is too short.
+TID_CREATE_CHARACTER_DONE_BUTTON,Play!
+TID_NOT_ENOUGH_FREE_INVENTORY_SPACE,Can't unequip the bag. Not enough free space in the bag.
+TID_BAG_ITEM,Bag
+TID_INVENTORY_SIZE_INCREASED_NOTIFICATION,Bag size increased
+TID_ATTRIBUTE_BAG_SIZE,Increases your bag size by <NUMBER>.
+TID_EXPERIENCE_BAR,<NUMBER> XP to reach level <LEVEL_NUMBER>
+TID_EXPERIENCE_BAR_LEVEL_CAP,<NUMBER> XP to reach next prestige level
+TID_PRESTIGE_BAR,<NUMBER> P to reach next prestige level
+TID_HEALTH_BAR,Health <NUMBER> / <MAX_NUMBER>
+TID_ENERGY_BAR,Energy <NUMBER> / <MAX_NUMBER>
+TID_CHARACTER_TEXT_BOX_TRADE,Trade
+TID_ATTRIBUTE_SELL_PRICE,Sell price: $<GAME_MONEY_COST>
+TID_NOT_ENOUGH_DIAMONDS,You don't have enough diamonds.\n\nWould you like to get more now?
+TID_NOT_ENOUGH_CASH,You don't have enough cash.\n\nWould you like to get more now?
+TID_NOT_ENOUGH_INVENTORY_SPACE,Your bag is full.\n\nIncrease bag size by <NUMBER> slots?
+TID_DEATH_SCREEN_TITLE,You're wounded!
+TID_DEATH_SCREEN_PRIVATE_DOCTOR,Call an Ambulance
+TID_DEATH_SCREEN_PRIVATE_DOCTOR_DESCRIPTION,Escape and receive basic first aid.
+TID_DEATH_SCREEN_INSTANT_RESURRECT,Adrenaline Shot
+TID_DEATH_SCREEN_INSTANT_RESURRECT_DESCRIPTION,Get back in the action immediately!
+TID_BUFF_OVERRIDE_CONFIRMATION,Using this ability will cancel the existing <BUFF_NAME> effect. Are you sure you want to do this?
+TID_ITEM_DRAG_FAIL_LEVEL,Your experience level is too low!
+TID_ITEM_DRAG_FAIL_CLOTH_CLASS,You can only wear items of <CLOTH_CLASS> size.
+TID_ITEM_SELL_CONFIRMATION,Are you sure you want to sell <ITEM_NAME> for $<NUMBER>?
+TID_BUY_ITEM_CONFIRMATION,Are you sure you want to buy <ITEM_NAME>?
+TID_ITEM_SOLD,You sold the <ITEM_NAME>
+TID_HIRE_BUTTON,Hire
+TID_HIRE_MERCENARY_BUTTON,Hire as mercenary
+TID_CHARACTER_TYPE_ELITE,(Elite)
+TID_CHARACTER_TYPE_BOSS,(Boss)
+TID_CHARACTER_TYPE_MINI_BOSS,(Mini Boss)
+TID_ADD_MONEY,"Add CASH\nUse money to buy goods, skills and services."
+TID_ADD_DIAMONDS,Add DIAMONDS\nUse diamonds to buy powerful special items and expand your bag.
+TID_NO_REQUIRED_SKILL,You don't have the required skill
+TID_ADD_FRIENDS,Add More Friends
+TID_VIEW_CHARACTER_BUTTON,View Character
+TID_INVITE_TO_PARTY_BUTTON,Invite to Group
+TID_REMOVE_FRIEND_BUTTON,Remove Friend
+TID_FRIENDS_SCREEN,Friends
+TID_EMPTY_FRIEND_LIST,You have not added any friends yet. Click the Add More Friends button.
+TID_ADD_FRIENDS_SCREEN_TITLE,Add More Friends
+TID_ADD_CHARACTER_FRIEND,Add Character Friend
+TID_SEND_FRIEND_REQUEST,Add as Mercenary
+TID_ADD_EMAIL_FRIEND_TITLE,Enter your friend's Gunshine.net email address
+TID_NO_FACEBOOK_FRIENDS_FOUND,Unable to find Facebook friends playing Gunshine.net
+TID_BUTTON_ACCEPT,Accept
+TID_BUTTON_DECLINE,Decline
+TID_BUTTON_CONTINUE,Continue
+TID_FRIEND_REQUEST_TEXT,Accept friend request from <NAME>?
+TID_FRIEND_STATE_REQUEST_RECEIVED,Friend request
+TID_FRIEND_STATE_REQUEST_SENT,Friend request sent
+TID_FRIEND_STATE_BLOCKED,Blocked
+TID_FRIEND_REQUEST_SENT,Friend request was sent
+TID_FRIEND_STATE_ONLINE,Online
+TID_FRIEND_STATE_OFFLINE,Offline
+TID_PLAYER_IGNORED,<NAME> ignored
+TID_PLAYER_BLOCKED,<NAME> blocked
+TID_ITEM_COMPARISON_TOOL_TIP_TITLE,Currently Equipped
+TID_CHARACTER_CODE,Character Code
+TID_ADD_CHARACTER_FRIEND_TIP,"To add a character friend, enter that player's character name and code."
+TID_ADD_FRIEND_FAILED_EMAIL,Friend request failed. Requested email address was not found.
+TID_ADD_FRIEND_FAILED_CHARACTER_CODE,Friend request failed. Name or character code was invalid.
+TID_INVALID_TARGET,Invalid target!
+TID_COMPANION_TYPE_FRIEND,Friend
+TID_FRIEND_REMOVED,(<FRIEND_NAME>) removed from your Friend list.
+TID_REMOVE_FRIEND_CONFIRMATION,Are you sure you want to remove <NAME> from your friends?
+TID_PARTY_INVITE_SENT,Group invite was sent to <NAME>
+TID_LEAVE_PARTY_BUTTON,Leave Group
+TID_KICK_PARTY_MEMBER_BUTTON,Kick Member
+TID_ADD_FRIEND_BUTTON,Send Friend Request
+TID_LEAVE_PARTY_FAILED,You are not in a group.
+TID_PARTY_INVITATION,<NAME> has invited you to group.
+TID_PARTY_INVITATION_IN_TUTORIAL_LEVEL,<NAME> has invited you to group. Group invites cannot be accepted in tutorial levels.
+TID_KICK_PARTY_MEMBER_FAILED,Only the group leader can kick out members.
+TID_OPEN_CHAT_BUTTON,CHAT
+TID_CHAT_CHANNEL_PARTY,Group
+TID_CHAT_CHANNEL_LEVEL,Local
+TID_CHAT_CHANNEL_DISTRICT,District
+TID_CHAT_CHANNEL_WHISPER,To <NAME>
+TID_CHAT_CHANNEL_GLOBAL,Global
+TID_CHAT_CHANNEL_ADMIN,Admin
+TID_CHAT_CHANNEL_MODERATOR,Mod
+TID_CHAT_NAME_SELF,You
+TID_CHAT_CHANNEL_GLOBAL_EXP_LOCKED,(XP level 5 required)
+TID_CHAT_CHANNEL_DISTRICT_EXP_LOCKED,(XP level 3 required)
+TID_CHAT_LOCALE_MENU_TITLE,Set locale
+TID_CHAT_LOCALE_MENU_TOOLTIP,Send and receive only with others in this locale
+TID_CHAT_LEAVE_GLOBAL,Leave Global Chat
+TID_CHAT_MENU_TAB_GENERAL,General
+TID_CHAT_MENU_TAB_LOCALE,Locale
+TID_CHAT_MENU_TAB_BLACKLIST,Blacklist
+TID_CHAT_MENU_GENERAL_TITLE1,Chat channels that you are listening to:
+TID_CHAT_MENU_GENERAL_TITLE2,Group Invites
+TID_CHAT_MENU_GENERAL_DISTRICT,District
+TID_CHAT_MENU_GENERAL_GROUP,Group Members
+TID_CHAT_MENU_GENERAL_GLOBAL,Global
+TID_CHAT_MENU_GENERAL_INVITE,Block group invites
+TID_CHAT_MENU_GENERAL_PRIVATE,Private
+TID_CHAT_MENU_LOCALE_TITLE,Select preferred area or language:
+TID_CHAT_MENU_BLACKLIST_TITLE,People on your blacklist:
+TID_CHAT_MENU_BLACKLIST_ITEM_MUTED,<ignored>
+TID_CHAT_MENU_BLACKLIST_ITEM_BLOCKED,<blocked>
+TID_CHAT_MENU_BLACKLIST_ITEM_MUTED_GLOBAL,"<ignored, global>"
+TID_CHAT_MENU_BLACKLIST_ITEM_BLOCKED_GLOBAL,"<blocked, global>"
+TID_CHAT_MENU_BLACKLIST_ITEM_REMOVE,Remove
+TID_CHAT_LINE_SUBMENU_SEND_MESSAGE,Chat
+TID_CHAT_LINE_SUBMENU_GROUP_INVITE,Invite to Group
+TID_CHAT_LINE_SUBMENU_FRIEND_REQUEST,Send Friend Request
+TID_CHAT_LINE_SUBMENU_MUTE,Ignore this person
+TID_CHAT_LINE_SUBMENU_MUTE_GLOBAL,Ignore this person [global]
+TID_CHAT_LINE_SUBMENU_BLOCK,Block this person
+TID_CHAT_LINE_SUBMENU_BLOCK_GLOBAL,Block this person [global]
+TID_CHAT_LINE_SUBMENU_REPORT,Report Abuse
+TID_CHAT_LINE_SUBMENU_BAN,BAN (admin only)
+TID_CHAT_RULES_REMINDER,"Chat rules: Respect all players. No profanity, hate speech, spam and no CAPS!"
+TID_PROMOTE_TO_PARTY_LEADER_BUTTON,Promote to Leader
+TID_FRIEND_ONLINE_NOTIFICATION,<NAME> is online
+TID_TOGGLE_WEAPON_TOOL_TIP,Click to toggle weapon
+TID_EQUIPPED_WEAPON_TOOL_TIP,Equipped Weapon
+TID_MAP_TRAVEL_INSTRUCTION,Left click on an area to travel
+TID_ATTRIBUTE_CLOTH_CLASS,Cloth Class: <NAME>
+TID_CHARACTER_CODE_ATTRIBUTE,Character Code: <CHARACTER_CODE>
+TID_ATTRIBUTE_REMAINING_BUFF_TIME,Remaining Time: <TIME>
+TID_TIME_D,<DAYS> d
+TID_TIME_D_H,<DAYS> d <HOURS> h
+TID_TIME_H,<HOURS> h
+TID_TIME_H_M,<HOURS> h <MINUTES> min
+TID_TIME_M,<MINUTES> min
+TID_TIME_M_S,<MINUTES> min <SECONDS> sec
+TID_TIME_S,<SECONDS> sec
+TID_DIGITAL_TIME,<MINUTES>:<SECONDS>
+TID_DIGITAL_TIME_HOURS,<HOURS>:<MINUTES>:<SECONDS>
+TID_TREASURE_BOX,Treasure Box
+TID_YT_TREASURE_BOX,"Treasure Boxes contain surprise Plans or Ingredients, and even unique stuff!"
+TID_TREASURE_BOX_UNLOCK_CONFIRMATION,Open to get special loot.
+TID_TREASURE_BOX_UNLOCK_CONFIRMATION_TITLE,A TREASURE BOX!
+TID_TREASURE_BOX_OPEN_BUTTON,Open for <NUMBER>
+TID_TREASURE_BOX_OPENED,Treasure box opened. You received <ITEM>!
+TID_CONNECT_FAILED,Error connecting to Gunshine.net server. Please try again later...\n\nIf you get this error continuously there might be an issue with your firewall blocking the traffic. To solve the issue please contact your system administrator.
+TID_CHAT_TIP,Press [Ctrl] key to toggle chat recipient.
+TID_CHAT_BUTTON,Chat
+TID_ENTRANCE_OBJECT,Entrance
+TID_ENTRANCE_TO_INSTANCE,Entrance to dangerous area <ITEM_NAME>
+TID_ENTRANCE_TO_LEVEL,Entrance to <ITEM_NAME>
+TID_XP_EVENT,<NUMBER> XP
+TID_PRESTIGE_EVENT,<NUMBER> P
+TID_WHISPER_FAILED,Chat message failed. Recipient is offline.
+TID_ITEM_TOOLTIP_REQUIREMENT,- <ITEM_NAME>
+TID_MISSION_TOOLTIP_REQUIREMENT,- mission <ITEM_NAME> needed
+TID_MISSION_FINISHED_TOOLTIP_REQUIREMENT,- mission <ITEM_NAME> finished needed
+TID_ENEMY_DEAD_TOOLTIP_REQUIREMENT,- <ITEM_NAME> needs to be killed
+TID_MAX_EXP_LEVEL_TOOLTIP_REQUIREMENT,- max exp level <NUMBER>
+TID_MIN_EXP_LEVEL_TOOLTIP_REQUIREMENT,- required exp level <NUMBER>
+TID_TOOLTIP_REQUIREMENTS_TITLE,Requirements:
+TID_MISSING_REQUIRED_ITEM,You need <ITEM_NAME>!
+TID_MISSING_REQUIRED_MISSION,You need mission <ITEM_NAME>!
+TID_REQUIRED_MISSION_NOT_FINISHED,You need to have mission <ITEM_NAME> finished!
+TID_REQUIRED_ENEMY_NOT_DEAD,You need to kill <ITEM_NAME>!
+TID_REQUIRED_MAX_LEVEL,Your exp level is too high! Max exp level <NUMBER>
+TID_REQUIRED_MIN_LEVEL,Your exp level is too low! Required exp level <NUMBER>
+TID_ARMOR,Armor
+TID_DPS,Damage/Second
+TID_PICK_UP_LOOT_TIP,Click to pick up
+TID_CAN_NOT_COMBINE_ITEMS,It is not possible to combine items
+TID_LOCKED,Locked
+TID_TOOL_TIP_TITLE_NEXT_RANK,Next Rank
+TID_TALENT_TREE_TIER_LOCKED,Requires <NUMBER> talent points in <SPECIALIZATION>
+TID_SPECIALIZATION_SELECTED,You have learned <SPEC> specialization
+TID_NEW_LEVEL_DISCOVERED,New area discovered!
+TID_EXPERIENCE_GAINED,Experience gained: <NUMBER>
+TID_PRESTIGE_POINTS_GAINED,Prestige points gained: <NUMBER>
+TID_DAMAGE_INDICATION_EVADE,EVADE
+TID_DAMAGE_INDICATION_MISS,MISS
+TID_CRAFT_MISSION_BUTTON,Craft
+TID_TRAVEL_TO_MISSION_BUTTON,Travel there
+TID_ABANDON_MISSION_BUTTON,Abandon
+TID_ABANDON_MISSION_CONFIRMATION,Are you sure you want to abandon mission <ITEM_NAME>?
+TID_CHARACTER_CARD_OPTIONS_BUTTON_TOOL_TIP,Character and group options
+TID_MISSION_LOG_EMPTY,Your ongoing missions will appear here.
+TID_MAP_ICON_CURRENT_LOCATION,You are here
+TID_MAP_ICON_HUB,Meeting areas
+TID_MAP_ICON_MISSIONS,Missions
+TID_MAP_ICON_FRIENDS,Group Members
+TID_MAP_SELECT_TRAVEL_DESTINATION,Select Travel Destination: <ITEM_NAME>
+TID_SETTINGS,Settings
+TID_SETTINGS_AUDIO,Sounds:
+TID_SETTINGS_GRAPHICS,Graphics:
+TID_BUTTON_ALL,All
+TID_FULLSCREEN_TOOLTIP,Toggle fullscreen
+TID_SETTINGS_FULLSCREEN_INFO,NOTE: Keyboard commands and chat are disabled in fullscreen mode.
+TID_SETTINGS_HIGH,HIGH
+TID_SETTINGS_LOW,LOW
+TID_SETTINGS_CHARACTER,Character:
+TID_SETTINGS_CHANGE_CHARACTER_BUTTON,Change character
+TID_CHANGE_CHARACTER_CONFIRMATION,Are you sure you want to change the character?
+TID_MISSION_TASKS_TOOL_TIP,View ongoing missions on/off
+TID_PARTY_INVITE_FAILED_MEMBER_LIMIT,It is not possible to have more than <NUMBER> members in a group.
+TID_CONNECTION_LOST_ERROR,Error: You have lost connection to Gunshine.net server! Press ok to attempt reconnection.
+TID_BUTTON_COMPLETE_MISSION,Complete
+TID_COMPLETE_FOR_BUTTON,Complete for <NUMBER>
+TID_SHOP_FOR_TASK_ITEMS_BUTTON,Buy Items
+TID_ASK_HELP_FROM_FRIEND_BUTTON,Ask Friend
+TID_GO_TO_LEVEL_TASK,Go to <LEVEL>
+TID_DAILY_MISSION_EXPIRES_TIME,(<TIME> left)
+TID_MISSION_DESCRIPTION_RETURN_TO,Return to <ITEM_NAME>
+TID_MISSION_DESCRIPTION_TALK_TO,Talk to <ITEM_NAME>
+TID_REWARD_BOX_XP,XP:
+TID_MISSION_RECEIVER_TITLE,<ITEM_NAME> completed!
+TID_MISSION_REWARDS,Mission Rewards
+TID_YOU_EARNED_REWARDS,You Earned
+TID_GROUP_MISSION,(Group)
+TID_ENTER_INSTANCE_CONFIRMATION,You are entering the danger zone!\nGroup up with other people.\nGet good gear and weapons to survive.\nSure you want to enter alone?
+TID_PARTY_INVITE_FAIL_ALREADY_IN_PARTY,Invite to group failed. Player is already in group.
+TID_PARTY_INVITE_FAIL_NOT_ONLINE,Invite to group failed. Player is offline.
+TID_PARTY_INVITE_FAIL_REJECTED,Group invitation was rejected.
+TID_NEED_ROLL_RESPONSE_NEED,<NAME> selected 'I got to have this' for <ITEM_NAME>
+TID_NEED_ROLL_RESPONSE_GREED,<NAME> selected 'I could use this' for <ITEM_NAME>
+TID_NEED_ROLL_RESPONSE_PASS,<NAME> selected 'I don't need this' for <ITEM_NAME>
+TID_NEED_BOX_TITLE,Your group found this item. Do you want it?
+TID_NEED_BOX_BUTTON_NEED,I got to have this!
+TID_NEED_BOX_BUTTON_GREED,I could use this.
+TID_NEED_BOX_BUTTON_PASS,I don't want this.
+TID_NEED_ROLL_RESULT,<NAME> got <NUMBER> in the roll for <ITEM_NAME>
+TID_NEED_ROLL_WINNER,<NAME> has won the roll for <ITEM_NAME>
+TID_PLAYER_ENTERED_PVP_AREA,<NAME> entered The Pit.
+TID_SCOREBOARD,Scoreboard
+TID_SCOREBOARD_TIP,Click to view the match
+TID_DAILY_MISSION_TASK_TEXT_ELIMINATE,Eliminate <ITEM_NAME>
+TID_DAILY_MISSION_TASK_TEXT_LOOT,Loot <ITEM_NAME>
+TID_EXPIRED_MISSION_REMOVED,Mission <ITEM_NAME> expired and removed from mission log
+TID_CANT_TRADE_EQUIPPED_ITEM,Can not trade an equipped item
+TID_THAT_PLAYER_IS_ALREADY_TRADING,That player is already trading with some one else
+TID_ACCEPT_TRADE_BUTTON,Accept Trade
+TID_CANCEL_TRADE_BUTTON,Cancel
+TID_TRADE_CANCELED_BY_OTHER,Trade was canceled by <NAME>
+TID_TRADEABLE,TRADEABLE
+TID_NOT_TRADEABLE,That item is not tradeable.
+TID_TRADE_TARGET_TOO_FAR_AWAY,Unable to trade. Target is too far away
+TID_TRADE_FAILED,Trade failed
+TID_TRADE_FAILED_INVENTORY_FULL,Trade failed. <NAME> doesn't have enough free space in bag
+TID_TRADE_SUCCESSFUL,Trade completed
+TID_TRADE_BUTTON,Trade
+TID_CHAT_INPUT_TIP,<Click here to chat>
+TID_ADD_FRIEND_FAILED_OWN_AVATAR,Friend request failed. Can't add own character as a friend
+TID_CHAT_MENU_TOOLTIP,Click to change chat receiver
+TID_SEND_CHAT_TOOLTIP,Send Message
+TID_CHAT_MENU_TITLE,Chat Receiver
+TID_ADD_FACEBOOK_FRIENDS,Mercenary Invitations:
+TID_ADD_MERCENARIES,Add Mercenaries
+TID_NEW_FRIEND_REQUEST,New Friend Request!
+TID_CREATE_NEW_CHARACTER_TOOL_TIP,Click to a create new character. Maximum number of characters is <NUMBER>.
+TID_SEND_FRIEND_REMINDER,Send Reminder
+TID_MERCENARY_FRIEND_REQUEST_PENDING,Mercenary request pending...
+TID_ADDABLE_MERCENARY_FRIEND,Add me as a mercenary!
+TID_APPLICATION_REQUEST,You received a Friend Request in Gunshine.net from <AVATAR_NAME> (<REAL_NAME>)!
+TID_FRIEND_BAR_HIRE_BUTTON,Hire
+TID_FRIEND_BAR_HIRE_BUTTON_TOOLTIP,Hire <NAME> as a mercenary
+TID_FRIEND_BAR_ADD_FRIEND_TITLE,Invite Friends
+TID_FRIEND_BAR_ADD_FRIEND_BUTTON,Send
+TID_FRIEND_BAR_ADD_FRIEND_BUTTON_TOOLTIP,Invite your friends!
+TID_FRIEND_BAR_ADD_FRIEND_BAR_FRIEND_BUTTON_TOOLTIP,Send a friend request to\n<AVATAR_NAME> (<REAL_NAME>)
+TID_FRIEND_BAR_SEND_GIFT_BUTTON,Send Gift
+TID_FRIEND_BAR_SEND_GIFT_BUTTON_TOOLTIP,Send a gift to <NAME>
+TID_FRIEND_BAR_CHAT_BUTTON,Chat
+TID_FRIEND_BAR_CHAT_BUTTON_TOOLTIP,Chat with <NAME>
+TID_FRIEND_BAR_GROUP_INVITE_BUTTON,Group Invite
+TID_FRIEND_BAR_GROUP_INVITE_BUTTON_TOOLTIP,Invite <NAME> to group
+TID_CONNECT_WITH_FACEBOOK_BUTTON,Facebook login
+TID_INBOX,Inbox
+TID_INTRO_1,"Dawnbreak City, the crown jewel on a man-made island, given birth by Labycore Corporation's will and vision."
+TID_INTRO_2,"A safe haven for science and research, Dawnbreak City is devoted to building a better tomorrow for all of humanity."
+TID_INTRO_3,"The island turns away nations, but people who believe in a brighter future are welcomed with open arms."
+TID_INTRO_4,People like you.
+TID_INTRO_5,They sold you a dream.\nThat dream was a lie.
+TID_INTRO_SKIP_BUTTON,Skip
+TID_ESCORT_FAILED,Your escortee has perished!
+TID_ACTIVATE_MERCENARY_BUTTON,Activate
+TID_MERCENARY_DEAD,Your mercenary is dead!
+TID_UNABLE_TO_ACTIVATE_MERCENARY_GROUP,Can't activate mercenary. Maximum group size is <NUMBER>.
+TID_UNABLE_TO_ACTIVATE_MERCENARY_PVP,Can't activate mercenary in player vs player area.
+TID_CANT_HIRE_MERCENARY_IN_COMBAT,Can't hire a mercenary while in combat
+TID_MERCENARY_EXP_LEVEL_TOO_HIGH,Mercenary's experience level is too high.
+TID_MERCENARY_EXP_LEVEL_TOO_LOW,Mercenary's experience level is too low.
+TID_MERCENARY_OVERRIDE_CONFIRMATION,Your current mercenary will be replaced with the new one. Are you sure?
+TID_MERCENARY_TIME_ENDED,Mercenary hire time expired!
+TID_CANT_HIRE_MERCENARY_PARTY_FULL,Can't hire a mercenary. Maximum group size is <NUMBER>
+TID_MERCENARY,Mercenary
+TID_MERCENARY_DEACTIVE,Deactive
+TID_MERCENARY_DEACTIVATED,Your mercenary waits outside the arena.
+TID_CANT_HIRE_MERCENARY_IN_PVP,Can't hire a mercenary in player vs player area
+TID_QUICK_SHOP,Shop
+TID_QUICK_SHOP_CATEGORY_RECOMMENDED,Recommended
+TID_QUICK_SHOP_CATEGORY_MELEE,Melee Weapons
+TID_QUICK_SHOP_CATEGORY_RANGED,Ranged Weapons
+TID_QUICK_SHOP_CATEGORY_ARMOR,Armor
+TID_QUICK_SHOP_CATEGORY_ITEMS,Items
+TID_QUICK_SHOP_CATEGORY_ACCESSORIES,Accessories & Keys
+TID_QUICK_SHOP_CATEGORY_SELL_DIAMONDS,Diamonds to Cash
+TID_QUICK_SHOP_CATEGORY_MERCENARIES,Mercenaries
+TID_QUICK_SHOP_CATEGORY_RECIPES,Plans
+TID_QUICK_SHOP_DIAMOND_BUTTON_TITLE,Need More Diamonds?
+TID_QUICK_SHOP_DIAMOND_BUTTON,Click Here!
+TID_INVENTORY_ADD_SLOTS,Add Slots:
+TID_INVENTORY_SELL_SLOT,Drag an item here to sell it.
+TID_INVENTORY_SELL_ITEM_TOOLTIP,Sell for $<NUMBER>
+TID_INCREASE_INVENTORY_SIZE_TOOLTIP,Increase bag size by <NUMBER> slots
+TID_BUTTON_ADD,Add
+TID_COLLECT_MERCENARY_REWARD_BUTTON,Collect!
+TID_DEATH_SCREEN_ITEMS_TITLE,Need More Items?
+TID_INSTRUCTION_SKILL_SELECT_TARGET,Select Target
+TID_INSTRUCTION_SKILL_CANCEL,(Esc: Cancel)
+TID_INSTRUCTION_STOP_VIEWING_MATCH,Esc: Stop viewing the match
+TID_ARMOR_CLASS_BONUS,+<NUMBER>% damage vs <ARMOR_CLASS>
+TID_TASK_COMPLETE,TASK COMPLETE!
+TID_RANDOMIZE_BUTTON,Randomize!
+TID_MAP_ZOOM_TITLE,Zoom
+TID_MAP_CHECKBOX_AVAILABLE_MISSIONS,Available missions
+TID_MAP_CHECKBOX_INSTANCES,Dangerous areas
+TID_CHARACTER_CREATION_ARMOR,Armor
+TID_CHARACTER_CREATION_MELEE,Melee
+TID_CHARACTER_CREATION_RANGED,Ranged
+TID_CHARACTER_CREATION_HEALING,Healing
+TID_LEVEL_UP_LINE_1,YOU GAINED A LEVEL!
+TID_LEVEL_UP_LINE_2,Level <NUMBER>
+TID_PRESTIGE_LEVEL_UP_LINE_1,YOU GAINED A PRESTIGE LEVEL!
+TID_PRESTIGE_LEVEL_UP_LINE_2,Prestige <PRESTIGE_NAME> level <NUMBER>
+TID_MEETING_AREA,Meeting Area
+TID_MERCENARY_REWARD_SUBTITLE,Your character was hired as mercenary by the following players:
+TID_MERCENARY_REWARD,<NAME> hired you as a mercenary for a total of $<CASH_NUMBER>!
+TID_FACEBOOK_XP_REWARD,Unclaimed XP reward from Facebook: <XP_NUMBER>XP
+TID_FACEBOOK_GIFT_CARD_REWARD,"You've redeemed your Facebook Credits gift card, and we've got a very special gift for you!"
+TID_RETENTION_ITEM_REWARD,Unclaimed email reward: <ITEM_NAME>
+TID_DAILY_BONUS_TITLE,Daily Reward
+TID_DAILY_BONUS_CLAIM,Claim
+TID_DAILY_BONUS_CLAIMED,Claimed
+TID_DAILY_REWARD_DAY,Day <NUMBER>
+TID_RETENTION_CASH_REWARD,Unclaimed email reward: $<CASH_NUMBER>
+TID_BUTTON_CLAIM,Claim
+TID_MISSION_GROUP_PROGRESS,<NUMBER>% Completed
+TID_ASSIGN_TASK_BUTTON,Assign Task
+TID_VIRAL_GIFT,<NAME> has sent you a gift: <ITEM_NAME>
+TID_SEND_GIFT_BUTTON,Send Gift
+TID_GIFT_BACK,Send <ITEM_NAME> as a gift to <NAME>!
+TID_SEND_GIFT_BACK_BUTTON,Send a gift back
+TID_MAIL_PROGRESS,Progress:
+TID_MAIL_INBOX_EMPTY,No mail
+TID_MAIL_CATEGORY_GIFTS,Received Gifts
+TID_MAIL_CATEGORY_MAIL,Mail
+TID_MAIL_CATEGORY_REWARDS,Rewards
+TID_MAIL_CATEGORY_CREW_INVITES,Crew Invites
+TID_MAIL_CATEGORY_HELP_REQUESTS,Help requests
+TID_MAIL_CATEGORY_RECOMMENDED_MERCENARIES,Recommended mercenaries
+TID_SUGGESTED_MERCENARY_ITEM,"<NAME>, <CHARACTER_NAME>: lvl <LEVEL> <CLASS>"
+TID_WORLD_PROGRESS_ACT_1,Act I
+TID_WORLD_PROGRESS_ACT_2,Act II
+TID_WORLD_PROGRESS_ACT_3,Act III
+TID_WORLD_PROGRESS_ACT_4,Act IV
+TID_WORLD_PROGRESS_ACT_5,Act V
+TID_UNLOCKS_ON_LEVEL,Unlocks on Level <NUMBER>
+TID_WORLD_PROGRESS_UNLOCKED_COUNT,Unlocked: <NUMBER> / <TOTAL>
+TID_WORLD_PROGRESS_BOSS_ITEM,Boss:\n<ITEM_NAME>
+TID_WORLD_PROGRESS_ITEM_TOOL_TIP,"To finish this story objective, complete the following missions:"
+TID_WORLD_PROGRESS_SCORE,Score:
+TID_WORLD_PROGRESS_ACHIEVEMENT_POINTS,Achievement points:
+TID_WORLD_PROGRESS,Achievements
+TID_WORLD_PROGRESS_SCORE_TOOLTIP,Score is based on your character's accumulated experience.
+TID_ACHIEVEMENTS_TAB,Achievements
+TID_ACHIEVEMENT_POINTS,points
+TID_WORLD_PROGRESS_TAB,World Progress
+TID_ACHIEVEMENT_CATEGORY_ALL,All
+TID_ACHIEVEMENT_GAINED,New Achievement Gained!
+TID_DAILY_REWARD_CLAIMED,Claimed
+TID_LOADING_SCREEN_NOW_ENTERING,NOW ENTERING
+TID_DAILY_REWARD_TIP,Click to claim your daily reward!
+TID_DAILY_REWARD_DESCRIPTION,Come back every day to claim your rewards.
+TID_MERCENARY_APP_REQUEST,I hired your character as a mercenary! Log in to claim your reward: <NUMBER> cash.
+TID_SEND_MERCENARY_APP_REQUEST_TITLE,Send Gunshine.net reward
+TID_APP_REQUEST_TITLE,Send Gunshine.net invitation
+TID_APP_REQUEST_TEXT,Join <NAME> to play Gunshine.net. Fight together for freedom on the beautiful Dawnbreak Island!
+TID_EXP_BAR_SUB_GOAL_DIAMONDS_TOOL_TIP,Reach here to get <NUMBER> free diamonds!
+TID_EXP_BAR_SUB_GOAL_ONE_DIAMOND_TOOL_TIP,Reach here to get 1 free diamond!
+TID_ADD_FRIENDS_SCREEN_CONNECT,You are not connected to Facebook!
+TID_CRAFTING_SCREEN,Crafting
+TID_CRAFTING_CATEGORIES_INFO,CHOOSE AN ITEM TO CRAFT
+TID_CURRENT_CATEGORY,Category: <NAME>
+TID_CRAFTING_PRODUCTION_LINES,Production Lines
+TID_CRAFTING_BUTTON_GO_TO_SHOP,Go To Shop
+TID_NEW_BLUEPRINT,NEW!
+TID_BUTTON_CRAFT,Craft
+TID_REQUIRED_CRAFTING_LEVEL,Crafting the item requires exp level <NUMBER>
+TID_RECIPE_TOOLTIP,Plans for crafting.
+TID_ITEM_TYPE_RECIPE,Plans
+TID_ITEM_TYPE_INGREDIENT,Ingredient
+TID_PARTY_INVITE_FAILED_PVP,Can't invite group members in player vs player area!
+TID_DIG_TOOLTIP,Click to have your crafting bot to dig here
+TID_FEEDBACK_ENTERING_LEVEL,Entering
+TID_FEEDBACK_MISSION_TASKS_COMPLETED,Mission Tasks Completed
+TID_FEEDBACK_GROUP_FORMED,Group Formed
+TID_FEEDBACK_GROUP_DISBANDED,Group Disbanded
+TID_FEEDBACK_FRIEND_REQUEST_1,Friend Request
+TID_FEEDBACK_FRIEND_REQUEST_2,You have a new friend request
+TID_FEEDBACK_SKILL_LEARNED_1,<SKILL_NAME> rank <RANK_NUMBER>
+TID_FEEDBACK_SKILL_LEARNED_2,Skill Learned!
+TID_FEEDBACK_DIAMONDS_1,You received
+TID_FEEDBACK_DIAMONDS_2_ONE,1 diamond
+TID_FEEDBACK_DIAMONDS_2,<MONEY_NUMBER> diamonds
+TID_INGREDIENT_GET_MORE_TOOLTIP,Get more
+TID_CRAFTING_SLOT_CONFIRMATION,You are already crafting! Additional crafting slot costs <NUMBER> diamonds per use.\n\nStart crafting now?
+TID_CRAFTING_SLOT_NAME,Slot <NUMBER>:
+TID_CRAFTING_SLOT_USE,/use
+TID_CRAFTING_NOT_ENOUGH_SLOTS,All crafting slots are in use
+TID_CRAFTING_SLOT_TIMER_COMPLETED,Completed
+TID_CRAFTING_SLOT_BUTTON_CLAIM,Collect
+TID_CRAFTING_SLOT_BUTTON_CANCEL_TOOLTIP,Cancel crafting
+TID_CRAFTING_SLOT_CANCEL_CONFIRMATION,Are you sure you want to cancel crafting?
+TID_CRAFTING_CATEGORY_SKILLS,Skills
+TID_BOSS_FINDER,Boss Finder
+TID_BOSS_FINDER_GROUP_MEMBER_WAITING,Searching
+TID_BOSS_FINDER_START_BUTTON,JOIN GROUP & FIGHT
+TID_BOSS_FINDER_NO_BOSSES,(No Bosses)
+TID_BOSS_FINDER_BUTTON_GET_MORE_PLAYERS,Find Players
+TID_GROUP_COUNTDOWN,You need to confirm in:
+TID_GROUP_SUGGESTION_TITLE,Group suggestion:
+TID_FREE_GIFTS,Free gifts
+TID_DIAMOND_SHOP_TITLE,Buy Diamonds
+TID_DIAMOND_SHOP_TITLE_NOT_ENOUGH_DIAMONDS,Not Enough Diamonds
+TID_GET_INGREDIENTS_TITLE,Need more <ITEM_NAME>
+TID_GET_INGREDIENTS_TEXT,"Ask your buddies for more, or purchase with Diamonds."
+TID_GET_INGREDIENTS_TEXT_NO_REQUEST,Purchase more with Diamonds.
+TID_GET_INGREDIENTS_REQUEST_TITLE,Ask for <ITEM_NAME>
+TID_GET_INGREDIENTS_REQUEST_TEXT,Ask your friends for more
+TID_GET_INGREDIENTS_REQUEST_BUTTON,Post to Friends
+TID_GET_INGREDIENTS_BUY_TITLE,Buy <ITEM_NAME>
+TID_GET_INGREDIENTS_BUY_TEXT,Buy <NUMBER> x <ITEM_NAME>
+TID_HUD_CRAFTING_TIMER_TOOLTIP,Next complete: <ITEM_NAME>
+TID_SOUNDS_BUTTON_TOOL_TIP,Sounds on/off
+TID_HELP_WINDOW,Help
+TID_HELP_WINDOW_TEXT,"LATEST ZOMBIES ONLINE CHANGE-LOG\n\nRead release notes at www.gunshine.net/forum\n\nGENERAL FAQ\n-----------\n\nHow do I save my game?\nYou don't need to save your game. Whenever you exit the game, or quit your browser, your progress is already saved on the server side. Next time you login and select your avatar, you will automatically continue in the area where you quit the game.\n\nHow do I buy more stuff for my character?\nThe quickest way to get new items for your character is to buy them from the shop. You can access the shop by pressing the shop item in the down right corner of the screen or pressing the shortcut S-key on your keyboard.\n\nThe second way to get items in Gunshine.net is to craft them.\n\nWhat is crafting?\nWe made some big changes to the Crafting feature, and therefore the mobs and bosses don't drop weapons or gear anymore. All weapons and gear needs to be either crafted, or bought from the shop. To craft an item you need a certain \q\qPlan\q\q and then the required \q\qIngredients\q\q (some items require one type of ingredients, others up to five). Bosses drop Plans, Cash and Consumable Items, while the mobs drop Ingredients and Cash. You can also buy Plans and Ingredients from the shop if you haven't found what you are looking for and some Plans are given to you as you level up. In addition to this, you may even ask your friends to send you the required Ingredient you need! The following ingredients are available:\n\n- Fabric\n- Bolts\n- Armor Plates\n- Heavy Metal\n- Power Cells\n- Nano Bots\n\nOk, how do I craft a weapon or some gear then?\nFirst press 'C' or click on Craft button at the bottom right corner to open the crafting window.\n\nThe crafting window lists all the plans you know. Each plan lists the ingredients and time needed to craft the item. If the 'Start' button is green, you have enough ingredients, and you can build the item by clicking on the 'Start' button.\n\nIf the 'Start' button is grey, you are missing some ingredients. You can buy the missing ingredients by pressing the green plus icon next to the ingredient, or get more by killing enemies.\n\nWhen the item is ready, you must access the crafting window again to claim it. The 'Craft' button glows to show that there is an item ready to be claimed.\n\nYou can keep playing or log off while the item is being crafted.\n\nThe plans you know are divided into six categories (including skills!), so be sure to check all of them to find all the cool stuff you can build.\n\nHow do I equip my character?\nYour bag can be opened by either pressing the \q\qb\q\q key, or by clicking on the bag icon down right.\n\nWhen you move your mouse pointer over an item, it will show you both the information of the item, and the item you are currently using. If the new unused item has better values (stronger armor, better damage etc.), simply double-click the icon and your character will be equipped with it. Various types of items have their own slots, so you can't drop them in all the slots.\n\nMy bag is full. What should I do?\nIf your bag is full, you can expand it by clicking the Add Slots button in the bag.\n\nIn addition, you can also either sell your items by dragging them to the Drag An Item Here To Sell it -slot in the down right corner of the bag. If you choose to destroy any of your items, simply click and hold on your item, and drag it onto the game area and drop it. The game will verify if you want to destroy it or not.\n\nWhat are \q\qMeeting Area\q\q levels?\nThe Meeting Area levels are marked with a special glow effect. No battles, no looting and no fuzz, in other words most of these levels contain no enemies, only friendly NPC's and other players. You may get missions in the Meeting Area levels though, so don't just walk past them. Meeting areas have PvP (Player versus Player) arenas where you can fight against other players.\n\nWhat are Diamonds and how can I buy them?\nDiamonds have more value than the in-game money (dollars), and can be used as a payment method for items. You can purchase Diamonds with real money by clicking on the Diamond icon and then choose your payment method.\n\nWhat are skills? How do I use them? How can I get more?\nYou may want to increase your skills during your game, and you can do so by entering the crafting menu. Press crafting icon or the key \q\qC\q\q on your keyboard, open the skills tab and press start to learn a new skill. After the crafting is done, your new skill will appear on the skill bar ready for use.\n\nWhat are the different shortcuts available?\nThe shortcuts in Gunshine.net are:\n\n* Space key - toggles melee/ranged weapon\n* Enter key - Chat\n* a - achievements\n* b or i - opens up your inventory & character view\n* c - crafting window\n* f - opens up your friends list\n* m - opens up the world map\n* p - inbox\n* s - opens up the shop\n* 1-0 - uses the item shown in the item bar\n* Q-Y - uses your skills\n\nWhat is a group? How do I set up a group?\nA group is also known as a \q\qparty\q\q in some other similar kind of games. You can invite friends to join your group, or your friends can invite you into a group. You will notice that the group leader has a small crown-icon next to his/her name.\n\nSimply click on the group icon down to the right, or press the f-key, click on your friends' name and invite him/her to your group. If your friend accepts to join the group, he/she will be transferred close to your location. It's that simple.\n\nWhat is the Boss Finder?\nThe Boss Finder is a cool new feature that we added in order to make group formation as easy as possible. Simply click on the boss finder, choose the boss you want challenge, and the tool will automatically find you a group and move to the right area on the world map.\n\nA group is formed once the following setup has been found: Two hunters, a doctor and a bodyguard.\n\nHow can I change my character or create a new one?\nTo change your character / create a new one press the settings button in the right upper corner of the game screen. From there select change character and you will be able to change your character or create a new one entirely.\n\nHow can I delete a character?\nAt the moment it is not possible to delete characters in Gunshine.net.\n\nI have some quests available in prison area, but cant access them. Why?\nThat particular quest is a part of the new tutorial, and it's unfortunately not accessible for those players who have completed the tutorial in a previous version of the game. In order to complete the new tutorial you need to create a new character entirely.\n\nHow do I become a mod?\nBe supportive and respectful at all times, help players in need (primarily with information) and read and write on the forums regularly. However, this doesn't automatically mean that you will be selected as a mod. Supercell & Gunshine.net mods & admins are the persons who will choose the new mods.\n\nWhat is a mod anyway?\nA mod is a short name of moderator. A mod is a player who have done all that mentioned above and has proven his or her value to the community. A moderator upholds the order both in the game and on our forums. If a user misbehaves (uses swearwords, writes with CAPS ON, is disrespectful towards other community members etc.) a mod can put that user on a Global Ignore, or even Global Block. In the game mods text is green.\n\nWhat is a Global Ignore and Global Block?\nGlobal Ignore means that the user can not chat to anyone. Global Block means that the user can not chat, can't invite into groups or join groups. Usually Global Blocks & Ignores are lifted within 24h, but in some rare cases the user can be blocked for a longer time.\n\nWhat is an admin then?\nAdmins are Supercell employees and you can't become one unless you work for the company. They are able to apply changes to the game directly, and ban a user from the game completely. In the game admins text is red.\n\n\nCHAT FAQ\n--------\n\nWhat are the in-game chat rules?\nIn the in-game chat you need to follow the rules set by either an admin, or a moderator. If the admin or moderator tells you to stop doing something, it is by default a rule which you need to comply with. If not, you can get globally ignored, globally blocked or in the worst case banned.\n\nRules are:\n\n- No profanity\n- No racist comments\n- No hate speech\n- No spam\n- No CAPS\n\n\nMOD & ADMIN FAQ\n---------------\n\nHow to become a Moderator FAQ\nQ: What is a mod?\nA: mod is short for moderator. We are players that got promoted to pretty much being \q\qchat police\q\q.\n\nQ: What does a mod do?\nA: Moderators help out other players with pretty much everything needed. If you have a question don't hesitate to ask us. However we usually will not group up with players unless we say we will. Also we regulate chat by calming players down.\nNote that it may take us some time to respond. So be patient.\n\nQ: Can mods ban players?\nA: Yes and no. We can mute players from chat and report issues to admins who would then really call a ban.\n\nQ: When do mods or even admins mute/ban players?\nA: When we feel that it is necessary. If a player breaks the (chat) rules and doesnt listen to what we advise them to do we take action. If this happens again and again we will talk about banning players.\nThose that try to cheat or hack get banned asap.\n\nQ: How can I become a mod?\nA: Be supportive at all times, respect the rules set and best be on the forums too to be informed.\nThen if there is an official announcement by Bouncer that new mods are needed, apply. Having a good reputation among players helps too.\n\nQ: Do mods get special perks?\nA: No we don't. We do not get special gear and we do not auto-level to 30 or beyond. Everything we have we played for.\n\nQ: What is the difference between mod and admin?\nA: Moderators are players that have proven themselves worthy of the position they are in. Admins are actual game developers from Supercell.\nIn chat mods writing is in green while the admins is in red.\n\nQ: Do moderators and admins have a line of thumb?\nA: Yes. Better behave.\nEnd of help"
+TID_SHOP_PREVIEW,Preview
+TID_BOTTOM_HUD_BUTTON_CRAFT,Craft
+TID_HUB_MENU_TITLE,Select Meeting Area
+TID_REFRESH_HUB_LIST_BUTTON,Refresh
+TID_CHAT_SETTINGS_TOOLTIP,Change chat settings
+TID_CHAT_SETTINGS,Chat settings
+TID_CHAT_EXPAND,Expand Chat
+TID_CHAT_MINIMIZE,Minimize Chat
+TID_CHAT_MAXIMIZE,Maximize Chat
+TID_CHAT_NORMALIZE,Return to compact Chat
+TID_CHAT_SCROLL_UP,Scroll up
+TID_CHAT_SCROLL_DOWN,Scroll down
+TID_CHAT_SCROLL_BOTTOM,Scroll to bottom
+TID_CRAFTING_BOTTOM_HUD_DONE,DONE
+TID_CRAFTING_BOTTOM_HUD_NEW,NEW
+TID_CANT_TRAVEL_WHEN_DEAD,Can't travel when wounded
+TID_CANT_TRAVEL_WHEN_COMBAT_MODE,Can't travel when in combat
+TID_AUTOMATIC_LOGOUT_MESSAGE,Automatic logout done after idling <NUMBER> minutes.
+TID_COLLECT_REWARDS_BUTTON,Collect Rewards
+TID_BUTTON_CONFIRM,Confirm
+TID_ACCEPT_MISSION_BUTTON,OK
+TID_CRAFTING_DUPLICATE_CONFIRMATION,You already have <ITEM_NAME>. Are you sure you want to craft another?
+TID_BLUEPRINT_LEVEL_UP_TO_UNLOCK,UNLOCKED AT LEVEL <NUMBER>
+TID_BLUEPRINT_BUY_FROM_SHOP,BUY PLANS FROM SHOP
+TID_CRAFTING_IN_PROGRESS,Crafting...
+TID_TAB_BOSSFINDER_TOOLTIP,Search for a GROUP to take on the most dangerous enemies around.
+TID_TAB_FREEGIFTS_TOOLTIP,Send GIFTS to your friends.
+TID_TAB_INBOX_TOOLTIP,"Check your MESSAGES, GIFTS and REWARDS."
+TID_TAB_ACHIEVEMENTS_TOOLTIP,Your special ACHIEVEMENTS.
+TID_TAB_FRIENDS_TOOLTIP,Message your FRIENDS and form groups with them. ADD new friends.
+TID_HUDBUTTON_TOOLTIP_BAG,"Keeps track of your WEAPON, GEAR and other ITEMS."
+TID_HUDBUTTON_TOOLTIP_SHOP,"Buy better EQUIPMENT, new PLANS, and useful ITEMS."
+TID_HUDBUTTON_TOOLTIP_CRAFT,Build new ITEMS and EQUIPMENT. Learn new SKILLS.
+TID_HIRE_MERCENARY CONFIRMATION,Hire <NAME> as a mercenary for $<NUMBER>?
+TID_BOSS_FINDER_CONFIRMATION,Boss Finder Confirmation
+TID_EPISODE_1,Episode I
+TID_EPISODE_1_NAME,What Is Going On
+TID_EPISODE_2,Episode II
+TID_EPISODE_2_NAME,ESCAPE
+TID_EPISODE_3,Episode III
+TID_EPISODE_3_NAME,Get Equipped
+TID_EPISODE_PROGRESS_BAR_COMPLETE,Completed!
+TID_EPISODE_PROGRESS_BAR,Progress <NUMBER>%
+TID_ADD_FRIENDS_BUTTON,Add Friends
+TID_PVP_QUEUE,PvP Queue:
+TID_ACCEPT_ALL_FRIEND_REQUESTS_BUTTON,Accept all requests
+TID_RANKED_PVP_WINNER,Winner!
+TID_RANKED_PVP_LOSER,You lost.
+TID_RANKED_PVP_TIE,Tie!
+TID_RANKED_PVP_YOUR_RATING,Your rating is:
+TID_RANKED_PVP_PLAY_AGAIN_BUTTON,Fight again!
+TID_RANKED_PVP_END_PRINT,<PLAYER1> defeated <PLAYER2>
+TID_RANKED_PVP_TOPIC,Latest Winners
+TID_SHOP_ITEM_PROMO_TEXT,Win a free <ITEM_NAME> when you buy and redeem any Facebook gift card from PLACEHOLDER
+TID_LEADERBOARDS,Leaderboards
+TID_LEADERBOARDS_TIP,"Look at awesome data from Top 10 Scores, Top 10 Boss Kills and Top 10 PVP Kills."

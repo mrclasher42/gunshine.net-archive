@@ -1,0 +1,54 @@
+Name,Rarity,MappedNewIngredient,MappedNewIngredientCount,LootDisabled,DiamondCostExact,LootMinLevel,LootMaxLevel,DropSound,LootResource,LootExportName,Icon
+Part: Tin Box,Common,Fabric,2,TRUE,10,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,8
+Part: Iron Box,Common,Fabric,2,TRUE,10,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,9
+Part: Steel Box,Common,Fabric,2,TRUE,10,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,10
+Part: Alu Case,Common,Fabric,2,TRUE,10,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,11
+Part: Shell Casing,Common,Fabric,2,TRUE,10,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,12
+Part: Black Powder,Common,Fabric,2,TRUE,10,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,26
+Part: Cordite,Common,Fabric,2,TRUE,10,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,27
+Part: C4,Common,Fabric,2,TRUE,10,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,28
+Part: Semtex,Common,Fabric,2,TRUE,10,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,29
+Part: Mini-Nuke,Common,Bolts,2,TRUE,10,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,30
+Part: Bottle Rocket,Common,Bolts,2,TRUE,10,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,32
+Part: IED Tip,Common,Bolts,2,TRUE,10,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,33
+Part: RPG Shell,Common,Bolts,2,TRUE,10,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,34
+Part: 88mm Shell,Common,Bolts,2,TRUE,10,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,35
+Part: Warhead,Common,Bolts,2,TRUE,10,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,36
+Part: PVC Tube,Uncommon,Armor Plates,2,TRUE,40,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,14
+Part: Launcher Tube,Uncommon,Armor Plates,2,TRUE,40,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,15
+Part: Wire Guided,Uncommon,Armor Plates,2,TRUE,40,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,16
+Part: Heat Seeker,Uncommon,Heavy Metal,2,TRUE,40,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,17
+Part: SatNav,Uncommon,Heavy Metal,2,TRUE,40,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,18
+Part: Water Pistol,Rare,Power Cells,1,TRUE,150,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,37
+Part: Hand Pump,Rare,Power Cells,1,TRUE,150,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,38
+Part: Compressor,Rare,Power Cells,1,TRUE,150,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,39
+Part: Crop Sprayer,Rare,Power Cells,1,TRUE,150,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,40
+Part: Hi-Pressure Pump,Rare,Power Cells,1,TRUE,150,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,41
+Part: Lamp oil,Rare,Nanobots,1,TRUE,150,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,43
+Part: Ethanol,Rare,Nanobots,1,TRUE,150,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,44
+Part: Kerosene,Rare,Nanobots,1,TRUE,150,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,45
+Part: Napalm,Rare,Nanobots,1,TRUE,150,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,46
+Part: Thermite,Rare,Nanobots,1,TRUE,150,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,47
+Part: Hanky,Common,Fabric,2,TRUE,10,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,20
+Part: Pants Leg,Common,Fabric,2,TRUE,10,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,21
+Part: Cloth Bandage,Common,Fabric,2,TRUE,10,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,22
+Part: Sterile Bandage,Common,Fabric,2,TRUE,10,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,23
+Part: Nanofiber,Common,Fabric,2,TRUE,10,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,24
+Part: Aspirin,Common,Bolts,2,TRUE,10,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,2
+Part: Codeine,Common,Bolts,2,TRUE,10,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,3
+Part: Morphene,Common,Bolts,2,TRUE,10,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,4
+Part: Anasthetic,Common,Bolts,2,TRUE,10,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,5
+Part: Neuroblocker,Common,Bolts,2,TRUE,10,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,6
+Part: Weak Magnet,Uncommon,Armor Plates,1,TRUE,10,9,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,14
+Part: Electromagnet,Uncommon,Armor Plates,1,TRUE,10,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,15
+Part: Rare Earth Magnet,Uncommon,Heavy Metal,1,TRUE,10,21,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,16
+Part: Old Bottle,Common,Fabric,2,TRUE,10,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,43
+Part: Dirty Bottle,Common,Fabric,2,TRUE,10,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,44
+Part: Empty Bottle,Common,Fabric,2,TRUE,10,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,45
+Part: Glass Bottle,Common,Bolts,2,TRUE,10,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,46
+Part: Fancy Bottle,Common,Bolts,2,TRUE,10,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,47
+Part: Old Battery,Uncommon,Armor Plates,1,TRUE,10,9,10,LootDefault,graphics/loot/loot_box1.swf,LootPile,8
+Part: C Battery,Uncommon,Armor Plates,1,TRUE,10,11,15,LootDefault,graphics/loot/loot_box1.swf,LootPile,9
+Part: Lithium Battery,Uncommon,Armor Plates,1,TRUE,10,16,20,LootDefault,graphics/loot/loot_box1.swf,LootPile,10
+Part: Car Battery,Uncommon,Heavy Metal,1,TRUE,10,21,25,LootDefault,graphics/loot/loot_box1.swf,LootPile,11
+Part: Energy Cell,Uncommon,Heavy Metal,1,TRUE,10,26,30,LootDefault,graphics/loot/loot_box1.swf,LootPile,12

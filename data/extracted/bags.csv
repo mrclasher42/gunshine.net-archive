@@ -1,0 +1,8 @@
+Name,Rarity,InventoryExpansionBag,BagSize,Icon,LootResource,LootExportName,YELLOW_TEXT_TID,PostToSocialNetworks
+Cool Suitcase,Rare,,7,3,graphics/loot/loot_box1.swf,LootBox,,
+Small Suitcase,Uncommon,,2,2,graphics/loot/loot_box1.swf,LootBox,,
+Suitcase,Uncommon,TRUE,4,2,graphics/loot/loot_box1.swf,LootBox,,
+Large Suitcase,Rare,,10,3,graphics/loot/loot_box1.swf,LootBox,,
+Small Backpack,Uncommon,,5,12,graphics/loot/loot_box1.swf,LootBox,,
+Medium Backpack,Rare,,8,13,graphics/loot/loot_box1.swf,LootBox,,
+Big Backpack,Rare,,12,13,graphics/loot/loot_box1.swf,LootBox,,

@@ -1,0 +1,26 @@
+Name,MinLevel,MaxLevel
+Hint: Click enemies to attack.,2,4
+Hint: Press 'I' to display your character sheet and open your bag.,2,10
+Hint: Place your items on the Quickbar to use them effectively in combat.,3,10
+Hint: Hire your friends as mercenaries to help you! Click the HIRE button next to their profile picture at the bottom of the screen.,3,10
+Hint: Click the minimap or press 'M' to open the World Map.,4,10
+Hint: Press <enter> to chat.,7,15
+Hint: Press <spacebar> to switch between your melee and ranged weapon.,7,15
+"Hint: To see what another player is wearing, select the player with a mouse click, then click the 'Menu' button next to their profile picture.",8,29
+Hint: You can equip any item by double clicking it in your bag screen.,9,29
+"Hint: You can use the number keys (1,2,3 and so on) to activate items on your quickbar.",9,29
+"Hint: Meeting areas can hold up to 25 players at a time. If more players enter, a new \qclone\q of the meeting area is created.",9,29
+Hint: Crafting allows you to create useful items out of various ingredients.,10,12
+Hint: Click the Crafting button on the bottom right of your screen (or press the 'C' key) to open the crafting menu.,10,12
+Hint: Visit the shop to stock up for boss fights!,10,12
+"Hint: Labycore's latest innovation, experience boosters, can be purchased from the quick store. Click 'SHOP' in the bottom menu bar to get yours!",17,29
+"Hint: Tough fight? Use special weapons like Bazookas, Flamethrowers and Air Strikes to kick some butt!",5,29
+"Hint: Use your Medikits when you're hurt, and toss plenty of grenades when fighting. You'll level up quicker and get better items!",5,29
+Hint: Hire a mercenary to enjoy co-op action even when your friends are offline.,5,29
+"Hint: When you level up, remember to keep your gear up to date! Higher level weapons and items are a lot more powerful.",5,29
+"Hint: Remember to visit the shop (key: S) to buy special weapons, cool items and new crafting plans!",5,29
+Hint: Item and weapon icons with blue or purple background are the most powerful.,5,29
+"Hint: Color of an item icon defines its' quality and power: White [normal], Green [good], Blue [great], Purple [epic!].",5,29
+"Hint: To create additional character or switch to another one, go to 'SETTINGS' and click 'CHANGE CHARACTER'",15,29
+*** Go to the Pirate Bay or Maze Pit to get new crafting plans for more damage ***,8,30
+*** Real damage is done with new craftable bullets to guns and special add-ons to melee weapons ***,8,30

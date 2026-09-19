@@ -1,0 +1,15 @@
+Name,Type,HasClothClass,AttachmentBone,UseDoubleSidedFaces,DropSound_Poor,DropSound_Common,DropSound_Uncommon,DropSound_Rare,DropSound_Epic,FlashInstanceName,ArmorModifier
+Skin,Prop,,,,,,,,,,
+Face,Prop,,,,,,,,,,
+Hair,Prop,,hair_pack,true,,,,,,,
+FacialHair,Prop,,facial_hair,true,,,,,,,
+Glasses,Equipment,,sunglases,true,LootPoorNecklace,LootCommonNecklace,LootUncommonNecklace,LootRareNecklace,LootRareNecklace,Glasses,
+Pants,Equipment,TRUE,,,LootPoorCloth,LootCommonCloth,LootUncommonCloth,LootRareCloth,LootRareCloth,Pants,120
+Belt,Equipment,TRUE,,,LootPoorCloth,LootCommonCloth,LootUncommonCloth,LootRareCloth,LootRareCloth,Belt,50
+Jacket,Equipment,TRUE,,,LootPoorCloth,LootCommonCloth,LootUncommonCloth,LootRareCloth,LootRareCloth,Jacket,200
+Shoes,Equipment,TRUE,,,LootPoorCloth,LootCommonCloth,LootUncommonCloth,LootRareCloth,LootRareCloth,Shoes,50
+Necklace,Equipment,,scarf,,LootPoorNecklace,LootCommonNecklace,LootUncommonNecklace,LootRareNecklace,LootRareNecklace,Necklace,
+Gloves,Equipment,TRUE,,,LootPoorCloth,LootCommonCloth,LootUncommonCloth,LootRareCloth,LootRareCloth,Gloves,80
+Hat,Equipment,TRUE,hair_pack,,LootPoorCloth,LootCommonCloth,LootUncommonCloth,LootRareCloth,LootRareCloth,Hat,100
+Melee Weapon,Weapon,,,,LootPoorWeapon,LootCommonWeapon,LootUncommonWeapon,LootRareWeapon,LootRareWeapon,MeleeWeapon,
+Ranged Weapon,Weapon,,,,LootPoorWeapon,LootCommonWeapon,LootUncommonWeapon,LootRareWeapon,LootRareWeapon,RangedWeapon,

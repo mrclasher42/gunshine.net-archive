@@ -1,0 +1,70 @@
+Name,Text
+TID_SHARE_BOX_LOOT_TITLE,Special Loot!
+TID_SHARE_BOX_LOOT_TEXT,Do you feel lucky?\nWell you should. You just found <ITEM_NAME>!
+TID_SHARE_BOX_LOOT_CELEBRATE,Share the good news!
+TID_FB_POST_LOOT_TITLE,<ITEM_NAME> - got it!
+TID_FB_POST_LOOT_TEXT,<FIRSTNAME> just looted <ITEM_NAME> at Gunshine.net.
+TID_SHARE_BOX_SPECIAL_REWARD_TEXT,You've received a special reward!
+TID_SHARE_BOX_SPECIAL_REWARD_CELEBRATE,Share the good news with your friends!
+TID_FB_POST_SPECIAL_REWARD_TITLE,<ITEM_NAME> - got it!
+TID_FB_POST_SPECIAL_REWARD_TEXT,<FIRSTNAME> just received special reward <ITEM_NAME> at Gunshine.net.
+TID_SHARE_BOX_SKILL_TITLE,A new skill!
+TID_SHARE_BOX_SKILL_TEXT,"<SKILL_NAME>, rank <RANK_VALUE> learned!\n\nUse this skill when you fight"
+TID_SHARE_BOX_SKILL_CELEBRATE,Share the news with your friends?
+TID_FB_POST_SKILL_TITLE,Got a new skill!
+TID_FB_POST_SKILL_TEXT,<FIRSTNAME> just learned <SKILL_NAME> rank <RANK_VALUE> in Gunshine.net and is becoming more and more powerful!
+TID_SHARE_BOX_LEVEL_UP_TITLE,Level Up <NUMBER>!
+TID_SHARE_BOX_LEVEL_UP_CELEBRATE,Share the good news with your friends!
+TID_FB_POST_LEVEL_UP_TITLE,I'm on level <NUMBER>!
+TID_FB_POST_LEVEL_UP_TEXT,<FIRSTNAME> reached level <NUMBER> in Gunshine.net. Now it's a good time to join the fight for freedom!
+TID_SHARE_BOX_LEVEL_UP_ATTRIBUTES_INCREASED,Attributes increased
+TID_SHARE_BOX_LEVEL_UP_NEW_SKILLS,<NUMBER> skills unlocked
+TID_SHARE_BOX_LEVEL_UP_SKILL_UNLOCK,<NAME> Skill Rank <NUMBER> unlocked
+TID_SHARE_BOX_LEVEL_UP_NEW_WEAPONS,<NUMBER> weapons unlocked
+TID_SHARE_BOX_LEVEL_UP_NEW_ARMORS,<NUMBER> armors unlocked
+TID_SHARE_BOX_LEVEL_UP_NEW_ACCESSORIES,<NUMBER> accessories unlocked
+TID_SHARE_BOX_LEVEL_UP_NEW_ITEMS,<NUMBER> items unlocked
+TID_SHARE_BOX_LEVEL_UP_ITEM_UNLOCK,<NAME> unlocked
+TID_SHARE_BOX_PRESTIGE_TITLE,Prestige level <NUMBER> reached!
+TID_SHARE_BOX_PRESTIGE_TEXT,"You have gained more prestige, excellent job. You're now a <PRESTIGE_NAME> level <NUMBER>!"
+TID_SHARE_BOX_PRESTIGE_CELEBRATE,Celebrate your achievement! Share the news with friends!
+TID_FB_POST_PRESTIGE_TITLE,Prestige <PRESTIGE_NAME> level <NUMBER> reached!
+TID_FB_POST_PRESTIGE_TEXT,"There are many freedom fighers on Dawnbreak, but only a few prestigious heroes. <FIRSTNAME> is one of them!"
+TID_SHARE_BOX_BOSS_TITLE,Boss defeated!
+TID_SHARE_BOX_BOSS_TEXT,Your skill and determination won the day!\n\n<BOSS_NAME> is down!
+TID_SHARE_BOX_BOSS_CELEBRATE,"To celebrate your success, share the news with friends!"
+TID_FB_POST_BOSS_TITLE,Boss <BOSS_NAME> Defeated!
+TID_FB_POST_BOSS_TEXT_ALONE,<FIRSTNAME> successfully defeated the boss <BOSS_NAME>.
+TID_FB_POST_BOSS_TEXT_1_FRIEND,<FIRSTNAME> and <FRIEND_FIRST_NAME> united their forces and successfully defeated the boss <BOSS_NAME>.
+TID_FB_POST_BOSS_TEXT_2_FRIEND,"<FIRSTNAME>, <FRIEND_FIRST_NAME> and <FRIEND_FIRST_NAME> united their forces and successfully defeated the boss <BOSS_NAME>."
+TID_FB_POST_BOSS_TEXT_3_FRIEND,"<FIRSTNAME>, <FRIEND_FIRST_NAME>, <FRIEND_FIRST_NAME> and <FRIEND_FIRST_NAME> united their forces and successfully defeated the boss <BOSS_NAME>."
+TID_SHARE_BOX_FRIEND_TITLE,Alliance of Mercenaries!
+TID_SHARE_BOX_FRIEND_TEXT,New mercenaries are added to <FIRSTNAME>'s mercenary bar on the bottom of the screen.
+TID_SHARE_BOX_FRIEND_CELEBRATE,Share the news to get more people fighting for the cause!
+TID_FB_POST_FRIEND_TITLE,Alliance of Mercenaries
+TID_FB_POST_FRIEND_TEXT,<FIRSTNAME> and <FRIEND_FIRST_NAME> became mercenaries in Gunshine.net! Join their forces!
+TID_SHARE_BOX_MISSION_TITLE,Mission Completed!
+TID_SHARE_BOX_MISSION_TEXT,You successfully completed an important mission. Good job!
+TID_SHARE_BOX_MISSION_CELEBRATE,Share the story to your friends!
+TID_FB_POST_MISSION_TITLE,<MISSION_NAME> - Completed
+TID_FB_POST_MISSION_TEXT,Rome wasn't built in a day. Labycore isn't going down in a day. Get the goodies and join the forces of resistance!
+TID_SHARE_BOX_GROUP_TITLE,A new group formed!
+TID_SHARE_BOX_GROUP_TEXT,You have formed a group. This will greatly enhance your chances of survival.
+TID_SHARE_BOX_GROUP_CELEBRATE,Share the good news with friends!
+TID_FB_POST_GROUP_TITLE,A group was formed!
+TID_FB_POST_GROUP_TEXT_ALONE,<FIRSTNAME> just formed a group to take on the dangers of Dawnbreak in Gunshine.net.
+TID_FB_POST_GROUP_TEXT_1_FRIEND,<FIRSTNAME> and <FRIEND_FIRST_NAME> just formed a group to take on the dangers of Dawnbreak City in Gunshine.net.
+TID_FB_POST_GROUP_TEXT_2_FRIEND,"<FIRSTNAME>, <FRIEND_FIRST_NAME> and <FRIEND_FIRST_NAME> just formed a group to take on the dangers of Dawnbreak City in Gunshine.net."
+TID_FB_POST_GROUP_TEXT_3_FRIEND,"<FIRSTNAME>, <FRIEND_FIRST_NAME>, <FRIEND_FIRST_NAME> and <FRIEND_FIRST_NAME> just formed a group to take on the dangers of Dawnbreak City in Gunshine.net."
+TID_BUTTON_SHARE_TO_FB,Share to Facebook
+TID_BUTTON_SHARE_XP,Share XP
+TID_BUTTON_SHARE_CASH,Share
+TID_BUTTON_INVITE_FRIENDS,Invite Friends
+TID_BUTTON_BUY_SPECIAL_ITEM,Buy Special Item
+TID_SHARE_BOX_MISSION_GROUP_TITLE,Objective completed!
+TID_SHARE_BOX_MISSION_GROUP_TEXT,You completed an important milestone in the fight against Labycore. Well done.
+TID_SHARE_BOX_MISSION_GROUP_CELEBRATE,Share the XP with your friends!
+TID_FB_POST_MISSION_GROUP_TITLE,<MISSION_GROUP_NAME> - Completed!
+TID_FB_POST_MISSION_GROUP_TEXT,"It took a lot of blood, sweat and bullets to win a major battle against Labycore. But it was worth it!"
+TID_FB_POST_INGREDIENT_REQUEST_TITLE,<ITEM_NAME> needed!
+TID_FB_POST_INGREDIENT_REQUEST_TEXT,<FIRSTNAME> is short of ingredients. Click to send a gift and help in the fight against Labycore!

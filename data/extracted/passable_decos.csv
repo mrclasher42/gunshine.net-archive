@@ -1,0 +1,431 @@
+Name,Tags,Resource,ExportName,Layer,Effect,BlendMode
+StoneChips,,graphics/ground_decos/east_dock_ground_decos.swf,StoneChips,,,
+PierEdge,pier edge harbor,graphics/decos/curbs/curbs1.swf,PierEdge,Layout,,
+Crack1,RETOUCH,graphics/ground_decos/east_dock_ground_decos.swf,Crack1,Ground,,
+Crack2,RETOUCH,graphics/ground_decos/east_dock_ground_decos.swf,Crack2,Ground,,
+Crack3,RETOUCH,graphics/ground_decos/east_dock_ground_decos.swf,Crack3,Ground,,
+LightReflectionGround,,graphics/ground_decos/east_dock_ground_decos.swf,LightReflection,Ground,,overlay
+LightReflectionObject,,graphics/ground_decos/east_dock_ground_decos.swf,LightReflection,AboveObject,,overlay
+fallen_leafs_texture1,ground leafs nature,graphics/ground_decos/nature_ground1.swf,fallen_leafs_texture1,Ground,,
+grass_texture_big1,ground grass nature,graphics/ground_decos/nature_ground1.swf,grass_texture_big1,Ground,,
+grass_texture_big2,ground grass nature,graphics/ground_decos/nature_ground1.swf,grass_texture_big2,Ground,,
+grass_texture1,ground grass nature,graphics/ground_decos/nature_ground1.swf,grass_texture1,Ground,,
+grass_texture2,ground grass nature,graphics/ground_decos/nature_ground1.swf,grass_texture2,Ground,,
+grass_texture3,ground grass nature,graphics/ground_decos/nature_ground1.swf,grass_texture3,Ground,,
+light_floor_direct_round1,light floor,graphics/ground_decos/lights_and_shadows.swf,light_floor_direct_round1,Ground,,overlay
+light_floor_displaced1,light floor,graphics/ground_decos/lights_and_shadows.swf,light_floor_displaced1,Ground,,overlay
+light_floor_faded_square,light floor,graphics/ground_decos/lights_and_shadows.swf,light_floor_faded_square,Ground,,overlay
+light_floor_round1,light floor,graphics/ground_decos/lights_and_shadows.swf,light_floor_round1,Ground,,overlay
+light_floor_round2,light floor,graphics/ground_decos/lights_and_shadows.swf,light_floor_round2,Ground,,overlay
+light_floor_sharp_square,light floor,graphics/ground_decos/lights_and_shadows.swf,light_floor_sharp_square,Ground,,overlay
+light_floor_window_squares,light floor,graphics/ground_decos/lights_and_shadows.swf,light_floor_window_squares,Ground,,overlay
+light_round1,light,graphics/ground_decos/lights_and_shadows.swf,light_round1,AboveObject,,overlay
+light_window_beams1,light window,graphics/ground_decos/lights_and_shadows.swf,light_window_beams1,AboveObject,,overlay
+shadow_corner,shadow wall,graphics/ground_decos/lights_and_shadows.swf,shadow_corner,Object,,multiply
+shadow_floor_directional_long,shadow floor,graphics/ground_decos/lights_and_shadows.swf,shadow_floor_directional_long,Ground,,multiply
+shadow_floor_directional_long_se,shadow floor,graphics/ground_decos/lights_and_shadows.swf,shadow_floor_directional_long_se,Ground,,multiply
+shadow_floor_directional_wide,shadow floor,graphics/ground_decos/lights_and_shadows.swf,shadow_floor_directional_wide,Ground,,multiply
+shadow_floor_directional_wide_se,shadow floor,graphics/ground_decos/lights_and_shadows.swf,shadow_floor_directional_wide_se,Ground,,multiply
+shadow_floor_square,shadow floor,graphics/ground_decos/lights_and_shadows.swf,shadow_floor_square,Ground,,multiply
+shadow_hard_round_floor,shadow floor,graphics/ground_decos/lights_and_shadows.swf,shadow_hard_round_floor,Ground,,multiply
+shadow_mild_round_floor,shadow floor,graphics/ground_decos/lights_and_shadows.swf,shadow_mild_round_floor,Ground,,multiply
+shadow_rounded_square,shadow floor,graphics/ground_decos/lights_and_shadows.swf,shadow_rounded_square,Ground,,multiply
+shadow_wall_big,shadow wall,graphics/ground_decos/lights_and_shadows.swf,shadow_wall_big,Object,,multiply
+tile_transition_grass1_down,,graphics/ground_decos/tile_transitions.swf,tile_transition_grass1_down,Ground,,
+tile_transition_grass1_up,,graphics/ground_decos/tile_transitions.swf,tile_transition_grass1_up,Ground,,
+sand_patch1,,graphics/ground_decos/ground_patches.swf,sand_patch1,Ground,,multiply
+sand_patch2,,graphics/ground_decos/ground_patches.swf,sand_patch2,Ground,,multiply
+sand_patch3,,graphics/ground_decos/ground_patches.swf,sand_patch3,Ground,,multiply
+water_puddle1,,graphics/ground_decos/ground_patches.swf,water_puddle1,Ground,,overlay
+stone_chips,,graphics/ground_decos/ground_patches.swf,stone_chips,Ground,,
+stone_chips2,,graphics/ground_decos/ground_patches.swf,stone_chips2,Ground,,
+cracked1,,graphics/ground_decos/ground_patches.swf,cracked1,,,
+stone_chips_big,,graphics/ground_decos/ground_patches.swf,stone_chips2,Ground,,
+stone_chips_big2,,graphics/ground_decos/ground_patches.swf,stone_chips2,Ground,,
+leaf_patch1,,graphics/ground_decos/ground_patches.swf,leaf_patch1,Ground,,
+leaf_patch2,,graphics/ground_decos/ground_patches.swf,leaf_patch2,Ground,,
+pavement_stones1,UPDATE,graphics/ground_decos/ground_patches.swf,pavement_stones1,Ground,,
+pavement_stones2,UPDATE,graphics/ground_decos/ground_patches.swf,pavement_stones2,Ground,,
+pavement_stones3,UPDATE,graphics/ground_decos/ground_patches.swf,pavement_stones3,Ground,,
+small_stones,,graphics/ground_decos/ground_patches.swf,small_stones,Ground,,
+stone_chips3,,graphics/ground_decos/ground_patches.swf,stone_chips3,Ground,,
+asphalt_cracks1,,graphics/ground_decos/ground_patches.swf,asphalt_cracks1,Layout,,overlay
+asphalt_cracks2,,graphics/ground_decos/ground_patches.swf,asphalt_cracks2,Layout,,overlay
+asphalt_cracks3,UPDATE,graphics/ground_decos/ground_patches.swf,asphalt_cracks3,Layout,,
+asphalt_cracks4,UPDATE,graphics/ground_decos/ground_patches.swf,asphalt_cracks4,Layout,,
+asphalt_cracks5,,graphics/ground_decos/ground_patches.swf,asphalt_cracks5,Layout,,overlay
+asphalt_cracks6,UPDATE,graphics/ground_decos/ground_patches.swf,asphalt_cracks6,Layout,,overlay
+asphalt_cracks7,,graphics/ground_decos/ground_patches.swf,asphalt_cracks7,Layout,,overlay
+asphalt_cracks8,,graphics/ground_decos/ground_patches.swf,asphalt_cracks8,Layout,,overlay
+asphalt_cracks9,,graphics/ground_decos/ground_patches.swf,asphalt_cracks9,Layout,,overlay
+asphalt_cracks10,,graphics/ground_decos/ground_patches.swf,asphalt_cracks10,Layout,,overlay
+asphalt_cracks11,,graphics/ground_decos/ground_patches.swf,asphalt_cracks11,Layout,,overlay
+garbage1,,graphics/ground_decos/ground_patches.swf,garbage1,Ground,,
+garbage2,,graphics/ground_decos/ground_patches.swf,garbage2,Ground,,
+concrete_plant01,,graphics/ground_decos/ground_patches.swf,concrete_plant01,Object,,overlay
+concrete_plant02,,graphics/ground_decos/ground_patches.swf,concrete_plant02,Ground,,overlay
+concrete_hole,,graphics/ground_decos/ground_patches.swf,concrete_hole,Ground,,overlay
+blood_splash01,,graphics/ground_decos/ground_patches.swf,blood_splash01,Ground,,
+eroded_asphalt1,,graphics/ground_decos/eroded_asphalt.swf,eroded_asphalt1,Ground,,overlay
+eroded_asphalt2,,graphics/ground_decos/eroded_asphalt.swf,eroded_asphalt2,Ground,,overlay
+eroded_asphalt3,,graphics/ground_decos/eroded_asphalt.swf,eroded_asphalt3,Ground,,overlay
+eroded_asphalt4,,graphics/ground_decos/eroded_asphalt.swf,eroded_asphalt4,,,overlay
+brick_ground1,UPDATE,graphics/ground_decos/brick_ground.swf,brick_ground1,Ground,,
+brick_ground2,UPDATE,graphics/ground_decos/brick_ground.swf,brick_ground2,Ground,,
+brick_ground3,UPDATE,graphics/ground_decos/brick_ground.swf,brick_ground3,Ground,,
+brick_ground4,UPDATE,graphics/ground_decos/brick_ground.swf,brick_ground4,Ground,,
+streetlines_arrow1,line street arrow,graphics/ground_decos/streetlines.swf,streetlines_arrow1,Layout,,overlay
+streetlines_arrow2,line street arrow,graphics/ground_decos/streetlines.swf,streetlines_arrow2,Layout,,overlay
+streetlines_arrow_bend1,line street arrow,graphics/ground_decos/streetlines.swf,streetlines_arrow_bend1,Layout,,overlay
+streetlines_arrow_bend2,line street arrow,graphics/ground_decos/streetlines.swf,streetlines_arrow_bend2,Layout,,overlay
+streetlines_centerline_single1,line street,graphics/ground_decos/streetlines.swf,streetlines_centerline_single1,Layout,,overlay
+streetlines_centerline_single2,line street,graphics/ground_decos/streetlines.swf,streetlines_centerline_single2,Layout,,overlay
+streetlines_centerline_double1,line street,graphics/ground_decos/streetlines.swf,streetlines_centerline_double1,Layout,,overlay
+streetlines_centerline_double2,line street,graphics/ground_decos/streetlines.swf,streetlines_centerline_double2,Layout,,overlay
+streetlines_no_parking1,line street parking,graphics/ground_decos/streetlines.swf,streetlines_no_parking1,Layout,,overlay
+streetlines_no_parking2,line street parking,graphics/ground_decos/streetlines.swf,streetlines_no_parking2,Layout,,overlay
+streetlines_parking_line,line street parking,graphics/ground_decos/streetlines.swf,streetlines_parking_line,Layout,,overlay
+streetlines_zebra_crossing,line street,graphics/ground_decos/streetlines.swf,streetlines_zebra_crossing,Layout,,overlay
+line_thick_straight,line prison,graphics/decos/prison/prison_generic.swf,line_thick_straight,Layout,,overlay
+line_thick_straight_short,line prison,graphics/decos/prison/prison_generic.swf,line_thick_straight_short,Layout,,overlay
+line_thick_corner_left,line prison,graphics/decos/prison/prison_generic.swf,line_thick_corner_left,Layout,,overlay
+line_thick_corner_front,line prison,graphics/decos/prison/prison_generic.swf,line_thick_corner_front,Layout,,overlay
+line_thick_corner_back,line prison,graphics/decos/prison/prison_generic.swf,line_thick_corner_back,Layout,,overlay
+battered_in_corner_down,curb street,graphics/decos/curbs/curbs1.swf,battered_in_corner_down,Layout,,
+battered_in_corner_left,curb street,graphics/decos/curbs/curbs1.swf,battered_in_corner_left,Layout,,
+battered_in_corner_up,curb street,graphics/decos/curbs/curbs1.swf,battered_in_corner_up,Layout,,
+battered_long_back1,curb street,graphics/decos/curbs/curbs1.swf,battered_long_back1,Layout,,
+battered_long_back2,curb street,graphics/decos/curbs/curbs1.swf,battered_long_back2,Layout,,
+battered_long_front1,curb street,graphics/decos/curbs/curbs1.swf,battered_long_front1,Layout,,
+battered_long_front2,curb street,graphics/decos/curbs/curbs1.swf,battered_long_front2,Layout,,
+battered_out_corner_down,curb street,graphics/decos/curbs/curbs1.swf,battered_out_corner_down,Layout,,
+battered_out_corner_right,curb street,graphics/decos/curbs/curbs1.swf,battered_out_corner_right,Layout,,
+battered_out_corner_up,curb street,graphics/decos/curbs/curbs1.swf,battered_out_corner_up,Layout,,
+battered_straight_back1,curb street,graphics/decos/curbs/curbs1.swf,battered_straight_back1,Layout,,
+battered_straight_back2,curb street,graphics/decos/curbs/curbs1.swf,battered_straight_back2,Layout,,
+battered_straight_back3,curb street,graphics/decos/curbs/curbs1.swf,battered_straight_back3,Layout,,
+battered_straight_back4,curb street,graphics/decos/curbs/curbs1.swf,battered_straight_back4,Layout,,
+battered_straight_front1,curb street,graphics/decos/curbs/curbs1.swf,battered_straight_front1,Layout,,
+battered_straight_front2,curb street,graphics/decos/curbs/curbs1.swf,battered_straight_front2,Layout,,
+battered_straight_front3,curb street,graphics/decos/curbs/curbs1.swf,battered_straight_front3,Layout,,
+battered_straight_front4,curb street,graphics/decos/curbs/curbs1.swf,battered_straight_front4,Layout,,
+pier_edge_back_top_corner,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_back_top_corner,Layout,,
+pier_edge_corner_front,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_corner_front,Layout,,
+pier_edge_corner_in_front,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_corner_in_front,Layout,,
+pier_edge_corner_in_left,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_corner_in_left,Layout,,
+pier_edge_corner_in_up,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_corner_in_up,Layout,,
+pier_edge_corner_right,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_corner_right,Layout,,
+pier_edge_straight_1,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_straight_1,Layout,,
+pier_edge_straight_2,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_straight_2,Layout,,
+pier_edge_straight_3,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_straight_3,Layout,,
+pier_edge_straight_4,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_straight_4,Layout,,
+pier_edge_straight_back,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_straight_back,Layout,,
+pier_edge_straight_back_long,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_straight_back_long,Layout,,
+pier_edge_straight_long1,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_straight_long1,Layout,,
+pier_edge_straight_long2,pier edge harbor,graphics/decos/curbs/curbs1.swf,pier_edge_straight_long2,Layout,,
+battered_long_front2_light,curb street,graphics/decos/curbs/curbs1.swf,battered_long_front2,Layout,,
+greyorange_straight_front1,curb street,graphics/decos/curbs/curbs1.swf,greyorange_straight_front1,Layout,,
+greyorange_straight_front2,curb street,graphics/decos/curbs/curbs1.swf,greyorange_straight_front2,Layout,,
+greyorange_straight_back1,curb street,graphics/decos/curbs/curbs1.swf,greyorange_straight_back1,Layout,,
+greyorange_straight_back2,curb street,graphics/decos/curbs/curbs1.swf,greyorange_straight_back2,Layout,,
+greyorange_long_front1,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_front1,Layout,,
+greyorange_long_front1_8_tiles,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_front1_8_tiles,Layout,,
+greyorange_long_front1_12_tiles,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_front1_12_tiles,Layout,,
+greyorange_long_front1_16_tiles,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_front1_16_tiles,Layout,,
+greyorange_long_front2,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_front2,Layout,,
+greyorange_long_front3,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_front3,Layout,,
+greyorange_long_front4,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_front4,Layout,,
+greyorange_long_front5,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_front5,Layout,,
+greyorange_long_back1,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_back1,Layout,,
+greyorange_long_back1_8_tiles,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_back1_8_tiles,Layout,,
+greyorange_long_back1_12_tiles,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_back1_12_tiles,Layout,,
+greyorange_long_back1_16_tiles,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_back1_16_tiles,Layout,,
+greyorange_long_back2,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_back2,Layout,,
+greyorange_long_back3,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_back3,Layout,,
+greyorange_long_back4,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_back4,Layout,,
+greyorange_long_back5,curb street,graphics/decos/curbs/curbs1.swf,greyorange_long_back5,Layout,,
+greyorange_in_corner_down,curb street,graphics/decos/curbs/curbs1.swf,greyorange_in_corner_down,Layout,,
+greyorange_in_corner_left,curb street,graphics/decos/curbs/curbs1.swf,greyorange_in_corner_left,Layout,,
+greyorange_in_corner_up,curb street,graphics/decos/curbs/curbs1.swf,greyorange_in_corner_up,Layout,,
+greyorange_out_corner_down,curb street,graphics/decos/curbs/curbs1.swf,greyorange_out_corner_down,Layout,,
+greyorange_out_corner_right,curb street,graphics/decos/curbs/curbs1.swf,greyorange_out_corner_right,Layout,,
+greyorange_out_corner_up,curb street,graphics/decos/curbs/curbs1.swf,greyorange_out_corner_up,Layout,,
+RoadBlock01,street roadblock,graphics/decos/street/street_common1.swf,RoadBlock1,Ground,,
+RoadBlock02,street roadblock,graphics/decos/street/street_common1.swf,RoadBlock2,Ground,,
+RoadBlock03,street roadblock,graphics/decos/street/street_common1.swf,RoadBlock3,Ground,,
+oil,,graphics/ground_decos/ground_patches.swf,oil,Ground,,
+butts1,,graphics/ground_decos/ground_patches.swf,butts1,Ground,,
+butts2,,graphics/ground_decos/ground_patches.swf,butts2,Ground,,
+rust1,,graphics/ground_decos/ground_patches.swf,rust1,Ground,,overlay
+rust2,,graphics/ground_decos/ground_patches.swf,rust2,Ground,,overlay
+gunkpuddle,,graphics/ground_decos/ground_patches.swf,gunkpuddle,Ground,,
+RoofLightWhite,,graphics/decos/street/lamps_lights.swf,RoofLightWhite,,,
+GreenLed,,graphics/decos/street/lamps_lights.swf,GreenLed,,,
+OrangeLed,,graphics/decos/street/lamps_lights.swf,OrangeLed,,,
+Water,,graphics/ground_decos/east_dock_ground_decos.swf,Water,,,
+numbers_01_2,street number,graphics/decos/wall_passables/numbers.swf,numbers_01_2,Layout,,overlay
+numbers_02_2,street number,graphics/decos/wall_passables/numbers.swf,numbers_02_2,Layout,,overlay
+numbers_03_2,street number,graphics/decos/wall_passables/numbers.swf,numbers_03_2,Layout,,overlay
+numbers_04_2,street number,graphics/decos/wall_passables/numbers.swf,numbers_04_2,Layout,,overlay
+numbers_05_2,street number,graphics/decos/wall_passables/numbers.swf,numbers_05_2,Layout,,overlay
+numbers_06_2,street number,graphics/decos/wall_passables/numbers.swf,numbers_06_2,Layout,,overlay
+numbers_07,street number,graphics/decos/wall_passables/numbers.swf,numbers_07,Layout,,overlay
+skidmarks_1,ground,graphics/ground_decos/ground_patches.swf,skidmarks_1,Layout,,
+skidmarks_2,ground,graphics/ground_decos/ground_patches.swf,skidmarks_2,Layout,,
+sea_shadow,water,graphics/ground_decos/ground_patches.swf,sea_shadow,Layout,,
+platform_back_top_c,platform,graphics/decos/curbs/curbs1.swf,platform_back_top_c,Layout,,
+platform_front_c,platform,graphics/decos/curbs/curbs1.swf,platform_front_c,Layout,,
+platform_back_c,platform,graphics/decos/curbs/curbs1.swf,platform_back_c,Layout,,
+platform_right_c_in,platform,graphics/decos/curbs/curbs1.swf,platform_right_c_in,Layout,,
+platform_straight,platform,graphics/decos/curbs/curbs1.swf,platform_straight,Layout,,
+platform_straight_2,platform,graphics/decos/curbs/curbs1.swf,platform_straight_2,Layout,,
+platform_top_straight_back,platform,graphics/decos/curbs/curbs1.swf,platform_top_straight_back,Layout,,
+platform_straight_back_long,platform,graphics/decos/curbs/curbs1.swf,platform_straight_back_long,Layout,,
+platform_top_front_c,platform,graphics/decos/curbs/curbs1.swf,platform_top_front_c,Layout,,
+platform_right_c,platform,graphics/decos/curbs/curbs1.swf,platform_right_c,Layout,,
+wires_20_tiles,wire,graphics/decos/street/street_generic.swf,wires_20_tiles,AboveObject,,
+wires_10_tiles,wire,graphics/decos/street/street_generic.swf,wires_10_tiles,AboveObject,,
+erosion_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,erosion_overlay,Ground,,overlay
+erosion_small_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,erosion_small_overlay,Ground,,overlay
+grunge,nature ground,graphics/ground_decos/nature_ground1.swf,grunge,Ground,,overlay
+pothole_small_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,pothole_small_overlay,Ground,,overlay
+cables_ground,ground,graphics/ground_decos/ground_patches.swf,cables_ground,Ground,,
+pothole_big_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,pothole_big_overlay,Ground,,overlay
+water_edge,water,graphics/ground_decos/east_dock_ground_decos.swf,water_edge,Ground,,overlay
+ripple_effect,water,graphics/ground_decos/east_dock_ground_decos.swf,ripple_effect,Ground,,
+bubble_effect,water,graphics/ground_decos/east_dock_ground_decos.swf,bubble_effect,Ground,,
+sunken_container,industrial water container,graphics/decos/train_yard/containers.swf,sunken_container,Ground,,
+floating_bottle,water bottle,graphics/decos/docks/pier_water_items.swf,floating_bottle,Ground,,
+floating_barrel,water barrel,graphics/decos/docks/pier_water_items.swf,floating_barrel,Ground,,
+floating_body,water body,graphics/decos/docks/pier_water_items.swf,floating_body,Ground,,
+trash_wire_1,wire,graphics/decos/street/street_generic.swf,trash_wire_1,Ground,,layer
+shoreline_str_front,nature ground,graphics/ground_decos/nature_ground1.swf,shoreline_str_front,Ground,,
+shoreline_str_back,nature ground,graphics/ground_decos/nature_ground1.swf,shoreline_str_back,Ground,,
+shoreline_crn_back,nature ground,graphics/ground_decos/nature_ground1.swf,shoreline_crn_back,Ground,,
+shoreline_crn_left,nature ground,graphics/ground_decos/nature_ground1.swf,shoreline_crn_left,Ground,,
+shoreline_crn_front,nature ground,graphics/ground_decos/nature_ground1.swf,shoreline_crn_front,Ground,,
+bloodpuddle_1,blood ground,graphics/ground_decos/ground_patches.swf,bloodpuddle_1,Ground,,overlay
+bloodpuddle_2,blood ground,graphics/ground_decos/ground_patches.swf,bloodpuddle_2,Ground,,overlay
+pillar_left,pillar water,graphics/decos/docks/pier_water_items.swf,pillar_left,Ground,,
+pillar_right,pillar water,graphics/decos/docks/pier_water_items.swf,pillar_right,Ground,,
+light_floor_round1_yellow,yellow light,graphics/ground_decos/lights_and_shadows.swf,light_floor_round1_yellow,Ground,,lighten
+dirt_1,nature ground dirt,graphics/ground_decos/nature_ground1.swf,dirt_1,Ground,,
+mud_1,nature ground,graphics/ground_decos/nature_ground1.swf,mud_1,Ground,,
+mud_2,nature ground,graphics/ground_decos/nature_ground1.swf,mud_2,Ground,,
+mud_3_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,mud_3_overlay,Ground,,overlay
+mud_4,nature ground,graphics/ground_decos/nature_ground1.swf,mud_4,Ground,,
+mud_5_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,mud_5_overlay,Ground,,overlay
+mud_6_erosion_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,mud_6_erosion_overlay,Ground,,overlay
+mud_7_erosion_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,mud_7_erosion_overlay,Ground,,overlay
+mud_8_overlay,nature ground,graphics/ground_decos/nature_ground1.swf,mud_8_overlay,Ground,,overlay
+transition_ne,transition exit,graphics/decos/street/exit.swf,transition_ne,Ground,,add
+transition_nw,transition exit,graphics/decos/street/exit.swf,transition_nw,Ground,,add
+transition_se,transition exit,graphics/decos/street/exit.swf,transition_se,Ground,,add
+transition_sw,transition exit,graphics/decos/street/exit.swf,transition_sw,Ground,,add
+computer_user_pedestal,interior floor computer,graphics/ground_decos/interior_floor.swf,computer_user_pedestal,Ground,,
+tube_ground,tube wire,graphics/decos/wall_passables/wires_tubes.swf,tube_ground,Ground,,
+tube_ground_long,tube wire,graphics/decos/wall_passables/wires_tubes.swf,tube_ground_long,Ground,,
+wire_ground,tube wire,graphics/decos/wall_passables/wires_tubes.swf,wire_ground,Ground,,
+wire_ground_long1,tube wire,graphics/decos/wall_passables/wires_tubes.swf,wire_ground_long1,Ground,,
+wire_ground_long2,tube wire,graphics/decos/wall_passables/wires_tubes.swf,wire_ground_long2,Ground,,
+platform_pillar_low,platform pillar,graphics/decos/platform/elevated_platforms.swf,platform_pillar_low,Ground,,
+platform_pillar_medium,platform pillar,graphics/decos/platform/elevated_platforms.swf,platform_pillar_medium,Ground,,
+lava_ground1,lava rough rock,graphics/decos/lava_rock/lava_rock.swf,lava_ground1,Ground,,
+lava_ground2,lava rough rock,graphics/decos/lava_rock/lava_rock.swf,lava_ground2,Ground,,
+arc_wirerouter,basement tunnel pillar roof concrete,graphics/decos/interiors_basement/walls_pillars_grates_pipes.swf,arc_wirerouter,,,
+pipe_metal_big_straight,basement tunnel pillar pipe,graphics/decos/interiors_basement/walls_pillars_grates_pipes.swf,pipe_metal_big_straight,,,
+helicopter_small_blades2,aircraft helicopter,graphics/decos/aircraft/helicopter_small_blades.swf,helicopter_small_blades1,AboveObject,,
+floor_rail_end,,graphics/decos/rebel_camp/rebel_camp.swf,floor_rail_end,Ground,,
+lamp,,graphics/decos/rebel_camp/rebel_camp.swf,lamp,AboveObject,,
+rig_left,,graphics/decos/rebel_camp/rebel_camp.swf,rig_left,Object,,
+rig_right,,graphics/decos/rebel_camp/rebel_camp.swf,rig_right,Object,,
+rig_center,,graphics/decos/rebel_camp/rebel_camp.swf,rig_center,AboveObject,,
+light_floor_round2_blue,blue light,graphics/ground_decos/lights_and_shadows.swf,light_floor_round2_blue,Ground,,add
+light_floor_round2_green,green light,graphics/ground_decos/lights_and_shadows.swf,light_floor_round2_green,Ground,,add
+light_floor_round2_red,light red,graphics/ground_decos/lights_and_shadows.swf,light_floor_round2_red,Ground,,add
+light_floor_round2_yellow,yellow light,graphics/ground_decos/lights_and_shadows.swf,light_floor_round2_yellow,Ground,,add
+light_floor_sharp_square_blue,blue light,graphics/ground_decos/lights_and_shadows.swf,light_floor_sharp_square_blue,Ground,,add
+light_round1_blue,blue light,graphics/ground_decos/lights_and_shadows.swf,light_round1_blue,Object,,add
+light_round1_green,green light,graphics/ground_decos/lights_and_shadows.swf,light_round1_green,Object,,add
+light_round1_red,light red,graphics/ground_decos/lights_and_shadows.swf,light_round1_red,Object,,add
+light_round1_yellow,yellow light,graphics/ground_decos/lights_and_shadows.swf,light_round1_yellow,Object,,add
+light_square_star,white light,graphics/ground_decos/lights_and_shadows.swf,light_square_star,Object,,add
+light_square_star_blue,blue light,graphics/ground_decos/lights_and_shadows.swf,light_square_star_blue,Object,,add
+light_square_star_green,green light,graphics/ground_decos/lights_and_shadows.swf,light_square_star_green,Object,,add
+light_square_star_red,light red,graphics/ground_decos/lights_and_shadows.swf,light_square_star_red,Object,,add
+light_square_star_yellow,yellow light,graphics/ground_decos/lights_and_shadows.swf,light_square_star_yellow,Object,,add
+junk_pile1,junk pile,graphics/decos/street/street_generic.swf,junk_pile1,,,
+grass_dry_patch1,ground grass nature,graphics/ground_decos/nature_dry_grass.swf,grass_dry_patch1,Object,,
+grass_dry_patch2,ground grass nature,graphics/ground_decos/nature_dry_grass.swf,grass_dry_patch2,Object,,
+grass_dry_patch3,ground grass nature,graphics/ground_decos/nature_dry_grass.swf,grass_dry_patch3,Object,,
+grass_dry_patch4,ground grass nature,graphics/ground_decos/nature_dry_grass.swf,grass_dry_patch4,Object,,
+grass_dry_texture1,ground grass nature,graphics/ground_decos/nature_dry_grass.swf,grass_dry_texture1,Ground,,
+grass_dry_texture2,ground grass nature,graphics/ground_decos/nature_dry_grass.swf,grass_dry_texture2,Ground,,
+grass_dry_texture3,ground grass nature,graphics/ground_decos/nature_dry_grass.swf,grass_dry_texture3,Ground,,
+grass_dry_texture4,ground grass nature,graphics/ground_decos/nature_dry_grass.swf,grass_dry_texture4,Ground,,
+automated_bollards_base,automatic bollard gate base,graphics/decos/gate/automated_bollard.swf,automated_bollards_base,Ground,,
+water_edge2,water edge,graphics/ground_decos/east_dock_ground_decos.swf,water_edge2,,,
+confetti_1,confetti,graphics/decos/harbor/parade_balloons_and_decor.swf,confetti_1,,,
+confetti_2,confetti,graphics/decos/harbor/parade_balloons_and_decor.swf,confetti_2,,,
+lifering_water,docks water,graphics/decos/docks/rubberboat_buoy_lifering.swf,lifering_water,,,
+water_buoy,docks water,graphics/decos/docks/rubberboat_buoy_lifering.swf,water_buoy,,,
+eastern_queens_left_ground,gang graffiti sign UPDATE,graphics/decos/wall_passables/gang_signs.swf,eastern_queens_left_ground,,,
+eastern_queens_right_ground,gang graffiti sign UPDATE,graphics/decos/wall_passables/gang_signs.swf,eastern_queens_right_ground,,,
+eastern_queens_lips_right_ground,gang graffiti sign UPDATE,graphics/decos/wall_passables/gang_signs.swf,eastern_queens_lips_right_ground,,,
+hooligans_left_ground,gang graffiti sign UPDATE,graphics/decos/wall_passables/gang_signs.swf,hooligans_left_ground,,,
+hooligans_right_ground,gang graffiti sign UPDATE,graphics/decos/wall_passables/gang_signs.swf,hooligans_right_ground,,,
+hooligans_splat_right_ground,gang graffiti sign UPDATE,graphics/decos/wall_passables/gang_signs.swf,hooligans_splat_right_ground,,,
+resistance_symbol_ground_1,gang graffiti sign,graphics/decos/wall_passables/gang_signs.swf,resistance_symbol_ground_1,,,
+resistance_symbol_ground_2,gang graffiti sign,graphics/decos/wall_passables/gang_signs.swf,resistance_symbol_ground_2,,,
+turret_stand,turret stand,graphics/decos/high_tech/labycore_tech.swf,turret_stand,Ground,,
+wild_plant_03,wild nature plant,graphics/decos/nature_misc/wild_nature.swf,wild_plant_03,Object,,
+wild_plant_ground_leaves_01,wild nature leaves,graphics/decos/nature_misc/wild_nature.swf,wild_plant_ground_leaves_01,Ground,,
+wild_plant_ground_leaves_02,wild nature leaves,graphics/decos/nature_misc/wild_nature.swf,wild_plant_ground_leaves_02,Ground,,
+mad_dogs_left_ground_text,gang mad dogs tag UPDATE,graphics/decos/wall_passables/gang_signs.swf,mad_dogs_left_ground_text,,,
+mad_dogs_right_ground_text,gang mad dogs tag UPDATE,graphics/decos/wall_passables/gang_signs.swf,mad_dogs_right_ground_text,,,
+beach_pavement_edge_01,beach,graphics/ground_decos/beach_pavement_edges.swf,beach_pavement_edge_01,,,
+beach_pavement_edge_02,beach,graphics/ground_decos/beach_pavement_edges.swf,beach_pavement_edge_02,,,
+ground_display_arrow_1,ground display sign arrow,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_display_arrow_1,Ground,,
+ground_display_arrow_2,ground display arrow sign,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_display_arrow_2,Ground,,
+ground_display_arrow_3,ground display arrow sign,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_display_arrow_3,Ground,,
+ground_display_arrow_4,ground display arrow sign,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_display_arrow_4,Ground,,
+ground_screen_30_1,ground display speed limit sign,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_30_1,Ground,,
+ground_screen_30_2,ground display arrow sign 30 speed limit,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_30_2,Ground,,
+ground_screen_60_1,ground display sign 60 speed limit,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_60_1,Ground,,
+ground_screen_arrows_2_tile_1,ground display arrows,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_arrows_2_tile_1,Ground,,
+ground_screen_arrows_2_tile_2,ground display arrows,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_arrows_2_tile_2,Ground,,
+ground_screen_arrows_3_tile_1,ground display arrows,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_arrows_3_tile_1,Ground,,
+ground_screen_arrows_3_tile_2,ground display arrows,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_arrows_3_tile_2,Ground,,
+ground_screen_crosswalk_green_2,ground display crosswalk green,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_crosswalk_green_2,Ground,,
+ground_screen_crosswalk_red_1,ground display crosswalk red,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_crosswalk_red_1,Ground,,
+ground_screen_crosswalk_red_2,ground display crosswalk red,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_screen_crosswalk_red_2,Ground,,
+ground_sign_stop_1,ground display stop,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_sign_stop_1,Ground,,
+ground_sign_stop_2,ground display stop,graphics/decos/light_posts_and_displays/light_posts_and_displays.swf,ground_sign_stop_2,Ground,,
+disco_light_red_floor,night club disco light,graphics/decos/night_club/night_club.swf,disco_light_red_floor,Ground,,add
+disco_light_white_floor,night club disco light,graphics/decos/night_club/night_club.swf,disco_light_white_floor,Ground,,add
+light_strip,bridge light strip ground,graphics/decos/bridge/bridge.swf,light_strip,Ground,,
+HologramPlate,hologram plate,graphics/decos/hologram/sid_hologram_head.swf,HologramPlate,Ground,,
+desert_ground_cracks_heavy,desert,graphics/decos/desert/desert_blocks.swf,desert_ground_cracks_heavy,Ground,,
+desert_ground_cracks_heavy_alpha,desert,graphics/decos/desert/desert_blocks.swf,desert_ground_cracks_heavy_alpha,Ground,,
+desert_ground_cracks_light,desert,graphics/decos/desert/desert_blocks.swf,desert_ground_cracks_light,Ground,,
+desert_ground_cracks_light_alpha,desert,graphics/decos/desert/desert_blocks.swf,desert_ground_cracks_light_alpha,Ground,,
+desert_ground_sand,desert,graphics/decos/desert/desert_blocks.swf,desert_ground_sand,Ground,,
+desert_ground_sand_alpha,desert,graphics/decos/desert/desert_blocks.swf,desert_ground_sand_alpha,Ground,,
+desert_ground_stones,desert,graphics/decos/desert/desert_blocks.swf,desert_ground_stones,Ground,,
+desert_ground_stones_alpha,desert,graphics/decos/desert/desert_blocks.swf,desert_ground_stones_alpha,Ground,,
+desert_ground_rocks_03,desert rocks,graphics/decos/desert/desert_blocks.swf,desert_ground_rocks_03,Ground,,
+desert_ground_rocks_04,desert rocks,graphics/decos/desert/desert_blocks.swf,desert_ground_rocks_04,Ground,,
+desert_road_side_01,desert road,graphics/decos/desert/desert_blocks.swf,desert_road_side_01,Ground,,
+desert_road_side_02,desert road,graphics/decos/desert/desert_blocks.swf,desert_road_side_02,Ground,,
+desert_road_cracks_01,desert road cracks,graphics/decos/desert/desert_blocks.swf,desert_road_cracks_01,Ground,,
+desert_road_dirt_01,desert road dirt,graphics/decos/desert/desert_blocks.swf,desert_road_dirt_01,Ground,,
+pit_front_straight_2,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_front_straight_2,Ground,,
+pit_front_straight_1,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_front_straight_1,Ground,,
+pit_corner_right_inner,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_corner_right_inner,Ground,,
+pit_corner_right,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_corner_right,Ground,,
+pit_corner_left,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_corner_left,Ground,,
+pit_corner_front,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_corner_front,Ground,,
+pit_corner_back_inner,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_corner_back_inner,Ground,,
+pit_corner_back,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_corner_back,Ground,,
+pit_back_straight_1,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_back_straight_1,Ground,,
+pit_bottom,asphalt pit,graphics/ground_decos/eroded_asphalt.swf,pit_bottom,Ground,,overlay
+blast_mark_1,,graphics/ground_decos/eroded_asphalt.swf,blast_mark_1,Ground,,overlay
+blast_mark_1_w_glow,,graphics/ground_decos/eroded_asphalt.swf,blast_mark_1_w_glow,Ground,,
+blast_mark_2,,graphics/ground_decos/eroded_asphalt.swf,blast_mark_2,Ground,,
+blast_mark_2_w_glow,,graphics/ground_decos/eroded_asphalt.swf,blast_mark_2_w_glow,Ground,,
+blast_mark_3,,graphics/ground_decos/eroded_asphalt.swf,blast_mark_3,Ground,,
+blast_mark_3_w_glow,,graphics/ground_decos/eroded_asphalt.swf,blast_mark_3_w_glow,Ground,,
+broken_tiles_1,tiles,graphics/ground_decos/tile_transitions.swf,broken_tiles_1,Ground,,
+broken_tiles_2,,graphics/ground_decos/tile_transitions.swf,broken_tiles_2,Ground,,
+broken_tiles_3,,graphics/ground_decos/tile_transitions.swf,broken_tiles_3,Ground,,
+floating_ash_1,,graphics/decos/ash/floatingash.swf,floating_ash_1,Ground,,
+smoke_flare,light,graphics/decos/ash/floatingash.swf,smoke_flare,Ground,,
+underground_tubes,pipe pit,graphics/decos/ash/floatingash.swf,underground_tubes,Ground,,
+underground_water_pipe,pipe pit,graphics/decos/ash/floatingash.swf,underground_water_pipe,Ground,,
+spark_cable,pipe pit,graphics/decos/ash/floatingash.swf,spark_cable,Ground,,
+busted_labycar,car labycore pit,graphics/decos/ash/floatingash.swf,busted_labycar,Ground,,
+desert_red_ground,desert,graphics/decos/desert/desert_blocks.swf,desert_red_ground,Ground,,
+desert_arena_floor,desert arena,graphics/decos/desert/desert_arena.swf,desert_arena_floor,Ground,,
+desert_arena_floor_stains,desert arena,graphics/decos/desert/desert_arena.swf,desert_arena_floor_stains,Ground,,
+piece_ruins_metal02,ruins piece metal,graphics/decos/buildings/ruins_pieces.swf,piece_ruins_metal02,Ground,,
+piece_ruins_metal05,ruins piece metal,graphics/decos/buildings/ruins_pieces.swf,piece_ruins_metal05,Ground,,
+burnt_ground_under_car,car labycore burned,graphics/ground_decos/burned.swf,burnt_ground_under_car,Ground,,
+beach_waterline_1,desert beach water,graphics/decos/desert/desert_blocks.swf,beach_waterline_1,Ground,,
+beach_waterline_2,desert beach water,graphics/decos/desert/desert_blocks.swf,beach_waterline_2,Ground,,
+beach_waterline_corner_1,desert beach water,graphics/decos/desert/desert_blocks.swf,beach_waterline_corner_1,Ground,,
+beach_waterline_corner_2,desert beach water,graphics/decos/desert/desert_blocks.swf,beach_waterline_corner_2,Ground,,
+beach_waterline_corner2_1,desert beach water,graphics/decos/desert/desert_blocks.swf,beach_waterline_corner2_1,Ground,,
+beach_waterline_corner2_2,desert beach water,graphics/decos/desert/desert_blocks.swf,beach_waterline_corner2_2,Ground,,
+smoke_cloud_1,smoke puff,graphics/decos/ash/floatingash.swf,smoke_cloud_1,AboveObject,,
+smoke_static,smoke,graphics/decos/ash/floatingash.swf,smoke_static,AboveObject,,
+ruin_rubble_1,ruins,graphics/decos/buildings/ruins_pieces.swf,ruin_rubble_1,Object,,
+ruin_rubble_2,,graphics/decos/buildings/ruins_pieces.swf,ruin_rubble_2,Object,,
+light_lava_glow,light lava,graphics/ground_decos/lights_and_shadows.swf,light_lava_glow,Ground,,add
+light_barrel_glow,light,graphics/ground_decos/lights_and_shadows.swf,light_barrel_glow,Ground,,add
+metal_plate1,plate metal blue,graphics/ground_decos/plates_metal.swf,metal_plate1,Ground,,
+light_barrel_glow_object,light,graphics/ground_decos/lights_and_shadows.swf,light_barrel_glow,Object,,add
+light_lava_glow_object,light,graphics/ground_decos/lights_and_shadows.swf,light_lava_glow,Object,,add
+cave_ground_dirt,cave dirt,graphics/decos/desert/cave.swf,cave_ground_dirt,Ground,,
+cave_ground_dirt2,cave dirt,graphics/decos/desert/cave.swf,cave_ground_dirt2,Ground,,
+cave_ground_dirt3,cave dirt,graphics/decos/desert/cave.swf,cave_ground_dirt3,Ground,,
+cave_ground_rocks,cave rocks,graphics/decos/desert/cave.swf,cave_ground_rocks,Ground,,
+cave_lava_cracks_1,cave lsvs,graphics/decos/desert/cave.swf,cave_lava_cracks_1,Ground,,
+light_from_roof,cave light,graphics/decos/desert/cave.swf,light_from_roof,AboveObject,,
+cave_mushrooms_small,cave mushrooms,graphics/decos/desert/cave.swf,cave_mushrooms_small,Ground,,
+ruin_rubble_3,ruins rubble,graphics/ground_decos/ruins_ground.swf,ruin_rubble_3,Ground,,
+ruin_rubble_4,ruins rubble,graphics/ground_decos/ruins_ground.swf,ruin_rubble_4,Ground,,
+ground_bullet_holes_1,hole ruins bullet,graphics/ground_decos/ruins_ground.swf,ground_bullet_holes_1,Ground,,overlay
+ground_bullet_holes_2,hole ruins bullet,graphics/ground_decos/ruins_ground.swf,ground_bullet_holes_2,Ground,,overlay
+ember,ruins,graphics/ground_decos/ruins_ground.swf,ember,Ground,,
+coal_big_pieces,coal ruins,graphics/ground_decos/ruins_ground.swf,coal_big,Ground,,
+coal_big,coal ruins,graphics/ground_decos/ruins_ground.swf,coal_big,Ground,,overlay
+coal_2,coal ruins,graphics/ground_decos/ruins_ground.swf,coal_2,Ground,,
+coal_1,coal ruins,graphics/ground_decos/ruins_ground.swf,coal_1,Ground,,
+broken_glass_1,glass ruins,graphics/ground_decos/ruins_ground.swf,broken_glass_1,Ground,,
+broken_glass_2,glass ruins,graphics/ground_decos/ruins_ground.swf,broken_glass_2,Ground,,
+ash_pile,ash ruins,graphics/ground_decos/ruins_ground.swf,ash_pile,Ground,,
+ash_ground_1,ash ruins,graphics/ground_decos/ruins_ground.swf,ash_ground_1,Ground,,
+ash_ground_2,ash ruins,graphics/ground_decos/ruins_ground.swf,ash_ground_2,Ground,,
+floodlight_1,floodlight light,graphics/ground_decos/lights_and_shadows.swf,floodlight_1,AboveObject,,
+floodlight_2,floodlight light,graphics/ground_decos/lights_and_shadows.swf,floodlight_2,AboveObject,,
+floodlight_3,floodlight light,graphics/ground_decos/lights_and_shadows.swf,floodlight_3,AboveObject,,
+floodlight_4,floodlight light,graphics/ground_decos/lights_and_shadows.swf,floodlight_4,AboveObject,,
+grass_1,grass new beginning,graphics/decos/new_beginning/new_beginning.swf,grass_1,Ground,,
+grass_2,grass new beginning,graphics/decos/new_beginning/new_beginning.swf,grass_2,Ground,,
+sand_rocks_1,sand rocks,graphics/decos/new_beginning/new_beginning.swf,sand_rocks_1,Ground,,
+sand_1,sand,graphics/decos/new_beginning/new_beginning.swf,sand_1,Ground,,
+sand_rocks_2,sand rocks,graphics/decos/new_beginning/new_beginning.swf,sand_rocks_2,Ground,,
+sand_rocks_3,sand rocks,graphics/decos/new_beginning/new_beginning.swf,sand_rocks_3,Ground,,
+grass_3,grass,graphics/decos/new_beginning/new_beginning.swf,grass_3,Ground,,
+hatch,hatch,graphics/decos/new_beginning/new_beginning.swf,hatch,Ground,,
+fireplace,fireplace notski nuotio,graphics/decos/new_beginning/new_beginning.swf,fireplace,Ground,,
+beach_line_up,beach line water,graphics/decos/new_beginning/new_beginning.swf,beach_line_up,Ground,,
+beach_line_horizontal,beach line water,graphics/decos/new_beginning/new_beginning.swf,beach_line_horizontal,Ground,,
+beach_line_vertical,beach line water,graphics/decos/new_beginning/new_beginning.swf,beach_line_vertical,Ground,,
+shore_stone_corner_back,water edge,graphics/decos/stone_shore/stone_shore.swf,shore_stone_corner_back,Layout,,
+shore_stone_corner_front,water edge,graphics/decos/stone_shore/stone_shore.swf,shore_stone_corner_front,Layout,,
+shore_stone_corner_inner,water edge,graphics/decos/stone_shore/stone_shore.swf,shore_stone_corner_inner,Layout,,
+shore_stone_corner_left,water edge,graphics/decos/stone_shore/stone_shore.swf,shore_stone_corner_left,Layout,,
+shore_stone_corner_straight_1,water edge,graphics/decos/stone_shore/stone_shore.swf,shore_stone_straight_1,Layout,,
+shore_stone_straight_2,water edge,graphics/decos/stone_shore/stone_shore.swf,shore_stone_straight_2,Layout,,
+shore_stone_straight_back_1,water edge,graphics/decos/stone_shore/stone_shore.swf,shore_stone_straight_back_1,Layout,,
+shore_stone_straight_back_2,water edge,graphics/decos/stone_shore/stone_shore.swf,shore_stone_straight_back_2,Layout,,
+grass_yellow,,graphics/decos/new_beginning/forest_assets.swf,grass,,,
+grass_green,,graphics/decos/new_beginning/forest_assets.swf,grass_green,,,
+bang_o_mat_pieces2,vending machine pieces,graphics/decos/vendor/bang_o_mat.swf,bang_o_mat_pieces2,,,
+road_corner_01,harbor road corner,graphics/decos/harbor/harbor_new.swf,road_corner_01,Layout,,
+road_corner_02,harbor road corner,graphics/decos/harbor/harbor_new.swf,road_corner_02,Layout,,
+road_corner_03,harbor road corner,graphics/decos/harbor/harbor_new.swf,road_corner_03,Layout,,
+road_corner_05,harbor road corner,graphics/decos/harbor/harbor_new.swf,road_corner_05,Layout,,
+road_corner_06,harbor road corner,graphics/decos/harbor/harbor_new.swf,road_corner_06,Layout,,
+road_corner_08,harbor road corner,graphics/decos/harbor/harbor_new.swf,road_corner_08,Layout,,
+road_corner_09,harbor road corner,graphics/decos/harbor/harbor_new.swf,road_corner_09,Layout,,
+road_corner_10,harbor road corner,graphics/decos/harbor/harbor_new.swf,road_corner_10,Layout,,
+reuna_thick_short,,graphics/decos/harbor/harbor_new.swf,reuna_thick_short,Layout,,
+dirt_sand,harbor dirt,graphics/decos/harbor/harbor_new.swf,dirt_sand,Ground,,
+dirt_rocks,harbor dirt,graphics/decos/harbor/harbor_new.swf,dirt_rocks,Ground,,
+dirt_cracks,harbor dirt,graphics/decos/harbor/harbor_new.swf,dirt_cracks,Ground,,
+kill_room_plastic_floor_01,,graphics/decos/little_italy/little_italy_01.swf,kill_room_plastic_floor_01,Ground,,
+beta_vault_marble_texture,betakey marble texture,graphics/decos/betakey_room/betakey_room.swf,beta_vault_marble_texture,Ground,,
+roof_illusion,roof,graphics/decos/buildings_downtown/building_roof_illusion.swf,building_roof_illusion,Ground,,
+stairway,,graphics/decos/train_yard/stairs.swf,stairs,AboveObject,,

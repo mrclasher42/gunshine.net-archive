@@ -1,0 +1,45 @@
+Name,WeaponClass,RequiredLevel,Rarity,Tier,DiamondsOnly,ShopRecommend,Enhancement,CriticalChance,LootMinLevel,LootMaxLevel,LootResource,LootExportName,YELLOW_TEXT_TID,Muzzle,MuzzleGlow,BulletTrail,BulletFlash,MeleeTrail,LootDisabled,Icon,PostToSocialNetworks
+Basic Minigun,Minigun,10,Common,,,,,,,,,,,,,,,,TRUE,126,TRUE
+Average Minigun,Minigun,15,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Everyday Minigun,Minigun,20,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Popular Minigun,Minigun,25,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Regular Minigun,Minigun,27,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Common Minigun,Minigun,30,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Pig_Minigun,Pig Dynamite,1,Poor,,,,,,,,,,,,,,,,TRUE,,
+Turret_Minigun,Turrent Minigun,5,Poor,,,,,,,,,,,Muzzle,,,,,TRUE,,
+Weldingbot_Minigun,Weldingbot Minigun,5,Poor,,,,,,,,,,,Muzzle,,,,,TRUE,,
+Crazy Minigun,Minigun,5,Rare,,,,of the Ambusher,10,,,,,,,,,,,TRUE,,TRUE
+Extreme Minigun,Minigun,6,Rare,,,TRUE,of the Judgment,9,,,,,,,,,,,TRUE,,TRUE
+Greater Minigun,Minigun,7,Rare,,,,of the Judgment,8,,,,,,,,,,,TRUE,,TRUE
+Wacky Minigun,Minigun,9,Rare,,,,of the Predator,12,,,,,,,,,,,TRUE,,TRUE
+High-Power Minigun,Minigun,11,Rare,,,,of the Predator,12,,,,,,,,,,,TRUE,,TRUE
+Exquisite Minigun,Minigun,13,Rare,,,,of the Predator,7,,,,,,,,,,,TRUE,,TRUE
+Tough Minigun,Minigun,17,Rare,,,,of the Painmaker,11,,,,,,,,,,,TRUE,,TRUE
+Brutal Minigun,Minigun,18,Rare,,,,of the Painmaker,7,,,,,,,,,,,TRUE,,TRUE
+Superior Minigun,Minigun,20,Rare,,,,of the Crymaker,8,,,,,,,,,,,TRUE,,TRUE
+Gruesome Minigun,Minigun,22,Rare,,,,of the Painmaker,11,,,,,,,,,,,TRUE,,TRUE
+Assault Minigun,Minigun,23,Rare,,,,of the Crymaker,10,,,,,,,,,,,TRUE,,TRUE
+Jagged Minigun,Minigun,24,Rare,,,,of the Ambusher,,,,,,,,,,,,TRUE,,TRUE
+Radical Minigun,Minigun,26,Rare,,,,of the Ambusher,15,,,,,,,,,,,TRUE,,TRUE
+Awesome Minigun,Minigun,28,Rare,,,,of the Crymaker,8,,,,,,,,,,,TRUE,,TRUE
+Marvelous Minigun,Minigun,30,Rare,2,,,of the Predator,20,,,,,,,,,,,TRUE,,TRUE
+Fine Minigun,Minigun,5,Uncommon,,,,,6,,,,,,,,,,,TRUE,,TRUE
+Advanced Minigun,Minigun,5,Uncommon,,,,,8,,,,,,,,,,,TRUE,,TRUE
+Credible Minigun,Minigun,8,Uncommon,,,,,4,,,,,,,,,,,TRUE,,TRUE
+Street Wise Minigun,Minigun,10,Uncommon,,,,,5,,,,,,,,,,,TRUE,,TRUE
+Street Credible Minigun,Minigun,12,Uncommon,,,,,2,,,,,,,,,,,TRUE,,TRUE
+Worthy Minigun,Minigun,14,Uncommon,,,,,2,,,,,,,,,,,TRUE,,TRUE
+Massive Minigun,Minigun,16,Uncommon,,,,,2,,,,,,,,,,,TRUE,,TRUE
+Nifty Minigun,Minigun,19,Uncommon,,,,,3,,,,,,,,,,,TRUE,,TRUE
+Good Minigun of Suffer,Minigun,21,Uncommon,,,,,2,,,,,,,,,,,TRUE,,TRUE
+Great Minigun,Minigun,29,Uncommon,,,,,,,,,,,,,,,,TRUE,,TRUE
+Illegal Minigun,Minigun,30,Uncommon,,,,,9,,,,,,,,,,,TRUE,,TRUE
+Old Minigun,Minigun,5,Poor,,,,,,,,,,,,,,,,TRUE,,TRUE
+SonicGun,SonicGun_npc,5,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Flame Thrower Type: LAB-001,Flame Thrower,5,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Flame Thrower Type: LAB-002,Flame Thrower,5,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Bazooka Type: 5ty-G3,Bazooka,5,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Warehousebot_Minigun,Warehousebot Minigun,5,Common,,,,,,,,,,,Muzzle,,,,,TRUE,,
+Victorious Minigun,Minigun,30,Rare,,,,of the Painmaker,20,,,,,,,,,,,TRUE,,TRUE
+Solar Minigun,Minigun,30,Uncommon,,,,,,,,,,,,,,,,TRUE,126,TRUE
+Pretty Roger's Minigun,Minigun,1,Common,,,,,,,,,,,,,,,,TRUE,126,TRUE

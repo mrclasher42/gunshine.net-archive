@@ -1,0 +1,218 @@
+Name,LevelUpUnlock,UnlockedByMission,Item,Ingredient,IngredientCount,IngredientsAdditional,DiamondCost,CraftTimeHours,CraftTimeMinutes,CraftTimeSeconds,LootDisabled,DiamondsOnly,TreasureBoxLoot,DropSound,LootResource,LootExportName
+Plans: Hunter's Jacket,TRUE,TRUE,Denim Vest,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Shooting Vest,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Safari Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Tan Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Manhunter's Coat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Midnight Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,All-weather Coat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Olive Drab Smock,,,Olive Drab Smock,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hunter's Top,TRUE,TRUE,Bowhunter's Jacket,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Manhunter's Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Jackal Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Hyena Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Shooting Jacket,,,Shooting Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Aviator Jacket,,,Aviator Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Flak Vest,,,Flak Vest,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hunter's Body Armor,,,Hunter's Body Armor,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Wolf Jacket,,,Wolf Jacket,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Arabic Vest,,,Arabic Vest,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Stealth Jacket,,,Stealth Jacket,Fabric,20,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: All-weather Jacket,,,All-weather Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doctor's Jacket,TRUE,TRUE,Hiking Sweater,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Comfy Sweater,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Navy Sweater,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Sailing Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Worn Sweater,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Scrub Top,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Casual Sweater,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doctor's Top,TRUE,TRUE,Windbreaker Jacket,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Suede Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Clean Suit Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Surgeon's Coat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Designer Jacket,,,Designer Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dust Jacket,,,Dust Jacket,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Suede Shirt,,,Suede Shirt,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Surgeon's Shirt,,,Surgeon's Shirt,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Golf Polo,,,Golf Polo,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hospital White Jacket,,,Hospital White Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Nurse's Jacket,,,Nurse's Jacket,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exclusive Jacket,,,Exclusive Jacket,Fabric,20,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Antimicrobial Shirt,,,Antimicrobial Shirt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Shirt,TRUE,TRUE,Casual T-Shirt,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Bouncer's T-Shirt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Protector Vest,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Heavy Metal Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Armored Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Syndicate Coat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Kevlar Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Brawny Shirt,,,Brawny Shirt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Top,TRUE,TRUE,Team T-Shirt,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+,,,Vigilante Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Bodyguard's Top,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Badass Trench,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Protector Jacket,,,Protector Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bomber Jacket,,,Bomber Jacket,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Tough Guy Jacket,,,Tough Guy Jacket,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Biker Jacket,,,Biker Jacket,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Night Club Jacket,,,Night Club Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Attitude Shirt,,,Attitude Shirt,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dragon Vest,,,Dragon Vest,Fabric,20,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Extra Large Shirt,,,Extra Large Shirt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Blue Jeans,,,Blue Jeans,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hunter's Trousers,TRUE,TRUE,Black Drab Pants,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Hunting Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Tan Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Flak Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,All-weather Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Midnight Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Range Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Beast Pants,,,Beast Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Armored Pants,TRUE,TRUE,Bowhunter's Pants,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Manhunter's Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Jackal Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Hyena Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Safari Pants,,,Safari Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Aviator Trousers,,,Aviator Trousers,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Combat Pants,,,Combat Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fatigue Pants,,,Fatigue Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hyena Pants,,,Wolf Pants,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Arabic Pants,,,Arabic Pants,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Stealth Pants,,,Stealth Pants,Fabric,20,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: One Shot Pants,,,One Shot Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hi-Tech Hunting Pants,,,Hi-Tech Hunting Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hiking Pants,,,Hiking Pants,Cyber Chips,14,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doctor's Trousers,TRUE,TRUE,Designer Pants,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Sailing Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Yachting Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Fancy Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Scrub Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Golf Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Bahama Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Comfy Slacks,,,Comfy Slacks,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Armored Trousers,TRUE,TRUE,Windbreaker Pants,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Stylish Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Head Nurse's Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Surgeon's Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Pleated Pants,,,Pleated Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Suede Pants,,,Suede Pants,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doctor's Pants,,,Doctor's Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Linen Pants,,,Linen Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Clean Suit Pants,,,Clean Suit Pants,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Nurse's Pants,,,Nurse's Pants,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exclusive Pants,,,Exclusive Pants,Fabric,20,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Conference Trousers,,,Conference Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Scalpel Pants,,,Scalpel Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Casual Jeans,,,Casual Jeans,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Pants,TRUE,TRUE,Brawny Pants,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Team Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Heavy Metal Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Protector Jeans,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Armored Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Syndicate Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Kevlar Pants,TRUE,TRUE,Kevlar Pants,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bouncer's Jeans,,,Bouncer's Jeans,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Armored Jeans,TRUE,TRUE,Team Jeans,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+,,,Vigilante Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Biker Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Badass Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Protector Pants,,,Protector Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bomber Pants,,,Bomber Pants,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Tough Guy Trousers,,,Tough Guy Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Groin Protector Pants,,,Groin Protector Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodybuilder Slacks,,,Bodybuilder Slacks,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Attitude Pants,,,Attitude Pants,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dragon Tights,,,Dragon Tights,Fabric,20,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Pitbull Pants,,,Pitbull Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Muscle Pants,,,Muscle Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Light Jacket,TRUE,TRUE,Light Jacket,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Outdoor Jacket,TRUE,TRUE,Outdoor Jacket,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Running Shirt,TRUE,TRUE,Running Shirt,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Heavy Jacket,TRUE,TRUE,Heavy Jacket,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Riot Coat,TRUE,TRUE,Riot Coat,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hot Jacket,TRUE,TRUE,Hot Jacket,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Light Pants,TRUE,TRUE,Light Pants,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Outdoor Pants,TRUE,TRUE,Outdoor Pants,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Combat Trousers,,,Combat Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Heavy Pants,TRUE,TRUE,Heavy Pants,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Tearproof Pants,TRUE,TRUE,Tearproof Pants,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Heavy Jeans,,,Heavy Jeans,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Ordinary Pants,TRUE,TRUE,Ordinary Pants,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Favorite Pants,TRUE,TRUE,Favorite Pants,,,,,,,3,TRUE,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Rock Hard,,,Rock Hard,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Sandwashed,,,Sandwashed,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Jules Pants,,,Jules Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Jules Trousers,,,Jules Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Vega Jacket,,,Vega Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Vega Coat,,,Vega Coat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Custom Jacket,,,Worthy Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Custom Jacket,,,Boosted Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Custom Jacket,,,Acute Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Genuine Custom Jacket,,,Genuine Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Custom Jacket,,,Singular Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Custom Jacket,,,Exquisite Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: High Power Custom Jacket,,,High Power Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Special Custom Jacket,,,Special Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Elegant Custom Jacket,,,Elegant Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Great Custom Jacket,,,Great Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cool Custom Jacket,,,Cool Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Jagged Custom Jacket,,,Jagged Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Radical Custom Jacket,,,Radical Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: First Class Custom Jacket,,,First Class Custom Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Protector,,,Street Wise Protector,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Protector,,,Worthy Protector,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Protector,,,Boosted Protector,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Protector,,,Acute Protector,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Greater Protector,,,Greater Protector,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Protector,,,Singular Protector,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Protector,,,Exquisite Protector,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Thick Pants,,,Worthy Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Thick Pants,,,Boosted Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Thick Pants,,,Acute Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Genuine Thick Pants,,,Genuine Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Thick Pants,,,Singular Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Thick Pants,,,Exquisite Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: High Power Thick Pants,,,High Power Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Special Thick Pants,,,Special Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Elegant Thick Pants,,,Elegant Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Great Thick Pants,,,Great Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cool Thick Pants,,,Cool Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Jagged Thick Pants,,,Jagged Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Radical Thick Pants,,,Radical Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: First Class Thick Pants,,,First Class Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Protective Pants,,,Street Wise Protective Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Protective Pants,,,Worthy Protective Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Protective Pants,,,Boosted Protective Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Protective Pants,,,Acute Protective Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Greater Protective Pants,,,Greater Protective Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Protective Pants,,,Singular Protective Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Protective Pants,,,Exquisite Protective Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Nice Protector,,,Nice Protector,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Nice Thick Pants,,,Nice Thick Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cluster Stimulator Jacket,,,Cluster Stimulator Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Neurodrive Coat,,,Neurodrive Coat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Self-regulating Healing Jacket,,,Self-regulating Healing Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Optical Health Jacket,,,Optical Health Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Subdermal Healt Coat,,,Subdermal Health Coat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Nuclear Coat,,,Nuclear Coat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Powered Osteonegator Jacket,,,Powered Osteonegator Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Stabilizing Trousers,,,Stabilizing Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: High-speed Aeropants,,,High-speed Aeropants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Adrenal Health Pants,,,Adrenal Health Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Autotissue Trousers,,,Autotissue Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Powered Charging Pants,,,Powered Charging Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Implanted Limb Pants,,,Implanted Limb Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Optical Technocluster Trousers,,,Optical Technocluster Trousers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gastric Seeking Pants,,,Gastric Seeking Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Darkon-Darkener,,,Darkon-Darkener,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Blocking Shroud,,,Blocking Shroud,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Guardian-Douser,,,Guardian-Douser,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Blocking Unit,,,Blocking Unit,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Protective Cloak,,,Protective Cloak,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Guardian Obscurer,,,Guardian Obscurer,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mobility Mechanism,,,Mobility Mechanism,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Atomo Irradiator,,,Atomo Irradiator,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Motion Relocator,,,Motion Relocator,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Motion Attacker,,,Motion Attacker,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Military War Battler,,,Military War Battler,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Battle-Relocator,,,Battle-Relocator,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint

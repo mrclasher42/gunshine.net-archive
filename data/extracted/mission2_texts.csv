@@ -1,0 +1,425 @@
+Name,Text
+TID_MISSION_1_0,First a trickle
+TID_MISSION_1_0_OBJECTIVE,"Okay, look here on page 72: \qlow-pressure maintenance flow\q. We should be able to reroute a trickle of water back to the Oasis. Just access the flow control system - I'm guessing that's an AI terminal somewhere in the Plant's offices."
+TID_MISSION_1_0_RECEIVING_MESSAGE,> Flow control system initialized
+TID_MISSION_1_0_TASK_0,Access terminal
+TID_MISSION_1_1,Two Lil' Hobos
+TID_MISSION_1_1_OBJECTIVE,"We keep getting good tips from two hobos living in the area. Labycore tends to leave them alone, and sometimes they overhear useful stuff.\n\nThey usually hang out in the sewer system - where the mutants now lurk. Can you make sure they're ok?"
+TID_MISSION_1_1_RECEIVING_MESSAGE,Pink elephants? I'm starting to believe Jonas after what we've seen in the last few days.
+TID_MISSION_1_1_TALK_TASK_0,"I'm seeing pink elephants, not much else. Hey, can you buy me a drink my friend?"
+TID_MISSION_1_1_TALK_TASK_1,"Jonas is talking out of his ass. They're red elephants, not pink. And mutants, not elephants."
+TID_MISSION_1_1_TASK_0,Jonas Found
+TID_MISSION_1_1_TASK_1,Sammy Found
+TID_MISSION_1_10,Raiders!
+TID_MISSION_1_10_OBJECTIVE,You seen the Raiders? A gang of bloodthristy gringos with face paint and stupid haircuts. There's a bunch of them right there. Why don't you get acquainted?
+TID_MISSION_1_10_RECEIVING_MESSAGE,Nice moves ese! The Raiders are pushing into our territory. Maybe you can help us shove them back?
+TID_MISSION_1_10_TASK_0,Kill Slick Raiders
+TID_MISSION_1_10_TASK_1,Kill Raider Scouts
+TID_MISSION_1_10_TASK_2,Kill Roided Raiders
+TID_MISSION_1_11,Alley-Oop
+TID_MISSION_1_11_OBJECTIVE,Talk to Luscious Valkyrie when you are ready to defend the basketball court
+TID_MISSION_1_11_RECEIVING_MESSAGE,"Not bad, stranger! Not only did we earn ourselves a bit of rest, but also thinned their numbers quite nicely. It'll take a while before their medics patch that many bullet holes."
+TID_MISSION_1_11_TALK_TASK_0,BRING IT!!!
+TID_MISSION_1_11_TASK_0,Basketball Court Defended
+TID_MISSION_1_12,A Soft Heart is an Easy Target
+TID_MISSION_1_12_OBJECTIVE,Find the Valkyrie in Freedom Park and escort her to safety.
+TID_MISSION_1_12_RECEIVING_MESSAGE,"I didn't know that Hooligans in Old Town are looking for something. Usually they just drink and pass out, and look for people to mug. What on earth are they up to?"
+TID_MISSION_1_13,"Faster, Harder, Scooter!"
+TID_MISSION_1_13_OBJECTIVE,Interrogate the Hooligan leader Scooter on Freedom Island.
+TID_MISSION_1_13_RECEIVING_MESSAGE,"Eastern Queens want an abandoned location for a base... Hm. They're probably planning on expanding their business, which means more girl slaves for their joy division. I bet Freedom Island isn't the only place where they've been planning to expand. Let's keep our eyes and ears open, right?"
+TID_MISSION_1_14,Pantry Raid
+TID_MISSION_1_14_OBJECTIVE,Search for the 13 Diablos Member in New Venice Hotel.
+TID_MISSION_1_14_RECEIVING_MESSAGE,I'm so relieved to hear that my buddy's all right. I'd better buy him a round or five tonight to compensate for this.
+TID_MISSION_1_14_TALK_TASK_0,"Ow, holy cow my head hurts... Maybe this wasn't such a bright idea after all..."
+TID_MISSION_1_14_TASK_0,Diablos Member Rescued
+TID_MISSION_1_15,Ditch The Witch
+TID_MISSION_1_15_OBJECTIVE,Deliver Fall's message to Voodoo Mambo in New Venice Square.
+TID_MISSION_1_15_RECEIVING_MESSAGE,Thanks for talking to the mambo in my stead. Those Sewer Voodoos give me the heebiejeebies with their mumbojumbo.
+TID_MISSION_1_15_TALK_TASK_0,"We do as ya ask, mon, but know this! We knows what ya want, mon. Yah, brah - the loa hear ya, see ya... Taste ya.\nWe have a destiny together, brah. A destiny of blood and fire. We fight side by side to slay da shadows, mon.\nBut da time isn't yet, mon.\nNow, go."
+TID_MISSION_1_15_TASK_0,Voodoo Mambo Threatened
+TID_MISSION_1_16,Gutting the Guards
+TID_MISSION_1_16_OBJECTIVE,We're going to raid that warehouse. Anything so well guarded has to contain something important. Clear out the outside guards first.
+TID_MISSION_1_16_RECEIVING_MESSAGE,"Those mercs sure got served! All right, let's have a look at the situation."
+TID_MISSION_1_16_TASK_0,Hired Guns Muscles Maimed
+TID_MISSION_1_16_TASK_1,Hired Guns Shooters Shot Up
+TID_MISSION_1_17,Red menace
+TID_MISSION_1_17_OBJECTIVE,"The crazy Mutant outcasts are lurking in the sewage system. We keep hearing noises from that garage over there. Whatever those red devils are up to, it's bound to be no good. Find out what they're planning and if possible, stop them."
+TID_MISSION_1_17_RECEIVING_MESSAGE,A bomb? The muties are much more dangerous than I thought. Thanks for saving our skins!
+TID_MISSION_1_17_TASK_0,Mutant plan foiled
+TID_MISSION_1_18,Strictly Unethical
+TID_MISSION_1_18_OBJECTIVE,"I still can't believe you're willing to risk your butt for those monsters. Go check out that lab if you must, but make sure you bring in enough firepower. Who knows what's lurking down there!"
+TID_MISSION_1_18_RECEIVING_MESSAGE,That's some gruesome stuff you're telling me. Were they really experimenting on Dawnbreak citizens?
+TID_MISSION_1_18_TASK_0,Investigate GenTec Lab
+TID_MISSION_1_19,Power Down
+TID_MISSION_1_19_OBJECTIVE,"Now that you mention it, a company called GenTec used to run a facility in Mill Park. There was an accident, and now the buildings are abandoned, as far as I know.\n\nIf you want to go check it out, you should probably cut power to the lab's security systems first."
+TID_MISSION_1_19_RECEIVING_MESSAGE,"Listen. GenTec was experimenting with, you guessed it, gene technology. Their facility was abandoned after some freak accident that killed a dozen of their workers and horribly disfigured many others. The way's clear, but are you really ready to do this?"
+TID_MISSION_1_19_TASK_0,Sabotage transformer box
+TID_MISSION_1_2,Gun Trouble
+TID_MISSION_1_2_OBJECTIVE,These Hired Guns' security contractin' days are over. Shoot them all - I couldn't finish them off because my gun jammed.
+TID_MISSION_1_2_RECEIVING_MESSAGE,"Nice shootin', Tex."
+TID_MISSION_1_2_TASK_0,Hired Guns Engineers Driven Away
+TID_MISSION_1_2_TASK_1,Hired Guns Chiefs Driven Away
+TID_MISSION_1_20,Mean Dean
+TID_MISSION_1_20_OBJECTIVE,"> Duke: My brother Dean is a crazy bastard. He says he doesn't fight for the Resistance, but he keeps getting into trouble with the Man all the time. This time I'm afraid he's gone too far. Bring back what's left of him, ok?"
+TID_MISSION_1_20_RECEIVING_MESSAGE,"Look, I was making noise on purpose to bring those chicken shits out of their hidey-holes. It worked, didn't it?"
+TID_MISSION_1_20_TALK_TASK_0,Hah! So little Duke's worried about me? He's always been a pussy. Are you a pussy? We're about to find out.
+TID_MISSION_1_20_TASK_0,Dean Found
+TID_MISSION_1_21,Fan the Flames
+TID_MISSION_1_21_OBJECTIVE,"You can bet your ass the Labbies will come looking for these assclowns. So much the better. Get out there and say hi for me! If you do well, my buddy Scarface will have something for you."
+TID_MISSION_1_21_RECEIVING_MESSAGE,"Their screaming reminded me of my first wife. Good times, good times."
+TID_MISSION_1_21_TASK_0,Security Officers Slain
+TID_MISSION_1_21_TASK_1,Security Troopers Slain
+TID_MISSION_1_22,Remote Control
+TID_MISSION_1_22_OBJECTIVE,"I heard Duke's planning to bring in supplies by chopper. Doesn't he know that Labycore has airborne combat drones patrolling the area? See for yourself, there's a drone control room right next door!"
+TID_MISSION_1_22_RECEIVING_MESSAGE,What did you do? The drones dropped right out of the sky. One almost landed on me.
+TID_MISSION_1_22_TASK_0,Kill drone controller
+TID_MISSION_1_22_TASK_1,Disable remote link
+TID_MISSION_1_23,There Is Only Flesh
+TID_MISSION_1_23_OBJECTIVE,Find the Club Flesh Hedonist in the Abyssos Field Office and show him what pain is.
+TID_MISSION_1_23_RECEIVING_MESSAGE,Good going there! Let's hope he was the right guy.
+TID_MISSION_1_24,Reeling it in
+TID_MISSION_1_24_OBJECTIVE,"Ok, step two. Enter the warehouse and have a look around. I'm sure there will be some security inside as well, so deal with them as you please."
+TID_MISSION_1_24_RECEIVING_MESSAGE,"Just data? No guns or money? Ok then, I'd better have a look at these plans."
+TID_MISSION_1_24_TASK_0,Investigate warehouse
+TID_MISSION_1_25,It IS Another Drill. Literally.
+TID_MISSION_1_25_OBJECTIVE,Kill the Engineer near the huge drill at the Processing Plant.
+TID_MISSION_1_25_RECEIVING_MESSAGE,It was about time the drill stopped.
+TID_MISSION_1_25_TASK_0,Engineer Eliminated
+TID_MISSION_1_26,Drill parts
+TID_MISSION_1_26_OBJECTIVE,Collect a Drill Parts from Processing Plant yard.
+TID_MISSION_1_26_RECEIVING_MESSAGE,You got all of them? Great.
+TID_MISSION_1_26_TASK_0,Drill Parts Looted
+TID_MISSION_1_27,Kick 'Em When They're Down
+TID_MISSION_1_27_OBJECTIVE,One more thing - get the blueprints from the warehouse.
+TID_MISSION_1_27_RECEIVING_MESSAGE,"Great job, now we have everything we need."
+TID_MISSION_1_27_TASK_0,Plans Downloaded
+TID_MISSION_1_28,Insult to Injury
+TID_MISSION_1_28_OBJECTIVE,Steal two canisters of gasoline from the warehouse.
+TID_MISSION_1_28_RECEIVING_MESSAGE,"Ok, that's all the materials."
+TID_MISSION_1_28_TASK_0,Canisters of Gasoline Stolen
+TID_MISSION_1_29,This Means War!
+TID_MISSION_1_29_OBJECTIVE,"Ruin the W.U.Z.Z. stacks in southern Malloy Waterfront, and get rid of the Mad Dogs present."
+TID_MISSION_1_29_RECEIVING_MESSAGE,"Good. Good. That ruined batch of W.U.Z.Z. will wreck a whole lot of W.U.Z.Z. when they start refining the stuff.\nThis here, what we just did? Just tip of the ice berg. We'll keep busting their heads until candy comes out."
+TID_MISSION_1_3,Reporting for Duty
+TID_MISSION_1_3_OBJECTIVE,"Now that we have water, thanks to you, more and more refugees are coming in from the desert. I have to concentrate on running the Health Station. Davey, my lieutenant, will brief you on our other plans."
+TID_MISSION_1_3_RECEIVING_MESSAGE,It's time to open the floodgates.
+TID_MISSION_1_3_TASK_0,Talk to Davey
+TID_MISSION_1_30,"On the Waterfront, pt 2"
+TID_MISSION_1_30_OBJECTIVE,Open the safe in Office 02 in Malloy Waterfront
+TID_MISSION_1_30_RECEIVING_MESSAGE,"Nice job, friend! Now we know when the next smuggling shipment is coming.\nHmm... It's apparently new movies from the mainland. Excellent! Those will definitely help keep morale up in these trying times."
+TID_MISSION_1_31,Once In A Lifetime Offer
+TID_MISSION_1_31_OBJECTIVE,"You'll have to go to Labycore's ad agency to find out if this weapon coupon business is for real. Dreamlab, that's what they call it. You'll find it right over there."
+TID_MISSION_1_31_RECEIVING_MESSAGE,> Sample coupons printed and ready for transport\n\n> Full Bang-O-Mat money transfer compliance certified
+TID_MISSION_1_31_TALK_TASK_0,"Augh... *koff* *koff* Is that... Is that blood I'm coughing up? Effin' Dogs...\nThey got this big W.U.Z.Z. shipment going, and they got all angry when I didn't clear their papers. Sure taught me a lesson to stand up to bullies, eh?\n*koff*"
+TID_MISSION_1_31_TASK_0,Examine print lab
+TID_MISSION_1_32,"Fire, Water, Burn"
+TID_MISSION_1_32_OBJECTIVE,Destroy the Mad Dog smugglers' motorboat in Malloy Waterfront.
+TID_MISSION_1_32_RECEIVING_MESSAGE,"Whoa! I had no idea the boat would burn that brightly! The upholstery in the boat must've been highly flammable. Those fake furs are dangerous, as we can see!\nGood work my friend!"
+TID_MISSION_1_33,Blackbeard
+TID_MISSION_1_33_FINISHED_SOCIAL_NETWORK_POST,"Mister Ironbar was vicious and mean, psychotic and sadistic, but still he was no match for yours truly.\nYeah, that's right. I capped his ass."
+TID_MISSION_1_33_OBJECTIVE,"Some of the Raiders, led by a fellow calling himself Blackbeard, have found a speedboat and turned to piracy. They're not really sailors any more than they are original with their names, but we can't allow our supply deliveries to be disturbed. Keel-haul Tollmanbeard!"
+TID_MISSION_1_33_RECEIVING_MESSAGE,"Shiver me timbers! You done me proud, laddie! All right, I'll stop now. Good job taking out Blackbeard and his pirates."
+TID_MISSION_1_33_TASK_0,Beat Blackbeard
+TID_MISSION_1_34,Red Terror
+TID_MISSION_1_34_OBJECTIVE,"The mutant threat here is growing. I don't know how, but they seem to be more organized now. Who's giving them weapons, ammo and gas for those nightmarish chainsaws?"
+TID_MISSION_1_34_RECEIVING_MESSAGE,We need to figure out how those mutants keep getting into sewers right beneath us. I have a feeling Labycore's behind all this.
+TID_MISSION_1_34_TASK_0,Get rid of Headbangers
+TID_MISSION_1_34_TASK_1,Kill Madhouse Mutants
+TID_MISSION_1_35,Authenticate
+TID_MISSION_1_35_OBJECTIVE,> Authentication key required for flow control changes
+TID_MISSION_1_35_RECEIVING_MESSAGE,> Authentication key approved
+TID_MISSION_1_35_TASK_0,Flow control key
+TID_MISSION_1_36,Go with the flow
+TID_MISSION_1_36_OBJECTIVE,"> Pump(s) 0003, 0074, 0092: maximum maintenance flow [ 10 % ] of water redirected to Zone 8"
+TID_MISSION_1_36_RECEIVING_MESSAGE,"My friend, you saved the Health Station in the nick of time. Our water reserves were almost spent. Now we have a small but steady supply of water, and I doubt the mercs suspect anything."
+TID_MISSION_1_36_TASK_0,Inform Jarden
+TID_MISSION_1_37,Deliver Kindness
+TID_MISSION_1_37_OBJECTIVE,Private security contractors are one thing. Sadistic gunslingers who shoot on sight and deny us water is another thing entirely. Do a kind act and kill any Hired Guns you find.
+TID_MISSION_1_37_RECEIVING_MESSAGE,"You've made Paradise Island a better place. It's still closer to purgatory than paradise, but we're getting there."
+TID_MISSION_1_37_TASK_0,Kill Grenadiers
+TID_MISSION_1_37_TASK_1,Kill Rocketeers
+TID_MISSION_1_37_TASK_2,Kill Shooters
+TID_MISSION_1_38,RTFM
+TID_MISSION_1_38_OBJECTIVE,"Our number one goal is to secure a reliable water supply. The Water Purification Plant that's to the North of here would be ideal, but first we have to figure out how to control it. One of my homies has found an operating manual. Go check it out for me!"
+TID_MISSION_1_38_RECEIVING_MESSAGE,"Yeah, you got it. The manual is on that dead merc."
+TID_MISSION_1_38_TASK_0,Find the Operating Manual
+TID_MISSION_1_39,The Way of the Exploding Pig
+TID_MISSION_1_4,Duke of All Kinds of Hazards
+TID_MISSION_1_4_OBJECTIVE,"Thanks for your help on Paradise Island. If you're looking for more action, you might want to check out Steel Island next. Duke is the man to meet. He won't hesitate to send you in harm's way!"
+TID_MISSION_1_4_RECEIVING_MESSAGE,"I've been expecting you! We could really use a hero around here. That's right, hero of Paradise Island! The Diablos speak very highly of you."
+TID_MISSION_1_4_TASK_0,Meet Duke
+TID_MISSION_1_40,Reservoir dogs
+TID_MISSION_1_40_OBJECTIVE,"> Davey: Listen up! The Hired Guns are making a counter-attack on the reservoir. I repeat, you're under attack! Get out there and hold your positions!"
+TID_MISSION_1_40_RECEIVING_MESSAGE,Thanks. You saved our skins.
+TID_MISSION_1_40_TALK_TASK_0,I spot some Hired Guns!
+TID_MISSION_1_40_TASK_0,Attack checked
+TID_MISSION_1_41,The Tankinator
+TID_MISSION_1_41_OBJECTIVE,"Somehow the Mad Dogs have got their hands on a Labycore autonomous tank. It's an old model but plenty dangerous, and we can't afford to wait and let it come to us. Get a team together and attack the compound where they're outfitting the tank."
+TID_MISSION_1_41_RECEIVING_MESSAGE,That was a close call. How the hell did these yoyos get Labycore war gear? We need to figure out their source and put a stop to this nonsense.
+TID_MISSION_1_42,Pimp Mother
+TID_MISSION_1_42_OBJECTIVE,Kill Pimp Mother in Casino Royale!
+TID_MISSION_1_42_RECEIVING_MESSAGE,That Madame's pimpin' days are over. Great job!
+TID_MISSION_1_42_TASK_0,Eliminate Pimp Mother
+TID_MISSION_1_43,I Am In Disguise
+TID_MISSION_1_43_OBJECTIVE,One of my crew has infiltrated a Labycore subcontractor. Larry's been real quiet for a while now. Find out what's going on.
+TID_MISSION_1_43_RECEIVING_MESSAGE,"Ok that's it, my cover's blown for sure."
+TID_MISSION_1_43_TASK_0,Check on Larry
+TID_MISSION_1_44,To be the Champ
+TID_MISSION_1_44_OBJECTIVE,The Raiders are big on combat sports. They just crowned a new champion after a huge gladiator show last weekend. You know what they say - to be the champ you gotta beat the champ!
+TID_MISSION_1_44_RECEIVING_MESSAGE,"Well done, you did good - even if the Champ was still exhausted from his tournament fights. The same goes for all of the Raiders, let's hope they keep fighting each other and leave us alone."
+TID_MISSION_1_44_TASK_0,Beat the Champ
+TID_MISSION_1_45,Photovolts
+TID_MISSION_1_45_OBJECTIVE,"We need power to survive out here. There's a solar farm out on the Plantation, see if you can't start it up!"
+TID_MISSION_1_45_RECEIVING_MESSAGE,"> Restarting... 3,2,1....\n> Error... Administrative Privileges Required"
+TID_MISSION_1_45_TASK_0,Restart power grid
+TID_MISSION_1_46,Restart the Power
+TID_MISSION_1_46_OBJECTIVE,Trying to get the power online? Not going to happen without the admin key cards. The Raiders took them when they looted this place.
+TID_MISSION_1_46_RECEIVING_MESSAGE,"The admin cards! How did you find them? Never mind, let's just get the system booted up."
+TID_MISSION_1_46_TASK_0,Key card 1
+TID_MISSION_1_47,Secure the Helipad
+TID_MISSION_1_47_OBJECTIVE,"> Duke: Look, we have a chopper ready to go with guns and supplies. Take over the helipad so we can bring the bird in. Security should be minimal, a few troopers and something called ED-187, whatever that is."
+TID_MISSION_1_47_RECEIVING_MESSAGE,Say what? The innocent sounding acronym turned out to be a super killer mech?
+TID_MISSION_1_47_TASK_0,Destroy ED-187
+TID_MISSION_1_48,Bulldozers Are Fragile Beings
+TID_MISSION_1_48_OBJECTIVE,Destroy the two bulldozers in Ratched Lane.
+TID_MISSION_1_48_RECEIVING_MESSAGE,"Excellent. With the bulldozers destroyed, the construction process is halted. We can get more men in place - soon we can prepare for the final assault."
+TID_MISSION_1_49,Paving the Way
+TID_MISSION_1_49_OBJECTIVE,Eliminate Hired Guns in Ratched Lane.
+TID_MISSION_1_49_RECEIVING_MESSAGE,"Good job! I'm sure that the Hired Guns insurance policy covers loss of limbs, blood, sight and life. Even if it doesn't, I don't really care. They know what they sign up for."
+TID_MISSION_1_5,They Came From The Sewers
+TID_MISSION_1_5_OBJECTIVE,"One of the junkies living in the sewer system here told me about Mad Mutants trying to hatch giant ant eggs down there. I'm not sure if he's just hallucinating, but we'd better check it out."
+TID_MISSION_1_5_RECEIVING_MESSAGE,"Look at these. Wow, he wasn't hallucinating at all. What the heck are we going to do with these eggs?"
+TID_MISSION_1_5_TASK_0,Grab Ant Eggs
+TID_MISSION_1_50,Net Hack
+TID_MISSION_1_50_OBJECTIVE,"Want to make history? You're just in time. Our attack on the power plant is about to begin. I want you to join the fray, take out the Spiderbot and salvage its AI for access codes.\n\nOur guys a rearing to go. Are you ready?"
+TID_MISSION_1_50_RECEIVING_MESSAGE,"Good job opening that gate, friend."
+TID_MISSION_1_50_TASK_0,Destroy Spiderbot
+TID_MISSION_1_50_TASK_1,Salvage Logic Board
+TID_MISSION_1_51,Clear Out All Hostiles
+TID_MISSION_1_51_OBJECTIVE,Eliminate Hired Guns presence in Bromden Park.
+TID_MISSION_1_51_RECEIVING_MESSAGE,"Man, you are one powerhouse of a fighter. Tremendous work!"
+TID_MISSION_1_52,"Extra Guns, Extra Fun"
+TID_MISSION_1_52_OBJECTIVE,Locate two weapon crates in Bromden Park.
+TID_MISSION_1_52_RECEIVING_MESSAGE,"Excellent! Two full crates of automatic weapons will sure go a long way here. I doubt that the mercenaries will just give up, but at least we now have more means of persuasion than just kind words.\nGood work."
+TID_MISSION_1_53,Red vs. Blue
+TID_MISSION_1_53_OBJECTIVE,Mutants have run over Mill Park! One of them caught my eye though. It seems to be hiding from the other muties and lurking around the old test facilities. Wanna go check it out?
+TID_MISSION_1_53_RECEIVING_MESSAGE,That's interesting. So you're telling me there are good mutants and bad mutants? What's up with that?
+TID_MISSION_1_53_TASK_0,Talk to Blue Mutant
+TID_MISSION_1_54,Clear The Hools
+TID_MISSION_1_54_OBJECTIVE,Clear out the Hooligans from the other side of the road.
+TID_MISSION_1_54_RECEIVING_MESSAGE,That should give us some pore space to work.
+TID_MISSION_1_55,Take Out Their Wheels
+TID_MISSION_1_55_OBJECTIVE,Take out the Labycore Van In the Parkinglot of the Asylum
+TID_MISSION_1_55_RECEIVING_MESSAGE,Nice Work there my friend.
+TID_MISSION_1_56,Weakest Link
+TID_MISSION_1_56_OBJECTIVE,Steal two generators from the Asylym yard for Simon Hibbert
+TID_MISSION_1_56_RECEIVING_MESSAGE,Good Job My friend. I think our job here is done for the moment. I bet we shall see each other soon enough.
+TID_MISSION_1_57,Onward!
+TID_MISSION_1_57_OBJECTIVE,...
+TID_MISSION_1_57_RECEIVING_MESSAGE,...
+TID_MISSION_1_58,Asylum Awaits
+TID_MISSION_1_58_OBJECTIVE,Escort Reggie Westwood to the gates leading to Bromden Park.
+TID_MISSION_1_58_RECEIVING_MESSAGE,Nice work partner! I opened the gate for you.
+TID_MISSION_1_58_TASK_0,Escort Reggie to the gates leading to Bromden Park
+TID_MISSION_1_59,Kill Kill Kill
+TID_MISSION_1_59_OBJECTIVE,Eliminate Labycore Personnel in McMurphy Asylum
+TID_MISSION_1_59_RECEIVING_MESSAGE,Nice collection of dog tags you got there my friend.
+TID_MISSION_1_6,Deal Breaker
+TID_MISSION_1_6_OBJECTIVE,"It's a big payday for the Guns. Labycore has been covertly funding their violent rampage for months now, and they're negotiating a new contract. Time to shut down the talks."
+TID_MISSION_1_6_RECEIVING_MESSAGE,> Dillinger: Those mercenaries won't lift a finger without a monetary compensation. You've just bought us some much needed breathing space.
+TID_MISSION_1_6_TASK_0,Hired Guns Specialist Killed
+TID_MISSION_1_6_TASK_1,Corrupt Security Officer Killed
+TID_MISSION_1_60,Last Wave
+TID_MISSION_1_60_OBJECTIVE,Kill Hired Guns from the other side of the street in McMurphy Asylum
+TID_MISSION_1_60_RECEIVING_MESSAGE,Nice one! Now we can work out the labyknot in pease.
+TID_MISSION_1_61,Taking Down Labycore
+TID_MISSION_1_61_OBJECTIVE,Clear out Labycore personnel in the Asylum Yard and destroy their truck.
+TID_MISSION_1_61_RECEIVING_MESSAGE,Nice Job friend! Next we will try something strange..
+TID_MISSION_1_62,Our Friendly Neighbour
+TID_MISSION_1_62_OBJECTIVE,Go with Reggie To Meet Up With Trooper Sid
+TID_MISSION_1_62_RECEIVING_MESSAGE,"Greetings. I'm Sid. The supply manager for the labycore. I signed up for this job in good intensions, but as you can see from the condition of dawnbrake things didn't go as planned.. I'll help you bring the Labycore as well as Sid Lovens Down!"
+TID_MISSION_1_63,Bad Company
+TID_MISSION_1_63_OBJECTIVE,Clear the 1st Asylum Floor from hostiles.
+TID_MISSION_1_63_RECEIVING_MESSAGE,Oh you found the blueprints! Nice one!
+TID_MISSION_1_64,Take The Gears
+TID_MISSION_1_64_OBJECTIVE,Fetch the devise parts from Labycore Helipad. In McMurphy Asylum
+TID_MISSION_1_64_RECEIVING_MESSAGE,Nice I'll throw these over the fence so they will be with the fishes.
+TID_MISSION_1_65,Doctor Dead
+TID_MISSION_1_65_OBJECTIVE,Locate And Eliminate Doctor Seiter
+TID_MISSION_1_65_RECEIVING_MESSAGE,A note.. No. A List! This Is a List!! Let's see..\n\nOwmagawd!! These are bodyparts and the lists says they are kept in the asylums cellar. Go see what the hell is going on in there.
+TID_MISSION_1_66,What Is It All About
+TID_MISSION_1_66_OBJECTIVE,Go download the research data for trooper sid from the asylum cellar
+TID_MISSION_1_66_RECEIVING_MESSAGE,This is big.. This is really big!
+TID_MISSION_1_67,Macs Retribution
+TID_MISSION_1_67_OBJECTIVE,Go Give Reggie Westwood Asylums Data
+TID_MISSION_1_67_RECEIVING_MESSAGE,Whoah. We are up for a massive adveture if we are going to get this plot solved!
+TID_MISSION_1_68,Get Certified
+TID_MISSION_1_68_OBJECTIVE,"McMurphy Asylum isn't a real mental institution. Maybe they used to have actual patients, but the only occupants right now are people that Labycore considers dissidents. Our guy inside will give you the details."
+TID_MISSION_1_68_RECEIVING_MESSAGE,"Right here, mate. I can tell you're no Labster."
+TID_MISSION_1_68_TASK_0,Talk to Resistance contact
+TID_MISSION_1_69,Clean Sweep
+TID_MISSION_1_69_OBJECTIVE,"A bunch of our guys infiltrated the asylum, but Mac the Janitor is the only one we've seen since. We don't dare make contact from here, so we're counting on the next brave volunteer to go in and talk to him. I guess you're the lucky one."
+TID_MISSION_1_69_RECEIVING_MESSAGE,"Finally someone showed up! I'm sick and tired of janitoring. Listen, I found out something you won't believe."
+TID_MISSION_1_69_TASK_0,Talk to Mac the Janitor
+TID_MISSION_1_7,Radio silence
+TID_MISSION_1_7_OBJECTIVE,We need to disrupt the mercs' communications so they can't call in reinforcements.
+TID_MISSION_1_7_RECEIVING_MESSAGE,Good job. It's time to move on the main objective.
+TID_MISSION_1_7_TASK_0,Wreck the comms
+TID_MISSION_1_70,Inmate 6733
+TID_MISSION_1_70_OBJECTIVE,"I overheard two orderlies talking about a \qpatient\q called Jimbo, inmate number 6733. Could that be Jimbo B, legendary commander of the resistance? If only I could hack the security system and check his ID..."
+TID_MISSION_1_70_RECEIVING_MESSAGE,"Access granted\n\nWelcome user Levons, Sid"
+TID_MISSION_1_70_TASK_0,Hack inmate roster
+TID_MISSION_1_71,Papillon
+TID_MISSION_1_71_OBJECTIVE,> ID #6733 /// Checking Immigration Data of inmate #6733\n\n*** DATA CLASSIFIED ***\n\n> Force unlock #6733 /// Security locks released
+TID_MISSION_1_71_RECEIVING_MESSAGE,Who are you? Is this another one of Labycore's subversions? Leave me be!
+TID_MISSION_1_71_TASK_0,Talk to Jimbo
+TID_MISSION_1_72,Drugs Don't Work
+TID_MISSION_1_72_OBJECTIVE,"All right, I shall play along. The evil mind behind McMurphy Asylum is Dr. Seiter, a vicious sadist who calls himself a scientist. If you are truly fighting for the Resistance, it is your duty to put an end to that madman."
+TID_MISSION_1_72_RECEIVING_MESSAGE,"Are you kidding me? You rescued the legendary Jimbo B and killed the asylum superintendent? You're a human wrecking machine, dude."
+TID_MISSION_1_72_TASK_0,Eliminate Dr. Seiter
+TID_MISSION_1_73,Raid The Nuthouse
+TID_MISSION_1_73_OBJECTIVE,"McMurphy Asylum is the local loonie bin, but people who go in there never seem to come back out. Recently some undercover resistance fighters got themselves interned. Talk to Reggie, he should know more."
+TID_MISSION_1_73_RECEIVING_MESSAGE,Shh. They havent seen us yet..
+TID_MISSION_1_73_TASK_0,Meet With Reggie Westwood
+TID_MISSION_1_74,Last drops
+TID_MISSION_1_74_OBJECTIVE,"Water is more precious than gold, but we had to leave some water behind when evacuating the Resort. I doubt the Raiders are smart enough to open the electronic locks."
+TID_MISSION_1_74_RECEIVING_MESSAGE,( Spits ) The Hired Guns got there first and took our last drops of water.
+TID_MISSION_1_74_TASK_0,Electric locks opened
+TID_MISSION_1_75,Burn the Buggies
+TID_MISSION_1_75_OBJECTIVE,"The Raiders drive around in their trucks, yelling and whooping day and night. It's driving me crazy! Get rid of their wheels and we'll be safer from attacks too."
+TID_MISSION_1_75_RECEIVING_MESSAGE,Peace at last. Thank you!
+TID_MISSION_1_75_TASK_0,Destroy Raider trucks
+TID_MISSION_1_75_TASK_1,Bugs burned down
+TID_MISSION_1_76,Truck down
+TID_MISSION_1_76_OBJECTIVE,The bastard Raiders knocked out our supply truck. Help Jorge the driver gather up and defend the cargo!
+TID_MISSION_1_76_RECEIVING_MESSAGE,Thanks <PLAYER_NAME>. You've helped us out big time.
+TID_MISSION_1_76_TALK_TASK_1,The Raiders are back for more!
+TID_MISSION_1_76_TASK_0,Cargo reclaimed
+TID_MISSION_1_76_TASK_1,Truck defended
+TID_MISSION_1_77,Main course
+TID_MISSION_1_77_OBJECTIVE,"I'm cooking my husband's favorite food: Giant Ant Eggs with Cactus Sauce. But, oh my! We've run out of Ant Eggs. Could you be a dear and find some for us? Thank you SO much!"
+TID_MISSION_1_77_RECEIVING_MESSAGE,"Omnomnom. Thank you darling. And you, stranger, you have my undying gratitude."
+TID_MISSION_1_77_TASK_0,Collect eggs
+TID_MISSION_1_78,With sugar on top
+TID_MISSION_1_78_OBJECTIVE,"How can I have any pudding if I don't eat my meat? I love Ant meat more than anything else in the whole wide world - except of course my wonderful wife, she's the best. Savory Ant heads come close second though. Would you please bring me some?"
+TID_MISSION_1_78_RECEIVING_MESSAGE,... chomp chomp ... munch munch ...
+TID_MISSION_1_78_TASK_0,Collect ant head
+TID_MISSION_1_79,Where Does It Lead
+TID_MISSION_1_79_OBJECTIVE,"Investigate the abandoned Power Station and its underground caverns for us. We're thinking of making a move to drive the Eastern Queens out of the district, and the caverns lead right there."
+TID_MISSION_1_79_RECEIVING_MESSAGE,"Mutants!? Giant Ants!? Ok.. I think we will let Eastern Queens hold on to that part of their turf, thanks so much."
+TID_MISSION_1_79_TASK_0,Investigated Power Station caverns
+TID_MISSION_1_8,Reduce patrols
+TID_MISSION_1_8_OBJECTIVE,Let's thin out the Hired Guns patrols. That should allow us to make a move on the water reservoirs.
+TID_MISSION_1_8_RECEIVING_MESSAGE,Good work.
+TID_MISSION_1_8_TASK_0,Kill Grenadiers
+TID_MISSION_1_8_TASK_1,Eliminate Chiefs
+TID_MISSION_1_8_TASK_2,Eliminate Engineers
+TID_MISSION_1_8_TASK_3,Eliminate Shooters
+TID_MISSION_1_9,Pest Control
+TID_MISSION_1_53_TALK_TASK_0,"Little human! The New Breed sent me here to find out about our past and the Transformation, but I'm too scared to go to the creepy lab next door."
+TID_MISSION_1_80_OBJECTIVE,"We're ready to attack the Labycore R&D facility as soon as you disable the emergency generator. You are going in undercover - take this ID tag, head into the basement and kill the custodian. Then go meet up with Wolfe in the lobby."
+TID_MISSION_1_80_RECEIVING_MESSAGE,"Vell done! With ze emergency generator offline, it vas easy to take zis place over. Now all ve need to do is raid ze other floors."
+TID_MISSION_1_80,Take the lobby
+TID_MISSION_1_80_TASK_0,Kill Steve the Custodian
+TID_MISSION_1_81_OBJECTIVE,"Dr. Bauhoff, ze chief of Labycore's latest robotics projects, is a firm believer in transhumanism. Head into ze Robotics Bay and show him his bionics are no match for ze human spirit!"
+TID_MISSION_1_81_RECEIVING_MESSAGE,"With ze good doctor dead, my boys will go in and corrupt all his research data. Zat should prove to be a major blow to Labycore. Ha!"
+TID_MISSION_1_81_TASK_0,Eliminate Dr. Bauhoff
+TID_MISSION_1_81,The flesh is weak
+TID_MISSION_1_82_OBJECTIVE,"Doctor Catherine, ze head of Labycore's new weapons projects, used to be a homeopath. Now if you ask me she is more like a psychopath. Hah! Go show her she should've stuck to ear candles and sugar pills."
+TID_MISSION_1_82_RECEIVING_MESSAGE,"Good job! Vith ze weapons research labs cleared, my men can loot a some equipment for zemselves. Zis should help in ze coming battle."
+TID_MISSION_1_82_TASK_0,Doctor Catherine killed
+TID_MISSION_1_82,Placebo effect
+TID_MISSION_1_83_OBJECTIVE,It's time ve strike at ze heart of zis facility! Take ze elevator to ze top floor and kill ze Labycore VIPs holled up in zere. My men vill provide fire support and make sure zey can't escape via helicopter. Now go! Zis entire plan hinges on you!
+TID_MISSION_1_83_RECEIVING_MESSAGE,"Looks like our air support got there right on time. Wolfe is still inside clearing out any remaining Labycore personnel, but your job here is done. This is a great day for the Resistance! Hurrah!"
+TID_MISSION_1_83_TASK_0,Labycore VIPs killed
+TID_MISSION_1_83_TASK_1,Security Captain killed
+TID_MISSION_1_83,Root of all evil
+TID_MISSION_1_84_OBJECTIVE,"Labycore gives their VIPs a few extra \qbonuses\q at the Queen of Diamond's club.\n\nThe VIPs will never be this vulnerable, this is a perfect chance to kill them."
+TID_MISSION_1_84_RECEIVING_MESSAGE,That's how we treat Labycore VIPs! Yeah!
+TID_MISSION_1_84_TASK_0,Kill Labycore VIPs
+TID_MISSION_1_84,Corporate Johns
+TID_MISSION_1_85_OBJECTIVE,"Queen of Diamonds club caters for every sin, so their fighting arena gathers all the biggest stars. This is a perfect opportunity to shut down one of their biggest income streams.\n\nBe careful, though. Those guys really know their business."
+TID_MISSION_1_85_RECEIVING_MESSAGE,Looks like you were the biggest name on that arena after all. Impressive!
+TID_MISSION_1_85_TASK_0,Mr Arms killed
+TID_MISSION_1_85_TASK_1,Jimmy killed
+TID_MISSION_1_85_TASK_2,Bob killed
+TID_MISSION_1_85_TASK_3,Charlotte killed
+TID_MISSION_1_85,Blood Sport
+TID_MISSION_1_86_OBJECTIVE,One of our elites was captured by the Eastern Queens. They intend to sell her in their high profile slave auction. Rescue her!
+TID_MISSION_1_86_RECEIVING_MESSAGE,You got there in time! We owe you big thanks.
+TID_MISSION_1_86_TASK_0,Free the Valkyrie Elite
+TID_MISSION_1_86,Free our sister
+TID_MISSION_1_87_OBJECTIVE,The owner of Queen of Diamonds club is also behind all of its dealings. She is called Queen Mary and her husband is Rockhead. Kill them both!
+TID_MISSION_1_87_RECEIVING_MESSAGE,Good to see Queen of Diamonds is out of business.
+TID_MISSION_1_87_TASK_0,Queen Mary killed
+TID_MISSION_1_87_TASK_1,Rockhead killed
+TID_MISSION_1_87,Regicide
+TID_MISSION_1_88_OBJECTIVE,"The New Breed need space to live in. Today it is your duty to help us claim that space, little human."
+TID_MISSION_1_88_RECEIVING_MESSAGE,This will help a future for the New Breed!
+TID_MISSION_1_88_TASK_0,Colossus climbed
+TID_MISSION_1_88_TASK_1,Shaman shocked
+TID_MISSION_1_88_TASK_2,Chieftain burned
+TID_MISSION_1_88,New Breed Expansion
+TID_MISSION_1_89_OBJECTIVE,I think I know where all these muties are coming from. Check out the abandoned Gentec lab in Foundry Way and see what you can find out.
+TID_MISSION_1_89_RECEIVING_MESSAGE,"Holy crap, those poison cans contain mutagens?\n\nDamn, I need a shower."
+TID_MISSION_1_89_TASK_0,Incomplete Mutants Examined
+TID_MISSION_1_89,Investigate the Mutation
+TID_MISSION_1_90_OBJECTIVE,There seems to be a link between heat and these new mutants.\n\nYou need to go in and make sure that no new mutant gets outside to see the light of the day.
+TID_MISSION_1_90_RECEIVING_MESSAGE,"That was not pretty, but I breathe easier knowing that it was done."
+TID_MISSION_1_90_TASK_0,Breeding Mutant killed
+TID_MISSION_1_90_TASK_1,Heated Mutants killed
+TID_MISSION_1_90_TASK_2,Fireheart killed
+TID_MISSION_1_90,End the Breeding
+TID_MISSION_1_91,Terror From the Deep
+TID_MISSION_1_91_OBJECTIVE,We just found the mother of all lizards. And I mean literally!\n\nShe is in the tunnel under Power Drive. Kill her before she wrecks the whole place.
+TID_MISSION_1_91_RECEIVING_MESSAGE,Woo-hoo! I plan to move into the lizard skin boots business!
+TID_MISSION_1_91_TASK_0,Mature Dragons killed
+TID_MISSION_1_91_TASK_1,Dragon Matriarch killed
+TID_MISSION_1_92_OBJECTIVE,I just got a call from a doctor called Smythe. He is stuck at the Hospital located in a really bad area we call \qRiot Town\q. You need to go in and kill the hooligan leader holding him hostage.
+TID_MISSION_1_92_RECEIVING_MESSAGE,You think the Hooligans were the real problem? Labycore has decided to purge everyone from this area to sweep its problems under the rug.\n\nWe need to escape! Now!
+TID_MISSION_1_92_TASK_0,Hooligan Leader killed
+TID_MISSION_1_92,Riot Rescue
+TID_MISSION_1_93_OBJECTIVE,"A helicopter! I can get us out, but you need to kill that Supersoldier first.\n\nAnd keep me safe! I don't want to sound pompous, but if I die, so does everyone else."
+TID_MISSION_1_93_RECEIVING_MESSAGE,Mutant Supersoldier's? Purge patrols? Smythe piloting anything bigger than a shopping cart?\n\nAnd I thought Riot Town was bad before.
+TID_MISSION_1_93_TASK_0,Supersoldier Officer killed
+TID_MISSION_1_93,Escape Plan
+TID_MISSION_1_94_OBJECTIVE,"We desperately need parts and supplies to keep this Health Station running. Gather some from the desert, and we'll give you a nice finder's fee."
+TID_MISSION_1_94_RECEIVING_MESSAGE,Every little bit helps!
+TID_MISSION_1_94_TASK_0,Gather Bolts from Messina Desert
+TID_MISSION_1_94,Keep Digging
+TID_MISSION_1_94_TASK_1,Steal Mutants' Gear
+TID_MISSION_1_95_OBJECTIVE,"Labycore still controls the means of production, so we have to reuse and recycle. Go grab some of the heavy metal those Mill Park mutants are toting around."
+TID_MISSION_1_95_RECEIVING_MESSAGE,Excellent job! Here's your share.
+TID_MISSION_1_95_TASK_0,Steal Berserkers' Gear
+TID_MISSION_1_95_TASK_1,Steal Mad Mutants' Gear
+TID_MISSION_1_95,Salvage
+TID_MISSION_1_96_OBJECTIVE,We're preparing for a big push against the Queens. Can you help us collect some supplies?
+TID_MISSION_1_96_RECEIVING_MESSAGE,Nice loot! These will be a huge help in our outfitting. Here's your share.
+TID_MISSION_1_96_TASK_0,Steal Troopers' Armor
+TID_MISSION_1_96_TASK_1,Grab Queens' Gear
+TID_MISSION_1_96_TASK_2,Breakt Turret for Pieces
+TID_MISSION_1_96,Supply Run
+TID_MISSION_1_97_OBJECTIVE,Another straggler? Make yourself useful and search that wreck park for some ammo. Bring me 6 boxes and I'll let you in.
+TID_MISSION_1_97_RECEIVING_MESSAGE,"Great! I'll give you my card. You can now order damage boosters from me if you lack ingredients. It will take a while for me to deliver them, though."
+TID_MISSION_1_97_TASK_0,Collect Box of Ammo
+TID_MISSION_1_97,Reloading!
+TID_MISSION_1_98_OBJECTIVE,"My old gang is out there, groaning and drooling. Put them out of their misery, OK? I'll make it worth your while.\n"
+TID_MISSION_1_98_RECEIVING_MESSAGE,"Rest in pieces, friends. They can't thank you but I can. Here you go.\n"
+TID_MISSION_1_98,Rest in Pieces
+TID_MISSION_1_98_TASK_0,Eliminate Undead Gang Members
+TID_MISSION_1_99_OBJECTIVE,Dang! I think we got sea water in your drink. Can you bring some metal from the scrapyard so I can fix our water tanks?\n
+TID_MISSION_1_99_RECEIVING_MESSAGE,Thank you! Now... Here are some bolts. Craft a pair of fine grenades for your own good!
+TID_MISSION_1_99_TASK_0,Collect metal shards
+TID_MISSION_1_99,Bitter Taste
+TID_MISSION_1_100_OBJECTIVE,"There are more survivors at the harbor area? If we got the word out, someone might rescue us. Go see IzaK. He runs a radio station from a garage down the street."
+TID_MISSION_1_100_RECEIVING_MESSAGE,Welcome to Rotten Radio! I guess Dave finally found someone capable enough!\n
+TID_MISSION_1_100_TASK_0,Find and talk to IzaK
+TID_MISSION_1_100,Voice Out There
+TID_MISSION_1_101_OBJECTIVE,We are low on power. There are car batteries at the deserted mall. Go and get us some!
+TID_MISSION_1_101_RECEIVING_MESSAGE,"Oh boy, here we go! Here, chew on this while I rig these babies up.\n"
+TID_MISSION_1_101_TASK_0,Pick up car batteries
+TID_MISSION_1_101,Zap!
+TID_MISSION_1_102_OBJECTIVE,"What... Labycore is jamming my frequencies! Well, I can play dirty too! Go to the scrapheap and find me some parts!\n"
+TID_MISSION_1_102_RECEIVING_MESSAGE,"Consider this a downpayment. If we get out of here, we can share the movie rights!\n"
+TID_MISSION_1_102,Static
+TID_MISSION_1_102_TASK_0,Find trash wire

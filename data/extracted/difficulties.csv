@@ -1,0 +1,4 @@
+Name,Multiplayer,MissionExpMultiplier,MissionCashMultiplier
+Easy,,100,100
+Medium,,500,300
+Hard,true,1000,500

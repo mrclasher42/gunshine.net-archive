@@ -1,0 +1,1335 @@
+Name,Text
+TID_CHARACTER_0,Alton Harvey
+TID_CHARACTER_1,Raul Jimenez
+TID_CHARACTER_2,Javier Marez
+TID_CHARACTER_3,Donovan
+TID_CHARACTER_4,Convict Lars
+TID_CHARACTER_5,Convict Bert
+TID_CHARACTER_6,Convict Eric
+TID_CHARACTER_7,Convict Michael
+TID_CHARACTER_8,Mad Dog Brawler
+TID_CHARACTER_9,Hooligan
+TID_CHARACTER_10,Young Hooligan
+TID_CHARACTER_11,Stoned Hooligan
+TID_CHARACTER_12,Haywire Hooligan
+TID_CHARACTER_13,Aggressive Hooligan
+TID_CHARACTER_14,Rebellious Hooligan
+TID_CHARACTER_15,Malicious Hooligan
+TID_CHARACTER_16,Scarred Hooligan
+TID_CHARACTER_17,Cruel Hooligan
+TID_CHARACTER_18,Top Dog Hooligan
+TID_CHARACTER_19,Nea
+TID_CHARACTER_20,Mia
+TID_CHARACTER_21,Convict Emil
+TID_CHARACTER_22,Dawnbreak City Guide
+TID_CHARACTER_23,Labycore Interrogator
+TID_CHARACTER_24,Emily Cartwright
+TID_CHARACTER_25,Officer Smith
+TID_CHARACTER_26,Luke Ruth
+TID_CHARACTER_27,Interrogated Victim
+TID_CHARACTER_28,John Casmir
+TID_CHARACTER_29,Susie Cohen
+TID_CHARACTER_30,Oscar Cohen
+TID_CHARACTER_31,Orion Skyhigh
+TID_CHARACTER_32,Member of the Resistance
+TID_CHARACTER_33,Michael Dunden
+TID_CHARACTER_34,Nicholas Morgil
+TID_CHARACTER_35,Casey Jones
+TID_CHARACTER_36,Lemmy Colorado
+TID_CHARACTER_37,Verm Geggison
+TID_CHARACTER_38,Mr. Forsten
+TID_CHARACTER_39,Willie Jackman
+TID_CHARACTER_40,Hox the Junkie
+TID_CHARACTER_41,Ann Lin
+TID_CHARACTER_42,Terese Triware
+TID_CHARACTER_43,Gilbert Crothers
+TID_CHARACTER_44,Murphy
+TID_CHARACTER_45,George The Handyman
+TID_CHARACTER_46,MalePlayerConstructionWorker
+TID_CHARACTER_47,MalePlayerDoctor
+TID_CHARACTER_48,MalePlayerDeerHunter
+TID_CHARACTER_49,FemalePlayerMarine
+TID_CHARACTER_50,FemalePlayerDoctor
+TID_CHARACTER_SMALL_TALK_0,The name's Alton. I'm Foreman here at Dawnbreak Harbor.
+TID_CHARACTER_SMALL_TALK_22,"Let me extend a most warm and friendly welcome to Dawnbreak City! Please, step into the Immigration Office in a nice and orderly manner, and claim your citizenship!"
+TID_CHARACTER_SMALL_TALK_2,"Dawnbreak Isle. What a godforsaken pissbowl this place is. Make no mistake, you're as stuck here as we are."
+TID_CHARACTER_51,FemalePlayerDeerHunter
+TID_CHARACTER_52,Voodoo Informant
+TID_CHARACTER_53,Miranda
+TID_CHARACTER_54,Voodoo Mambo
+TID_CHARACTER_55,Bolivar Torina
+TID_CHARACTER_56,Raquel
+TID_CHARACTER_57,Walter Manners
+TID_CHARACTER_58,Saul Ouzts
+TID_CHARACTER_59,Green Pete
+TID_CHARACTER_60,Xavier Chiarello
+TID_CHARACTER_61,Ricky Martinique
+TID_CHARACTER_62,Ling Chon
+TID_CHARACTER_SMALL_TALK_53,Hey honey. See anything pretty? Want to buy yourself something pretty?
+TID_CHARACTER_SMALL_TALK_54,"Ogoun guide ya blade, but Marinette takes ya soul, if ya cross us."
+TID_CHARACTER_SMALL_TALK_55,Whoosh... Give me a moment. Need to catch my breath. The ol' body ain't used to this much exercise.
+TID_CHARACTER_SMALL_TALK_57,"Soon, we are out of business, and that'll be the end of us Dockers. Many of us have already ditched us and made a devil's deal with the Mad Dogs. I consider that a personal affront - you don't sell out your brothers just because your wallet is a little light."
+TID_CHARACTER_SMALL_TALK_52,"Aaah, don't come closer, mon! Keep aways, or I'll have Marinette torment ya!"
+TID_CHARACTER_63,De La Vega
+TID_CHARACTER_64,Natalie
+TID_CHARACTER_65,Miss Amber
+TID_CHARACTER_66,Grim Destroyer
+TID_CHARACTER_67,Bullet-Tooth
+TID_CHARACTER_SMALL_TALK_68,Don't you dare come any closer. I can pop your head with this gun miles away.
+TID_CHARACTER_68,Maria
+TID_CHARACTER_69,Mad Dog Gunner
+TID_CHARACTER_70,Mad Dog Fighter
+TID_CHARACTER_71,Mad Dog Runner
+TID_CHARACTER_72,Chief Engineer
+TID_CHARACTER_SMALL_TALK_73,"If youse ain't lookin' ta buy sumpin', buzz off, bub."
+TID_CHARACTER_73,Shady Dealer
+TID_CHARACTER_SMALL_TALK_76,"Man, that Labycore... I hope you give them what's coming."
+TID_CHARACTER_74,Mr. Smith
+TID_CHARACTER_75,Labycore Scientist
+TID_CHARACTER_76,Nick The Scientist
+TID_CHARACTER_77,Snow Sentrybot
+TID_CHARACTER_78,Bob
+TID_CHARACTER_79,Labycore Trooper
+TID_CHARACTER_80,Freddie
+TID_CHARACTER_81,Labycore Suit
+TID_CHARACTER_82,Security Officer
+TID_CHARACTER_SMALL_TALK_64,"Man, I need a break from all this. Maybe a weekend in a spa, with someone strong and handsome. And with cherries. Definitely cherries. And a pina colada. Or a mojito.\nHmm. Choices, choices..."
+TID_CHARACTER_SMALL_TALK_63,Touch my gun and I will end you.
+TID_CHARACTER_SMALL_TALK_62,"Labycore is running the power plants in the west end of the industrial area. And Mad Dogs control the north end... They have turned the place into a big drug factory, and use some of the drilling equipment to make more drugs."
+TID_CHARACTER_SMALL_TALK_56,We must keep this place clean from those Hired Guns thugs.
+TID_CHARACTER_SMALL_TALK_78,"Holy crap. Is this dump supposed to be the glorious Dawnbreak City? They said that we need to get registered, so that we can enter the city."
+TID_CHARACTER_83,Lucie
+TID_CHARACTER_SMALL_TALK_79,Keep on moving.
+TID_CHARACTER_84,Tommy
+TID_CHARACTER_85,The Red Spider Mite
+TID_CHARACTER_SMALL_TALK_84,"\qWelcome to city of your dreams\q, they said. Ha. What a joke. And the joke's on us."
+TID_CHARACTER_86,Desperate Tommy
+TID_CHARACTER_SMALL_TALK_87,"No time to chitchat. It's payday! I'm gonna paint the town red, and party like it's 2099!"
+TID_CHARACTER_87,William Cage
+TID_CHARACTER_88,DAEMON
+TID_CHARACTER_89,Angel Garzon
+TID_CHARACTER_90,Inara
+TID_CHARACTER_91,Davey Knutsen
+TID_CHARACTER_92,Jarden Coggins
+TID_CHARACTER_93,Docker
+TID_CHARACTER_94,Security Trooper
+TID_CHARACTER_95,Heavy Assault Trooper
+TID_CHARACTER_96,Bobby Boy
+TID_CHARACTER_SMALL_TALK_97,"Me and the rest of the Valkyries can and will kick your ass if you do business with Labycore. Maybe you think we ain't much, but we sure are mean. You don't want to make me illustrate that point."
+TID_CHARACTER_97,Angelina
+TID_CHARACTER_SMALL_TALK_98,"Tonight is a day just like last week.\nNo, wait... That doesn't make sense, does it?\n*giggles*"
+TID_CHARACTER_98,Selena
+TID_CHARACTER_SMALL_TALK_100,"The girls offer a wide selection of services for a wide selection of appetites. Whatever you desire, hon, they can make it happen."
+TID_CHARACTER_SMALL_TALK_101,Is there something you want? Coffee? Tea? Me? Or just something to... eat?
+TID_CHARACTER_99,Drill Master Morty
+TID_CHARACTER_100,Kaylee
+TID_CHARACTER_101,River
+TID_CHARACTER_102,Mr. Gold
+TID_CHARACTER_103,Tollman
+TID_CHARACTER_104,Mrs. Yellow
+TID_CHARACTER_105,Eve
+TID_CHARACTER_SMALL_TALK_102,"Hakuna matata, friend. Let them others worry about worldly problems. Sit with me a while, and let me teach you about zen and the art of engine maintenance.\nBelieve me, Zen Buddhism and personal equilibrium is the way to go."
+TID_CHARACTER_SMALL_TALK_104,"Hey there! Another day, another dollar eh?"
+TID_CHARACTER_106,Duke
+TID_CHARACTER_107,Sammy Schomer
+TID_CHARACTER_108,Ralph Cox
+TID_CHARACTER_109,Crazy Pete
+TID_CHARACTER_110,Max The Wacko
+TID_CHARACTER_111,Mental Mike
+TID_CHARACTER_SMALL_TALK_112,Ye're propably looking for Walter? He's near that big warehouse over yonder.
+TID_CHARACTER_112,Mick Yard
+TID_CHARACTER_113,Customs Officer
+TID_CHARACTER_114,Wally Foston
+TID_CHARACTER_115,Zoe
+TID_CHARACTER_116,Eastern Queen
+TID_CHARACTER_117,Eastern Queen Heavy
+TID_CHARACTER_118,The Queen
+TID_CHARACTER_119,Mad Dog Repair Man
+TID_CHARACTER_SMALL_TALK_120,"Recon, baby! Recon!"
+TID_CHARACTER_120,Mal Voorhis
+TID_CHARACTER_SMALL_TALK_121,Let's beat those mofos into a pulp.
+TID_CHARACTER_SMALL_TALK_122,"Want a taste, do you? I'll make you a deal - get past this blade here in one piece, and you get a free sample. C'mon now, don't be shy."
+TID_CHARACTER_121,Saffron
+TID_CHARACTER_122,Adelle
+TID_CHARACTER_123,Hired Guns Grenadier
+TID_CHARACTER_SMALL_TALK_4,( Lars looks cold and miserable. )
+TID_CHARACTER_SMALL_TALK_6,( Eric is too exhausted to talk. )
+TID_CHARACTER_SMALL_TALK_1,I used to be a general goods vendor before I lost my license. Sad story eh?
+TID_CHARACTER_124,Hired Guns Shooter
+TID_CHARACTER_125,Hired Guns Rocketeer
+TID_CHARACTER_126,Shock Dave
+TID_CHARACTER_127,Immigration Trooper
+TID_CHARACTER_SMALL_TALK_128,You should not go there. It's a dangerous place.
+TID_CHARACTER_128,Harbor Worker
+TID_CHARACTER_SMALL_TALK_127,Move it. Get in to the van. We do not tolerate friendly fire!
+TID_CHARACTER_SMALL_TALK_129,"Go make this city a better place for normal people like us. Or if you ain't got the cojones for big things like that, how about gettin' me a cup of joe?"
+TID_CHARACTER_SMALL_TALK_130,"This used to be a much better place. Now the Hooligans and Mad Dogs run most of this territory, and us decent folk will be out of space soon."
+TID_CHARACTER_129,Harbor Boss
+TID_CHARACTER_130,Wash
+TID_CHARACTER_131,Mad Dog Elite Shooter
+TID_CHARACTER_132,Mad Dog Elite Brawler
+TID_CHARACTER_133,Mad Dog Elite Medic
+TID_CHARACTER_134,Madman
+TID_CHARACTER_135,Turret Gun
+TID_CHARACTER_136,Spiderbot
+TID_CHARACTER_137,DLL-421
+TID_CHARACTER_SMALL_TALK_137,"Move along, citizen, or you may be fined for loitering. Thank you. Have a pleasant day."
+TID_CHARACTER_138,Sewer Voodoo Skirmisher
+TID_CHARACTER_SMALL_TALK_92,"What do you want? I got nothing for you, you hear?"
+TID_CHARACTER_SMALL_TALK_83,I have no time for idle chitchat.
+TID_CHARACTER_139,Sewer Voodoo Heavy
+TID_CHARACTER_140,Sewer Voodoo Sniper
+TID_CHARACTER_141,Assault Trooper
+TID_CHARACTER_142,Light Assault Trooper
+TID_CHARACTER_143,Rental Spiderbot
+TID_CHARACTER_SMALL_TALK_143,Serve the public trust.\nProtect the innocent.\nUphold the law.
+TID_CHARACTER_SMALL_TALK_58,"You should be on your guard at all times when roaming these parts of the island. Drill Facility and Power Plant can be found just up the road, but you shouldn't go there without a reason."
+TID_CHARACTER_SMALL_TALK_59,Have you visited Abyssos Warehouses or Abyssos Marketplace yet? They might have some work for you as well.
+TID_CHARACTER_SMALL_TALK_60,We must not give up!
+TID_CHARACTER_SMALL_TALK_61,I'm ok.
+TID_CHARACTER_SMALL_TALK_91,How do you like the industrial area of the island? I hate doing trips to our other camps because the damn Hooligans are lurking around every corner.
+TID_CHARACTER_SMALL_TALK_89,"Now that the Abyssos Project's drilling facilities are inactive, Mad Dogs have turned the place into a huge W.U.Z.Z factory. I wish we could somehow stop the Mad Dogs. Dawnbreak would be a lot safer place then..."
+TID_CHARACTER_SMALL_TALK_90,"Hey. Eyes up here, unless you're paying up front."
+TID_CHARACTER_SMALL_TALK_105,"Wherever W.U.Z.Z. enters the picture, sorrow and misery will soon follow..."
+TID_CHARACTER_SMALL_TALK_106,"How you doin', mate?"
+TID_CHARACTER_SMALL_TALK_103,I'm in charge of the bridge.
+TID_CHARACTER_144,Labycore Enforcer
+TID_CHARACTER_SMALL_TALK_147,Oh my gosh. This 'Kill Cluster 3000' weapon is so cool.
+TID_CHARACTER_145,The White Spider
+TID_CHARACTER_146,Weldingbot
+TID_CHARACTER_147,Neil Gudgel
+TID_CHARACTER_148,Patrick Kapinos
+TID_CHARACTER_149,Harris Foston
+TID_CHARACTER_SMALL_TALK_148,For Christ's sake! How can the stevedores expect us to do our work when they can't even load a truck so that nothing falls out in midtransit?
+TID_CHARACTER_SMALL_TALK_149,"Just waiting for the taxi or my friends to come and pick me up. Either's good, but just standing here pisses me off. There's so much cool stuff to do, and waiting sure isn't on the list!"
+TID_CHARACTER_150,Shady Worker
+TID_CHARACTER_151,Willow
+TID_CHARACTER_152,Curtis
+TID_CHARACTER_153,Dawn
+TID_CHARACTER_154,Anya
+TID_CHARACTER_155,Dew the Junkie
+TID_CHARACTER_SMALL_TALK_152,Leave me alone. I don't know you.
+TID_CHARACTER_156,SpiderbotRed
+TID_CHARACTER_157,Sun Spider
+TID_CHARACTER_158,Akirun
+TID_CHARACTER_159,Alejandra Piccirillo
+TID_CHARACTER_160,Amador Carino
+TID_CHARACTER_SMALL_TALK_153,Dawn is my name.
+TID_CHARACTER_161,Sewer Voodoo Elite Sniper
+TID_CHARACTER_162,Sewer Voodoo Elite Heavy
+TID_CHARACTER_163,Killmaster
+TID_CHARACTER_164,Elite Slasher Hooligan
+TID_CHARACTER_165,Elite Bruiser Hooligan
+TID_CHARACTER_166,Elite Guncrazy Hooligan
+TID_CHARACTER_SMALL_TALK_151,"Some of the Dockers here help the Resistance out when they can. I try to help them out in return, while keeping an eye out for people who want to do more than just unload crates. You look like you're one of those people."
+TID_CHARACTER_SMALL_TALK_3,The name's Donovan. Not sure I know you though?
+TID_CHARACTER_SMALL_TALK_155,*burp* Wha?
+TID_CHARACTER_SMALL_TALK_167,"Nothin' to do, just waiting for a call. Could be worse, I guess."
+TID_CHARACTER_167,Ramon Fabiano
+TID_CHARACTER_168,Nilda Diener
+TID_CHARACTER_169,Eamon Merryweather
+TID_CHARACTER_170,Dynamite Pig
+TID_CHARACTER_171,Pig
+TID_CHARACTER_172,SpiderbotRed2
+TID_CHARACTER_173,Angelina's Sister Mia
+TID_CHARACTER_174,Rebecca
+TID_CHARACTER_175,Trudy
+TID_CHARACTER_SMALL_TALK_173,"Help me, <PLAYER_NAME>!"
+TID_CHARACTER_SMALL_TALK_174,You're my only hope.
+TID_CHARACTER_SMALL_TALK_175,May excessive force be with you.
+TID_CHARACTER_SMALL_TALK_114,"Ssh, keep it quiet! I'm undercover... Checking cargo."
+TID_CHARACTER_SMALL_TALK_107,How are you?
+TID_CHARACTER_176,Jerry the Junkie
+TID_CHARACTER_SMALL_TALK_176,Lost all my savings to MMO subscriptions... Why oh why didn't I just stick with free to play browser games?
+TID_CHARACTER_SMALL_TALK_177,"Labycore plays tricks with our minds. Y'see, this is all an illusion. All matter is merely energy condensed to a slow vibration... We are all one consciousness experiencing itself subjectively. There's no such thing as death, life is only a dream, and we're the imagination of ourselves."
+TID_CHARACTER_SMALL_TALK_178,Don't takes mah bottle!
+TID_CHARACTER_SMALL_TALK_179,"Spare some change? For food, honest!"
+TID_CHARACTER_177,Sammy the Junkie
+TID_CHARACTER_178,Jonas the Junkie
+TID_CHARACTER_179,Dan the Junkie
+TID_CHARACTER_SMALL_TALK_180,Don't bother me now. Following some leads.
+TID_CHARACTER_180,Meryl
+TID_CHARACTER_181,Guillermo Sannicolas
+TID_CHARACTER_182,Mary the Zebrina
+TID_CHARACTER_183,Leeroy the Man
+TID_CHARACTER_184,David 'The Unforgiven'
+TID_CHARACTER_185,Deon 'The Killer'
+TID_CHARACTER_186,Napoleon 'The Grunt'
+TID_CHARACTER_187,Eva 'The Cut' Zharen
+TID_CHARACTER_188,Jane the Slayer
+TID_CHARACTER_189,Sarah 'Harsh' Watson
+TID_CHARACTER_190,Igor 'The Bullethead'
+TID_CHARACTER_191,Jessica the Cleaner
+TID_CHARACTER_SMALL_TALK_181,"Man, how can 24 hours per day be enough for anyone? There's simply too much to see, too much to do, too much to know!"
+TID_CHARACTER_SMALL_TALK_182,Lock and load!
+TID_CHARACTER_SMALL_TALK_183,We will rock your bones apart!
+TID_CHARACTER_192,Piggy Bob
+TID_CHARACTER_SMALL_TALK_171,*oink oink*
+TID_CHARACTER_SMALL_TALK_93,"We Docker rules this part of the city, and you'd do wise to remember that."
+TID_CHARACTER_SMALL_TALK_115,"No matter how much I want to, I can't spank all of the Queens on my own. It's good to have you for backup."
+TID_CHARACTER_SMALL_TALK_154,"Sorry, but I'm out of the business. You have to look for your fun somewhere else."
+TID_CHARACTER_193,O'Malley
+TID_CHARACTER_194,Thomas
+TID_CHARACTER_SMALL_TALK_194,I used to have my own dojo... they took it all away. Darn class action suit!
+TID_CHARACTER_SMALL_TALK_193,Hired Guns trashed my shop.... I'll show 'em...
+TID_CHARACTER_SMALL_TALK_80,What is this place?! I'm going to wait for Emily to arrive. I'm sure they will send her downstairs too.
+TID_CHARACTER_SMALL_TALK_81,"In Labycore, we care."
+TID_CHARACTER_SMALL_TALK_86,"I'm so desperate! Did I say desperate? I mean eager to work, sir! Anything you have in mind! And I do mean anything."
+TID_CHARACTER_SMALL_TALK_108,"My ass is stuck in here, watching after these people with Xavier... I don't mind helping, as such. It's just that I want in on the real action, you know? Spilling some Hooligan blood and making them scream for mommy. Ah, that'd make my day!"
+TID_CHARACTER_195,Holden Shunk
+TID_CHARACTER_SMALL_TALK_195,"Patrolling the area and making sure that Mad Dogs or Hooligans or even Labycore do not attack. If that's not an important job, I don't know what is."
+TID_CHARACTER_196,The Soulless
+TID_CHARACTER_SMALL_TALK_159,I'm gonna go get some hot tamales.
+TID_CHARACTER_SMALL_TALK_160,Yes? What is it?
+TID_CHARACTER_SMALL_TALK_168,"Oh, hi there."
+TID_CHARACTER_SMALL_TALK_201,Have you seen what the Hoolies have done to one of our babies outside the shop? It's totally useless now!
+TID_CHARACTER_SMALL_TALK_200,Welcome to Rudehoods! We tune up and provide more armor to vehicles! Even Labycore can't match our products!
+TID_CHARACTER_197,Sick Docker
+TID_CHARACTER_198,Sick Diablo Member
+TID_CHARACTER_199,Sick Junkie
+TID_CHARACTER_200,Milo Pardalos
+TID_CHARACTER_201,Diego Plewa
+TID_CHARACTER_SMALL_TALK_198,Need more!
+TID_CHARACTER_SMALL_TALK_205,"Big is beautiful, that's what my mama always told me!"
+TID_CHARACTER_202,Duncan Idaho
+TID_CHARACTER_203,Pepe Di Amigo
+TID_CHARACTER_204,Roy Batty
+TID_CHARACTER_205,Equipment Vendor
+TID_CHARACTER_206,Trent Rabido
+TID_CHARACTER_SMALL_TALK_206,Good times. 'Nuff said.
+TID_CHARACTER_SMALL_TALK_204,"I like to plink at cargo ships passing by. That doesn't make me a bad person, right?"
+TID_CHARACTER_SMALL_TALK_203,"What up, dawg?"
+TID_CHARACTER_SMALL_TALK_202,I got weapons. I like weapons. Especially blades.
+TID_CHARACTER_SMALL_TALK_207,Help... Me... Kill... Me...
+TID_CHARACTER_207,Drugged Valkyrie
+TID_CHARACTER_SMALL_TALK_208,Beat me all you want! I'll never tell!
+TID_CHARACTER_208,Alex
+TID_CHARACTER_209,Labycore Bodyguard
+TID_CHARACTER_210,Mad Dog Dealer
+TID_CHARACTER_SMALL_TALK_189,Megaultrasuperdoom!
+TID_CHARACTER_SMALL_TALK_197,"I like the Turtles. Especially Leonardo. He's so, like, oh, wow. Zing. You know?"
+TID_CHARACTER_SMALL_TALK_199,Five more minutes mommy..
+TID_CHARACTER_211,Spiderbot Patrol
+TID_CHARACTER_212,13Diablo Gun Vendor
+TID_CHARACTER_213,13Diablo Salesman
+TID_CHARACTER_214,13Diablo Combat Merchant
+TID_CHARACTER_SMALL_TALK_212,Keep your aim high.
+TID_CHARACTER_SMALL_TALK_213,Interested in my wares?
+TID_CHARACTER_SMALL_TALK_214,These babies know how to handle the enemy.
+TID_CHARACTER_215,Mr. Roman
+TID_CHARACTER_SMALL_TALK_215,"Be respectful to Mr. Roman, or Mr. Roman will knock your head right off. That's a fact."
+TID_CHARACTER_216,Claire
+TID_CHARACTER_SMALL_TALK_216,"Those freaking Eastern Queens. Shakin' that skanky ass and flashing a poxy smile, all so you earn enough for your next fix. I pity them. I really do."
+TID_CHARACTER_SMALL_TALK_217,"Flat rates. 300 for hour, and I'll take you to cloud nine in any way you most desire.\nFor 400, you can bring a friend."
+TID_CHARACTER_SMALL_TALK_218,"Wait, what? What the hell happened? I just woke up and I can't remem--- Hey... WHERE THE HELL ARE MY PANTS?"
+TID_CHARACTER_217,Ivy
+TID_CHARACTER_218,Inaritu Caprio
+TID_CHARACTER_219,Hotel Manager
+TID_CHARACTER_220,Emilio Machnik
+TID_CHARACTER_221,Charlie Casella
+TID_CHARACTER_SMALL_TALK_20,"Go away, I can't hear what those Queens are saying with you tryin' to chat me up."
+TID_CHARACTER_SMALL_TALK_19,"See anything you like? Bet you do. Bet you have something you'd like in mind, too. Something special. Well, you came to the right girl.\nOne thing, though. The safe word's 'Orange'. When I say 'orange', you stop. No matter what you were doing, you stop. That's the safe word, and if I use it, it means you need to back off a bit. Okay?\nGood. Still interested?"
+TID_CHARACTER_SMALL_TALK_5,I'd rather go back to my old job loading bananas.
+TID_CHARACTER_SMALL_TALK_222,"Oh, sorry, didn't see you there."
+TID_CHARACTER_222,Fall
+TID_CHARACTER_SMALL_TALK_7,I have a special arrangement with the guards. They only hassle me on Wednesdays!
+TID_CHARACTER_SMALL_TALK_21,Welcome to the Tropical Paradise! Right?
+TID_CHARACTER_223,Club Flesh Assassin
+TID_CHARACTER_224,Club Flesh Skinner
+TID_CHARACTER_225,Club Flesh Seeker
+TID_CHARACTER_226,Voluptuous Valkyrie
+TID_CHARACTER_227,Valkyries Mentor
+TID_CHARACTER_228,Lola
+TID_CHARACTER_SMALL_TALK_227,"Need some guiding, sugar? Like what to put where? All these sliding parts, they can be hard to grasp."
+TID_CHARACTER_SMALL_TALK_228,That basketball court has turned into a bloodsport arena...
+TID_CHARACTER_SMALL_TALK_226,"I'm busy at the moment, but if you like what you see, I get off duty in an hour. Rates are not negotiable."
+TID_CHARACTER_229,Luscious Valkyrie
+TID_CHARACTER_SMALL_TALK_24,Our friend had to go downstairs. I hope everything goes smoothly. And why shouldn't it? I'm sure you both get the citizenship in no time.
+TID_CHARACTER_SMALL_TALK_25,"In you go, citizen candidate! A glorious future awaits!"
+TID_CHARACTER_SMALL_TALK_26,I'm here to see how many poor souls enter the island daily without a clue on what's really happening behind the scenes. You are one of the rare indivuals who have escaped from Labycore interrogators. Consider yourself lucky.
+TID_CHARACTER_SMALL_TALK_27,"Hel... Help me! Get me out of here!\nWhen I get back home, I'll let everyone know that these crazy maniacs waterboard innocent people here! I didn't do nuthin'!"
+TID_CHARACTER_SMALL_TALK_28,Labycore is the reflection of its creator Sid Lovens. Make no mistake. That man is evil to the core.
+TID_CHARACTER_SMALL_TALK_29,We sold our entire property to start a new life. We are so excited to finally be here!\nGod bless Sid Lovens and Labycore for this opportunity!
+TID_CHARACTER_SMALL_TALK_30,"Quite a ride, huh? Too bad there isn't any other way to get on this magnificent isle than those uncomfortable cargo ships... Why is the isle under trade blockade anyway?"
+TID_CHARACTER_SMALL_TALK_31,How is the world outside Dawnbreak City?
+TID_CHARACTER_SMALL_TALK_32,"It will take blood, and it will take tears, but eventually Labycore will fall, and we will bring peace and justice to Dawnbreak Isle. Feels good to fight for a noble cause like this."
+TID_CHARACTER_SMALL_TALK_33,They call me Mr. Fixit.
+TID_CHARACTER_SMALL_TALK_34,"The Resistance is a field organization of island-wide resistance movement against Labycore and its' allies.\nSome of the local gangs are on our side, but most gangs work for Labycore in one way or another."
+TID_CHARACTER_SMALL_TALK_35,"A proper warrior scoffs at firearms! Anyone can be brave from far away! It takes true skill and true grit to deal with problems in hand to hand combat. Have you got what it takes, kid?"
+TID_CHARACTER_SMALL_TALK_36,Dressing up like homeless junkies makes us invisible to Labycore. They couldn't care less about homeless. You should do well to remember that.
+TID_CHARACTER_SMALL_TALK_37,"Yo, yo, yo! What's up?"
+TID_CHARACTER_SMALL_TALK_38,I'm here to build various programs and tools for our Freedom Fighters.
+TID_CHARACTER_SMALL_TALK_39,"Let me give you a free tip: The more friends you bring with you from the outside world to Dawnbreak City, the more credible you are."
+TID_CHARACTER_SMALL_TALK_40,"Before coming to Dawnbreak I was a real knight. I was ennobled by the Queen herself. Here... Well. Here they don't appreciate knights as much. Chivalry is dead here. Makes me wish I was dead, too."
+TID_CHARACTER_SMALL_TALK_41,I've run out of things to sell.
+TID_CHARACTER_SMALL_TALK_42,I can feel the gears of war turning...
+TID_CHARACTER_SMALL_TALK_231,Faster! Harder! Scooter!\nI'm kidding! I'm kidding! I surrender!
+TID_CHARACTER_230,Triggerhappy Hooligan
+TID_CHARACTER_231,Scooter
+TID_CHARACTER_232,Eastern Queen Maniac
+TID_CHARACTER_SMALL_TALK_233,We must never lose faith.
+TID_CHARACTER_SMALL_TALK_234,Talking to me?
+TID_CHARACTER_SMALL_TALK_235,These streets are wild! I love it!
+TID_CHARACTER_233,Tina
+TID_CHARACTER_234,Drush
+TID_CHARACTER_235,Mona
+TID_CHARACTER_SMALL_TALK_43,This Old Town hospital is one of the safest places here.
+TID_CHARACTER_236,Demolisherbot
+TID_CHARACTER_SMALL_TALK_44,Pretty Roger is the best mercenary around...
+TID_CHARACTER_SMALL_TALK_45,Always ready to help a friend in need! As long as you got the cash.
+TID_CHARACTER_237,Suzie 'The Angel'
+TID_CHARACTER_238,Octavia 'The Night'
+TID_CHARACTER_239,Jade 'Apple' Shively
+TID_CHARACTER_240,Sierra 'Jazz' Pointer
+TID_CHARACTER_241,Sydney 'Nine Fingers'
+TID_CHARACTER_242,Michaela
+TID_CHARACTER_243,Rosalee 'Death' Loving
+TID_CHARACTER_244,Jeanna 'Mamba' Matteson
+TID_CHARACTER_245,Drusilla 'The Caramba'
+TID_CHARACTER_246,Catrina 'The Cannon'
+TID_CHARACTER_247,Mark 'The Orphan'
+TID_CHARACTER_248,Trey 'The Alpha'
+TID_CHARACTER_249,Mike The Maniac
+TID_CHARACTER_250,Leo The Snitch
+TID_CHARACTER_251,Milford 'Firepick' Pan
+TID_CHARACTER_252,Sang 'The Butcher'
+TID_CHARACTER_253,Jason The Blade
+TID_CHARACTER_254,Christopher 'The Hawk'
+TID_CHARACTER_255,Lyman 'Ogre' Covert
+TID_CHARACTER_256,Joshua 'Wishbone' Mill
+TID_CHARACTER_257,Brant 'The Lemming'
+TID_CHARACTER_258,Wilton 'Bullet' Bites
+TID_CHARACTER_SMALL_TALK_184,You called. Me and my boom shotty Hemingway answered. Get it? Hemingway? Because he blew his head off with a shotgun! Hahaha! Get it?
+TID_CHARACTER_SMALL_TALK_185,Watch out. It's sharp. Want me to illustrate my point?
+TID_CHARACTER_SMALL_TALK_186,I named my bat Daisy. Daisy here has been dancing on many faces. See this hole here? That's where she broke her first tooth.
+TID_CHARACTER_SMALL_TALK_190,Let's go mate.
+TID_CHARACTER_SMALL_TALK_238,Yes? Let's go!
+TID_CHARACTER_SMALL_TALK_239,".32 caliber is my favorite. It might be small, it might be light, but there's so little recoil! When I go pop-pop-pop, I can write my name on your ass."
+TID_CHARACTER_SMALL_TALK_240,Gunplay. Awwww.
+TID_CHARACTER_SMALL_TALK_241,"Don't come any closer, or I'll let her rip."
+TID_CHARACTER_SMALL_TALK_245,You don't know me. And you never will. Let's just get this party going.
+TID_CHARACTER_SMALL_TALK_248,You called to the Alpha male. Better not be for nothin'.
+TID_CHARACTER_SMALL_TALK_251,Ready for action.
+TID_CHARACTER_SMALL_TALK_255,I just got my shovel pimped up.
+TID_CHARACTER_SMALL_TALK_257,Fire walks with me.
+TID_CHARACTER_SMALL_TALK_250,I'll protect the one who pays me. Simple as that.
+TID_CHARACTER_SMALL_TALK_249,Yea the coat is a bit too small but hey... See my muscles and my saw?
+TID_CHARACTER_SMALL_TALK_169,"Goddamn Labycore. Screw them, and the horse they rode in on!"
+TID_CHARACTER_SMALL_TALK_187,Boom! Headshot!
+TID_CHARACTER_SMALL_TALK_188,Double kill!
+TID_CHARACTER_SMALL_TALK_191,"Clean this crap right out, boom."
+TID_CHARACTER_SMALL_TALK_220,Have you seen Charlie?
+TID_CHARACTER_SMALL_TALK_221,Have you seen Emilio?
+TID_CHARACTER_SMALL_TALK_229,"I used to be a model, you know. People liked my body, and my clothes. Do you like my outfit? See how it clings to my body?"
+TID_CHARACTER_SMALL_TALK_237,Do not touch.
+TID_CHARACTER_SMALL_TALK_242,"We have been locked here, outside the city walls by Labycore. They have abandoned us."
+TID_CHARACTER_SMALL_TALK_243,"I will kill for you.\nHell, I'd kill just for the thrill of it."
+TID_CHARACTER_SMALL_TALK_244,Megastrike!
+TID_CHARACTER_SMALL_TALK_246,Ever seen a man go down from a shot to the balls? It's hilarious!
+TID_CHARACTER_SMALL_TALK_247,Don't screw with me. I can hit you in the eye with this.
+TID_CHARACTER_SMALL_TALK_252,"My second name? You might think it, but I didn't get it for this gun here, know what I mean, hehheh?"
+TID_CHARACTER_SMALL_TALK_253,Killer whale!
+TID_CHARACTER_SMALL_TALK_254,Or eagle?
+TID_CHARACTER_SMALL_TALK_256,Yeah... I got my nickname from chicken. What of it?
+TID_CHARACTER_SMALL_TALK_258,You'd better not make me mad. I can shoot you from Stuttgart and make it look like a suicide.
+TID_CHARACTER_259,Insane Hooligan
+TID_CHARACTER_260,Grim Gonzales
+TID_CHARACTER_SMALL_TALK_261,Hi!\nClick on the green arrow in front of the door to enter the Immigration Offices.
+TID_CHARACTER_261,"Carolyn, Dawnbreak Tour Guide"
+TID_CHARACTER_262,Fireman Dave
+TID_CHARACTER_263,Billie Biker
+TID_CHARACTER_264,Gang Member Zombie
+TID_CHARACTER_265,Slick Jimmy
+TID_CHARACTER_266,Plumber Joe
+TID_CHARACTER_267,IzaK
+TID_CHARACTER_268,Engineer Eddie
+TID_CHARACTER_269,Nurse Nellie
+TID_CHARACTER_270,Assistant Stan
+TID_CHARACTER_271,Mister Zee
+TID_CHARACTER_272,Haggard Harriet
+TID_CHARACTER_273,Hermit Henry
+TID_CHARACTER_SMALL_TALK_262,Remember to use your crafted weapon boosters to maximize your damage.
+TID_CHARACTER_SMALL_TALK_263,"When you are in a tight spot, hire a mercenary to help you out.\nEither buy services from hardcore local mercenaries, or hire one of your friends to help you."
+TID_CHARACTER_SMALL_TALK_264,"There are two area types in the game: meeting areas, and adventure areas.\nYou just entered a meeting area! Here you can mingle with other online players and form groups to adventure together around Dawnbreak City.\nAdventure areas can be faced alone or in a group. You can create a group of your own, or join an existing one. You can also leave at any time."
+TID_CHARACTER_SMALL_TALK_265,Hey... Don't touch.
+TID_CHARACTER_SMALL_TALK_266,"To equip your newly crafted or bought items, open your bag and start using them."
+TID_CHARACTER_SMALL_TALK_267,Labycore wants to silence us. They have blocked us out of the city on purpose.
+TID_CHARACTER_SMALL_TALK_268,"Rare and uncommon items are much more powerful than poor and common items, so keep an eye out for these!\nYou can tell an item's rarity by looking at the color of the item's name.\nGray: Poor. Sell these, unless you absolutely have nothing else to use.\nWhite: Common. Nothing special, but could be good, if nothing else was available.\nGreen: Uncommon. An above average item with great performance.\nBlue: Rare. These babies are worth it every time.\nViolet: Epic. These rarest of the rare are the best items you can find."
+TID_CHARACTER_SMALL_TALK_269,"For difficult missions you probably need help from your friends. The easiest way to get their help is to invite them to your group.\n1) Click 'F' for Friends menu, then click a friend's name on the list and select 'Invite to Group'.\n2) Click the player you want to invite with your mouse cursor, then click their character card on the left, and select 'Invite to Group'."
+TID_CHARACTER_SMALL_TALK_270,"BOSS FIGHT!\nThere's a boss inside the building, on the second floor. Bosses are very difficult, and can usually be defeated only with a group of friends.\nBosses drop more items than ordinary enemies. They also have a higher probability to drop UNCOMMON and RARE items, so killing a boss has a good chance of making you much more powerful!"
+TID_CHARACTER_SMALL_TALK_271,"To see your mission log and where the mission target is, view the World Map.\nPress 'M' to open the map, or click the Map icon next to the minimap in the upper right corner."
+TID_CHARACTER_SMALL_TALK_273,"In meeting areas or in a group, you can Inspect what items the other player has. Click the player character, then click the symbol next to the character thumbnail on the top center of the screen."
+TID_CHARACTER_SMALL_TALK_272,"When you have two weapons equipped, use the space bar to switch between a ranged weapon and a melee weapon."
+TID_CHARACTER_274,Scout Sam
+TID_CHARACTER_275,Militant Mia
+TID_CHARACTER_276,Little Lisa
+TID_CHARACTER_277,Big Bertha
+TID_CHARACTER_278,Sweet Pete
+TID_CHARACTER_SMALL_TALK_274,"To add or view friends in the game, press 'F' to see the Friends menu."
+TID_CHARACTER_SMALL_TALK_275,"To invite friends, send beta keys from the bottom right menu bar. The number of people you can invite right now is limited, but you get more invites every time you reach a new experience level."
+TID_CHARACTER_SMALL_TALK_276,"To see which of your friends are online, look at the center of the bottom Friends menu bar. Click your friends' thumbnails to invite them to Gunshine."
+TID_CHARACTER_SMALL_TALK_277,Hope zombies don't think I'm big...
+TID_CHARACTER_SMALL_TALK_278,"Use taxi to fast travel by clicking a taxi stand. You can only travel to locations that you have already visited. When you log back in Gunshine, you will enter Dawnbreak Isle next to the taxi stand that's closest to the point where you last logged out."
+TID_CHARACTER_279,Chainsaw Charlie
+TID_CHARACTER_280,Murdocks General Goods
+TID_CHARACTER_281,Reids General Goods
+TID_CHARACTER_282,Jordans General Goods
+TID_CHARACTER_283,Parkers General Goods
+TID_CHARACTER_284,Danvers General Goods
+TID_CHARACTER_SMALL_TALK_285,Goddamn Labycore turdmonkeys. Get off my property!
+TID_CHARACTER_285,Dean
+TID_CHARACTER_286,Engineer
+TID_CHARACTER_287,Club Flesh Hedonist
+TID_CHARACTER_288,Pimp Mother
+TID_CHARACTER_289,Raging Ralph
+TID_CHARACTER_290,Captain Blackbeard
+TID_CHARACTER_291,Hired Guns Engineer
+TID_CHARACTER_292,Roco Mattia
+TID_CHARACTER_293,Reisman
+TID_CHARACTER_294,Worden
+TID_CHARACTER_295,Wladislaw
+TID_CHARACTER_296,Franko
+TID_CHARACTER_297,Jefferson
+TID_CHARACTER_298,Browen
+TID_CHARACTER_299,Armbruster
+TID_CHARACTER_300,Jiminez
+TID_CHARACTER_301,Kinder
+TID_CHARACTER_302,Dasher
+TID_CHARACTER_303,Maggott
+TID_CHARACTER_304,Pinkley
+TID_CHARACTER_305,Vladek
+TID_CHARACTER_SMALL_TALK_292,"Well? Don't just stand there! Go do something useful, you hear? Go on, now! Get going!"
+TID_CHARACTER_SMALL_TALK_305,"Welcome to war, soldier. Lock 'n' load. You need to be tougher and more skilled to get to islands."
+TID_CHARACTER_SMALL_TALK_293,"I'm not very interested in embroidery, only in results."
+TID_CHARACTER_SMALL_TALK_294,"Ready for action, soldier? You'd better be! This war was NOT started for your private gratification, and you can be damned sure it's not being run for your personal convenience, either!"
+TID_CHARACTER_SMALL_TALK_295,Killin' Labycore generals could get to be a habit with me.
+TID_CHARACTER_SMALL_TALK_296,"I'm known for my keen eye for detail, so trust me when I say the plan's good to go."
+TID_CHARACTER_SMALL_TALK_297,"(Jefferson glares at you)\nYou look like you have a question about the dining arrangements. We can discuss place settings right away, or you can GET TO WORK."
+TID_CHARACTER_SMALL_TALK_298,"Load up, soldier. Plenty of bad guys to kill."
+TID_CHARACTER_SMALL_TALK_299,"All right, let's have the basic outline..."
+TID_CHARACTER_SMALL_TALK_300,"All right, let's get this over and done with. I have a date."
+TID_CHARACTER_SMALL_TALK_301,"Don't worry if the soldiers here act a bit rowdy. You'll be fine. This isn't even close to the most twisted, anti-social bunch of psychopathic deformities I have ever run into."
+TID_CHARACTER_SMALL_TALK_302,"What's your name, soldier?"
+TID_CHARACTER_SMALL_TALK_303,"We're coming for you, Lovens! It's judgment day, sinners!"
+TID_CHARACTER_SMALL_TALK_304,"To tell you the truth, I'd rather be a civilian."
+TID_CHARACTER_306,Tankinator
+TID_CHARACTER_307,Charley Malloy
+TID_CHARACTER_SMALL_TALK_307,They say I look like Brando's brother.
+TID_CHARACTER_308,Stiletto-82
+TID_CHARACTER_SMALL_TALK_309,Labycore said that I could get Pritzker Prize for this.
+TID_CHARACTER_309,Mad Dog Architect
+TID_CHARACTER_SMALL_TALK_310,Look at all these Dogs... so much firepower. It makes you wonder what they're up to.
+TID_CHARACTER_310,Rubert Jenkins
+TID_CHARACTER_SMALL_TALK_311,"I was a Navy SEAL back in the day. I know when I'm against tough odds, and this island? This is nothing but tough odds."
+TID_CHARACTER_311,Josh Hites
+TID_CHARACTER_312,Voodoo Ritualist
+TID_CHARACTER_313,Chef
+TID_CHARACTER_314,Officer Carlton
+TID_CHARACTER_315,Officer Barnes
+TID_CHARACTER_316,Officer Wade
+TID_CHARACTER_317,Jeffrey Ditmore
+TID_CHARACTER_318,Death Row Prisoner
+TID_CHARACTER_319,Maude Statham
+TID_CHARACTER_320,Labycore Officer
+TID_CHARACTER_321,Goodspeed
+TID_CHARACTER_322,Hired Guns Warmonger
+TID_CHARACTER_323,Hired Guns Marksman
+TID_CHARACTER_324,Hired Guns Specialist
+TID_CHARACTER_325,Mason
+TID_CHARACTER_326,Ed Cavins
+TID_CHARACTER_327,Anton Rathjen
+TID_CHARACTER_328,Verna Ditmore
+TID_CHARACTER_329,Rooster
+TID_CHARACTER_330,Barton Brin
+TID_CHARACTER_331,Curly Charlie
+TID_CHARACTER_332,Convict Lou
+TID_CHARACTER_333,Life Term Prisoner
+TID_CHARACTER_334,Leland Osborne
+TID_CHARACTER_335,Harry Lohman
+TID_CHARACTER_336,Convict Judith
+TID_CHARACTER_337,Immigration Officer
+TID_CHARACTER_SMALL_TALK_314,"Move it, move it, move it! I ain't got all day!"
+TID_CHARACTER_SMALL_TALK_315,"No talking! Follow the yellow line and step thru the gate, or you'll be sorry!"
+TID_CHARACTER_SMALL_TALK_316,"That's right, baby. One day soon, you and I will have ourselves some quality time."
+TID_CHARACTER_SMALL_TALK_317,"There are two ways out of this 'immigration center'. One is sucking up to the guards and showing a certain lack of morals. These 'lucky ones' are recruited to one of the many gangs of the island, and all of them do Labycore's bidding.\nThe second method is dying.\nThank the Resistance for finding a third way. I can't wait to break out of here!"
+TID_CHARACTER_SMALL_TALK_318,"Time to get out of here! Rock on, rock on, rock on!"
+TID_CHARACTER_SMALL_TALK_319,It's time to escape this prison. You have your weapon ready?
+TID_CHARACTER_SMALL_TALK_321,Attacking targets is easy. Just click to attack.\n\n\n\nTry this at that glass wall below us. Then follow the yellow line to the next room.
+TID_CHARACTER_SMALL_TALK_337,No loitering! Move along!
+TID_CHARACTER_338,Fierce Eastern Queen
+TID_CHARACTER_339,Defiant Eastern Queen
+TID_CHARACTER_SMALL_TALK_334,"Welcome to Dawnbreak Isle's 'Immigration Center'. Shoulda stayed home, eh?"
+TID_CHARACTER_SMALL_TALK_333,Did you hear? The jailbreak is about to happen! Righteous!
+TID_CHARACTER_SMALL_TALK_335,"Wait, what? We're finally ready to bust this joint? About time."
+TID_CHARACTER_SMALL_TALK_331,"Nah, c'mon, it ain't so bad here. Just do what you're told and sleep a lot. I used to pay good money for vacations with fewer relaxation opportunities."
+TID_CHARACTER_SMALL_TALK_330,Did they hit you? They hit me. I don't want to be hit again.
+TID_CHARACTER_340,Aggressive Immigration Officer
+TID_CHARACTER_341,Unconscious Guard
+TID_CHARACTER_342,Heavy Security Trooper
+TID_CHARACTER_SMALL_TALK_327,The guards will get their act together in a manner of minutes!\n\nPrison's supply road is the only way out. Follow it. You need to keep moving!
+TID_CHARACTER_SMALL_TALK_325,Help me! There are zombies everywhere!
+TID_CHARACTER_SMALL_TALK_328,"Hire mercenaries when you need more firepower.\n\nYou can invite and hire your friends as mercenaries too. Just click \qHire\q on the lower mercenary bar. Friends are cost less to hire, and they earn rewards by helping you."
+TID_CHARACTER_SMALL_TALK_326,Maude said you'd be the one we have been expecting. I hope she is right. Now move one before it's too late.
+TID_CHARACTER_SMALL_TALK_341,Ow... My face...
+TID_CHARACTER_343,Warder Immigration Officer
+TID_CHARACTER_344,Rachel Coen
+TID_CHARACTER_345,VoBossDeathMechanical
+TID_CHARACTER_346,Druglord Panzer
+TID_CHARACTER_347,Larry Newandyke
+TID_CHARACTER_348,Tom
+TID_CHARACTER_349,Avis Hyman
+TID_CHARACTER_350,Quartermaster Bruce
+TID_CHARACTER_351,Kay Carmady
+TID_CHARACTER_352,Arnie Blackfield
+TID_CHARACTER_353,Cyril Lasko
+TID_CHARACTER_354,Hank
+TID_CHARACTER_355,ED-187
+TID_CHARACTER_SMALL_TALK_352,"Do you know why I love flying so much? I just love to use all the guns to crush my enemies, see them driven before me, and to hear the lamentation of their women."
+TID_CHARACTER_356,Resistance Leader Larry
+TID_CHARACTER_357,Bree Furness
+TID_CHARACTER_358,Sarah
+TID_CHARACTER_359,Michelle
+TID_CHARACTER_360,Rio Rodriguez
+TID_CHARACTER_361,Scott Strong
+TID_CHARACTER_362,Unconscious Resistance Member
+TID_CHARACTER_SMALL_TALK_362,...
+TID_CHARACTER_363,Wilson Yarnell
+TID_CHARACTER_SMALL_TALK_351,"Cyril is mean. Cyril says I can't go near Orville. Cyril says I'm too dumb to touch Orville. I am dumb. It's alright, I don't mind. I just like engines. I'm happy when I can play with engines. I wish Cyril would let me play with Orville's engine. Cyril is dumb."
+TID_CHARACTER_SMALL_TALK_349,"You may find this funny, but I kinda like it here. All my life, I've been searching a purpose, a meaning for my life. Now I got one. I have a cause to fight for. It gives me serenity and inner peace. I know, it sounds crazy, but what can I say?"
+TID_CHARACTER_SMALL_TALK_353,"Man, we really ought to pimp Orville. The engine's already souped up, but we lack Dagmars, zoomie pipes, Appletons on both sides... And a minigun. Definitely a minigun."
+TID_CHARACTER_SMALL_TALK_360,See this gun? This could turn Hare Krishna into a Bad Bwoy!
+TID_CHARACTER_SMALL_TALK_358,"Lady of the evening at your service. Back in the old country, I was a scientist. Here, I put out for a living.\nGuess what? I like this more. A lot more."
+TID_CHARACTER_SMALL_TALK_359,"Oh, look at you. What a treat you are! Want me to show you how I enjoy treats?"
+TID_CHARACTER_SMALL_TALK_361,"Do you know what 'nemesis' means? A righteous infliction of retribution manifested by an appropriate agent. Personified in this case by me. I'm gonna teach Labycore all this, first hand.\nYeah, I got a score to settle."
+TID_CHARACTER_364,Resistance Vendor
+TID_CHARACTER_SMALL_TALK_363,"Many people hate Labycore, and they hate what the corp does, and they hate that Lovens gets away with it. But when push comes to shove, these same people mutter to themselves, and just walk away. I can't understand that kind of mentality. The world doesn't change just because you want it to change. You have to change it. You. Personally."
+TID_CHARACTER_SMALL_TALK_348,You don't know what a few months in jail can do to you. Your brain just... what was I saying?
+TID_CHARACTER_SMALL_TALK_356,"Even though large tracts of Dawnbreak Isle and many parts of the city has fallen into the grip of Citizen Security and all the odious apparatus of Labycore rule, we shall not flag or fail.\nWe shall go on to the end, we shall fight in the harbor, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our Isle, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills.\nWe shall never surrender."
+TID_CHARACTER_SMALL_TALK_357,"The unknown future rolls toward us. I face it, for the first time, with a sense of hope."
+TID_CHARACTER_SMALL_TALK_344,I heard quite a many people got freed from the Immigration Center. That's really good news. Let's just hope that at least some of them want some payback and are willing to join the Resistance.
+TID_CHARACTER_SMALL_TALK_365,"I'm glad that you decided to come here, and build a better tomorrow with Labycore."
+TID_CHARACTER_SMALL_TALK_366,"If you already talked to Dante on the pier, be a good citizen candidate and step through the gate."
+TID_CHARACTER_365,Dante
+TID_CHARACTER_366,Officer Randall
+TID_CHARACTER_367,Chad Hagstrom
+TID_CHARACTER_368,Brian McDunnough
+TID_CHARACTER_369,Edwina Bryant
+TID_CHARACTER_370,Hired Guns Chief
+TID_CHARACTER_371,Simon Hibbert
+TID_CHARACTER_372,Reggie Westwood
+TID_CHARACTER_SMALL_TALK_368,"Do you want to know what I did to end up in isolation? I said 'Labycore sucks, this place sucks, and all you guards can suck my rooster!'\nAfter that, they shot me in the back with two taser darts, and convulsed so hard I soiled myself.\nIt was worth it."
+TID_CHARACTER_SMALL_TALK_369,They can't... They can't do this to us! This is against the Geneva convention! We have rights! They have to let us go!\n\n...right?
+TID_CHARACTER_SMALL_TALK_367,Oh geez. A guard beat me up. I think I have a concussion. I can't stop throwing up.
+TID_CHARACTER_SMALL_TALK_372,Not a very popular place with the brothers.
+TID_CHARACTER_SMALL_TALK_371,"We have to plan our next step very carefully. Come back later - now is not the time to act.\n\nYou've previously faced Security and gangs, but this... This is a full-fledged Labycore compound. We will most certainly face heavy resistance and well trained enemies. We'll need to think this through.\n\nIn the meantime... Simon says 'Bring Simon a glazed donut and a cup of hot coffee. Black, two sugars.'"
+TID_CHARACTER_373,Herder Hooligan
+TID_CHARACTER_374,Lindsay
+TID_CHARACTER_375,Guardian Turret
+TID_CHARACTER_376,Trooper Officer
+TID_CHARACTER_SMALL_TALK_374,Ow... Every step hurts... Why is Labycore doing this to us?
+TID_CHARACTER_377,Brutal Trooper
+TID_CHARACTER_378,Helpless Prisoner
+TID_CHARACTER_SMALL_TALK_379,[ He is dead ]
+TID_CHARACTER_379,Tied Up Prisoner
+TID_CHARACTER_SMALL_TALK_347,"To do this job you gotta be a great actor, you gotta be a natural. You gotta be Brando."
+TID_CHARACTER_380,Warehousebot
+TID_CHARACTER_381,Mac the Janitor
+TID_CHARACTER_382,Doctor Seiter
+TID_CHARACTER_SMALL_TALK_381,I can't wait to get out of this stinking armor...
+TID_CHARACTER_SMALL_TALK_383,"I'm sorry, but I can't trust anyone right now."
+TID_CHARACTER_SMALL_TALK_384,Need something blown up?
+TID_CHARACTER_SMALL_TALK_385,Hack'n slash!
+TID_CHARACTER_SMALL_TALK_386,"You learn something new every day, eh?"
+TID_CHARACTER_SMALL_TALK_387,Life used to be aimless. Then I bought this rifle.
+TID_CHARACTER_SMALL_TALK_388,"Hi, good to see you!"
+TID_CHARACTER_SMALL_TALK_389,We are in costant need of supplies.
+TID_CHARACTER_SMALL_TALK_390,We nhave to scavende our wares from the labycore.. But Not for long I hope.
+TID_CHARACTER_383,Jimbo
+TID_CHARACTER_384,Tege
+TID_CHARACTER_385,Hugo
+TID_CHARACTER_386,Yamesh
+TID_CHARACTER_387,The Aimer
+TID_CHARACTER_388,Gimmel
+TID_CHARACTER_389,Dr. Dirt
+TID_CHARACTER_390,Sarge
+TID_CHARACTER_391,Dead Docker
+TID_CHARACTER_392,Will Bumbergh
+TID_CHARACTER_SMALL_TALK_392,AAARGH! Get those bastards!
+TID_CHARACTER_393,AI
+TID_CHARACTER_SMALL_TALK_394,Hmm..
+TID_CHARACTER_394,Bernilla
+TID_CHARACTER_395,Dog
+TID_CHARACTER_396,Aurora
+TID_CHARACTER_397,Stella
+TID_CHARACTER_398,Luna
+TID_CHARACTER_399,Voodoo shaman
+TID_CHARACTER_400,Dualmelee
+TID_CHARACTER_401,Sewer Voodoo slicer
+TID_CHARACTER_402,Sewer Voodoo Runner
+TID_CHARACTER_SMALL_TALK_393,Beeb boob beeb...
+TID_CHARACTER_SMALL_TALK_391,Douh!
+TID_CHARACTER_403,Stiletto-71
+TID_CHARACTER_SMALL_TALK_396,This isn't the dream vacation they advertised!
+TID_CHARACTER_SMALL_TALK_397,"What's happening? Let me go, you lunatics!"
+TID_CHARACTER_SMALL_TALK_398,Where on Earth is this place? I want to go home!
+TID_CHARACTER_SMALL_TALK_404,Keep it quiet! There are Labycore patrols everywhere.
+TID_CHARACTER_404,Stan Kirby
+TID_CHARACTER_SMALL_TALK_405,> Mission in progress
+TID_CHARACTER_405,DEFOE
+TID_CHARACTER_SMALL_TALK_406,Just fixing things
+TID_CHARACTER_406,Lloyd Brown
+TID_CHARACTER_SMALL_TALK_407,I heard Labycore Troopers are lurking around. We must be careful.
+TID_CHARACTER_407,Michael McFly
+TID_CHARACTER_408,Mad Dog Handler
+TID_CHARACTER_SMALL_TALK_332,I'm so sick of this.
+TID_CHARACTER_SMALL_TALK_336,Give me some food. Please.
+TID_CHARACTER_SMALL_TALK_378,AAARGH!
+TID_CHARACTER_SMALL_TALK_409,"This is a horrible place. It makes you wonder - how can people do such a thing? Taking away those innocent girls' freedom, dignity and even life."
+TID_CHARACTER_409,Virginia
+TID_CHARACTER_410,Jill
+TID_CHARACTER_411,Sabrina
+TID_CHARACTER_412,Kelly
+TID_CHARACTER_413,Kingpin
+TID_CHARACTER_SMALL_TALK_414,Please help me! Can you help me? Please!
+TID_CHARACTER_414,Sun
+TID_CHARACTER_SMALL_TALK_415,I'm so scared... what are they going to do to us?
+TID_CHARACTER_415,Betty
+TID_CHARACTER_SMALL_TALK_410,This is a horrible place...
+TID_CHARACTER_SMALL_TALK_411,What an horrible place...
+TID_CHARACTER_SMALL_TALK_412,Help me out from this horrible place!
+TID_CHARACTER_SMALL_TALK_280,"Hey man. We must talk, but not here. It's top secret! Don't let my brothers in on it!"
+TID_CHARACTER_416,TestBot
+TID_CHARACTER_417,Master of Inspection
+TID_CHARACTER_418,Sheila
+TID_CHARACTER_SMALL_TALK_419,Making sure that no one gets hurt.
+TID_CHARACTER_419,Garmy
+TID_CHARACTER_SMALL_TALK_420,Can you feel the beat?
+TID_CHARACTER_SMALL_TALK_421,Hello sailor!
+TID_CHARACTER_SMALL_TALK_422,\qI can't get no satisfaction...\q but I can give it to you baby!
+TID_CHARACTER_SMALL_TALK_423,"Gyrate, rotate, two three sexy! Smile!"
+TID_CHARACTER_420,Babydoll
+TID_CHARACTER_421,Rosa Spanks
+TID_CHARACTER_422,Cheap Trixie
+TID_CHARACTER_423,Misty Glitter
+TID_CHARACTER_424,Michael Shannon
+TID_CHARACTER_425,Slick Raider
+TID_CHARACTER_426,Roided Raider
+TID_CHARACTER_427,Raider Scout
+TID_CHARACTER_428,Maude
+TID_CHARACTER_429,Communication Terminal
+TID_CHARACTER_430,Milla Westblade
+TID_CHARACTER_431,Mike Fear
+TID_CHARACTER_432,Hernan Kirbo
+TID_CHARACTER_433,NOT_IN_USE3
+TID_CHARACTER_434,Hologram Dancer
+TID_CHARACTER_SMALL_TALK_428,I'll stay here and watch your back.
+TID_CHARACTER_SMALL_TALK_434,\qThis hologram show is brought to you by Valkyries of Dawnbreak. Visit the Pirate Bay club for more adult entertainment.\q
+TID_CHARACTER_SMALL_TALK_430,Dawnbreak prisons are getting pretty packed as Labycore becomes more and more paranoid about possible traitors.
+TID_CHARACTER_SMALL_TALK_429,Terminal is turned off
+TID_CHARACTER_SMALL_TALK_432,Urgh... The heat and all the beatings I get are making me dizzy.
+TID_CHARACTER_SMALL_TALK_431,Don't let my last name fool you.
+TID_CHARACTER_SMALL_TALK_424,I'm trying to get this gate open!
+TID_CHARACTER_435,Crafting Bot
+TID_CHARACTER_436,Desert Hooligan 1
+TID_CHARACTER_437,Desert Hooligan 2
+TID_CHARACTER_438,The Champ
+TID_CHARACTER_439,Bronco
+TID_CHARACTER_440,Leticia
+TID_CHARACTER_441,El Guapo
+TID_CHARACTER_SMALL_TALK_440,Water... something to drink...
+TID_CHARACTER_SMALL_TALK_439,They stole my clothes!
+TID_CHARACTER_SMALL_TALK_441,When I get away from here... hijo de puta!
+TID_CHARACTER_442,Ilona
+TID_CHARACTER_443,Vivian
+TID_CHARACTER_444,Olive
+TID_CHARACTER_445,Tori
+TID_CHARACTER_446,Katya
+TID_CHARACTER_447,Kyra
+TID_CHARACTER_448,Samatha
+TID_CHARACTER_449,Don Diego
+TID_CHARACTER_SMALL_TALK_450,I'm itching for some clobbering.
+TID_CHARACTER_450,Jesse
+TID_CHARACTER_SMALL_TALK_451,Don't bring a fist to a knife fight.
+TID_CHARACTER_451,Scarface
+TID_CHARACTER_SMALL_TALK_452,"They call me Dillinger. Yeah, I pulled off a few nice bank heists back in the day."
+TID_CHARACTER_452,Dillinger
+TID_CHARACTER_SMALL_TALK_446,Those... freaking animals.
+TID_CHARACTER_SMALL_TALK_449,How's my hair?
+TID_CHARACTER_SMALL_TALK_442,Help me!
+TID_CHARACTER_SMALL_TALK_443,No... don't touch me!
+TID_CHARACTER_SMALL_TALK_444,It's so cold...
+TID_CHARACTER_SMALL_TALK_445,Give me some food! Please...
+TID_CHARACTER_SMALL_TALK_447,[ sobbing ]
+TID_CHARACTER_453,Jorge the Driver
+TID_CHARACTER_SMALL_TALK_455,Weapons hot!
+TID_CHARACTER_SMALL_TALK_456,Let's go!
+TID_CHARACTER_454,Jesus
+TID_CHARACTER_455,Zodiac
+TID_CHARACTER_456,Mack
+TID_CHARACTER_SMALL_TALK_454,Helping my big brother here.
+TID_CHARACTER_SMALL_TALK_453,Cruzando los dedos.
+TID_CHARACTER_457,Android Guardian T-006
+TID_CHARACTER_458,Android Hunter T-008
+TID_CHARACTER_459,Android Medic T-010
+TID_CHARACTER_460,Android Guardian T-012
+TID_CHARACTER_461,Android Medic T-014
+TID_CHARACTER_462,Android Hunter T-016
+TID_CHARACTER_463,Android Guardian T-018
+TID_CHARACTER_464,Android Hunter T-020
+TID_CHARACTER_465,Pyrox
+TID_CHARACTER_466,Lava Ant
+TID_CHARACTER_467,SPARTAN
+TID_CHARACTER_468,Gatekeeper
+TID_CHARACTER_469,Mortimer
+TID_CHARACTER_470,Eila
+TID_CHARACTER_471,Myra
+TID_CHARACTER_472,Mango
+TID_CHARACTER_SMALL_TALK_472,I'm here with my husband. Isn't he cuddly!
+TID_CHARACTER_SMALL_TALK_471,Oh... that Mortimer is so hot.
+TID_CHARACTER_SMALL_TALK_470,Mortimer... you saved me.
+TID_CHARACTER_473,Android Medic T-022
+TID_CHARACTER_474,Android Guardian T-024
+TID_CHARACTER_475,Android Hunter T-026
+TID_CHARACTER_476,Android Medic T-028
+TID_CHARACTER_477,Android Guardian T-030
+TID_CHARACTER_478,Android Hunter T-030
+TID_CHARACTER_479,Android Medic T-030
+TID_CHARACTER_480,Madhouse Mutant
+TID_CHARACTER_481,Berserk Mutant
+TID_CHARACTER_SMALL_TALK_482,Me Mr. Bungle. MISTER to you!
+TID_CHARACTER_SMALL_TALK_483,[ Ulver howls ]
+TID_CHARACTER_SMALL_TALK_484,Fear the reaper.
+TID_CHARACTER_482,Bungle
+TID_CHARACTER_483,Ulver
+TID_CHARACTER_484,Tomahawk
+TID_CHARACTER_485,Headbanger Mutant
+TID_CHARACTER_486,Advanced Crafting Bot
+TID_CHARACTER_487,Superior Crafting Bot
+TID_CHARACTER_SMALL_TALK_488,Gaah! It's another Spiderbot! Can't you hear the clack of its terrible feet?
+TID_CHARACTER_488,Robert
+TID_CHARACTER_SMALL_TALK_489,Labycore aren't getting through here!
+TID_CHARACTER_489,Julia
+TID_CHARACTER_490,Julio
+TID_CHARACTER_491,Serrano
+TID_CHARACTER_492,Assasino
+TID_CHARACTER_493,Adelmo
+TID_CHARACTER_SMALL_TALK_496,I get knocked down... but can't get up again.
+TID_CHARACTER_SMALL_TALK_494,...
+TID_CHARACTER_SMALL_TALK_495,...
+TID_CHARACTER_494,Labycore Headhunter
+TID_CHARACTER_495,Labycore Specialist
+TID_CHARACTER_496,Mr. Morty
+TID_CHARACTER_497,Hired Guns Advisor
+TID_CHARACTER_498,Coen 'The Sharp'
+TID_CHARACTER_499,Mary 'The Cut'
+TID_CHARACTER_500,Janet 'The Slayer'
+TID_CHARACTER_SMALL_TALK_501,What can I get you?
+TID_CHARACTER_SMALL_TALK_502,Don't touch my stuff.
+TID_CHARACTER_501,Bebob
+TID_CHARACTER_502,Jazz
+TID_CHARACTER_SMALL_TALK_503,> Insert raw materials
+TID_CHARACTER_503,Craftingbot Blue
+TID_CHARACTER_SMALL_TALK_504,> Insert plans
+TID_CHARACTER_SMALL_TALK_505,> Insert coin
+TID_CHARACTER_504,Craftingbot White
+TID_CHARACTER_505,Craftingbot Black
+TID_CHARACTER_506,Ant
+TID_CHARACTER_507,Elite Blaster
+TID_CHARACTER_508,Elite Crushskull
+TID_CHARACTER_509,Queen Ant
+TID_CHARACTER_SMALL_TALK_457,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_458,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_459,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_460,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_461,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_462,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_463,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_464,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_473,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_474,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_475,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_476,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_477,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_478,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_479,Operating as per specifications.
+TID_CHARACTER_SMALL_TALK_513,Keep your eyes peeled...
+TID_CHARACTER_SMALL_TALK_512,Bring it!
+TID_CHARACTER_SMALL_TALK_511,Let's go already!
+TID_CHARACTER_SMALL_TALK_510,No time to talk. We have killing to do.
+TID_CHARACTER_510,Nukum
+TID_CHARACTER_511,Bateman
+TID_CHARACTER_512,Mad Martha
+TID_CHARACTER_513,Quaid
+TID_CHARACTER_514,Cellar Ant
+TID_CHARACTER_SMALL_TALK_493,I'm ready to spill a lot of blood for a drop of water.
+TID_CHARACTER_SMALL_TALK_491,Yo quiero aqua...
+TID_CHARACTER_SMALL_TALK_490,Mucho gusto.
+TID_CHARACTER_SMALL_TALK_487,"> Insert coin, plans and exotic materials"
+TID_CHARACTER_SMALL_TALK_486,"> Insert coin, plans and raw materials"
+TID_CHARACTER_SMALL_TALK_500,Got ammo?
+TID_CHARACTER_SMALL_TALK_499,"The first Cut is the deepest, as they say."
+TID_CHARACTER_SMALL_TALK_498,"Everybody calls me sharp, but I'm starting think they're just teasing me."
+TID_CHARACTER_SMALL_TALK_497,...
+TID_CHARACTER_SMALL_TALK_469,Mort want a wife. Little man help.
+TID_CHARACTER_SMALL_TALK_468,Good day sir!
+TID_CHARACTER_SMALL_TALK_448,[ Samantha is completely focused on her performance ]
+TID_CHARACTER_SMALL_TALK_435,> Insert coin
+TID_CHARACTER_SMALL_TALK_354,"Clubbing, stabbing, smashing, bashing. What'll it be?"
+TID_CHARACTER_SMALL_TALK_350,"Slugs, bullets, buckshot. All that goes down well with gunpowder!"
+TID_CHARACTER_SMALL_TALK_436,Replace_Me
+TID_CHARACTER_SMALL_TALK_437,Replace_Me
+TID_CHARACTER_515,Soldier Ant
+TID_CHARACTER_516,Cave Mutant
+TID_CHARACTER_517,Calavera Ant
+TID_CHARACTER_518,Hermit Manny
+TID_CHARACTER_SMALL_TALK_519,...
+TID_CHARACTER_519,Jimba
+TID_CHARACTER_520,Raider Slavemaster
+TID_CHARACTER_521,Slavehound
+TID_CHARACTER_522,Mr Slasher
+TID_CHARACTER_523,Hired Guns Tank
+TID_CHARACTER_524,Security Recruit
+TID_CHARACTER_525,Riot Trooper
+TID_CHARACTER_526,Fire ant
+TID_CHARACTER_527,Cave Dragon
+TID_CHARACTER_528,Mosquitobot
+TID_CHARACTER_529,Plant Supervisor
+TID_CHARACTER_530,Supervisor
+TID_CHARACTER_SMALL_TALK_531,Welcome to Pearl Island! Enjoy the tropical paradise... while the illusion lasts.
+TID_CHARACTER_531,Ron
+TID_CHARACTER_532,Tim
+TID_CHARACTER_533,Dave
+TID_CHARACTER_SMALL_TALK_532,Have you heard the hunting party found a strange hatch in the woods?
+TID_CHARACTER_SMALL_TALK_533,Damn dragons. They come in during the night to steal our food and chew on our shelters.
+TID_CHARACTER_534,Beach Dragon
+TID_CHARACTER_535,Pink
+TID_CHARACTER_536,Schafer
+TID_CHARACTER_537,Gilbert
+TID_CHARACTER_538,Grossman
+TID_CHARACTER_SMALL_TALK_537,I freaking hate this sand.
+TID_CHARACTER_SMALL_TALK_538,"When I'm the boss, I'm just going to lie on the beach whole day!"
+TID_CHARACTER_SMALL_TALK_535,"The sand, it gets everywhere!"
+TID_CHARACTER_SMALL_TALK_536,Look at my guns!
+TID_CHARACTER_539,Romero
+TID_CHARACTER_540,Mosquitobot_Beta
+TID_CHARACTER_541,Steve the Custodian
+TID_CHARACTER_542,Labycore Engineer
+TID_CHARACTER_543,Labycore Technician
+TID_CHARACTER_544,Labycore Mechanic
+TID_CHARACTER_545,Doctor Catherine
+TID_CHARACTER_546,Dr. Bauhoff
+TID_CHARACTER_547,Security Captain
+TID_CHARACTER_548,Labycore VIP
+TID_CHARACTER_549,Labycore Android
+TID_CHARACTER_550,Bomb Bot
+TID_CHARACTER_SMALL_TALK_551,NO TIME TO TALK! KILL THEM!
+TID_CHARACTER_551,Resistance Fighter
+TID_CHARACTER_552,Resistance Trooper
+TID_CHARACTER_553,Berserk Spiderbot
+TID_CHARACTER_SMALL_TALK_555,You must be the new mechanic. Please take that elevator to the basement.
+TID_CHARACTER_554,Experimental Sentrybot
+TID_CHARACTER_555,Labycore Receptionist
+TID_CHARACTER_SMALL_TALK_556,Remember ze mizzion: Ve are hier to take zis place down.
+TID_CHARACTER_556,Howlin' Wolfe
+TID_CHARACTER_557,Dawnbreak Location Guide
+TID_CHARACTER_SMALL_TALK_557,Congratulations <PLAYER_NAME>!\n\nYou found one of the Easter Eggs of Gunshine.net.
+TID_CHARACTER_SMALL_TALK_552,"We will hold the fort, don't worry."
+TID_CHARACTER_558,Refugee Matt
+TID_CHARACTER_559,Refugee Roman
+TID_CHARACTER_560,Refugee Tony
+TID_CHARACTER_561,Refugee Stan
+TID_CHARACTER_562,Refugee Homer
+TID_CHARACTER_SMALL_TALK_562,They promised us work.
+TID_CHARACTER_SMALL_TALK_558,They broke my arm.
+TID_CHARACTER_SMALL_TALK_539,We own this land.
+TID_CHARACTER_SMALL_TALK_559,Help my kids...
+TID_CHARACTER_SMALL_TALK_560,They said I'd be paid well.
+TID_CHARACTER_SMALL_TALK_561,It's so hot in here.
+TID_CHARACTER_563,Dragon Hatchling
+TID_CHARACTER_564,Bernard
+TID_CHARACTER_565,Hoagie
+TID_CHARACTER_566,Laverne
+TID_CHARACTER_SMALL_TALK_564,"I'm a hunter, not a soldier!"
+TID_CHARACTER_SMALL_TALK_565,Seriously... upset... stomach... can't... fight...
+TID_CHARACTER_SMALL_TALK_566,Suddenly my gun just isn't working! What can I say?
+TID_CHARACTER_567,Leia
+TID_CHARACTER_568,Myla
+TID_CHARACTER_569,Shea
+TID_CHARACTER_570,Marta
+TID_CHARACTER_571,Ellen
+TID_CHARACTER_SMALL_TALK_567,They said that this island is a paradise.
+TID_CHARACTER_SMALL_TALK_568,I'm scared!
+TID_CHARACTER_SMALL_TALK_569,"I only want some food, and a job and family."
+TID_CHARACTER_SMALL_TALK_570,Where is my husband?
+TID_CHARACTER_SMALL_TALK_571,They said I got a job as an intern here.
+TID_CHARACTER_572,Tazerbot
+TID_CHARACTER_573,Resistance Informant
+TID_CHARACTER_SMALL_TALK_574,Is it you Wilson?
+TID_CHARACTER_SMALL_TALK_575,"It's Friday, Friday."
+TID_CHARACTER_574,Rob Crusoe
+TID_CHARACTER_575,Saturday
+TID_CHARACTER_SMALL_TALK_573,"Wolfe is a bit... eccentric, but her heart is in the right place."
+TID_CHARACTER_576,Tom Thanks
+TID_CHARACTER_577,Roland Chuck
+TID_CHARACTER_SMALL_TALK_576,I lost my packages...
+TID_CHARACTER_SMALL_TALK_577,So much sand!
+TID_CHARACTER_578,Head of Abyssos Research
+TID_CHARACTER_579,Nolan West
+TID_CHARACTER_SMALL_TALK_579,"If I lay down, those lizard won't eat me... or was that the bears?"
+TID_CHARACTER_580,D.E.F.O.E. Model 1719
+TID_CHARACTER_SMALL_TALK_580,Activating systems.
+TID_CHARACTER_581,Levine
+TID_CHARACTER_SMALL_TALK_581,I got this cool weapon with one of those coupons!
+TID_CHARACTER_582,Club Flesh Bodyguard
+TID_CHARACTER_583,Club Flesh VIP
+TID_CHARACTER_584,Bob 'Six Shooter' Katt
+TID_CHARACTER_585,Charlotte
+TID_CHARACTER_586,Jimmy 'The Cage'
+TID_CHARACTER_587,Leather
+TID_CHARACTER_588,Lace
+TID_CHARACTER_SMALL_TALK_589,"You can look, but not touch."
+TID_CHARACTER_SMALL_TALK_590,Like what you're seeing?
+TID_CHARACTER_SMALL_TALK_591,"Look, I just work here. Don't hurt me."
+TID_CHARACTER_589,Dancer
+TID_CHARACTER_590,Pole Dancer
+TID_CHARACTER_591,Employee
+TID_CHARACTER_592,Charlotte's Devil
+TID_CHARACTER_593,Eastern Queen Guard
+TID_CHARACTER_594,Eastern Queen Nurse
+TID_CHARACTER_595,Eastern Queen Elite
+TID_CHARACTER_596,Suicidal Slave
+TID_CHARACTER_597,Infected Junkie
+TID_CHARACTER_598,Slave handler
+TID_CHARACTER_599,Drunken Patron
+TID_CHARACTER_SMALL_TALK_602,Please help us...
+TID_CHARACTER_600,Sugarcube
+TID_CHARACTER_601,Nightclub Bouncer
+TID_CHARACTER_602,Captive Dancer
+TID_CHARACTER_603,Captive VIP
+TID_CHARACTER_604,Slave Eater
+TID_CHARACTER_605,The Diseased
+TID_CHARACTER_606,Mr. Arms
+TID_CHARACTER_607,Rockhead
+TID_CHARACTER_608,Queen Mary
+TID_CHARACTER_609,VIP Guard Bot
+TID_CHARACTER_610,Control Unit
+TID_CHARACTER_SMALL_TALK_611,Time for payback!
+TID_CHARACTER_611,Valkyrie Elite
+TID_CHARACTER_612,Spirit of rage
+TID_CHARACTER_613,Mr. Macroff
+TID_CHARACTER_614,Devourer Dragon
+TID_CHARACTER_615,Mature Dragon
+TID_CHARACTER_SMALL_TALK_613,"What are you buying, stranger?"
+TID_CHARACTER_616,Guardian
+TID_CHARACTER_617,Gollop
+TID_CHARACTER_618,Jaffe
+TID_CHARACTER_619,Flanagan
+TID_CHARACTER_SMALL_TALK_617,They got me!
+TID_CHARACTER_SMALL_TALK_618,I tried to run... but a bot tazed me in the ass!
+TID_CHARACTER_SMALL_TALK_619,I hope I don't get sent back!
+TID_CHARACTER_620,Mr. Hudson
+TID_CHARACTER_621,MissHolo 1
+TID_CHARACTER_SMALL_TALK_621,"For information about employment opportunities in Labycore Research Division, please send a message to jobs@eurekaresearch.daw"
+TID_CHARACTER_622,MissHolo 2
+TID_CHARACTER_623,Refugee Bartle
+TID_CHARACTER_624,Refugee Suda
+TID_CHARACTER_625,Refugee Ueda
+TID_CHARACTER_626,Roberta
+TID_CHARACTER_627,Newell
+TID_CHARACTER_628,McGee
+TID_CHARACTER_629,MissHolo 3
+TID_CHARACTER_630,Refugee Mohr
+TID_CHARACTER_SMALL_TALK_630,I'm trying to figure out the guards' patrol patterns. There must be a stealth meter somewhere!
+TID_CHARACTER_631,Ned
+TID_CHARACTER_SMALL_TALK_629,"Welcome to Eureka Research Center! I'm Miss Holorun, the Vice President of Labycore Corporation."
+TID_CHARACTER_SMALL_TALK_622,"Please enjoy your visit to Eureka, and don't forget to recommend this tour to your fellow citizens!"
+TID_CHARACTER_SMALL_TALK_623,They gave me something... all I see is red!
+TID_CHARACTER_SMALL_TALK_624,I have no idea what's going on. Who are these people?
+TID_CHARACTER_SMALL_TALK_625,They did horrible things to us!
+TID_CHARACTER_SMALL_TALK_626,"No! No more detergent ads, I can't take it!"
+TID_CHARACTER_SMALL_TALK_627,"I'll do anything, just get me out of here!"
+TID_CHARACTER_SMALL_TALK_628,Don't you understand? We're people! We're not lab animals!
+TID_CHARACTER_SMALL_TALK_631,We'll keep searching for missing people... but I fear the worst.
+TID_CHARACTER_632,ExploBot
+TID_CHARACTER_633,Steve
+TID_CHARACTER_SMALL_TALK_633,Grim Gonzales has the access chip to the gate.
+TID_CHARACTER_676,Gentech Supersoldier
+TID_CHARACTER_677,Hospital Doctor
+TID_CHARACTER_678,Hooligan Anarchist
+TID_CHARACTER_SMALL_TALK_632,Save the family. Save the humanity. Frack!
+TID_CHARACTER_634,Mutated Bee
+TID_CHARACTER_635,Secret Dancer
+TID_CHARACTER_636,Raider Colossus
+TID_CHARACTER_637,Raider Chieftain
+TID_CHARACTER_638,Raider Shaman
+TID_CHARACTER_639,Raider Goldeye
+TID_CHARACTER_640,Berserk Raider
+TID_CHARACTER_641,Raider Sniper
+TID_CHARACTER_642,Raider Destroyer
+TID_CHARACTER_643,New Breed Warrior
+TID_CHARACTER_644,Raider Agitator
+TID_CHARACTER_645,Decommissioned Databank
+TID_CHARACTER_646,Malfunctioning Sentrybot
+TID_CHARACTER_647,Rebellious Android
+TID_CHARACTER_648,Fwarmbot
+TID_CHARACTER_649,Swarmer
+TID_CHARACTER_650,Crazed Pillbot
+TID_CHARACTER_651,Scrapped Tankbot
+TID_CHARACTER_652,Discontinued Android
+TID_CHARACTER_653,Rocket Turret
+TID_CHARACTER_654,Failed Android
+TID_CHARACTER_655,Obsolete Sentrybot
+TID_CHARACTER_656,Gentech Scientist
+TID_CHARACTER_657,Heated Mutant
+TID_CHARACTER_658,Incomplete Mutant
+TID_CHARACTER_659,Underground Mutant
+TID_CHARACTER_660,Mutated Scientist
+TID_CHARACTER_661,Gentech Sentrybot
+TID_CHARACTER_662,Fireheart
+TID_CHARACTER_663,Breeding Mutant
+TID_CHARACTER_664,Bystander
+TID_CHARACTER_665,Civilian
+TID_CHARACTER_666,Purge Trooper
+TID_CHARACTER_667,Mutant Soldier
+TID_CHARACTER_668,Riot Enforcer
+TID_CHARACTER_669,Hooligan Looter
+TID_CHARACTER_670,Hooligan Bruiser
+TID_CHARACTER_671,Riot Liutenant
+TID_CHARACTER_672,Doctor Smythe
+TID_CHARACTER_673,Supersoldier Officer
+TID_CHARACTER_674,Antiriot Sentry
+TID_CHARACTER_675,Riot Captain
+TID_CHARACTER_SMALL_TALK_664,Are you here to help?
+TID_CHARACTER_SMALL_TALK_665,Please help us!
+TID_CHARACTER_679,MegaGear
+TID_CHARACTER_SMALL_TALK_677,"Here, let me patch you up."
+TID_CHARACTER_SMALL_TALK_656,I don't even know what's going on here!
+TID_CHARACTER_SMALL_TALK_643,A fine day for killing.
+TID_CHARACTER_SMALL_TALK_635,Congratulations <PLAYER_NAME>!\n\nYou found one of the Easter Eggs of Gunshine.net. There is no price tough...now go back and play gunshine.
+TID_CHARACTER_SMALL_TALK_672,K-Keep them away from me!
+TID_CHARACTER_SMALL_TALK_679,as
+TID_CHARACTER_680,TROLL
+TID_CHARACTER_681,Search Bug
+TID_CHARACTER_682,Spiderbot_Turned_Off
+TID_CHARACTER_683,Mafioso
+TID_CHARACTER_684,Crab
+TID_CHARACTER_685,Exploding Pig
+TID_CHARACTER_686,Fighter
+TID_CHARACTER_687,Pusher
+TID_CHARACTER_688,Mudcrab
+TID_CHARACTER_SMALL_TALK_284,"I know my name is... peculiar, but it's better than some people I know. How about that Throatwobbler Mangrove character?"
+TID_CHARACTER_SMALL_TALK_282,"General? Yep, that's my middle name. I prefer to be called J.G."
+TID_CHARACTER_SMALL_TALK_283,"You might have met my siblings. Truth be told, they're a bit weird so I like to keep my distance."
+TID_CHARACTER_SMALL_TALK_281,I'm a brother from another mother. Mr. Goods was my dad.
+TID_CHARACTER_SMALL_TALK_364,"Sorry, we're still waiting for that supply boat."
+TID_CHARACTER_SMALL_TALK_279,Me and my bro Reids are close. Dunno much about that other bunch.
+TID_CHARACTER_SMALL_TALK_329,Rooster's the name. I'll let you figure out why they call me that!
+TID_CHARACTER_689,Yellow Spider
+TID_CHARACTER_690,SENTINEL
+TID_CHARACTER_691,Infected
+TID_CHARACTER_692,Infected Officer
+TID_CHARACTER_SMALL_TALK_693,Please don't hurt me!
+TID_CHARACTER_693,Ken
+TID_CHARACTER_694,Shaft AI
+TID_CHARACTER_695,Bot
+TID_CHARACTER_SMALL_TALK_694,Give password to activate
+TID_CHARACTER_SMALL_TALK_695,"Beep-Bop! Hi, my name is Blip!"
+TID_CHARACTER_696,Flux
+TID_CHARACTER_697,Clark
+TID_CHARACTER_698,Holbrook
+TID_CHARACTER_699,Foote
+TID_CHARACTER_SMALL_TALK_696,I don't feel so good...
+TID_CHARACTER_SMALL_TALK_697,I'm here to enforce the rules.
+TID_CHARACTER_SMALL_TALK_698,I'll be right with you! Just fixing the arena after the last \qFriendly\q.
+TID_CHARACTER_SMALL_TALK_699,"Two enter, one leave. Law of STORMDOME!"
+TID_CHARACTER_700,Mews
+TID_CHARACTER_SMALL_TALK_700,Welcome to Bay Brawl!
+TID_CHARACTER_701,Gate Control
+TID_CHARACTER_SMALL_TALK_701,-- SECURITY LOCKDOWN --
+TID_CHARACTER_702,Prisoner
+TID_CHARACTER_SMALL_TALK_702,"Better get moving, unless you want to get your brain cut up!"
+TID_CHARACTER_703,Labycore Guard
+TID_CHARACTER_704,Pretty Rodger
+TID_CHARACTER_SMALL_TALK_704,We need to work together. Call me any time!
+TID_CHARACTER_705,Hartmann
+TID_CHARACTER_SMALL_TALK_705,Keep going!
+TID_CHARACTER_706,Slave Dancer
+TID_CHARACTER_707,Enslaved Dancer
+TID_CHARACTER_SMALL_TALK_706,Mamma mia!
+TID_CHARACTER_SMALL_TALK_707,Non farci del male!
+TID_CHARACTER_708,Mad Dog Hitman
+TID_CHARACTER_SMALL_TALK_709,I'm hungry like the BEAST!
+TID_CHARACTER_709,Green Peter
+TID_CHARACTER_710,Loot Master
+TID_CHARACTER_711,Glutton
+TID_CHARACTER_712,Wrath
+TID_CHARACTER_713,Vigilantes
+TID_CHARACTER_SMALL_TALK_714,When hunting Bosses you better be prepared.
+TID_CHARACTER_714,Evagrius the Solitary
+TID_CHARACTER_715,Envy
+TID_CHARACTER_716,Chimera
+TID_CHARACTER_717,Revenger
+TID_CHARACTER_718,Dr. Evil Emmett
+TID_CHARACTER_719,Prototype Glutton
+TID_CHARACTER_720,Prototype Chimera
+TID_CHARACTER_SMALL_TALK_721,Ugh...it got some whoping...
+TID_CHARACTER_721,Deadguy
+TID_CHARACTER_SMALL_TALK_722,This room was build by our awesome artist Piksel.
+TID_CHARACTER_SMALL_TALK_723,What can I get you?
+TID_CHARACTER_722,Buttler
+TID_CHARACTER_723,Mr. Dawnbreak
+TID_CHARACTER_SMALL_TALK_724,You need a Beta Key of Awesomeness to get to the back room.
+TID_CHARACTER_724,Bouncer
+TID_CHARACTER_725,deadman
+TID_CHARACTER_726,dying woman
+TID_CHARACTER_SMALL_TALK_729,They broke my car!
+TID_CHARACTER_SMALL_TALK_726,...
+TID_CHARACTER_SMALL_TALK_725,...
+TID_CHARACTER_SMALL_TALK_727,They came from dark...
+TID_CHARACTER_SMALL_TALK_728,I can get you what you need
+TID_CHARACTER_727,Shane
+TID_CHARACTER_728,Glenn
+TID_CHARACTER_729,Dale
+TID_CHARACTER_730,Sneaky Zombie
+TID_CHARACTER_731,Undead Worker
+TID_CHARACTER_732,Undead Cop
+TID_CHARACTER_733,Undead Hunter
+TID_CHARACTER_734,Zombie Worker
+TID_CHARACTER_735,Zombie Cop
+TID_CHARACTER_736,Zombie Hunter
+TID_CHARACTER_737,Zombie Half
+TID_CHARACTER_738,Angelin
+TID_CHARACTER_739,General Adama
+TID_CHARACTER_740,Quartermaste
+TID_CHARACTER_741,Frank
+TID_CHARACTER_742,Wheezing Phil
+TID_CHARACTER_743,Bearded Zombie
+TID_CHARACTER_744,Half Zombie
+TID_CHARACTER_745,Zombie Knocker
+TID_CHARACTER_746,Mr. Grimes
+TID_CHARACTER_747,Cholera
+TID_CHARACTER_748,Knock Knock Zombie
+TID_CHARACTER_749,Brains
+TID_CHARACTER_SMALL_TALK_738,They gome from undercround.
+TID_CHARACTER_SMALL_TALK_739,So say we all!
+TID_CHARACTER_SMALL_TALK_740,I'm man at Arms
+TID_CHARACTER_SMALL_TALK_741,...
+TID_CHARACTER_SMALL_TALK_742,My name is Phil.
+TID_CHARACTER_SMALL_TALK_746,Get ready...this place is spooky
+TID_CHARACTER_750,Zombie Boss
+TID_CHARACTER_751,Mum in distress
+TID_CHARACTER_752,Rose
+TID_CHARACTER_753,Michelle Kneiffer
+TID_CHARACTER_754,Zeela
+TID_CHARACTER_SMALL_TALK_751,Those zombies are just nasty.
+TID_CHARACTER_SMALL_TALK_752,My bar!
+TID_CHARACTER_SMALL_TALK_753,Well hello there <PLAYER_NAME>
+TID_CHARACTER_SMALL_TALK_754,Meow!
+TID_CHARACTER_755,Zombie Striper
+TID_CHARACTER_756,Zombie Dancer
+TID_CHARACTER_757,Undead Labycore
+TID_CHARACTER_SMALL_TALK_758,Heyyyyy! I can fix all things electonical!
+TID_CHARACTER_SMALL_TALK_759,May I dig your grave?
+TID_CHARACTER_758,Chief Mechanic Bob
+TID_CHARACTER_759,Amsterdam
+TID_CHARACTER_760,Burning Zombie
+TID_CHARACTER_761,Plague
+TID_CHARACTER_762,Paris
+TID_CHARACTER_SMALL_TALK_762,...
+TID_CHARACTER_763,Billy
+TID_CHARACTER_764,Franky
+TID_CHARACTER_765,Nora
+TID_CHARACTER_SMALL_TALK_765,Thanks for saving me...I think I'm hurt...
+TID_CHARACTER_766,Vindicator
+TID_CHARACTER_767,Kismet
+TID_CHARACTER_768,Club Manager
+TID_CHARACTER_769,The Bouncer
+TID_CHARACTER_770,Elvis
+TID_CHARACTER_771,Fixer-Eddie
+TID_CHARACTER_772,Windy
+TID_CHARACTER_773,Faux
+TID_CHARACTER_SMALL_TALK_773,"I've always wanted to see Venice. You're not a zombie, are you?"
+TID_CHARACTER_SMALL_TALK_772,Do you remember how it was before the zombies attacked...
+TID_CHARACTER_SMALL_TALK_771,Fix....I need my fix.
+TID_CHARACTER_SMALL_TALK_770,I'm alive!
+TID_CHARACTER_SMALL_TALK_769,Show some ID? And read our TOS.
+TID_CHARACTER_SMALL_TALK_768,"Oh, those zombies are so bad for bussiness"
+TID_CHARACTER_SMALL_TALK_767,I can make some good drinks....
+TID_CHARACTER_774,Drunken Zombie
+TID_CHARACTER_775,Kismets Boyfriend
+TID_CHARACTER_776,Armed Kismet
+TID_CHARACTER_SMALL_TALK_776,Those zombies gives me creeps...
+TID_CHARACTER_SMALL_TALK_777,Only together can we survive.
+TID_CHARACTER_777,Eric
+TID_CHARACTER_778,Shawn
+TID_CHARACTER_779,Mira
+TID_CHARACTER_SMALL_TALK_781,Aim to the head.
+TID_CHARACTER_SMALL_TALK_782,Though times.
+TID_CHARACTER_SMALL_TALK_780,No room for wussys here.
+TID_CHARACTER_SMALL_TALK_779,We are getting more and more survivors everyday.
+TID_CHARACTER_SMALL_TALK_778,Howdy. wach your back in there.
+TID_CHARACTER_780,Mac
+TID_CHARACTER_781,Pablo
+TID_CHARACTER_782,Enrico
+TID_CHARACTER_783,Undead Police Commissioner
+TID_CHARACTER_784,Sexy Zombie
+TID_CHARACTER_SMALL_TALK_784,...
+TID_CHARACTER_785,Doctor Red
+TID_CHARACTER_786,Filthy Zombie
+TID_CHARACTER_787,Rotten Zombie
+TID_CHARACTER_788,Undead Office Worker
+TID_CHARACTER_789,Undead Immigration Officer
+TID_CHARACTER_790,Undead Michaela
+TID_CHARACTER_791,Lost Scout
+TID_CHARACTER_SMALL_TALK_791,...
+TID_CHARACTER_792,Avenue Zombie
+TID_CHARACTER_793,Mad Dog Members
+TID_CHARACTER_794,Mole
+TID_CHARACTER_SMALL_TALK_794,I can get you to the Dawnbreak...
+TID_CHARACTER_795,Undead Guard
+TID_CHARACTER_796,Vega 2.0
+TID_CHARACTER_797,Ringo Raider
+TID_CHARACTER_798,Walker Raider
+TID_CHARACTER_799,Raider Roamer
+TID_CHARACTER_800,Friendly Raider
+TID_CHARACTER_SMALL_TALK_800,My friends!
+TID_CHARACTER_801,Let me in Zombie
+TID_CHARACTER_802,Buddy Raider
+TID_CHARACTER_803,Zombie Raider
+TID_CHARACTER_SMALL_TALK_802,I don't how much that gate holds...
+TID_CHARACTER_804,Vega
+TID_CHARACTER_805,Raider Jules
+TID_CHARACTER_806,Queen Bathory
+TID_CHARACTER_SMALL_TALK_807,I'm so cold...
+TID_CHARACTER_807,Muriel
+TID_CHARACTER_808,Keymaker
+TID_CHARACTER_SMALL_TALK_808,I have the plans for all the other keys but the beta key of awesomeness.
+TID_CHARACTER_809,Mutated Zombie
+TID_CHARACTER_810,Rico Marmel
+TID_CHARACTER_811,Gyros
+TID_CHARACTER_812,Anger
+TID_CHARACTER_813,Bomber
+TID_CHARACTER_814,Labycore Medic
+TID_CHARACTER_815,Undead Butcher
+TID_CHARACTER_SMALL_TALK_810,Hello
+TID_CHARACTER_SMALL_TALK_816,What?! I'm not crazy!
+TID_CHARACTER_SMALL_TALK_817,I'm too old for this.
+TID_CHARACTER_816,Riggs
+TID_CHARACTER_817,Murtaugh
+TID_CHARACTER_818,Kirkman
+TID_CHARACTER_819,More
+TID_CHARACTER_SMALL_TALK_819,"Yup, I do some fine drawings."
+TID_CHARACTER_SMALL_TALK_818,I use to be writer.
+TID_CHARACTER_820,Headmaster
+TID_CHARACTER_821,Trasher
+TID_CHARACTER_822,Swarmbot
+TID_CHARACTER_823,Big Boss
+TID_CHARACTER_824,Cal
+TID_CHARACTER_SMALL_TALK_824,"Howdy! What are you buying? Oh, sorry...my goods are stolen...so I won't be selling nothing."
+TID_CHARACTER_825,Bob De La Muerte
+TID_CHARACTER_826,Mad Dog Elite Zombie
+TID_CHARACTER_827,Mad Dog Elite Half
+TID_CHARACTER_828,Hector De La Muerte
+TID_CHARACTER_829,Victor De La Muerte
+TID_CHARACTER_830,Bernoulli
+TID_CHARACTER_SMALL_TALK_830,I have no idea what goes on this city anymore.

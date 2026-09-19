@@ -1,0 +1,476 @@
+Name,Text
+TID_MISSION_2_0,Gaining Access
+TID_MISSION_2_0_OBJECTIVE,Retrieve the new type of ID key card.
+TID_MISSION_2_0_RECEIVING_MESSAGE,Hohoho. Let the key cloning begin. Aw yeah.
+TID_MISSION_2_0_TASK_0,Next Gen Keycard Retrieved
+TID_MISSION_2_1,Night Life
+TID_MISSION_2_1_OBJECTIVE,"I know someone who can help you with those coupons. See that hot chick over there? That's Inara, and she works at the Night Club. Those girls get around and know a lot of rich and powerful cats."
+TID_MISSION_2_1_RECEIVING_MESSAGE,I saw you talking to Alton. Did he make you run his errands?
+TID_MISSION_2_10,Meet Mal
+TID_MISSION_2_10_OBJECTIVE,Go meet Mal in Import Area.
+TID_MISSION_2_10_RECEIVING_MESSAGE,"Say, er,... You wouldn't happen to have stumbled across a package about this big?"
+TID_MISSION_2_11,Waylaid
+TID_MISSION_2_11_OBJECTIVE,The Raiders captured some of our people. Can you get a message to them? There will be help coming soon.
+TID_MISSION_2_11_RECEIVING_MESSAGE,I'm glad they're alive at least. The Raiders are going to pay!
+TID_MISSION_2_11_TALK_TASK_0,...
+TID_MISSION_2_11_TALK_TASK_1,... water ...
+TID_MISSION_2_11_TALK_TASK_2,... help ...
+TID_MISSION_2_11_TASK_0,Find Bronco
+TID_MISSION_2_11_TASK_1,Find Leticia
+TID_MISSION_2_11_TASK_2,Find El Guapo
+TID_MISSION_2_12,The Revolution Will Not Be Televised
+TID_MISSION_2_12_OBJECTIVE,Talk to Mr. Roman's brother in the New Dublin Street gun shop.
+TID_MISSION_2_12_RECEIVING_MESSAGE,"42 you say? And my brother Roman sent you? All right, then. That means it's time to start a revolution. If you want to have a go against Labycore and its sycopants, stick around. We'll always have more work for soldiers."
+TID_MISSION_2_12_TASK_0,Talk to Mr. Roman's Brother
+TID_MISSION_2_13,Striptease
+TID_MISSION_2_13_OBJECTIVE,Find Inaritu and download the client list in Old World Hotel.
+TID_MISSION_2_13_RECEIVING_MESSAGE,"Hahaha! Oh, that poor, poor thing. His is the first name I'll cross over from my client list.\nThis Queens contact list you downloaded will be very useful. Thanks."
+TID_MISSION_2_14,Emilio and Charlie's Excellent Adventure
+TID_MISSION_2_14_OBJECTIVE,Find Emilio in Market Square New Paris.
+TID_MISSION_2_14_RECEIVING_MESSAGE,"What? Me, caught? No no no, amigo. I'm too sneaky fer them Labycore pendejos. I'm here on business, ese, doin' stuff for that gun shop nearby."
+TID_MISSION_2_14_TASK_0,Find Emilio
+TID_MISSION_2_15,Accidents Do Happen
+TID_MISSION_2_15_OBJECTIVE,Burn three Eastern Queens cars.
+TID_MISSION_2_15_RECEIVING_MESSAGE,Thanks <PLAYER_NAME>! The Queens are one step closer to being out of business.
+TID_MISSION_2_15_TASK_0,Cars Torched
+TID_MISSION_2_16,Meet Mia
+TID_MISSION_2_16_OBJECTIVE,Look for Mia at Lovens Park West
+TID_MISSION_2_16_RECEIVING_MESSAGE,"Shh, pipe down! Are you out of your mind? Someone's gonna see us!"
+TID_MISSION_2_16_TASK_0,Mia Found
+TID_MISSION_2_17,Three Bees
+TID_MISSION_2_17_OBJECTIVE,Find Mia's Book in the Eastern Queens building in Lovens Park West.
+TID_MISSION_2_17_RECEIVING_MESSAGE,"Sweet, my book! You didn't read it, did you? Doesn't matter, it's all in code anyway\nNow, about that reward... I'm really... happy for what you did, y'know. I can make you happy, too..."
+TID_MISSION_2_17_TASK_0,Mia's BBB Retrieved
+TID_MISSION_2_18,Meet Nea
+TID_MISSION_2_18_OBJECTIVE,Meet Nea in Market Square New Paris.
+TID_MISSION_2_18_RECEIVING_MESSAGE,"Need something, sugar?"
+TID_MISSION_2_18_TASK_0,Speak with Nea
+TID_MISSION_2_19,This is Our City! Pt 1
+TID_MISSION_2_19_OBJECTIVE,Get 3 key cards from the Hired Guns on Copenhagen Street.
+TID_MISSION_2_19_RECEIVING_MESSAGE,"Bien hecho, ese! With these key cards, we can open any door in the hospital! Get prepared, mira, we'll raid the place soon!"
+TID_MISSION_2_19_TASK_0,Key Cards Retrieved
+TID_MISSION_2_2,Where's Wally?
+TID_MISSION_2_2_OBJECTIVE,Find Wally in Container Storage.
+TID_MISSION_2_2_RECEIVING_MESSAGE,"How did you find me? Oh. So, Angel sent you? Okay, then, let's get to business."
+TID_MISSION_2_20,Labor Day
+TID_MISSION_2_20_OBJECTIVE,Take a food package to four convicts at the prison camp at New London Street.
+TID_MISSION_2_20_RECEIVING_MESSAGE,"Thanks. We can't rescue the prisoners yet because every prisoner is wearing a prison bracelet, and that bracelet will detonate if the convict tries leave the camp. Not many are willing to lose an arm and a leg just to get out of there."
+TID_MISSION_2_20_TALK_TASK_0,Food... Thank you... I haven't eaten for days...
+TID_MISSION_2_20_TALK_TASK_1,"Water! Oh, bless you, friend! My throat was parched!"
+TID_MISSION_2_20_TALK_TASK_2,Whoever you are... You saved my life. Thank you.
+TID_MISSION_2_20_TALK_TASK_3,Wha-- What? Food? No way! Gimme gimme gimme!
+TID_MISSION_2_20_TASK_0,Convict Lars Fed
+TID_MISSION_2_20_TASK_1,Convict Bert Fed
+TID_MISSION_2_20_TASK_2,Convict Mikael Fed
+TID_MISSION_2_20_TASK_3,Convict Eric Fed
+TID_MISSION_2_21,This is Our City! Pt 2
+TID_MISSION_2_21_OBJECTIVE,Turn off the hospital mainframe and eliminate all Hired Guns.
+TID_MISSION_2_21_RECEIVING_MESSAGE,"This is one of the best things that's happened in this part of the city. Gracias, ese. Este seguro y puede Dios estar con usted."
+TID_MISSION_2_21_TASK_0,Muscles Mauled
+TID_MISSION_2_21_TASK_1,Shooters Sliced
+TID_MISSION_2_21_TASK_2,Heavies Euthanized
+TID_MISSION_2_21_TASK_3,Mainframe Powered Down
+TID_MISSION_2_22,Fire Sale
+TID_MISSION_2_22_OBJECTIVE,Loot propane tanks and use them to destroy four 'food' stands.
+TID_MISSION_2_22_RECEIVING_MESSAGE,"Hahaha! Whee! I'm sure that one bastich's gonna miss that right arm, hehheh!"
+TID_MISSION_2_22_TASK_0,Propane Tanks Found
+TID_MISSION_2_22_TASK_1,Food Stands Blown Up
+TID_MISSION_2_23,What's 'How Do You Do?' in Voodoo?
+TID_MISSION_2_23_OBJECTIVE,Interrogate the Sewer Voodoo informant on Amsterdam Street.
+TID_MISSION_2_23_RECEIVING_MESSAGE,"What the...? A chicken foot? What does that even mean? Oh, man, how creepy is *that*?\nI got goosebumps all over me!"
+TID_MISSION_2_23_TALK_TASK_0,"Welcome ta where da mojo is, brah. Ere, mon. Take dis chicken foot. It mean we warn ya. Dis is the only warnin' we give ya, mon. Don't get in da way of loa, eh?\n\nNow go, mon. Irie. Peace be with ya."
+TID_MISSION_2_23_TASK_0,Find Informant
+TID_MISSION_2_24,The Exterminator
+TID_MISSION_2_24_OBJECTIVE,Destroy three Power Boxes at New Peking Street. Eliminate the nearby Hooligans.
+TID_MISSION_2_24_RECEIVING_MESSAGE,Amazing work back there. Let's hope this drives the message in.
+TID_MISSION_2_24_TASK_0,Triggerhappy Hooligans Crippled
+TID_MISSION_2_24_TASK_1,Haywire Hooligans Clipped
+TID_MISSION_2_24_TASK_2,Electric Booths Destroyed
+TID_MISSION_2_25,Meet Drush
+TID_MISSION_2_25_OBJECTIVE,Meet Drush in the Berlin Street Hospital.
+TID_MISSION_2_25_RECEIVING_MESSAGE,"Nice to meet you. Claire said some nice things about you being a member of the resistance, helping those in need? Well, aren't you an angel from Heaven?"
+TID_MISSION_2_25_TASK_0,Talk to Drush
+TID_MISSION_2_26,Destination Paradise
+TID_MISSION_2_26_OBJECTIVE,"You've done us all a huge favor in cleaning up Pearl Island and the Harbor! Maybe you can help a friend of mine? Paradise Island is lovely and warm, but De la Vega tells me there's blood on the sand..."
+TID_MISSION_2_26_RECEIVING_MESSAGE,"Ahh! It's good to meet you, amigo! And how is the lovely River? Wait, don't tell me! 36-29-38, am I right?"
+TID_MISSION_2_26_TASK_0,Talk to Vega
+TID_MISSION_2_27,Car Trouble
+TID_MISSION_2_27_OBJECTIVE,Destroy the Eastern Queens car. Put down all Queens at Venice Bridge Street.
+TID_MISSION_2_27_RECEIVING_MESSAGE,"Nice work. Counterattack is sure to come, though. We better get prepared."
+TID_MISSION_2_27_TASK_0,Eastern Queen Heavies Slain
+TID_MISSION_2_27_TASK_1,Eastern Queens Slapped
+TID_MISSION_2_27_TASK_2,Eastern Queen Maniacs Pacified
+TID_MISSION_2_27_TASK_3,Queens' Car Torched
+TID_MISSION_2_28,Do Not Pass Go
+TID_MISSION_2_28_OBJECTIVE,Kill Grim Destroyer on New Naples Street.
+TID_MISSION_2_28_RECEIVING_MESSAGE,"Say what? Grim Destroyer was there, too? Well now. Call that a nice, fat bonus. Compared to him, all the other crooked coppers here look like playful puppies."
+TID_MISSION_2_29,To Catch a Thief
+TID_MISSION_2_29_OBJECTIVE,"Our bar in down the harbor got robbed last night. The perps were two big scary dudes with braids, high as a kite. Never mind the cash but they took our ledgers with all the details of our financial operations. We need them back fast."
+TID_MISSION_2_29_RECEIVING_MESSAGE,Thanks for returning the data. Want a free beer for your troubles?
+TID_MISSION_2_29_TASK_0,Account Book Retrieved
+TID_MISSION_2_3,My Go-to Girl
+TID_MISSION_2_3_OBJECTIVE,"Thanks a bunch for all your help. If you're looking for more ways to aid us, you should talk to my go-to girl River."
+TID_MISSION_2_3_RECEIVING_MESSAGE,Hey there. I saw you inside speaking with Kaylee. I'm River - nice to meet you.
+TID_MISSION_2_30,Venetian Hospitality
+TID_MISSION_2_30_OBJECTIVE,"A source told us that one of the Eastern Queens' top brass has arrived all the way from Europe. She's supposedly in town right now, using the alias Miss Amber.\nThis is the perfect opportunity to make the local Queens lose face - what if a VIP got killed while in their care?"
+TID_MISSION_2_30_RECEIVING_MESSAGE,"Really? You found her and made her spit teeth? Well, what do you know, I was almost sure that this was nothing but a rumor.\nThis certainly makes things easier for a while here. While the Queens face the music for letting Miss Amber get killed on their watch, all we need to worry about is Labycore."
+TID_MISSION_2_31,Meet Miranda
+TID_MISSION_2_31_OBJECTIVE,"Well done, <PLAYER_NAME>! Listen, my sister Miranda wants to meet you. She's on the other side of town, just go that way."
+TID_MISSION_2_31_RECEIVING_MESSAGE,"Show me Grant's face, and I'm yours for half an hour.\nOh, what? You are here to help?"
+TID_MISSION_2_31_TASK_0,Talk to Miranda
+TID_MISSION_2_32,Meet Raquel
+TID_MISSION_2_32_OBJECTIVE,"Hey, thanks again. I got no more jobs lined up at the moment, but if you talk to my friend Raquel, she might have something for you."
+TID_MISSION_2_32_RECEIVING_MESSAGE,"You made it through in one piece, it seems. Well, good for you - we all are trapped here. This small area is all we control in this area. Venture out, and you're on your own."
+TID_MISSION_2_32_TASK_0,Find Raquel
+TID_MISSION_2_33,Meet Meryl
+TID_MISSION_2_33_OBJECTIVE,Could you go find Meryl and tell her she can come home now?
+TID_MISSION_2_33_RECEIVING_MESSAGE,"Thanks, <PLAYER_NAME>."
+TID_MISSION_2_34,Wash Away The Dirt
+TID_MISSION_2_34_OBJECTIVE,"Hey, you're the guy who's been taking out all the mobsters around here! You don't need to know my name, just that I pay top dollar to anyone who cleans up the garbage. I have a job for you..."
+TID_MISSION_2_34_RECEIVING_MESSAGE,Great job. Those guys won't be running any racket ever again.
+TID_MISSION_2_35,Bullet-Tooth
+TID_MISSION_2_35_FINISHED_SOCIAL_NETWORK_POST,Big Bad Bullet-Tooth took a bath in a hail of hot lead! You can thank me later.
+TID_MISSION_2_35_OBJECTIVE,"This is a special mission, need-to-know and all that cool stuff. I want you to kill Bullet-Tooth and retrieve a Data Disc from one of his minions."
+TID_MISSION_2_35_RECEIVING_MESSAGE,"Great job, kid! This super secret data is really cool to have. Now if we could just unencrypt it somehow..."
+TID_MISSION_2_35_TASK_0,Pulverize Bullet-Tooth
+TID_MISSION_2_35_TASK_1,Recover Intel
+TID_MISSION_2_36,Be Prepared
+TID_MISSION_2_36_OBJECTIVE,Our scout Maria has been keeping an eye on the Mad Dogs. She reported increased activity in their nearby compound. Go check it out!
+TID_MISSION_2_36_RECEIVING_MESSAGE,"You'd never make a scout sniper, but at least you can fight."
+TID_MISSION_2_36_TALK_TASK_0,"You fool, you led the Dogs straight to my location. Here they come!"
+TID_MISSION_2_36_TASK_0,Protect Maria
+TID_MISSION_2_37,Into Thin Air
+TID_MISSION_2_37_OBJECTIVE,"The Mad Dogs in this area are toting some high tech guns I've never seen before. I killed a patrol and tried to grab their weapons, but they just vanished in a puff of smoke. Maybe you'll have better luck with a whole crate of them?"
+TID_MISSION_2_37_RECEIVING_MESSAGE,"At least these guns stay solid, though I wouldn't dare touch them before we find out more about this tech."
+TID_MISSION_2_37_TASK_0,Acquire Vaporware weapons
+TID_MISSION_2_38,Hot Air by Design
+TID_MISSION_2_38_OBJECTIVE,We might have hit the jackpot. Some Labycore Suits with briefcases walked into that warehouse. I'm calling a target of opportunity here.
+TID_MISSION_2_38_RECEIVING_MESSAGE,"Good work, that egghead won't be coming up with new ways to kill us. I'll pass the schematics along to our people."
+TID_MISSION_2_38_TASK_0,Stop Research
+TID_MISSION_2_38_TASK_1,Download Weapon Schematics
+TID_MISSION_2_39,Vaporware is the New Black
+TID_MISSION_2_39_OBJECTIVE,"The Vaporware guns in the crate are disassembled. See if you can't find a few complete rifles lying around. I'm guessing that newly assembled weapons don't yet have their anti-theft system activated, if that's what causes these guns to vaporize."
+TID_MISSION_2_39_RECEIVING_MESSAGE,"All right, I guess you're not totally useless. Complete working units and gun parts together give our gunsmiths something to work with."
+TID_MISSION_2_39_TASK_0,Acquire Vaporware Weapons
+TID_MISSION_2_4,Playing it Safe
+TID_MISSION_2_4_OBJECTIVE,Find Dawn's Data Discs near the Harbor Entrance's weapon shop.
+TID_MISSION_2_4_RECEIVING_MESSAGE,Thanks. Here's your reward. Go buy yourself something pretty.
+TID_MISSION_2_40,Nick The Scientist
+TID_MISSION_2_40_OBJECTIVE,"We still need someone to make some sense of the weapon schematics. Perhaps we could... persuade... one of Rogue Scientists to help us out.\nGo find whoever's in charge of the lab in Warehouse #10, and make him an offer."
+TID_MISSION_2_40_RECEIVING_MESSAGE,"Hey, wait, I'll cooperate! Look, you got it all wrong. I've been kidnapped!\nUntil a couple of months ago, I was working at the MIT optical camouflage lab, and I just... woke up here one morning.\nYou don't have to tell me twice to stop working for these kidnappers. In fact, let's do one better..."
+TID_MISSION_2_40_TASK_0,Lean on Scientist
+TID_MISSION_2_41,Shut Down the Factory
+TID_MISSION_2_41_OBJECTIVE,There's another suspicious warehouse with an awful lot of goons milling around it. I'd bet my ass that place is connected to these Vapor weapons. Shut it down.
+TID_MISSION_2_41_RECEIVING_MESSAGE,Great work. That should put the Dogs back to Stone Age where they belong.
+TID_MISSION_2_41_TASK_0,Research Stopped
+TID_MISSION_2_41_TASK_1,Server Shut Down
+TID_MISSION_2_41_TASK_2,Mainframe Shut Down
+TID_MISSION_2_42,Pulling the Plug
+TID_MISSION_2_42_OBJECTIVE,"Here's my keycard. Use it to access the databanks and wipe the lot. That should set Labycore back a quite a bit.\nUnfortunately, I can't tell you what the vaporware tech actually was. I only worked on the interface module with biometric security."
+TID_MISSION_2_42_RECEIVING_MESSAGE,"Huh. So Labycore kidnapped a scientist from the mainland and forced him to work on their weapons program. We must investigate this further, maybe there are other researchers like Nick, looking for a way out..."
+TID_MISSION_2_42_TASK_0,Deactivate Missiles
+TID_MISSION_2_43,Talk to Rubert
+TID_MISSION_2_43_OBJECTIVE,Talk to Rubert in Drug Farm West
+TID_MISSION_2_43_RECEIVING_MESSAGE,So. You must be the miracle maker Holden promised he'd send over? Good. Let's get crackin'.
+TID_MISSION_2_44,Lay of the Land
+TID_MISSION_2_44_OBJECTIVE,"Is the smell bothering you? The Mad Dogs use raw sewage for manure on their little green patch. Think about that before taking your next W.U.Z.Z. hit! Anyway, one of our guys went to have a chat with the gardener and hasn't come back. Find out what's up."
+TID_MISSION_2_44_RECEIVING_MESSAGE,"Whoa, no need for violence! I just work here. I'll tell you everything I know."
+TID_MISSION_2_45,OLDIE
+TID_MISSION_2_46,Get Back to River
+TID_MISSION_2_46_OBJECTIVE,"The boss needs to know about Labycore's latest scheme ASAP. I'll keep watching the warehouses, you go to River and report in."
+TID_MISSION_2_46_RECEIVING_MESSAGE,"Interesting. The Resistance has suspected that Labycore does some shenanigans on the mainland, but this is the first we hear about a kidnapped scientist. Perhaps our new friend Nick can help us find others like him."
+TID_MISSION_2_46_TASK_0,Talk to River
+TID_MISSION_2_47,Gun Delivery
+TID_MISSION_2_47_OBJECTIVE,We've been bombarded by Dreamlab's marketing crap for months. Now they finally give us something useful! All we need is authorized citizens to cash in these coupons. I have an idea...
+TID_MISSION_2_47_RECEIVING_MESSAGE,I can't believe it! 50% off? This is an AMAZING offer!
+TID_MISSION_2_48,Repel the Raiders
+TID_MISSION_2_48_OBJECTIVE,"Mad Dogs gang members are sniffing around in the neighborhood, stealing our medical supplies.\n\nOpen a can of whoop ass on the Mad Dogs in Rebel Camp."
+TID_MISSION_2_48_RECEIVING_MESSAGE,"Great job! The Dockers - one of the Resistance gangs - will be happy to hear what you did. They hate the Mad Dogs with passion - many of the Dogs used to run with the Dockers, but when the times got rough, they sold out and joined the enemy. The Dockers are understandably a bit sore about that."
+TID_MISSION_2_49,Super Sleuth
+TID_MISSION_2_49_OBJECTIVE,"I wonder what's going on at the super secret research lab! Trucks have been coming in day and night. Look into it, would you? I'll make it worth your while."
+TID_MISSION_2_49_RECEIVING_MESSAGE,"> McFly: Holy damn!! I knew the Labycore were up to no good, but I had no idea it was that bad."
+TID_MISSION_2_5,Just a Small Favor
+TID_MISSION_2_5_OBJECTIVE,"The Dockers smuggled some goodies for me from the outside world, but I can't go get the package myself. Could you help me out please?"
+TID_MISSION_2_5_RECEIVING_MESSAGE,Sweet! Would've been a shame to see these fall into the hands of them Dumb Mutts. They have no appreciation for fine things like these anyway.
+TID_MISSION_2_50,Access Granted
+TID_MISSION_2_50_OBJECTIVE,Acces Denied.
+TID_MISSION_2_50_RECEIVING_MESSAGE,Access Granted.
+TID_MISSION_2_51,Rescue Refugees
+TID_MISSION_2_51_OBJECTIVE,"> Tollman: Look, you can't leave those poor people to suffer. Do something about it!"
+TID_MISSION_2_51_RECEIVING_MESSAGE,> Tollman: Ohh yeah. You're some kind of hero.
+TID_MISSION_2_51_TASK_0,Free Test Subjects
+TID_MISSION_2_52,Supplies Are Your Friend
+TID_MISSION_2_52_OBJECTIVE,Sign up for duty in Rebel Camp hangar and get paid when your Credibility score is 4. Buy supplies.
+TID_MISSION_2_52_RECEIVING_MESSAGE,"Splendid! Here's your fifty dollars. Check what our vendors have for sale.\nI'd recommend buying medkits or grenades from the vendor by the beds.\nAs a rule of thumb, we sell equipment real cheap to trusted members of the Resistance. Credibility equals trust."
+TID_MISSION_2_53,After These Messages
+TID_MISSION_2_53_OBJECTIVE,> Tollman: Listen! This marketing research data shows that Labycore is about to start a huge promotion selling discounted guns to Dawnbreak citizens.
+TID_MISSION_2_53_RECEIVING_MESSAGE,"> Tollman: What the heck? \qGuns for everyone, keep your family safe at cut rates?\q Where do they come up with this crap!?"
+TID_MISSION_2_53_TASK_0,Deliver Marketing Dossier
+TID_MISSION_2_54,Printing Money
+TID_MISSION_2_54_OBJECTIVE,> Completed coupons with citizen_dna imprint: 1\n\n> Number of coupons without citizen_dna imprint: 300
+TID_MISSION_2_54_RECEIVING_MESSAGE,"What does it say here? \qSPECIAL PROMOTION, Protect your family with Labytech Arms!\q"
+TID_MISSION_2_54_TASK_0,Collect sample case
+TID_MISSION_2_55,Speak with Adelle
+TID_MISSION_2_55_OBJECTIVE,"Adelle has been scouting the Dry Dock based on Nick's information. She's found something, go check it out."
+TID_MISSION_2_55_RECEIVING_MESSAGE,Thanks for coming. I found the Mad Dog who's running the show around here.
+TID_MISSION_2_56,Kill Kingpin
+TID_MISSION_2_56_OBJECTIVE,"Kingpin is the guy who's been organizing the Mad Dogs in this area. All the grief they've caused lately is because of this bastard here. You've knocked over a lot of Mad Dog pawns to be sure, but if we want to win the game you need to checkmate the King."
+TID_MISSION_2_56_RECEIVING_MESSAGE,"Cut off the head and the body will fall down. Most Mad Dogs are too stupid to tie their own shoelaces. With Kingpin out of the picture, we can breathe and move a little easier around here."
+TID_MISSION_2_56_TASK_0,Kill Kingpin
+TID_MISSION_2_57,Checkpoint
+TID_MISSION_2_57_OBJECTIVE,"Labycore has set up a checkpoint near the Boatyard. It's easy enough to bypass, but their damn propaganda is getting on my nerves. They're between shifts right now and the checkpoint is lightly manned. If you shoot up the checkpoint, I'll let you keep the loot. Deal?"
+TID_MISSION_2_57_RECEIVING_MESSAGE,Finally some peace and quiet!
+TID_MISSION_2_58,Meet Garmy
+TID_MISSION_2_58_OBJECTIVE,Talk to Garmy at Boatyard
+TID_MISSION_2_58_RECEIVING_MESSAGE,Bullet-Tooth! It's Bullet-Tooth!
+TID_MISSION_2_59,Speak with Garmy
+TID_MISSION_2_59_OBJECTIVE,"I don't suppose you've met Garmy, our lookout at the Boatyard? Lately his messages have been incoherent, partly because of some din in the background but also because he sounds raving mad. Could you go and see what's bothering him?"
+TID_MISSION_2_59_RECEIVING_MESSAGE,That damn noise is making me crazy!
+TID_MISSION_2_6,Meet Kaylee
+TID_MISSION_2_6_OBJECTIVE,Go talk to my girl Kaylee in the Night Club. She knows everyone who's anyone.
+TID_MISSION_2_6_RECEIVING_MESSAGE,"Looking for more than just lip service, hmm? Look no further - our girls are experts in all kinds of entertainment.\nOh, wait, you are the newcomer that Inara mentioned. Welcome."
+TID_MISSION_2_60,Stare at the sun
+TID_MISSION_2_60_OBJECTIVE,"Ok, next we need to get a few panels up and running to recharge the batteries. Just point them at the sun!"
+TID_MISSION_2_60_RECEIVING_MESSAGE,"All right. Now that we have a little power going, the rest of the panels will align themselves. De La Vega is going to love this!"
+TID_MISSION_2_60_TASK_0,Align solar panels
+TID_MISSION_2_61,Diego's quest
+TID_MISSION_2_61_OBJECTIVE,"The Raiders have turned the old holiday resort into a prison camp. Talk to Don Diego, he should know more."
+TID_MISSION_2_61_RECEIVING_MESSAGE,You're working for Vega?
+TID_MISSION_2_61_TASK_0,Talk to Don Diego
+TID_MISSION_2_62,Appearances aren't everything
+TID_MISSION_2_62_OBJECTIVE,"The raiders are keeping slave girls in pens down here. Some of the girls are really hot! I'd love to go and free them, but I can't risk ruining my new clothes in a scuffle with those barbaric Raiders."
+TID_MISSION_2_62_RECEIVING_MESSAGE,"My dear fellow, you've come to the right man. I shall render all the assistance I can to help those poor souls."
+TID_MISSION_2_62_TASK_0,Find a chivalrous gentleman
+TID_MISSION_2_63,Talk to Mortimer
+TID_MISSION_2_63_OBJECTIVE,"Alas, I cannot leave my post guarding this bridge. However, inside the compound you will find Mortimer, a very good friend of mine. He might not be as eloquent as some, but his strong arm will aid you in your quest."
+TID_MISSION_2_63_RECEIVING_MESSAGE,Mort need wife. Mort want gate open. No key! Little human help with key!
+TID_MISSION_2_63_TASK_0,Talk to Mortimer
+TID_MISSION_2_64,Smash and Grab
+TID_MISSION_2_64_OBJECTIVE,"Red stripe humans have keys. Little human go and bring keys to Mort. Little human smash heads! Mort stay here and look at pretty girls, choose wife."
+TID_MISSION_2_64_RECEIVING_MESSAGE,Thanks human. Mort open gate now.
+TID_MISSION_2_64_TASK_0,Get Keycard
+TID_MISSION_2_65,Mating rituals
+TID_MISSION_2_65_OBJECTIVE,[ Wait while Mortimer opens the gate ]
+TID_MISSION_2_65_RECEIVING_MESSAGE,Hihihihihi! Finally Mort have wife. Come to Mort sweetheart!
+TID_MISSION_2_65_TASK_0,Gates opened
+TID_MISSION_2_66,Back to the bridge
+TID_MISSION_2_66_OBJECTIVE,Little human no need here no more. Mort thank for help but four is mob! Go bother smarty pants man at bridge.
+TID_MISSION_2_66_RECEIVING_MESSAGE,"I hear Mortimer has a wife now. Good for him! As the word spreads, more heroic New Breed will come to rescue wives for themselves. This foul prison camp shall not be around for much longer."
+TID_MISSION_2_66_TASK_0,Talk to Gatekeeper
+TID_MISSION_2_67,Grand Culinaire
+TID_MISSION_2_67_OBJECTIVE,"Here, meet my lovely wife Mango. She, too, was once a victim of the Raiders' brutal oppression. Now, she cooks for me and we couldn't be happier! Speaking of cooking, could you pick some special ingredients for us?"
+TID_MISSION_2_67_RECEIVING_MESSAGE,"Thank you <PLAYER_NAME>. Sorry to bother you with such a menial task, but I just won't leave my dear husband's side and his job here is very important!"
+TID_MISSION_2_67_TASK_0,Cactuses collected
+TID_MISSION_2_68,VIP
+TID_MISSION_2_68_OBJECTIVE,"Our best performers are in a private VIP area. Only 'in' people get to go in, so bring some well-connected friends along!"
+TID_MISSION_2_68_RECEIVING_MESSAGE,"Hey there, sexy thing. Remember: you can look but you can't touch."
+TID_MISSION_2_69,Pheromones
+TID_MISSION_2_69_OBJECTIVE,"Little person! I have a... private problem. I collected some Ant eggs in Rio Desert and left them in my basement. When I went to look, one hatched! And now the huge ant is trying to attack me in a weird way. It's very embarrassing. Can you take care of the Ant and the other eggs?"
+TID_MISSION_2_69_RECEIVING_MESSAGE,"Thank you little person! I had no idea my sex appeal is so great even ants can't resist it. But please keep this between us, if the other New Breed find out I'll never hear the end of it."
+TID_MISSION_2_69_TASK_0,Crush Ant
+TID_MISSION_2_69_TASK_1,Flambe Eggs
+TID_MISSION_2_7,Blood Feud
+TID_MISSION_2_7_OBJECTIVE,"Hey man. You've been making some waves here. I don't mind really, but the Mobsters you burned in that warehouse have a lot of friends. How about you go and finish up your business with them?"
+TID_MISSION_2_7_RECEIVING_MESSAGE,"Wow man, you really did it! I never though... Well, here's something for your trouble."
+TID_MISSION_2_8,Tuna from Heaven
+TID_MISSION_2_8_OBJECTIVE,"How'd you like to make some more pocket money? The mobsters stole a whole cargo container yesterday, and my order of canned tuna was in there. They can keep the other stuff, but my cats won't be happy until I get the whitefin home."
+TID_MISSION_2_8_RECEIVING_MESSAGE,"Oh, excellent work! You have no idea how much noise my cats make every night until they get their tuna fix. Thanks a bunch!"
+TID_MISSION_2_9,Meet Adelle
+TID_MISSION_2_9_OBJECTIVE,Meed Adelle at the Dry Dock
+TID_MISSION_2_9_RECEIVING_MESSAGE,"Who are you? Oh, crap. River sent you, right? I don't need a babysitter!"
+TID_MISSION_2_70_OBJECTIVE,"We don't wander into the caves in the Wasteland. Legend tells of Hormiga de la Muerte, a Giant Ant that takes the soul of anyone who sees it.\n\nOne of our bravest, Manny, went after it couple of weeks ago. He never came back..."
+TID_MISSION_2_70_RECEIVING_MESSAGE,"So Manny went mad? I wonder if it was the power of Hormiga de la Muerte, or just the cave mushrooms he ate. Many thanks for putting the walking and scurrying dead to rest."
+TID_MISSION_2_70_TASK_0,Defeat Hormiga de la Muerte
+TID_MISSION_2_70_TASK_1,Find Manny
+TID_MISSION_2_70_TASK_2,Collect all ant eggs
+TID_MISSION_2_70,Dia de los Muertos
+TID_MISSION_2_71_OBJECTIVE,OUCH! Somebody shoot that crab! Those darned crustaceans keep\nstealing our food and even nibbling at folks too weak to\nprotect themselves.
+TID_MISSION_2_71_RECEIVING_MESSAGE,Much appreciated. Now we can sleep easier for a night or two.
+TID_MISSION_2_72_OBJECTIVE,Can you help us? Our Pink walked off while nobody was looking. We're afraid she'll be lost in the woods or eaten by lizards. Please find her and make sure she's ok!
+TID_MISSION_2_72_RECEIVING_MESSAGE,"Hi, I'm Ned's and Pink's brother Dave. Don't worry, I'll convince her to come out. Thanks, <PLAYER_NAME>!"
+TID_MISSION_2_71,Scissor Sisters
+TID_MISSION_2_72,Rescue Pink
+TID_MISSION_2_73_OBJECTIVE,"Work for able-bodied men! Bring your wife and family, we'll take care of them while you work... real good care."
+TID_MISSION_2_73_RECEIVING_MESSAGE,Thank you for telling me about this. Those bastards! We can't allow them to kidnap innocent people.
+TID_MISSION_2_73,Work Gang
+TID_MISSION_2_74_OBJECTIVE,Labycore are kidnapping helpless refugees for some \qmarketing study\q? I don't believe it! Get a posse together and show them what for!
+TID_MISSION_2_74_RECEIVING_MESSAGE,"You should be proud. You've saved a lot of innocent refugees from a horrible fate. Here, we passed the hat around and got this for you."
+TID_MISSION_2_74,Exploitation
+TID_MISSION_2_75_OBJECTIVE,"We were out hunting when I stubbed my toe on this metal structure. We found out that it's a hatch of some kind! The other hunters opened it and went on in, but I'm not cool enough to follow them. Are you? Please go in and tell them I'm waiting for them."
+TID_MISSION_2_75_RECEIVING_MESSAGE,"What? That's so cold! Well, I guess I should wait a while longer. They're bound to come get me sooner or later."
+TID_MISSION_2_75,Mysterious Hatch
+TID_MISSION_2_76_OBJECTIVE,"After you rescued our people from their test labs, the Labycore have brutally cracked down on this island. We can't stand up to them but maybe you could."
+TID_MISSION_2_76_RECEIVING_MESSAGE,"Great job, you rule!"
+TID_MISSION_2_76,You Have No Rights
+TID_MISSION_2_77_OBJECTIVE,"Thanks for your help, but listen. I'd rather have you wreaking havoc somewhere else. Lloyd has something pretty freaking cool to show you... although personally, I wouldn't go near that crazy so-and-so."
+TID_MISSION_2_77_RECEIVING_MESSAGE,No time to talk! They've detected DEFOE's energy signature!
+TID_MISSION_2_77,Unhappy Campers
+TID_MISSION_2_78_OBJECTIVE,"I haven't had a bite to eat for days! Can you help me back on my feet, friend? All I need is a hearty meal. The MudCrabs eggs make for really good eating."
+TID_MISSION_2_78_RECEIVING_MESSAGE,Fantastic! I'll just rest a bit more and then start cooking.
+TID_MISSION_2_78_TASK_0,Collect Eggs
+TID_MISSION_2_78,Sunny Side Up
+TID_MISSION_2_79_OBJECTIVE,"Wait, never mind that. Labycore patrols are closing in on the camp! Bring us ammo while we get in position!"
+TID_MISSION_2_79_RECEIVING_MESSAGE,Here they come! Don't let them through!
+TID_MISSION_2_79,Defend the Camp
+TID_MISSION_2_80_OBJECTIVE,"User: <PLAYER_NAME>, I need your assistance. I have no weapon system chip or war activation key. Please insert them to access my weapon systems."
+TID_MISSION_2_80_RECEIVING_MESSAGE,Weapon systems online. D.E.F.O.E thanks you.
+TID_MISSION_2_80,Activate my weapons
+TID_MISSION_2_54_TASK_1,Find Bang-O-Mat coupon
+TID_MISSION_2_81_OBJECTIVE,I wonder what's wrong with Ned and Dave. Looks like they're all agitated and searching for something. Want to go check it out?
+TID_MISSION_2_81_RECEIVING_MESSAGE,"Hey man, it's good to see you. Look, we really need some help..."
+TID_MISSION_2_81,Beachcombers
+TID_MISSION_2_82_OBJECTIVE,Go tell Romero what you did. He's the boss of Refugee Camp. I bet he'll be so impressed!
+TID_MISSION_2_82_RECEIVING_MESSAGE,Don't come any closer! Who the heck are you anyway?
+TID_MISSION_2_82,Talk to Romero
+TID_MISSION_2_83_OBJECTIVE,"My mates Tom and Roland are somewhere on this beach. Could you go and tell them that their crates are here, ready for smashing!"
+TID_MISSION_2_83_RECEIVING_MESSAGE,Those lazy sons of Lovens!
+TID_MISSION_2_83,Meet the Crew
+TID_MISSION_2_84_OBJECTIVE,"If you stick with us we can help you get away from here. You need to carry your own weight though. First, take these fuel cells to Lloyd - follow the exit sign!"
+TID_MISSION_2_84_RECEIVING_MESSAGE,"What? Oh finally, the fuel cells! Quick, insert them into that robot."
+TID_MISSION_2_84,Heavy Metal
+TID_MISSION_2_51_TASK_1,Eliminate Lab Administrator
+TID_MISSION_2_85_OBJECTIVE,"So you think you're tough? This is the Professional League, kid."
+TID_MISSION_2_85_RECEIVING_MESSAGE,Great fight! You're ready to go pro!
+TID_MISSION_2_85,Friendly Beating
+TID_MISSION_2_85_TASK_0,Kill 5 at PVP
+TID_MISSION_2_86_OBJECTIVE,"This is a warzone, and the Arena rules reflect that. The fight here are more about getting ready for war than honest competition."
+TID_MISSION_2_86_RECEIVING_MESSAGE,That was brutal! I like it!
+TID_MISSION_2_86_TASK_0,Kill 7 at PVP
+TID_MISSION_2_86,Friendly Bloodsport
+TID_MISSION_2_87_OBJECTIVE,This is the pinnacle of combat sports. You won't find tougher challengers anywhere.
+TID_MISSION_2_87_RECEIVING_MESSAGE,( Foote bows to you in silence. )
+TID_MISSION_2_87_TASK_0,10 kills
+TID_MISSION_2_87,Friendly Massacre
+TID_MISSION_2_88_OBJECTIVE,We did found a hatch to the underground. Could you go and see if there is any survivors.
+TID_MISSION_2_88_RECEIVING_MESSAGE,What? Zombie using guns..This is madness!
+TID_MISSION_2_88_TASK_0,Find survivors
+TID_MISSION_2_88,Underground Sciense
+TID_MISSION_2_89,Lost & Found
+TID_MISSION_2_89_OBJECTIVE,"My kid has lost his marbles! He won't stop crying unless he gets them back, I've tried with every other toy - even his favourite teddybear - but he just keeps on crying. I don't know what else to do, could you please try to find his marbles?"
+TID_MISSION_2_89_RECEIVING_MESSAGE,"Oh that's so sweet of you, thank you fo saving me from a nervous breakdown. And lets keep this a hush-hush, I smuggled him on to the island, because of Labycore's no-kids policy."
+TID_MISSION_2_89_TASK_0,Loot Marble Packages
+TID_MISSION_2_90_OBJECTIVE,"Whoaa,.. I don't know what happened last night, we only went for a few, but that's bar Amsterdam. Now it's full of zombies...and I can't get my refills. You might have to kill some Zombies."
+TID_MISSION_2_90_RECEIVING_MESSAGE,"Ahhh, now that bar is safe place again I shoudld ge back to my feet. Cheers!"
+TID_MISSION_2_90_TASK_0,Zombie Dancers eliminated
+TID_MISSION_2_90_TASK_1,Zombie Stripers eliminated
+TID_MISSION_2_90,Bar Amsterdam
+TID_MISSION_2_91_OBJECTIVE,No bite marks on you! Get that weapon and take down the zombie blocking the way to our camp. Then talk to our leader Eric.
+TID_MISSION_2_91_RECEIVING_MESSAGE,Nice work with that undead! So you ran out of fuel? I wish we had some and we could all take your boat and leave this god forsaken island...
+TID_MISSION_2_91_TASK_0,Get Iron Pipe
+TID_MISSION_2_91,MISSION: Get a Weapon
+TID_MISSION_2_92_OBJECTIVE,There are loads of supplies in the immigration office. Go search the area and collect all the packages and goods you find. Take our man Pretty Rodger to help you. The place is packed with zombies.
+TID_MISSION_2_92_RECEIVING_MESSAGE,"Great work! Here's a new coat for you, friend."
+TID_MISSION_2_92_TASK_0,Supply Crates
+TID_MISSION_2_92_TASK_1,Conserved Food
+TID_MISSION_2_93_OBJECTIVE,But we can't so let's focus on survival.\n\nZombies are really durable and first you will need to modify your weapon for maximal damage. Talk to Pablo and he will help you.
+TID_MISSION_2_93_RECEIVING_MESSAGE,"Hi there, so you need to boost your damage? Here, take these plans."
+TID_MISSION_2_93_TASK_0,Get Plans from Pablo
+TID_MISSION_2_92,Immigration Office
+TID_MISSION_2_93,Boosting Damage
+TID_MISSION_2_94_OBJECTIVE,Zombies seem to be grouping up. The smell of fresh blood lures them like honey. Use your newly crafted boosters to kill them faster.
+TID_MISSION_2_94_RECEIVING_MESSAGE,"Good job there! As you gain more experience, you automatically learn new crafting skills. Now you should know how to make bandages!"
+TID_MISSION_2_94_TASK_0,Kill Undead Worker
+TID_MISSION_2_94,Clear The Yard
+TID_MISSION_2_95_OBJECTIVE,There is another figure in the end of the pier. Go check it out if it is one of the survivors from the shipwreck and see if Michaela needs any help.
+TID_MISSION_2_95_RECEIVING_MESSAGE,Oh no! Michaela is dead?! These zombies... It's all Labycore's fault and their damned virus experiments!
+TID_MISSION_2_95_TASK_0,Check out the Pier
+TID_MISSION_2_95,Ghost In The Fog
+TID_MISSION_2_96_OBJECTIVE,The route to the next block is via the gate but the gatekeeper has gone missing a few days ago and he was the only with the key. I need you to find him and get the keycard.
+TID_MISSION_2_96_RECEIVING_MESSAGE,Yes! I cannot leave my team here alone so I need you to work as our messenger.
+TID_MISSION_2_96_TASK_0,Find Keycard
+TID_MISSION_2_96_TASK_1,Hunt Down the Guard
+TID_MISSION_2_96,Missing Guard
+TID_MISSION_2_97_OBJECTIVE,Start your journey to the inner city through the outskirts of Dawnbreak. Pablo will lead you to the starting point. Spread the word about us. Good luck!
+TID_MISSION_2_97_RECEIVING_MESSAGE,"Thanks for all your help. To make your life easier, I want to give you these crafting plans for a powerful weapon."
+TID_MISSION_2_97,Getting Out
+TID_MISSION_2_97_TASK_0,Walk With Pablo To The Gates
+TID_MISSION_2_91_TASK_1,Eliminate Zombie
+TID_MISSION_2_98_OBJECTIVE,No bite marks on you! Get that gun and take down the zombie blocking the way to our camp. Then talk to our leader Eric.
+TID_MISSION_2_98,MISSION: Clear The Path
+TID_MISSION_2_98_TASK_0,Pick Up the Gun
+TID_MISSION_2_98_TASK_1,Eliminate Filthy Zombie
+TID_MISSION_2_98_RECEIVING_MESSAGE,Nice work with that undead! So you ran out of fuel? I wish we had some and we could all take your boat and leave this god forsaken island...
+TID_MISSION_2_99_OBJECTIVE,Craft some Super Bullets to take down the zombies faster.
+TID_MISSION_2_99_RECEIVING_MESSAGE,"Zombies drop ingredients at times which you can use to craft weapons, boosters and even clothes."
+TID_MISSION_2_99_TASK_0,Craft Super Bullets
+TID_MISSION_2_99,Craft Super Bullets
+TID_MISSION_2_100_OBJECTIVE,Craft some Super Bullets to take down the zombies faster.
+TID_MISSION_2_100_RECEIVING_MESSAGE,"Zombies drop ingredients at times which you can use to craft weapons, boosters and even clothes."
+TID_MISSION_2_100_TASK_0,Craft Super Bullets
+TID_MISSION_2_100,Craft Superior Bullets
+TID_MISSION_2_101_OBJECTIVE,Craft some weapon enhancements to take down the zombies faster!
+TID_MISSION_2_101_RECEIVING_MESSAGE,"Zombies drop ingredients at times which you can use to craft weapons, boosters and even clothes."
+TID_MISSION_2_101_TASK_0,Craft Modified Haft
+TID_MISSION_2_101,Craft Better Haft
+TID_MISSION_2_102_OBJECTIVE,Did you destroy Michaela's corpse after the zombie attacked her? We need to make sure that she can rest in peace. Talk to Eric who will come with you.
+TID_MISSION_2_102,Michaela Is Back
+TID_MISSION_2_102_RECEIVING_MESSAGE,"She had turned into a zombie! Almost ate me! I'm losing it, man! All my friends have been dropping one by one. I need to get out of here with your help!"
+TID_MISSION_2_102_TASK_0,Protect Eric
+TID_MISSION_2_103_OBJECTIVE,No bite marks on you! Get that gun and take down the zombie blocking the way to our camp. Then talk to our leader Eric.
+TID_MISSION_2_103_RECEIVING_MESSAGE,Nice work with that undead! So you ran out of fuel? I wish we had some and we could all take your boat and leave this god forsaken island...
+TID_MISSION_2_103_TASK_0,Pick Up the Gun
+TID_MISSION_2_103_TASK_1,Eliminate Filthy Zombie
+TID_MISSION_2_103,MISSION: To The Camp!
+TID_MISSION_2_104_OBJECTIVE,Listen carefully! We have a new threat in Dawnbreak and for that reason it's time to upgrade your weapon with special items. Go talk to Foote.
+TID_MISSION_2_104_RECEIVING_MESSAGE,We need to deal more damage to kill those zombies roaming on our streets. Please take these plans for extra damage.
+TID_MISSION_2_104_TASK_0,Get Damage Boost Plans
+TID_MISSION_2_104,Make More Damage
+TID_MISSION_2_97_TALK_TASK_0,Let's go mate.
+TID_MISSION_2_105_OBJECTIVE,I think Labycore left those electic booths active before their departure just to scramble me. Shut them down and I will shout to the world!\n
+TID_MISSION_2_105_RECEIVING_MESSAGE,Sweet! Hello world! Rotten Radio is back on the air! Here is your cut of the advertising revenue!\n
+TID_MISSION_2_105_TASK_0,Shut Down Electric Booths
+TID_MISSION_2_105,Clear Skies
+TID_MISSION_2_106_OBJECTIVE,"It must be this weather... We don't need to spend days crafting weapons, armors or consumables anymore. Foote has more crafting plans for you."
+TID_MISSION_2_106_RECEIVING_MESSAGE,Here you go. This will put the enemy suffer before you.
+TID_MISSION_2_106_TASK_0,Get Plans for Extra Damage
+TID_MISSION_2_106,Instant Crafting
+TID_MISSION_2_107_OBJECTIVE,Go back to Eric now. He got some nice stuff for you.
+TID_MISSION_2_107_RECEIVING_MESSAGE,Oh yeah... I forgot that I got something for you as well. This item causes great damage to the target and all the enemies around the target.
+TID_MISSION_2_107_TASK_0,Get Plans for Area Damage
+TID_MISSION_2_107,Get More Plans
+TID_MISSION_2_110_OBJECTIVE,Go back to Alton now. He got some nice stuff for you.
+TID_MISSION_2_110_RECEIVING_MESSAGE,Oh yeah... I forgot that I got something for you as well. This item causes great damage to the target and all the enemies around the target.
+TID_MISSION_2_110,Get More Plans 2
+TID_MISSION_2_110_TASK_0,Get Plans for Area Damage
+TID_MISSION_2_111,Missing Link
+TID_MISSION_2_112,Big Secret
+TID_MISSION_2_113,Population Control
+TID_MISSION_2_109_OBJECTIVE,"It must be this weather... We don't need to spend days crafting weapons, armors or consumables anymore. Tollman has more crafting plans for you."
+TID_MISSION_2_109_RECEIVING_MESSAGE,Here you go. This will put the enemy suffer before you.
+TID_MISSION_2_109_TASK_0,Get Plans for Extra Damage
+TID_MISSION_2_108_OBJECTIVE,Listen carefully! We have a new threat in Dawnbreak and for that reason it's time to upgrade your weapon with special items. Go talk to Tollman.
+TID_MISSION_2_108_RECEIVING_MESSAGE,We need to deal more damage to kill those zombies roaming on our streets. Please take these plans for extra damage.
+TID_MISSION_2_108_TASK_0,Get Damage Boost Plans
+TID_MISSION_2_111_OBJECTIVE,Here we go. Fully functional antenna relay. Dawnbreak Avenue has the tallest buildings. Go there and plug this into the cables.
+TID_MISSION_2_111_RECEIVING_MESSAGE,"Hello world! You can hear me! Let's see those Labycore nasties put a spin on this! Here you go, for services rendered!\n"
+TID_MISSION_2_111_TASK_0,Plug Relay at Dawnbreak Avenue
+TID_MISSION_2_112_OBJECTIVE,First transmissions are coming in... The artificial island we are on is sinking! Fast. I know the local survivors have a Labycore engineer with them. Go and find him.
+TID_MISSION_2_112_RECEIVING_MESSAGE,IzaK sent me a straggler? This is for your trouble but we'll see if you really are tough enough for the Avenue.\n
+TID_MISSION_2_112_TASK_0,Talk to Engineer Eddie
+TID_MISSION_2_113_OBJECTIVE,We are running out of medical supplies. The delivery never got this far due to zombie invasion. Go find us some and I will help you.
+TID_MISSION_2_113_RECEIVING_MESSAGE,"That's a start. So yeah, I used to work for Labycore but soon noticed the corruption behind and have now jumped to the Resistance."
+TID_MISSION_2_113_TASK_0,Find Medical Boxes
+TID_MISSION_2_114_OBJECTIVE,It is true that the island is sinking and we need to make it stop. Find me the island blueprints from the Old Labycore Office down the street.\n
+TID_MISSION_2_114_RECEIVING_MESSAGE,Good. You really can deliver! I have to go study these now but there are other jobs you can do.
+TID_MISSION_2_114,Waterline
+TID_MISSION_2_114_TASK_0,Find Island Blueprints
+TID_MISSION_2_115_OBJECTIVE,The Mad Dogs gang has stolen our stock of Zombie Rot medicine. I need you to bring back our meds and make sure they don't do it again.
+TID_MISSION_2_115_RECEIVING_MESSAGE,Thank you! For lives saved and lives yet to be saved. The patients wanted me to give you this.
+TID_MISSION_2_115,Bad Apples
+TID_MISSION_2_115_TASK_0,Loot medicine from Mad Dog Brawlers
+TID_MISSION_2_116_OBJECTIVE,We sink because Labycore cut power to the ballast pumps. Pumps are located in the subway. Talk to Stan who knows more about the subway.
+TID_MISSION_2_116_TALK_TASK_0,Yep. Nellie has been talking about moving. I need you to keep the zombies at bay. Let's go.
+TID_MISSION_2_116_RECEIVING_MESSAGE,Oh the subway... Yes I know a thing or two about it.
+TID_MISSION_2_116,Housing Crisis
+TID_MISSION_2_116_TASK_0,Talk to Stan
+TID_MISSION_2_108,Make More Damage 2
+TID_MISSION_2_109,Instant Crafting 2
+TID_MISSION_2_117_OBJECTIVE,Go talk to Foote and see for yourself! The resistance has found blueprints for latest Labycore innovation from the ruins of L.A.R.P.U.
+TID_MISSION_2_117_RECEIVING_MESSAGE,It's called a \qBlink\q. Combat booster. Rumors say that it moves you next to your target in a blink of an eye.
+TID_MISSION_2_117_TASK_0,Talk to Foote to get Plans
+TID_MISSION_2_117,Yet Another Booster
+TID_MISSION_2_102_TALK_TASK_0,Let's go to make sure that Michaela rests in peace.
+TID_MISSION_2_118_OBJECTIVE,"I will give you the crafting plans for Power Plant Key if you do me a favor and take down Sentinel, the final guardian at Dawnbreak Square. That bot has done so much harm to me and my friends..."
+TID_MISSION_2_118_RECEIVING_MESSAGE,"Thank you! Here is the key to the Power Plant. If Sentinel was a bit outdated model, Labycore has the upgraded ones guarding the power plant so... Good luck!"
+TID_MISSION_2_118_TASK_0,Take Down Sentinel
+TID_MISSION_2_118,Key to Power Plant

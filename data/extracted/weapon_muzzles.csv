@@ -1,0 +1,6 @@
+Name,SWF,ExportName
+Muzzle,graphics/3d/weapons/muzzle.swf,muzzle
+muzzle_heal,graphics/3d/weapons/muzzle.swf,muzzle_heal
+sonic_burst_muzzle,graphics/3d/weapons/muzzle.swf,sonic_burst_muzzle
+Muzzle_plasma,graphics/3d/weapons/muzzle.swf,Muzzle_Glow_Plasma
+Muzzle_laser,graphics/3d/weapons/muzzle.swf,Muzzle_Glow_Laser

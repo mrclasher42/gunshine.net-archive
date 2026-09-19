@@ -1,0 +1,39 @@
+Name,WeaponClass,RequiredLevel,Rarity,Tier,DiamondsOnly,Enhancement,ShopRecommend,CriticalChance,LootMinLevel,LootMaxLevel,LootResource,LootExportName,YELLOW_TEXT_TID,Muzzle,MuzzleGlow,BulletTrail,BulletFlash,MeleeTrail,LootDisabled,Icon,PostToSocialNetworks
+Basic SMG,SMG,2,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Average SMG,SMG,6,Common,,,,,,,,,,,,,,,,TRUE,,
+Universal SMG,SMG,12,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Everyday SMG,SMG,17,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Standard SMG,SMG,22,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Popular SMG,SMG,26,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Common SMG,SMG,27,Common,,,,,,,,,,,,,,,,TRUE,,TRUE
+Simple SMG,SMG,30,Common,,,,,,,,,,,,,,,,TRUE,,
+Rusted SMG,SMG,1,Poor,,,,,,,,,,,,,,,,TRUE,,
+Crappy SMG,SMG,5,Poor,,,,,,,,,,,,,,,,TRUE,,
+Poor SMG,SMG,10,Poor,,,,,,,,,,,,,,,,TRUE,,
+Shoddy SMG,SMG,11,Poor,,,,,,,,,,,,,,,,TRUE,,
+Inferior SMG,SMG,16,Poor,,,,,,,,,,,,,,,,TRUE,,
+Rural SMG,SMG,23,Poor,,,,,,,,,,,,,,,,TRUE,,
+Barebones SMG,SMG,25,Poor,,,,,,,,,,,,,,,,TRUE,,
+Antiquated SMG,SMG,30,Poor,,,,,,,,,,,,,,,,TRUE,,
+Exquisite SMG,SMG,4,Rare,,,of the Ambusher,,4,,,,,,,,,,,TRUE,,TRUE
+Respectable SMG,SMG,7,Rare,,,of the Ambusher,,6,,,,,,,,,,,TRUE,,TRUE
+Crazy SMG,SMG,9,Rare,,,of the Ambusher,TRUE,3,,,,,,,,,,,TRUE,,TRUE
+Extreme SMG,SMG,15,Rare,,,of the Painmaker,,11,,,,,,,,,,,TRUE,,TRUE
+Outstanding SMG,SMG,18,Rare,,,of the Painmaker,TRUE,13,,,,,,,,,,,TRUE,,TRUE
+Wacky SMG,SMG,24,Rare,,,of the Painmaker,,8,,,,,,,,,,,TRUE,,TRUE
+High-Power SMG,SMG,29,Rare,,,of the Painmaker,,,,,,,,,,,,,TRUE,,TRUE
+Tough SMG,SMG,30,Rare,2,,of the Ambusher,,10,,,,,,,,,,,TRUE,,TRUE
+Okayish SMG,SMG,3,Uncommon,,,,,2,,,,,,,,,,,TRUE,,TRUE
+Boosted SMG,SMG,8,Uncommon,,,,,,,,,,,,,,,,TRUE,,TRUE
+Great SMG,SMG,13,Uncommon,,,,,2,,,,,,,,,,,TRUE,,TRUE
+Acute SMG,SMG,14,Uncommon,,,,,8,,,,,,,,,,,TRUE,,TRUE
+Advanced SMG,SMG,19,Uncommon,,,,,,,,,,,,,,,,TRUE,,TRUE
+Street Credible SMG,SMG,20,Uncommon,,,,,,,,,,,,,,,,TRUE,,TRUE
+Cool SMG,SMG,21,Uncommon,,,,,4,,,,,,,,,,,TRUE,,TRUE
+Massive SMG,SMG,28,Uncommon,,,,,4,,,,,,,,,,,TRUE,,TRUE
+Illegal SMG,SMG,30,Uncommon,,,,,,,,,,,,,,,,TRUE,,TRUE
+Brutal SMG,SMG,8,Rare,,,of the Ambusher,,6,,,,,,,,,,,TRUE,,TRUE
+Righteuous SMG,SMG,13,Rare,,,of the Crymaker,,3,,,,,,,,,,,TRUE,,TRUE
+Victorious SMG,SMG,19,Rare,,,of 6th Sense,,11,,,,,,,,,,,TRUE,,TRUE
+First Class SMG,SMG,28,Rare,,,of the Ambusher,,13,,,,,,,,,,,TRUE,,TRUE
+Singular SMG,SMG,30,Rare,,,of the Crymaker,,10,,,,,,,,,,,TRUE,,TRUE

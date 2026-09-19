@@ -1,0 +1,147 @@
+Name,WeaponClass,Rarity,RequiredLevel,Tier,LootDisabled,Enhancement,DiamondsOnly,ShopRecommend,CriticalChance,LootMinLevel,LootMaxLevel,LootResource,LootExportName,YELLOW_TEXT_TID,Muzzle,MuzzleGlow,BulletTrail,BulletFlash,MeleeTrail,PostToSocialNetworks
+Pig_dynamite,Pig Dynamite,Common,1,,TRUE,,,,,,,,,,,,,,,TRUE
+Bottle of Supercell Beer,Beer Bottle,Common,1,,TRUE,,,,,,,,,,,,,,,
+Singular Iron Pipe,Pipe,Rare,30,,TRUE,of the Judgment,,,6,,,,,,,,,,,TRUE
+Popular Bat,Bat,Common,3,,TRUE,,,,,,,,,,,,,,,
+Common Bat,Bat,Common,6,,TRUE,,,,,,,,,,,,,,,
+Simple Bat,Bat,Common,10,,TRUE,,,,,,,,,,,,,,,
+Typical Bat,Bat,Common,15,,TRUE,,,,,,,,,,,,,,,
+Usual Bat,Bat,Common,20,,TRUE,,,,,,,,,,,,,,,
+Plain Bat,Bat,Common,23,,TRUE,,,,,,,,,,,,,,,
+Normal Bat,Bat,Common,27,,TRUE,,,,,,,,,,,,,,,
+Universal Bat,Bat,Common,29,,TRUE,,,,,,,,,,,,,,,
+Standard Bat,Bat,Common,30,,TRUE,,,,,,,,,,,,,,,
+Rotten Bat,Bat,Poor,1,,TRUE,,,,,,,,,,,,,,,
+Poor Bat,Bat,Poor,5,,TRUE,,,,,,,,,,,,,,,
+Shoddy Bat,Bat,Poor,11,,TRUE,,,,,,,,,,,,,,,
+Inferior Bat,Bat,Poor,14,,TRUE,,,,,,,,,,,,,,,
+Rural Bat,Bat,Poor,18,,TRUE,,,,,,,,,,,,,,,
+Barebones Bat,Bat,Poor,22,,TRUE,,,,,,,,,,,,,,,
+Crappy Bat,Bat,Poor,26,,TRUE,,,,,,,,,,,,,,,
+Victorious Bat,Bat,Rare,9,,TRUE,of the Judgment,,,3,,,,,,,,,,,TRUE
+First-Class Bat,Bat,Rare,13,,TRUE,of the Destroyer,,,2,,,,,,,,,,,TRUE
+Singular Bat,Bat,Rare,16,,TRUE,of the Painmaker,,,,,,,,,,,,,,TRUE
+Excellent Bat,Bat,Rare,21,,TRUE,of the Predator,,TRUE,6,,,,,,,,,,,TRUE
+Outstanding Bat,Bat,Rare,28,,TRUE,of the Judgment,,,4,,,,,,,,,,,TRUE
+Superfine Bat,Bat,Rare,30,2,TRUE,of the Destroyer,,,6,,,,,,,,,,,TRUE
+Acute Bat,Bat,Uncommon,4,,TRUE,,,,1,,,,,,,,,,,TRUE
+Advanced Bat,Bat,Uncommon,7,,TRUE,,,,,,,,,,,,,,,TRUE
+Street Credible Bat,Bat,Uncommon,12,,TRUE,,,,,,,,,,,,,,,TRUE
+Massive Bat,Bat,Uncommon,17,,TRUE,,,,2,,,,,,,,,,,TRUE
+Okayish Bat,Bat,Uncommon,19,,TRUE,,,,4,,,,,,,,,,,TRUE
+Great Bat,Bat,Uncommon,24,,TRUE,,,,2,,,,,,,,,,,TRUE
+Illegal Bat,Bat,Uncommon,25,,TRUE,,,,1,,,,,,,,,,,TRUE
+Cool Bat,Bat,Uncommon,30,,TRUE,,,,3,,,,,,,,,,,TRUE
+Good Bat,Bat,Uncommon,18,,TRUE,,,,3,,,,,,,,,,,TRUE
+Common Club,Club,Common,5,,TRUE,,,,,,,,,,,,,,,
+Simple Club,Club,Common,9,,TRUE,,,,,,,,,,,,,,,
+Typical Club,Club,Common,12,,TRUE,,,,,,,,,,,,,,,
+Usual Club,Club,Common,18,,TRUE,,,,,,,,,,,,,,,
+Plain Club,Club,Common,24,,TRUE,,,,,,,,,,,,,,,
+Standard Club,Club,Common,29,,TRUE,,,,,,,,,,,,,,,
+Poor Club,Club,Poor,1,,TRUE,,,,,,,,,,,,,,,
+Shoddy Club,Club,Poor,8,,TRUE,,,,,,,,,,,,,,,
+Inferior Club,Club,Poor,14,,TRUE,,,,,,,,,,,,,,,
+Rural Club,Club,Poor,17,,TRUE,,,,,,,,,,,,,,,
+Barebones Club,Club,Poor,23,,TRUE,,,,,,,,,,,,,,,
+Crappy Club,Club,Poor,27,,TRUE,,,,,,,,,,,,,,,
+First-Class Club,Club,Rare,4,,TRUE,of the Judgment,,,,,,,,,,,,,,TRUE
+Singular Club,Club,Rare,11,,TRUE,of the Destroyer,,,4,,,,,,,,,,,TRUE
+Excellent Club,Club,Rare,16,,TRUE,of the Painmaker,,,5,,,,,,,,,,,TRUE
+Outstanding Club,Club,Rare,19,,TRUE,of the Predator,,,3,,,,,,,,,,,TRUE
+Superfine Club,Club,Rare,26,,TRUE,of the Judgment,,,6,,,,,,,,,,,TRUE
+Exquisite Club,Club,Rare,30,,TRUE,of the Destroyer,,,7,,,,,,,,,,,TRUE
+Advanced Club,Club,Uncommon,6,,TRUE,,,,3,,,,,,,,,,,TRUE
+Street Credible Club,Club,Uncommon,10,,TRUE,,,,,,,,,,,,,,,TRUE
+Massive Club,Club,Uncommon,13,,TRUE,,,,2,,,,,,,,,,,TRUE
+Okayish Club,Club,Uncommon,22,,TRUE,,,,1,,,,,,,,,,,TRUE
+Great Club,Club,Uncommon,25,,TRUE,,,,,,,,,,,,,,,TRUE
+Illegal Club,Club,Uncommon,28,,TRUE,,,,2,,,,,,,,,,,TRUE
+Cool Club,Club,Uncommon,30,,TRUE,,,,1,,,,,,,,,,,TRUE
+Usual Flat Iron,Flat Iron,Common,1,,TRUE,,,,,,,,,,,,,,,
+Plain Flat Iron,Flat Iron,Common,13,,TRUE,,,,,,,,,,,,,,,
+Typical Flat Iron,Flat Iron,Common,16,,TRUE,,,,,,,,,,,,,,,
+Standard Flat Iron,Flat Iron,Common,10,,TRUE,,,,,,,,,,,,,,,
+Rural Flat Iron,Flat Iron,Poor,2,,TRUE,,,,,,,,,,,,,,,
+Barebones Flat Iron,Flat Iron,Poor,10,,TRUE,,,,,,,,,,,,,,,
+Crappy Flat Iron,Flat Iron,Poor,26,,TRUE,,,,,,,,,,,,,,,
+Outstanding Flat Iron,Flat Iron,Rare,4,,TRUE,,,,2,,,,,,,,,,,TRUE
+Superfine Flat Iron,Flat Iron,Rare,14,,TRUE,,,,,,,,,,,,,,,TRUE
+Okayish Flat Iron,Flat Iron,Uncommon,6,,TRUE,,,,,,,,,,,,,,,TRUE
+Great Flat Iron,Flat Iron,Uncommon,7,,TRUE,,,,,,,,,,,,,,,TRUE
+Illegal Flat Iron,Flat Iron,Uncommon,8,,TRUE,,,,3,,,,,,,,,,,TRUE
+Cool Flat Iron,Flat Iron,Uncommon,1,,TRUE,,,,3,,,,,,,,,,,TRUE
+Antiquated Club,Club,Poor,19,,TRUE,,,,,,,,,,,,,,,
+Average Hockey Stick,Hockey Stick,Common,4,,TRUE,,,,,,,,,,,,,,,
+Simple Hockey Stick,Hockey Stick,Common,8,,TRUE,,,,,,,,,,,,,,,
+Typical Hockey Stick,Hockey Stick,Common,11,,TRUE,,,,,,,,,,,,,,,
+Usual Hockey Stick,Hockey Stick,Common,12,,TRUE,,,,,,,,,,,,,,,
+Plain Hockey Stick,Hockey Stick,Common,19,,TRUE,,,,,,,,,,,,,,,
+Standard Hockey Stick,Hockey Stick,Common,20,,TRUE,,,,,,,,,,,,,,,
+Common Hockey Stick,Hockey Stick,Common,24,,TRUE,,,,,,,,,,,,,,,
+Normal Hockey Stick,Hockey Stick,Common,27,,TRUE,,,,,,,,,,,,,,,TRUE
+Shoddy Hockey Stick,Hockey Stick,Poor,1,,TRUE,,,,,,,,,,,,,,,
+Universal Hockey Stick,Hockey Stick,Common,7,,TRUE,,,,,,,,,,,,,,,TRUE
+Rural Hockey Stick,Hockey Stick,Poor,13,,TRUE,,,,,,,,,,,,,,,
+Barebones Hockey Stick,Hockey Stick,Poor,16,,TRUE,,,,,,,,,,,,,,,
+Crappy Hockey Stick,Hockey Stick,Poor,17,,TRUE,,,,,,,,,,,,,,,
+Antiquated Hockey Stick,Hockey Stick,Poor,23,,TRUE,,,,,,,,,,,,,,,
+Piece of Crap Hockey Stick,Hockey Stick,Poor,29,,TRUE,,,,,,,,,,,,,,,
+Cracked Hockey Stick,Hockey Stick,Poor,30,,TRUE,,,,,,,,,,,,,,,
+Singular Hockey Stick,Hockey Stick,Rare,9,,TRUE,,,,4,,,,,,,,,,,TRUE
+Excellent Hockey Stick,Hockey Stick,Rare,14,,TRUE,,,,6,,,,,,,,,,,TRUE
+Outstanding Hockey Stick,Hockey Stick,Rare,18,,TRUE,,,,9,,,,,,,,,,,TRUE
+Superfine Hockey Stick,Hockey Stick,Rare,21,,TRUE,,,,3,,,,,,,,,,,TRUE
+Exquisite Hockey Stick,Hockey Stick,Rare,26,,TRUE,,,,,,,,,,,,,,,TRUE
+Respectable Hockey Stick,Hockey Stick,Rare,30,,TRUE,,,,11,,,,,,,,,,,TRUE
+Basic Hockey Stick,Hockey Stick,Uncommon,2,,TRUE,,,,3,,,,,,,,,,,TRUE
+Massive Hockey Stick,Hockey Stick,Uncommon,10,,TRUE,,,,,,,,,,,,,,,TRUE
+Okayish Hockey Stick,Hockey Stick,Uncommon,15,,TRUE,,,,,,,,,,,,,,,TRUE
+Fine Hockey Stick,Hockey Stick,Uncommon,22,,TRUE,,,,,,,,,,,,,,,TRUE
+Credible Hockey Stick,Hockey Stick,Uncommon,25,,TRUE,,,,2,,,,,,,,,,,TRUE
+Great Hockey Stick,Hockey Stick,Uncommon,28,,TRUE,,,,1,,,,,,,,,,,TRUE
+Cool Hockey Stick,Hockey Stick,Uncommon,30,,TRUE,,,,2,,,,,,,,,,,TRUE
+Typical Plank,Plank,Common,25,,TRUE,,,,,,,,,,,,,,,
+Massive Plank,Plank,Uncommon,15,,TRUE,,,,1,,,,,,,,,,,TRUE
+Okayish Plank,Plank,Uncommon,19,,TRUE,,,,1,,,,,,,,,,,TRUE
+Great Plank,Plank,Uncommon,30,,TRUE,,,,3,,,,,,,,,,,TRUE
+Illegal Plank,Plank,Uncommon,25,,TRUE,,,,,,,,,,,,,,,TRUE
+Standard Shovel,Shovel,Common,22,,TRUE,,,,,,,,,,,,,,,
+Exquisite Shovel,Shovel,Rare,23,,TRUE,of the Legend,,,7,,,,,,,,,,,TRUE
+Electric Hammer,Hydraulic Hammer,Rare,23,,TRUE,of the Predator,,,15,,,,,,,,,,,
+First-Class Hydraulic Hammer,Mega Hammer,Rare,3,,TRUE,of the Predator,,TRUE,7,,,,,,,,,,,TRUE
+Singular Hydraulic Hammer,Mega Hammer,Rare,23,,TRUE,of the Predator,,,7,,,,,,,,,,,TRUE
+Excellent Hydraulic Hammer,Mega Hammer,Rare,25,,TRUE,of the Predator,,TRUE,7,,,,,,,,,,,TRUE
+Outstanding Hydraulic Hammer,Mega Hammer,Rare,27,,TRUE,of the Predator,,,7,,,,,,,,,,,TRUE
+Superfine Hydraulic Hammer,Mega Hammer,Rare,26,,TRUE,of the Predator,,,7,,,,,,,,,,,TRUE
+Victorious Voodoo Club,Voodoo Club,Rare,27,,TRUE,of the Judgment,,TRUE,7,,,,,,,,,,,TRUE
+First-Class Voodoo Club,Voodoo Club,Rare,30,2,TRUE,of the Judgment,,,7,,,,,,,,,,,TRUE
+Singular Voodoo Club,Voodoo Club,Rare,6,,TRUE,of the Judgment,,,7,,,,,,,,,,,TRUE
+Outstanding Voodoo Club,Voodoo Club,Rare,12,,TRUE,of the Judgment,,TRUE,7,,,,,,,,,,,TRUE
+Excellent Voodoo Club,Voodoo Club,Rare,18,,TRUE,of the Judgment,,TRUE,7,,,,,,,,,,,TRUE
+Superfine Voodoo Club,Voodoo Club,Rare,24,,TRUE,of the Judgment,,TRUE,7,,,,,,,,,,,TRUE
+Exquisite Hydraulic Hammer,Mega Hammer,Rare,19,,TRUE,of the Destroyer,,,7,,,,,,,,,,,TRUE
+Crazy Hydraulic Hammer,Mega Hammer,Rare,15,,TRUE,of the Destroyer,,,7,,,,,,,,,,,TRUE
+Wacky Hydraulic Hammer,Mega Hammer,Rare,12,,TRUE,of the Destroyer,,,7,,,,,,,,,,,TRUE
+Extreme Hydraulic Hammer,Mega Hammer,Rare,8,,TRUE,of the Destroyer,,TRUE,7,,,,,,,,,,,TRUE
+Brutal Hydraulic Hammer,Mega Hammer,Rare,30,3,TRUE,of the Destroyer,,,7,,,,,,,,,,,TRUE
+Mighty Shovel,Shovel,Rare,2,,TRUE,of the Legend,,TRUE,9,,,,,,,,,,,TRUE
+Greater Shovel,Shovel,Rare,15,,TRUE,of the Legend,,TRUE,9,,,,,,,,,,,TRUE
+Awesome Shovel,Shovel,Rare,5,,TRUE,of the Legend,,,7,,,,,,,,,,,TRUE
+Brutal Shovel,Shovel,Rare,13,,TRUE,of the Legend,,,7,,,,,,,,,,,TRUE
+Marvelous Shovel,Shovel,Rare,16,,TRUE,of the Legend,,,10,,,,,,,,,,,TRUE
+Wacky Shovel,Shovel,Rare,21,,TRUE,of the Legend,,,11,,,,,,,,,,,TRUE
+Brutal Voodoo Club,Voodoo Club,Rare,4,,TRUE,of the Judgment,,TRUE,25,,,,,,,,,,,TRUE
+Mighty Hydraulic Hammer,Mega Hammer,Rare,17,,TRUE,of the Legend,,TRUE,7,,,,,,,,,,,TRUE
+Mighty Voodoo Club,Voodoo Club,Rare,15,,TRUE,of the Judgment,,,20,,,,,,,,,,,TRUE
+Extreme Voodoo Club,Voodoo Club,Rare,30,,TRUE,of the Judgment,,,20,,,,,,,,,,,TRUE
+Awesome Hydraulic Hammer,Mega Hammer,Rare,19,,TRUE,of the Predator,,,25,,,,,,,,,,,TRUE
+Marvelous Hydraulic Hammer,Mega Hammer,Rare,26,,TRUE,of the Legend,,,25,,,,,,,,,,,TRUE
+DancePole,Pole,Common,1,,TRUE,,,,2,,,,,,,,,,,false
+NPC_Whip,Whip,Common,1,,TRUE,,,,2,,,,,,,,,,Trail,false
+NPC_Police Baton,Police Baton,Common,1,,TRUE,,,,2,,,,,,,,,,Trail,false
+Diabolic Bat,Bat,Uncommon,13,,TRUE,,,,,,,,,,,,,,,TRUE
+King's Iron,Flat Iron,Uncommon,9,,TRUE,,,,,,,,,,,,,,,
+Sentrybot's Leg Strut,Hockey Stick,Uncommon,18,,TRUE,,,,,,,,,,,,,,,
+Solar Powered Flat Iron,Flat Iron,Uncommon,30,,TRUE,,,,,,,,,,,,,,,
+Bullet-Tooth's Nine Iron,Club,Uncommon,7,,TRUE,,,,,,,,,,,,,,,

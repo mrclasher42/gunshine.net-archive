@@ -1,0 +1,12 @@
+Name,Speed,Resource,ExportName,Ballistic,RotateToMovementDirection,Scale,HitSound,Effect,StartHeight
+Shuriken,100,graphics/projectiles/shuriken.swf,shuriken,,TRUE,20,,,
+Grenade,100,graphics/projectiles/hand_grenade.swf,HandGrenade,TRUE,,,GrenadeExplosion,,
+StunGrenade,60,graphics/projectiles/hand_grenade.swf,ShockGrenade,TRUE,,,StunGrenadeExplosion,,
+Dynamite,100,graphics/projectiles/hand_grenade.swf,Dynamite,TRUE,,,GrenadeExplosion,SmokeTrail,
+Missile,50,graphics/projectiles/shuriken.swf,Missile01,TRUE,,,GrenadeExplosion,SmokeTrail,
+ShockGrenade,100,graphics/projectiles/hand_grenade.swf,ShockGrenade,TRUE,,,EmpGrenadeImpact,,
+Bazooka,100,graphics/projectiles/rocket_launcher.swf,rocket,,TRUE,50,RocketLauncherImpact,SmokeTrail,60
+Nuke,35,graphics/projectiles/shuriken.swf,Nuke01,TRUE,,20,AirStrikeImpact,,
+Molotov,100,graphics/projectiles/hand_grenade.swf,Molotov,TRUE,,,MolotovCocktailImpact,MolotovTrail,
+GasGrenade,100,graphics/projectiles/hand_grenade.swf,GasGrenade,TRUE,,,GrenadeExplosion,,
+FireBomb,100,graphics/projectiles/hand_grenade.swf,FireBomb,TRUE,,,FlameThrowerImpact,SmokeTrail,

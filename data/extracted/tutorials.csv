@@ -1,0 +1,68 @@
+Name,MinExpLevel,MaxExpLevel,Mandatory,FinishWhenHidden,ActivateFromTrigger,Episode,EpisodeProgress,Target,TargetInventoryItem,Requirement,RequiredMissions,RequiredMissionsFinished,Dependency,Objective,ArrowSide,BoxOffsetX,BoxOffsetY,OnlyInLevel,OnlyInLayer,Priority,Timer,Delay,AutoCompleteTutorials,Spotlight
+03_GetMission,1,6,TRUE,,,,,Object,,MissionGiver,,,01_Move,GetMission,left,25,-20,Northern Harbor,,,,,,TRUE
+10_CompleteMission,1,6,TRUE,,,,,Object,,MissionReceiver,,,03_GetMission,ReturnMission,top,,,Northern Harbor,,,,4,,TRUE
+Skills,1,5,TRUE,,TRUE,,,SkillBarItem,,,,,,UseSkill,bottom,,,,,,30,,,TRUE
+01_Move,1,6,TRUE,,,,,Object,,,,,,Move,bottom,,,Northern Harbor,,,,3,,TRUE
+13_PortalToNextLevel,1,6,TRUE,,,,,Object,,,Keep Running!,TRUE,13_Story_3,,top,,25,Northern Harbor,,,,,,TRUE
+09_FireBazooka,1,6,,,,,,ConsumableItem,,,Clear The Yard,,,UseItem,bottom,,,Northern Harbor,,,,,,TRUE
+00_Story_1,31,31,,,TRUE,1,33,,,,,,,,,,,Northern Harbor,,,,,,TRUE
+11_SelectMolotov,,,,,,,,,,,,,,,,,,,,,,,,
+24_ExitLevel,2,6,TRUE,,,,,Object,,,Getting Out,TRUE,,ExitLevel,bottom,-50,25,Northern Harbor,,,,12,,TRUE
+Map,,,,,,,,,,,Missing Link,,,,,,,Lovens Road,,,,,,TRUE
+20_CraftRangedTab,,,,,,,,CraftingCategoryButton,,,Keep Running!,,19_OpenCraftScreen2,ChangeCraftingCategory,top,,,,,,,,,TRUE
+Medikits,2,7,,,,,,SkillBarItem,,LowHealth,,,,UseItem,bottom,,,,,,,,,TRUE
+Hub,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+ChainReaction,1,5,TRUE,,,,,Object,,,,,,,left,25,,,,,,,,TRUE
+06_Story_2,31,31,,,TRUE,1,66,,,,,,,,,,,Northern Harbor,,,,,,TRUE
+Group,3,15,,,TRUE,,,Object,,,,,,,bottom,,,Pirate Bay,,,60,,,TRUE
+SkillTrainer,3,15,,,,,,Object,,,,,,,bottom,,,Needlewood,,,,,,TRUE
+06_DoubleClickAttack,1,2,TRUE,,TRUE,,,Object,,,,,05_PickUpObject,Attack,right,-10,-30,Northern Harbor,,,,,,TRUE
+02_FollowTheArrow,1,4,TRUE,,TRUE,,,Compass,,,,,03_GetMission,CompassDisappears,right,-35,-30,Northern Harbor,,,,,,TRUE
+29_HireMerc,1,4,TRUE,,,,,MercenaryButton,,,Immigration Office,,,OpenMercenaryScreen,bottom,,,Northern Harbor,,,,,,TRUE
+Diamonds,1,31,TRUE,,,,,AddDiamondsButton,,,,,,OpenAddDiamondsScreen,top,,,Pirate Bay,,,,,,TRUE
+13_Story_3,31,31,,,,1,100,,,,Keep Running!,TRUE,,,,,,Northern Harbor,,,,5,,TRUE
+14_Story_4,31,31,,,TRUE,2,33,,,,,,,,,,,,,,,,,TRUE
+24_Story_5,31,31,,,TRUE,2,66,,,,,,,,,,,,,,,,,TRUE
+25_Story_6,31,31,,,,2,100,,,,Keep Running!,,28_CloseShop,,,,,Pulpy Way,,,,,,TRUE
+29_Story_7,31,31,,,TRUE,3,33,,,,,,,,,,,Needlewood,,,,,,TRUE
+EquipBetterWeapon,5,30,,,,,,,,BetterWeaponInInventory,,,,,,,,,,,,,,TRUE
+EnergyBoosters,5,15,,,,,,SkillBarItem,,LowEnergy,,,,UseItem,bottom,,,,,,,,,TRUE
+UseTask,1,1,TRUE,,,,,Object,,,,,10_CompleteMission,,bottom,,,,,,,,,TRUE
+07_PickUpBazooka,1,4,TRUE,,TRUE,,,Object,,,,,,,right,,,Northern Harbor,,,,,,TRUE
+MissionInOtherLevel,,,TRUE,,,,,MapButton,,,Missing Link,,,OpenMap,bottom,,,Lovens Road,,,,5,,TRUE
+16_BackToMeleeTab,,,TRUE,,,,,CraftingCategoryButton,,,Keep Running!,,,ChangeCraftingCategory,top,,,,,,,,,TRUE
+FriendInvite,31,31,,,,,,AddFriendsButton,,,,,,OpenAddFriendsScreen,bottom,,,,,,,,,TRUE
+ChangeWeapon,2,15,,,,,,ChangeWeaponButton,,BothWeaponSlotsFilled,Keep Running!,,,ChangeWeapon,bottom,,,,,,,,,TRUE
+05_PickUpObject,1,1,TRUE,,,,,Object,,,,,,Equip,top,,10,Northern Harbor,,,,,,TRUE
+FirstOpenInventory_PearlBeach,1,4,,,,,,InventoryButton,,,Immigration Office,TRUE,,OpenInventory,bottom,,,Northern Harbor,,,,,,TRUE
+19_OpenCraftScreen2,,,TRUE,,,,,CraftingButton,,,Keep Running!,,,OpenCraftingScreen,bottom,,,,,,,,,TRUE
+CraftingScreenOpening3,,,,,TRUE,,,CraftingButton,,,Troll's Lair,,,OpenCraftingScreen,bottom,,,Pirate Bay,,,,,,TRUE
+30_Story_8,31,31,,,,3,66,,,,Grim Reaper,TRUE,,,,,,Needlewood,,,,,,TRUE
+31_Story_9,31,31,,,TRUE,3,100,,,,,,,,,,,Troll's Lair,,,,,,TRUE
+08_BazookaTargetSelect,,,TRUE,,,,,Object,,,,,09_FireBazooka,SelectTarget,right,,-70,Northern Harbor,,,,,,TRUE
+15_OpenCraftScreen,1,5,TRUE,,,,,CraftingButton,,,Craft Super Bullets,,,OpenCraftingScreen,bottom,,,Northern Harbor,,,,,,TRUE
+,,,,,,,,,,,Craft Superior Bullets,,,,,,,,,,,,,
+,,,,,,,,,,,Craft Better Haft,,,,,,,,,,,,,
+16_StartCrafting,1,5,TRUE,,,,,StartCraftingButton,,,Craft Super Bullets,,15_OpenCraftScreen,StartCrafting,top,,,Northern Harbor,,,,,,TRUE
+,,,,,,,,,,,Craft Superior Bullets,,,,,,,,,,,,,
+,,,,,,,,,,,Craft Better Haft,,,,,,,,,,,,,
+17_ClaimCraftedMelee,,,TRUE,,,,,ClaimCraftingButton,,,Craft Better Haft,,,ClaimCraftedItem,top,,,,,,,,16_StartCrafting,TRUE
+CraftBoosting,31,31,,,,,,CraftingBoostButton,,,Craft Better Haft,,,BoostCrafting,top,,,,,,,,,TRUE
+14_PickUpIngredients,1,4,TRUE,,,,,Object,,,Craft Better Haft,,,,bottom,,,,,,,,,TRUE
+30_OpenBossFinder,3,5,TRUE,,,,,BossFinderButton,,,Man The Pumps,,,OpenBossFinderScreen,top,,,Dawnbreak Avenue,,,,,,TRUE
+31_JoinInstaGroup,3,5,TRUE,,,,,StartBossFindingButton,,,Man The Pumps,,30_OpenBossFinder,StartBossFinding,top,,,Dawnbreak Avenue,,,,,,TRUE
+25_OpenShop,1,5,TRUE,,,,,ShopButton,,,Keep Running!,,,OpenShopScreen,bottom,,,Pulpy Way,,,,,,TRUE
+18_CloseCraftScreen,1,4,TRUE,,,,,CloseCraftingScreenButton,,,Craft Super Bullets,,16_StartCrafting,CloseCraftingScreen,top,,,Northern Harbor,,,,3,,TRUE
+,,,,,,,,,,,Craft Superior Bullets,,,,,,,,,,,,,
+,,,,,,,,,,,Craft Better Haft,,,,,,,,,,,,,
+ReturnMission_2,1,6,TRUE,,,,,Object,,MissionReceiver,,,03_GetMission,,bottom,,,,,,,,,TRUE
+21_StartGunCraft,,,TRUE,,,,,StartCraftingButton,,,Keep Running!,,19_OpenCraftScreen2,,top,,,,,,,,20_CraftRangedTab,TRUE
+22_ClaimGunCraft,,,TRUE,,,,,ClaimCraftingButton,,,Keep Running!,,21_StartGunCraft,,top,,,,,,,,21_StartGunCraft,TRUE
+23_CloseCraftScreen2,,,TRUE,,,,,CloseCraftingScreenButton,,,Keep Running!,,22_ClaimGunCraft,,top,,,,,,,,22_ClaimGunCraft,TRUE
+12_ThrowMolotov,,,,,,,,,,,,,,,,,,,,,,,,
+04_CompleteTalkTask,,,TRUE,,TRUE,,,Object,,,Keep Running!,,,CompleteTask,bottom,,,Northern Harbor,,,,,,TRUE
+26_ChooseShopTab,,,TRUE,,,,,ShopCategoryButton,,,Keep Running!,,25_OpenShop,ChangeShopCategory,bottom,,,Pulpy Way,,,,,25_OpenShop,TRUE
+27_BuyMedikit,,,TRUE,,,,,BuyItemButton,,,Keep Running!,,,BuyItem,left,,,Pulpy Way,,,,,26_ChooseShopTab,TRUE
+28_CloseShop,,,TRUE,,,,,ShopCloseButton,,,Keep Running!,,,CloseShop,top,,,Pulpy Way,,,,,27_BuyMedikit,TRUE
+29_Fullscreen,31,31,TRUE,,,,,FullscreenButton,,,Keep Running!,,,Fullscreen,top,,,Northern Harbor,,,,2,,TRUE
+2ndOpenInventory_LovensRoad,2,5,,,,,,InventoryButton,,,Zap!,TRUE,,OpenInventory,bottom,,,,,,,,,TRUE

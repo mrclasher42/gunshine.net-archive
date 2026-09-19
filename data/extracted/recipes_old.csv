@@ -1,0 +1,74 @@
+Name,Item,Ingredient,IngredientCount,Rarity,EnergyCost,CraftTime,LootDisabled,DiamondsOnly,DiamondCostExact,DropSound,LootResource,LootExportName,Icon
+Plans: Old Grenade,Grenade,Part: Tin Box,1,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Black Powder,1,,,,,,,,,,
+Plans: Big Old grenade,Big Grenade,Part: Iron Box,1,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,15
+,,Part: Cordite,1,,,,,,,,,,
+Plans: Great Old Grenade,Great Grenade,Part: Steel Box,1,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,16
+,,Part: C4,1,,,,,,,,,,
+Plans: Greater Old Grenade,Greater Grenade,Part: Alu Case,1,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,17
+,,Part: Semtex,1,,,,,,,,,,
+Plans: Superior Old Grenade,Superior Grenade,Part: Shell Casing,1,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,18
+,,Part: Mini-Nuke,1,,,,,,,,,,
+Plans: Old Bazooka,Bazooka,Part: Bottle Rocket,3,Uncommon,20,10000,,TRUE,1000,LootDefault,graphics/loot/loot_drops.swf,blueprint,8
+,,Part: PVC Tube,1,,,,,,,,,,
+Plans: Big Old Bazooka,Big Bazooka,Part: IED Tip,3,Uncommon,20,10000,,TRUE,1000,LootDefault,graphics/loot/loot_drops.swf,blueprint,9
+,,Part: Launcher Tube,1,,,,,,,,,,
+Plans: Great Old Bazooka,Great Bazooka,Part: RPG Shell,3,Uncommon,20,10000,,TRUE,1000,LootDefault,graphics/loot/loot_drops.swf,blueprint,10
+,,Part: Wire Guided,1,,,,,,,,,,
+Plans: Greater Old Bazooka,Greater Bazooka,Part: 88mm Shell,3,Uncommon,20,10000,,TRUE,1000,LootDefault,graphics/loot/loot_drops.swf,blueprint,11
+,,Part: Heat Seeker,1,,,,,,,,,,
+Plans: Superior Old Bazooka,,Part: Warhead,3,Uncommon,20,10000,,TRUE,1000,LootDefault,graphics/loot/loot_drops.swf,blueprint,12
+,,Part: SatNav,1,,,,,,,,,,
+Plans: Old Flamethrower,Flame Thrower,Part: Water Pistol,1,Rare,40,20000,,TRUE,2000,LootDefault,graphics/loot/loot_drops.swf,blueprint,1
+,,Part: Lamp oil,1,,,,,,,,,,
+Plans: Big Old Flame Thrower,Big Flame Thrower,Part: Hand Pump,1,Rare,40,20000,,TRUE,2000,LootDefault,graphics/loot/loot_drops.swf,blueprint,2
+,,Part: Ethanol,1,,,,,,,,,,
+Plans: Great Flame Thrower,Great Flame Thrower,Part: Compressor,1,Rare,40,20000,,TRUE,2000,LootDefault,graphics/loot/loot_drops.swf,blueprint,3
+,,Part: Kerosene,1,,,,,,,,,,
+Plans: Greater Flame Thrower,Greater Flame Thrower,Part: Crop Sprayer,1,Rare,40,20000,,TRUE,2000,LootDefault,graphics/loot/loot_drops.swf,blueprint,4
+,,Part: Napalm,1,,,,,,,,,,
+Plans: Superior Flame Thrower,,Part: Hi-Pressure Pump,1,Rare,40,20000,,TRUE,2000,LootDefault,graphics/loot/loot_drops.swf,blueprint,5
+,,Part: Thermite,1,,,,,,,,,,
+Plans: Old Medikit,Medikit,Part: Hanky,2,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,20
+Plans: Big Medikit,Big Medikit,Part: Pants Leg,2,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,21
+Plans: Great Medikit,Great Medikit,Part: Cloth Bandage,2,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,22
+Plans: Greater Medikit,Greater Medikit,Part: Sterile Bandage,2,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,23
+Plans: Superior Medikit,Superior Medikit,Part: Nanofiber,2,Common,5,4000,,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,24
+Plans: Energy Boost,Energy Boost,Part: Aspirin,2,Common,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+Plans: Big Energy Boost,Big Energy Boost,Part: Codeine,2,Common,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+Plans: Great Energy Boost,Great Energy Boost,Part: Morphene,2,Common,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+Plans: Greater Energy Boost,Greater Energy Boost,Part: Anasthetic,2,Common,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+Plans: Superior Energy Boost,Superior Energy Boost,Part: Neuroblocker,2,Common,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+Plans: Weak Force Field,Weak Force Field,Part: Weak Magnet,3,Uncommon,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+Plans: Old Force Field,Force Field,Part: Electromagnet,3,Uncommon,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+Plans: Old Strong Force Field,Strong Force Field,Part: Rare Earth Magnet,3,Uncommon,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+Plans: Old Molotov Cocktail,Molotov Cocktail,Part: Old Bottle,1,Uncommon,5,4000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Hanky,1,,,,,,,,,,
+Plans: Big Old Molotov Cocktail,Big Molotov Cocktail,Part: Dirty Bottle,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Pants Leg,1,,,,,,,,,,
+Plans: Great Old Molotov Cocktail,Great Molotov Cocktail,Part: Empty Bottle,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Cloth Bandage,1,,,,,,,,,,
+Plans: Greater Old Molotov Cocktail,Greater Molotov Cocktail,Part: Glass Bottle,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Sterile Bandage,1,,,,,,,,,,
+Plans: Superior Old Molotov Cocktail,Superior Molotov Cocktail,Part: Fancy Bottle,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Nanofiber,1,,,,,,,,,,
+Plans: Old Shock Grenade,Shock Grenade,Grenade,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Old Battery,1,,,,,,,,,,
+Plans: Big Old Shock Grenade,Big Shock Grenade,Big Grenade,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: C Battery,1,,,,,,,,,,
+Plans: Great Old Shock Grenade,Great Shock Grenade,Great Grenade,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Lithium Battery,1,,,,,,,,,,
+Plans: Greater Old Shock Grenade,Greater Shock Grenade,Greater Grenade,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Car Battery,1,,,,,,,,,,
+Plans: Superior Old Shock Grenade,Superior Shock Grenade,Superior Grenade,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Energy Cell,1,,,,,,,,,,
+Plans: Old Shock Blow,Shock Blow,Part: Tin Box,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Old Battery,2,,,,,,,,,,
+Plans: Old Major Shock Blow,Major Shock Blow,Part: Iron Box,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: C Battery,2,,,,,,,,,,
+Plans: Old Great Shock Blow,Great Shock Blow,Part: Steel Box,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Lithium Battery,2,,,,,,,,,,
+Plans: Old Greater Shock Blow,Greater Shock Blow,Part: Alu Case,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Car Battery,2,,,,,,,,,,
+Plans: Old Superior Shock Blow,Superior Shock Blow,Part: Shell Casing,1,Uncommon,5,10000,TRUE,,100,LootDefault,graphics/loot/loot_drops.swf,blueprint,14
+,,Part: Energy Cell,2,,,,,,,,,,

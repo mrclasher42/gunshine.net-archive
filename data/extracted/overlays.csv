@@ -1,0 +1,13 @@
+Name,FogTexture,FogBlendMode,OverlayAlpha,OverlayRed,OverlayGreen,OverlayBlue,OverlayGfx
+Docks,,,180,90,100,100,graphics/overlay/overlay_gradient_evening_2.png
+Docks2,,,180,90,95,95,graphics/overlay/overlay_gradient_docks_5.png
+Orange,,,180,100,90,90,graphics/overlay/overlay_gradient_dawn.png
+Blue,,,180,90,119,130,graphics/overlay/overlay_gradient_blue.png
+Night,,,180,105,105,160,graphics/overlay/overlay_gradient_night.png
+Redlights,,,180,160,100,100,graphics/overlay/overlay_gradient_redlights.png
+Polluted,,,180,80,140,80,graphics/overlay/overlay_gradient_putrid.png
+Sunset,,,130,90,90,90,graphics/overlay/overlay_gradient_sunset.png
+Cave,,,180,95,123,123,graphics/overlay/overlay_gradient_cave.png
+Harbor,,,180,206,164,138,graphics/overlay/overlay_gradient_harbor.png
+Start,,overlay,150,150,164,100,graphics/overlay/overlay_gradient_start.png
+Dark,,,180,95,123,123,graphics/overlay/overlay_limited_visibility.png

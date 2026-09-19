@@ -1,0 +1,204 @@
+Name,Text
+TID_AI_SKILL_0,Quick Shot
+TID_AI_SKILL_1,Slammer
+TID_AI_SKILL_2,Minor Grenade
+TID_AI_SKILL_3,Grenade
+TID_AI_SKILL_4,Short Stun Grenade
+TID_AI_SKILL_5,Stun Grenade
+TID_AI_SKILL_6,Knucklesandwich
+TID_AI_SKILL_7,Wounding Shot
+TID_AI_SKILL_8,Barrel Explosion
+TID_AI_SKILL_9,Barrel Stun
+TID_AI_SKILL_10,Barrel Poison
+TID_AI_SKILL_11,Jaw Blow
+TID_AI_SKILL_12,Twirler
+TID_AI_SKILL_13,Crate Breaking
+TID_AI_SKILL_14,Crate Explosion
+TID_AI_SKILL_15,Fire Rocket
+TID_AI_SKILL_16,Kamikaze Explosion
+TID_AI_SKILL_17,Shield Up
+TID_AI_SKILL_18,Killmaster Killing Time
+TID_AI_SKILL_19,Healing Shot
+TID_AI_SKILL_20,Sonic Burst
+TID_AI_SKILL_21,Sonic Stomp
+TID_AI_SKILL_22,ElectricSlam
+TID_AI_SKILL_23,ShootElectric
+TID_AI_SKILL_24,Heman
+TID_AI_SKILL_25,Overrun by Spider
+TID_AI_SKILL_26,SentryBot Slammer
+TID_AI_SKILL_27,Push
+TID_AI_SKILL_28,Taunt
+TID_AI_SKILL_29,Somersault
+TID_AI_SKILL_30,Wall Explosion
+TID_AI_SKILL_31,Glass Wall Break
+TID_AI_SKILL_32,Roar
+TID_AI_SKILL_33,RoboMissile
+TID_AI_SKILL_34,Alarm
+TID_AI_SKILL_35,Alarm Mute
+TID_AI_SKILL_36,RoboGun
+TID_AI_SKILL_37,RoboSlammer
+TID_AI_SKILL_38,Demolishers Stun Grenade
+TID_AI_SKILL_39,Wushu Stun
+TID_AI_SKILL_40,Wushu Push
+TID_AI_SKILL_41,Wushu Hit
+TID_AI_SKILL_42,Warehousebot ShootElectric
+TID_AI_SKILL_43,Warehousebot ElectricBlast
+TID_AI_SKILL_44,AI ShootElectric
+TID_AI_SKILL_45,General Stun Grenade
+TID_AI_SKILL_46,Healing Power
+TID_AI_SKILL_47,Molotov Cocktail
+TID_AI_SKILL_48,Hooligan Buff
+TID_AI_SKILL_49,Hired Guns Bazooka
+TID_AI_SKILL_50,Hired Guns Movement
+TID_AI_SKILL_51,Shuriken
+TID_AI_SKILL_52,MechWarrior Rocket
+TID_AI_SKILL_53,MechWarrior Slammer
+TID_AI_SKILL_54,MechWarrior Electric Boogie
+TID_AI_SKILL_55,Kingpin Shield Up
+TID_AI_SKILL_56,John Woo Attack
+TID_AI_SKILL_57,Hedonist Push
+TID_AI_SKILL_58,Bush Explosion
+TID_AI_SKILL_59,Pretty Roger Bazooka
+TID_AI_SKILL_60,Epic Merc Heal
+TID_AI_SKILL_61,Epic Merc Bot Missile
+TID_AI_SKILL_62,Epic Merc Bot Gun
+TID_AI_SKILL_63,Epic Merc Heal MK2
+TID_AI_SKILL_64,Power Slam
+TID_AI_SKILL_65,Lava Spit
+TID_AI_SKILL_66,Lava Squirt
+TID_AI_SKILL_67,Ant Poison
+TID_AI_SKILL_68,Pyrox Fire
+TID_AI_SKILL_69,Lash
+TID_AI_SKILL_70,Mushroom Burst
+TID_AI_SKILL_71,Hermit Slammer
+TID_AI_SKILL_72,Hermit Blow
+TID_AI_SKILL_73,Lizard Acid
+TID_AI_SKILL_74,Lizard 360
+TID_AI_SKILL_75,Mosquitobot Sonic Burst
+TID_AI_SKILL_76,Bombot Stun
+TID_AI_SKILL_77,Catherine Poison
+TID_AI_SKILL_78,Catherine Headshot
+TID_AI_SKILL_79,Kamikaze Heal
+TID_AI_SKILL_80,Kamikaze Poison
+TID_AI_SKILL_81,Armor Breaker
+TID_AI_SKILL_82,Powerful Healing Shot
+TID_AI_SKILL_83,Headshot
+TID_AI_SKILL_84,Power of Love
+TID_AI_SKILL_85,Rage of Love
+TID_AI_SKILL_86,Giga Slammer
+TID_AI_SKILL_87,Disembowel
+TID_AI_SKILL_88,Creeping Poison
+TID_AI_SKILL_89,Poison Grenade
+TID_AI_SKILL_90,AI Alert
+TID_AI_SKILL_91,Self Destruct
+TID_AI_SKILL_92,Fire Big Rocket
+TID_AI_SKILL_93,Cavedragon Egg
+TID_AI_SKILL_94,Cavedragon Acid
+TID_AI_SKILL_95,Cavedragon 360
+TID_TOOLTIP_AI_SKILL_QuickShot,Quick and deadly. Deals <DAMAGE> damage.
+TID_TOOLTIP_AI_SKILL_Slammer,A powerful body slam. Deals <DAMAGE> damage and knocks the target back.
+TID_TOOLTIP_AI_SKILL_GRENADE,Throws a grenade to the targeted location. Knocks enemies in the area back and deals <DAMAGE> damage.
+TID_TOOLTIP_AI_SKILL_STUNGRENADE,Throws a stun grenade to the targeted location. Deals <DAMAGE> damage and stuns for <BUFF_DURATION>.
+TID_TOOLTIP_AI_SKILL_KNUCKLESANDWITCH,A nasty jaw-breaker punch. Deals <DAMAGE> damage.
+TID_TOOLTIP_AI_SKILL_SHOTGUN07,"Nasty, ripping shotgun shot. Causes additional <BUFF_DAMAGE> bleed damage over <BUFF_DURATION>."
+TID_TOOLTIP_AI_SKILL_SLAM,"A powerful slam at the target. Crude, but effective. Deals <DAMAGE> damage."
+TID_TOOLTIP_SKILL_GRENADE,Throws a grenade to the targeted location. Knocks enemies in the area back and deals <DAMAGE> damage.
+TID_AI_SKILL_96,Bee Push
+TID_AI_SKILL_100,Friendly Fire Rocket
+TID_AI_SKILL_97,Chieftain Flamer
+TID_AI_SKILL_98,Cripling Shot
+TID_AI_SKILL_99,Shaman Heal
+TID_AI_SKILL_101,Friendly Fire Big Rocket
+TID_AI_SKILL_102,Friendly Fire Sentry Rocket
+TID_AI_SKILL_103,Nerve gas
+TID_AI_SKILL_104,Rage Explosion
+TID_AI_SKILL_105,Enrage
+TID_AI_SKILL_106,Execution Shot
+TID_AI_SKILL_107,Riotbot Slammer
+TID_AI_SKILL_108,Riot Push
+TID_AI_SKILL_109,Nemesis Bazooka
+TID_AI_SKILL_110,Doctor Suicide
+TID_AI_SKILL_111,Buff Grenade
+TID_AI_SKILL_112,Riotbot Rocket
+TID_AI_SKILL_113,Mega Heal
+TID_AI_SKILL_114,SpiderBotTaunt
+TID_AI_SKILL_115,Mafioso Shot
+TID_AI_SKILL_116,Crab Special
+TID_AI_SKILL_117,Grim Rage
+TID_AI_SKILL_118,Grim Taunt
+TID_AI_SKILL_119,Mafioso Headshot
+TID_AI_SKILL_120,Praepropere
+TID_AI_SKILL_121,Forente
+TID_AI_SKILL_122,Nimis
+TID_AI_SKILL_123,Piggy Headshot
+TID_AI_SKILL_124,Killshot
+TID_AI_SKILL_125,Captain Poison
+TID_AI_SKILL_126,Security Headshot
+TID_AI_SKILL_127,Impatience
+TID_AI_SKILL_128,Revenge
+TID_AI_SKILL_129,Slow Explosion
+TID_AI_SKILL_130,Bixie
+TID_AI_SKILL_131,Qilin
+TID_AI_SKILL_132,Alchemy Boost
+TID_AI_SKILL_133,Jealosy
+TID_AI_SKILL_134,Daddys Payback
+TID_AI_SKILL_135,You Killed My Sons
+TID_AI_SKILL_136,Daddy knows the best
+TID_AI_SKILL_137,Emmett Heal
+TID_AI_SKILL_138,Roboto Stun
+TID_AI_SKILL_139,Roboto Push
+TID_AI_SKILL_140,Roboto Hit
+TID_AI_SKILL_141,Night of the Living Dead
+TID_AI_SKILL_142,Braindead
+TID_AI_SKILL_143,Evil Dead
+TID_AI_SKILL_144,Headbite
+TID_AI_SKILL_145,Undead Blow
+TID_AI_SKILL_146,The Aftermath
+TID_AI_SKILL_147,Re-animator
+TID_AI_SKILL_148,Cemetery
+TID_AI_SKILL_149,Zombie Slammer
+TID_AI_SKILL_150,Burning Zombie
+TID_AI_SKILL_151,Zombie Stun Grenade
+TID_AI_SKILL_152,Zombie Push
+TID_AI_SKILL_153,Zombie 360
+TID_AI_SKILL_154,Bane
+TID_AI_SKILL_155,Red Menace
+TID_AI_SKILL_156,Michaela Slammer
+TID_AI_SKILL_157,Nemesis
+TID_AI_SKILL_158,Whiplash
+TID_AI_SKILL_159,Mosh
+TID_AI_SKILL_160,Headbang
+TID_AI_SKILL_161,Somer Assault
+TID_AI_SKILL_162,Bloodpath
+TID_AI_SKILL_163,Pain
+TID_AI_SKILL_164,Zombie doc stunner
+TID_AI_SKILL_165,Zombie rage
+TID_AI_SKILL_166,Butcher
+TID_AI_SKILL_167,Bombs Away
+TID_AI_SKILL_168,Bomber Spin
+TID_AI_SKILL_169,Anger Slammer
+TID_AI_SKILL_170,Pain Slammer
+TID_AI_SKILL_171,Gyro Rage
+TID_AI_SKILL_172,Gyro Gyro!
+TID_AI_SKILL_173,Bloody Mess
+TID_AI_SKILL_174,Cut and Bleed
+TID_AI_SKILL_175,Hunters Away
+TID_AI_SKILL_176,Doctors Away
+TID_AI_SKILL_177,Headmaster Slammer
+TID_AI_SKILL_178,Headmaster Push
+TID_AI_SKILL_179,Headmaster
+TID_AI_SKILL_180,Electric Blast
+TID_AI_SKILL_181,Asher
+TID_AI_SKILL_182,Cleaning the Streets
+TID_AI_SKILL_183,Solar
+TID_AI_SKILL_184,Deadly Splash
+TID_AI_SKILL_185,Gory Sleeper
+TID_AI_SKILL_186,Vertical Rage
+TID_AI_SKILL_187,Spaghetti
+TID_AI_SKILL_188,Meatball
+TID_AI_SKILL_189,Sleep with the fishes
+TID_AI_SKILL_190,Chop
+TID_AI_SKILL_191,Deglaze
+TID_AI_SKILL_192,Foie Gras
+TID_AI_SKILL_193,Capo di tutti capi
+TID_AI_SKILL_194,Omerta

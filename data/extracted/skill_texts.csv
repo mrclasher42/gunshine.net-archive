@@ -1,0 +1,88 @@
+Name,Text
+TID_TOOLTIP_SKILL_Taunt,Taunts the enemy to get their attention.
+TID_TOOLTIP_SKILL_BulletRain,Deals <DAMAGE> damage to the target and enemies around the target.
+TID_TOOLTIP_SKILL_EnemyDemoralizer,Decreases the melee power of the surrounding enemies for <BUFF_DURATION> and causes a high threat.
+TID_TOOLTIP_SKILL_Slammer,"Smash the ground to create an impact throwing all the enemies back, dealing <DAMAGE> additional damage."
+TID_TOOLTIP_SKILL_MegaStrike,A megalomanic strike dealing <DAMAGE> additional damage to your normal attack. Causes a high amount of threat.
+TID_TOOLTIP_SKILL_MassBlackout,Stuns all the hostile targets within <AOE_RADIUS> for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Supporter,Grants all the friendly characters within <AOE_RADIUS> <BUFF_STAMINA> stamina for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Energizer,Restores <BUFF_ENERGY> energy over <BUFF_DURATION> with the cost of instantly losing 15 health.
+TID_TOOLTIP_SKILL_Deception,Weapon stike that reduces enemy armor by <BUFF_ARMOR%> for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_LegBreaker,Deals additional <DAMAGE> damage to basic damage. Slows down the target for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_ToxicAvenge,Powerful toxic that spreads amongst the enemies for <BUFF_DURATION>. Targets under the influence suffer <BUFF_DAMAGE> damage over time.
+TID_TOOLTIP_SKILL_SyanideSurprise,Decreases enemy's armor by <BUFF_ARMOR%> while causing <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_PoisonShot,Decreases skill and movement speed of the enemy and causes <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_NerveGas,Decreases the movement and skill speed of all enemies around the target for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_MedicalTreatment,Use your blade for surgeric treatment and heal your fellow party members with <DAMAGE> healing bonus.
+TID_TOOLTIP_SKILL_Twirler,Deals additional <DAMAGE> bonus damage to all surrounding enemies. Causes a high threat.
+TID_TOOLTIP_SKILL_AimedShot,Deals additional <DAMAGE> damage to basic damage. Stuns the enemy for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_TraumaShot,Deals additional <DAMAGE> damage to basic damage. Also stuns the target and decreases the armor by <BUFF_ARMOR> for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_ObnoxiousShot,Deals additional <DAMAGE> damage to basic damage and slows down the enemies in <AOE_RADIUS> radius over the target.
+TID_TOOLTIP_SKILL_VirusShot,Direct hit to the chest dealing <DAMAGE> bonus damage and stunning the enemy for seconds
+TID_TOOLTIP_SKILL_ShootingMadness,Speeds up the shooting for 10 secs
+TID_TOOLTIP_SKILL_EMPShot,Dealing <DAMAGE> bonus damage to target. Targets suffers from minor damage for additional 5 secs after the hit.
+TID_TOOLTIP_SKILL_LegShot,Deals additional <DAMAGE> damage to basic damage. Slows down the enemy for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_HeadWound,Deals additional <DAMAGE> damage to basic damage.
+TID_TOOLTIP_SKILL_Focus,Increases your attack speed and decreases your movement speed for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_KnockDownShot,Deals additional <DAMAGE> damage to basic damage and knocks down the target.
+TID_TOOLTIP_SKILL_BoastShooting,Deals additional <DAMAGE> damage to basic damage.
+TID_TOOLTIP_SKILL_WoundingShot,Causes the basic damage and additional <BUFF_DAMAGE> bleed damage over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Swiftness,Gives a boost to your movement speed and major boost to the speed you perform your special skills.
+TID_TOOLTIP_SKILL_ArteryOpener,Deals additional <DAMAGE> damage to basic damage. Enemy suffers from major damage for 3 seconds after the hit.
+TID_TOOLTIP_SKILL_FranticMind,Grants all the friendly characters within <AOE_RADIUS> <BUFF_AGILITY> ranged power and <BUFF_STRENGTH> melee power for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_SkullCrush,Deals additional <DAMAGE> damage to basic damage. Enemy suffers from additional <BUFF_DAMAGE> damage over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_LoonieonLoose,"Temporarily increases your movement speed, close combat damage, and health but makes you also lose some health."
+TID_TOOLTIP_SKILL_SinisterCut,Increases the speed you perform your skills for a short period of time
+TID_TOOLTIP_SKILL_RudeSmash,Knocks back the target and deals <DAMAGE> damage in addition to basic weapon damage
+TID_TOOLTIP_SKILL_PowerUnleash,Friends around you get their close range damage increased for a short period of time
+TID_TOOLTIP_SKILL_Thruster,Deals additional <DAMAGE> bonus damage while pushing the enemy away
+TID_TOOLTIP_SKILL_EunuchMaker,"Powerful hit to the groin makes good instant damage, slows down the target by <BUFF_MOVEMENT> and causes <BUFF_DAMAGE> extra damage over <BUFF_DURATION>."
+TID_TOOLTIP_SKILL_HamstringPoison,"Toxicates the target for <BUFF_DURATION> making them unable to attack. In addition, target receives <BUFF_DAMAGE>."
+TID_TOOLTIP_SKILL_HealingShot,Heals friendly target for <DAMAGE>.
+TID_TOOLTIP_SKILL_QuickHelp,Heals friendly target for <DAMAGE>. Requires a lot of energy so use only in emergencies.
+TID_TOOLTIP_SKILL_PresenceOfTheMedic,Friends around you get <BUFF_DAMAGE> health and <BUFF_ENERGY> energy over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Mend,Heals your friendly target for <BUFF_DAMAGE> over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_EmergencyTreatment,Heals your friendly target for <DAMAGE>.
+TID_TOOLTIP_SKILL_Bandaging,Close range healing skill which heals friendly target for <DAMAGE> and <DAMAGE_BUFF> over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_DoctorsAppointment,Heals friendly targets around you for <BUFF_DAMAGE> over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_RENEW,Heals the target for <BUFF_DAMAGE> over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_UnrealShot,Ranged shot that heals the friendly target and all the surrounding allies by <BUFF_DAMAGE> over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_SmartMinds,Grants all the friendly characters within <AOE_RADIUS> a <BUFF_INTELLIGENCE> intelligence for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Bleeder,Deals additional <BUFF_DAMAGE> to your normal damage over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_HeavyArmor,Increases your armor by <BUFF_ARMOR> for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_SavageStrike,Deals additional <DAMAGE> damage and slows down the attacks of all nearby enemies for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Harden,Increases your armor by <BUFF_ARMOR> for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Hurricane,Deals additional <DAMAGE> damage and knocks back all surrounding enemies.
+TID_TOOLTIP_SKILL_AggroSmash,Stuns all surrounding enemies for <BUFF_DURATION>. Causes high threat.
+TID_TOOLTIP_SKILL_BerserkStrike,Increases your Melee Power by <BUFF_STRENGTH> and your attack speed for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_CripplingShot,Deals additional <DAMAGE> damage. Slows down the enemy for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Repel,Knocks back target and all enemies within <AOE_RADIUS> of the target.
+TID_TOOLTIP_SKILL_RippingShot,Deals additional <DAMAGE> damage and causes <BUFF_DAMAGE> damage and <BUFF_ENERGY> energy bleed over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_EnergySpike,Friendly target gains <ENERGY> energy.
+TID_TOOLTIP_SKILL_PocketRocket,Deals additional <DAMAGE> damage to target enemy and all enemies within <AOE_RADIUS> of the target.
+TID_TOOLTIP_SKILL_SmoothMoves,All friendly characters within <AOE_RADIUS> move and attack faster for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_SmoothMoves2,All friendly characters within <AOE_RADIUS> move and attack faster for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_Knocker,Deals additional <DAMAGE> damage and knocks the target on the ground.
+TID_TOOLTIP_SKILL_QuickHeal,Heals your friendly target for <DAMAGE>.
+TID_TOOLTIP_SKILL_PoisonBullet,Heals friendly target for <DAMAGE> over <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_DoctorsShield,Increases your armor by <BUFF_ARMOR%> for <BUFF_DURATION>.
+TID_TOOLTIP_SKILL_GroupHeal,Heals all friendly target around <AOE_RADIUS> for <DAMAGE>.
+TID_TOOLTIP_SKILL_SonicBoom,Stuns the target enemy and all the enemies within <AOE_RADIUS> of the target for <BUFF_DURATION>.
+TID_SKILL_0,Savage Strike
+TID_SKILL_1,Harden
+TID_SKILL_2,Hurricane
+TID_SKILL_3,Aggro Smash
+TID_SKILL_4,Berserk Rage
+TID_SKILL_5,Crippling Shot
+TID_SKILL_6,Repel
+TID_SKILL_7,Ripping Shot
+TID_SKILL_8,Energy Spike
+TID_SKILL_9,Pocket Rocket
+TID_SKILL_10,Smooth Moves
+TID_SKILL_11,Knocker
+TID_SKILL_12,Quick Heal
+TID_SKILL_13,Mend
+TID_SKILL_14,Doctor's Shield
+TID_SKILL_15,Group Heal
+TID_SKILL_16,Sonic Boom
+TID_SKILL_17,Taunt

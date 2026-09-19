@@ -1,0 +1,131 @@
+Name,WeaponClass,WeaponDamage%,CriticalChance,Icon,TOOL_TIP_TID
+Melee Weapon Mastery,Melee Weapon,1,,1,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,2,,,
+,,3,,,
+,,4,,,
+,,5,,,
+Axe Mastery,Axe,2,,93,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Axe Superiority,Axe,,2,93,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Tool Mastery,Basher,2,,95,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Tool Superiority,Basher,,2,95,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Bashing Item Mastery,Basher,2,,94,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Bashing Item Superiority,Basher,,2,94,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Knife Mastery,Knife,2,,108,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Knife Superiority,Knife,,2,120,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Sword Mastery,Sword,2,,109,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Sword Superiority,Sword,,2,121,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Saw Mastery,Saw,2,,110,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Saw Superiority,Saw,,2,122,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Hand gun Mastery,Hand Gun,2,,111,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Hand gun Superiority,Hand Gun,,2,123,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Shotgun Mastery,Shotgun,2,,112,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Shotgun Superiority,Shotgun,,2,124,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+SMG Mastery,SMG,2,,113,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+SMG Superiority,SMG,,2,125,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Rifle Mastery,Rifle,2,,114,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Rifle Superiority,Rifle,,2,126,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Minigun Mastery,Minigun,2,,115,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Minigun Superiority,Minigun,,2,127,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Sniper Rifle Mastery,Sniper Rifle,2,,116,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,4,,,
+,,6,,,
+,,8,,,
+,,10,,,
+Sniper Rifle Superiority,Sniper Rifle,,2,128,TID_PASSIVE_SKILL_TOOL_TIP_superiority
+,,,4,,
+,,,6,,
+,,,8,,
+,,,10,,
+Ranged Weapon Mastery,Ranged Weapon,1,,1,TID_PASSIVE_SKILL_TOOL_TIP_mastery
+,,2,,,
+,,3,,,
+,,4,,,
+,,5,,,

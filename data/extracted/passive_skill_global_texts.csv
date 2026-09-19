@@ -1,0 +1,23 @@
+Name,Text
+TID_PASSIVE_SKILL_GLOBAL_0,Melee Master
+TID_PASSIVE_SKILL_GLOBAL_1,Ranged Master
+TID_PASSIVE_SKILL_GLOBAL_2,Armor Improvement
+TID_PASSIVE_SKILL_GLOBAL_3,Bodybuilder
+TID_PASSIVE_SKILL_GLOBAL_4,Street Credibility
+TID_PASSIVE_SKILL_GLOBAL_5,Swift Muscles
+TID_PASSIVE_SKILL_GLOBAL_6,Strongheart
+TID_PASSIVE_SKILL_GLOBAL_7,Wise One
+TID_PASSIVE_SKILL_GLOBAL_8,Additional Studies
+TID_PASSIVE_SKILL_GLOBAL_9,Survival Instinct
+TID_PASSIVE_SKILL_GLOBAL_10,Nimble Doctor
+TID_PASSIVE_GLOBAL_TOOL_TIP_ArmorImprovement,Increases your armor by <ARMOR>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_Bodybuilder,Increases your strength by <STRENGTH> and stamina by <STAMINA> while decreasing your armor by <ARMOR>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_StreetCredibility,Increases your overall energy by <MAX_ENERGY>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_SwiftMuscles,Increases your overall agility by <AGILITY> and overall health by <MAX_HP>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_Strongheart,Increases your health by <MAX_HP> while decreasing armor by <ARMOR>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_WiseOne,Makes you a bit brighter than others. Increases your total intelligence by <INTELLIGENCE>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_AdditionalStudies,Increases your intelligence by <INTELLIGENCE>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_SurvivalInstinct,Increases your maximum health by <MAX_HP>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_NimbleDoctor,Increases your agility by <AGILITY> and intelligence by <INTELLIGENCE>.
+TID_PASSIVE_GLOBAL_TOOL_TIP_Bookworm,Increases your intelligence by <INTELLIGENCE> but with the reduction of your stamina by <STAMINA>.
+TID_PASSIVE_SKILL_GLOBAL_11,Bookworm

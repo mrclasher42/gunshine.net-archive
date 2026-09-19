@@ -1,0 +1,30 @@
+Name,Rarity,CanBeUsedInDailyMissions,GameMoneyCost,RealMoneyCost,Icon,LootMinLevel,LootMaxLevel,LootResource,LootExportName,YELLOW_TEXT_TID,DropSound,PostToSocialNetworks,RespawnDuration,RespawnDurationHUB
+Money,Common,,,,5,,,graphics/loot/loot_box1.swf,LootMoney,,DropItemMoney,,,
+Boozes,Mission,,,,,,,graphics/decos/druglab/drugs_factory_objects_v01.swf,Drugs_Factory_Can_03,,,,240,3
+Package,Mission,TRUE,,,,,,graphics/decos/druglab/drugs_factory_objects_v01.swf,Drugs_Factory_Package_Stack_Small_01,,,,240,3
+Goods,Mission,TRUE,,,,,,graphics/decos/druglab/drugs_factory_objects_v01.swf,Drugs_Factory_Package_Stack_Small_02,,,,240,3
+Explosive,Mission,,,,,,,graphics/decos/druglab/drugs_factory_objects_v01.swf,Drugs_Factory_Can_06,,,,240,3
+Shipment,Mission,TRUE,,,,,,graphics/decos/druglab/drugs_factory_objects_v01.swf,Drugs_Factory_Package_Stack_Small_04,,,,240,3
+Gasoline,Mission,,,,,,,graphics/decos/train_yard/industrial_common.swf,jerrycan_1,,,,240,3
+Key Card,Mission,,,,,,,graphics/loot/loot_box1.swf,lootkey,,InventoryDrop,,240,3
+Propane tank,Mission,,,,,,,graphics/decos/train_yard/industrial_common.swf,propane_tank_1,,InventoryDrop,,240,3
+Weapon Case,Mission,,,,,,,graphics/loot/loot_box1.swf,loot_treasure_box,,InventoryDrop,,240,3
+Data disc,Mission,TRUE,,,,,,graphics/loot/loot_box1.swf,loot_datadisc,,InventoryDrop,,240,3
+Gunbox,Mission,,,,,,,graphics/decos/items/weapons_containers.swf,weapon_box2,,,,240,3
+Medical Box,Mission,,,,,,,graphics/decos/items/weapons_containers.swf,medicine_box,,,,120,3
+Ant Egg,Mission,,,,,,,graphics/loot/loot_box1.swf,LootAntEgg,,InventoryDrop,,480,3
+Ant Head,Mission,,,,,,,graphics/loot/loot_box1.swf,LootAntHead,,InventoryDrop,,240,3
+Resource Spot,Common,,,,,,,graphics/loot/resource_spot.swf,RingAnimations,,,,,3
+Lizard Egg,Mission,,,,,,,graphics/decos/lizard_eggs/lizard_eggs.swf,liz_egg_small,,,,240,3
+Coupon,Mission,,,,,,,graphics/decos/new_beginning/forest_assets.swf,voucher,,InventoryDrop,,240,3
+Coupon Suitcase,Mission,,,,,,,graphics/decos/new_beginning/forest_assets.swf,voucher_suitcase,,InventoryDrop,,240,3
+MudCrab Egg,Mission,,,,,,,graphics/decos/lizard_eggs/lizard_eggs.swf,liz_egg_small,,,,240,3
+Woodpile,Mission,,,,,,,graphics/decos/train_yard/industrial_common.swf,pallet_pile_1,,,,240,3
+Bobinator,Mission,,,,,,,graphics/decos/wall_passables/plastic_explosive.swf,plastic_explosive,,,,680,3
+Box of Ammo,Mission,,,,,,,graphics/decos/items/crates.swf,ammo_rounds,,,,240,3
+Metal Shard,Mission,,,,,,,graphics/decos/buildings/ruins_pieces.swf,piece_ruins_frame02,,,,240,3
+Battery Shelf,Mission,,,,,,,graphics/decos/interiors_common/warehouse_shelves.swf,shelves_03_back,,,,240,3
+trash wire,Mission,,,,,,,graphics/decos/street/street_generic.swf,trash_wire_1,,,,240,3
+blueprints,Mission,,,,,,,graphics/decos/interiors_common/interiors_office_decos.swf,paper_pile_2,,,,1680,3
+blueprints2,Mission,,,,,,,graphics/decos/interiors_common/interiors_office_decos.swf,wall_notes_1,,,,240,3
+Satelite Dish,Mission,,,,,,,graphics/decos/rooftop/rooftop_generic.swf,roof_dish2,,,,240,3

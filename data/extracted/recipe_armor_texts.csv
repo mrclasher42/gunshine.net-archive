@@ -1,0 +1,730 @@
+Name,Text
+TID_RECIPE_ARMOR_0,Plans: Hunter's Jacket
+TID_RECIPE_ARMOR_1,Plans: Olive Drab Smock
+TID_RECIPE_ARMOR_2,Plans: Hunter's Top
+TID_RECIPE_ARMOR_3,Plans: Shooting Jacket
+TID_RECIPE_ARMOR_4,Plans: Aviator Jacket
+TID_RECIPE_ARMOR_5,Plans: Flak Vest
+TID_RECIPE_ARMOR_6,Plans: Hunter's Body Armor
+TID_RECIPE_ARMOR_7,Plans: Wolf Jacket
+TID_RECIPE_ARMOR_8,Plans: Arabic Vest
+TID_RECIPE_ARMOR_9,Plans: Stealth Jacket
+TID_RECIPE_ARMOR_10,Plans: All-weather Jacket
+TID_RECIPE_ARMOR_11,Plans: Doctor's Jacket
+TID_RECIPE_ARMOR_12,Plans: Doctor's Top
+TID_RECIPE_ARMOR_13,Plans: Designer Jacket
+TID_RECIPE_ARMOR_14,Plans: Dust Jacket
+TID_RECIPE_ARMOR_15,Plans: Suede Shirt
+TID_RECIPE_ARMOR_16,Plans: Surgeon's Shirt
+TID_RECIPE_ARMOR_17,Plans: Golf Polo
+TID_RECIPE_ARMOR_18,Plans: Hospital White Jacket
+TID_RECIPE_ARMOR_19,Plans: Nurse's Jacket
+TID_RECIPE_ARMOR_20,Plans: Exclusive Jacket
+TID_RECIPE_ARMOR_21,Plans: Antimicrobial Shirt
+TID_RECIPE_ARMOR_22,Plans: Bodyguard's Shirt
+TID_RECIPE_ARMOR_23,Plans: Brawny Shirt
+TID_RECIPE_ARMOR_24,Plans: Bodyguard's Top
+TID_RECIPE_ARMOR_25,Plans: Protector Jacket
+TID_RECIPE_ARMOR_26,Plans: Bomber Jacket
+TID_RECIPE_ARMOR_27,Plans: Tough Guy Jacket
+TID_RECIPE_ARMOR_28,Plans: Biker Jacket
+TID_RECIPE_ARMOR_29,Plans: Night Club Jacket
+TID_RECIPE_ARMOR_30,Plans: Attitude Shirt
+TID_RECIPE_ARMOR_31,Plans: Dragon Vest
+TID_RECIPE_ARMOR_32,Plans: Extra Large Shirt
+TID_RECIPE_ARMOR_33,Plans: Blue Jeans
+TID_RECIPE_ARMOR_34,Plans: Hunter's Trousers
+TID_RECIPE_ARMOR_35,Plans: Beast Pants
+TID_RECIPE_ARMOR_36,Plans: Armored Pants
+TID_RECIPE_ARMOR_37,Plans: Safari Pants
+TID_RECIPE_ARMOR_38,Plans: Aviator Trousers
+TID_RECIPE_ARMOR_39,Plans: Combat Pants
+TID_RECIPE_ARMOR_40,Plans: Fatigue Pants
+TID_RECIPE_ARMOR_41,Plans: Hyena Pants
+TID_RECIPE_ARMOR_42,Plans: Arabic Pants
+TID_RECIPE_ARMOR_43,Plans: Stealth Pants
+TID_RECIPE_ARMOR_44,Plans: One Shot Pants
+TID_RECIPE_ARMOR_45,Plans: Hi-Tech Hunting Pants
+TID_RECIPE_ARMOR_46,Plans: Hiking Pants
+TID_RECIPE_ARMOR_47,Plans: Doctor's Trousers
+TID_RECIPE_ARMOR_48,Plans: Comfy Slacks
+TID_RECIPE_ARMOR_49,Plans: Armored Trousers
+TID_RECIPE_ARMOR_50,Plans: Pleated Pants
+TID_RECIPE_ARMOR_51,Plans: Suede Pants
+TID_RECIPE_ARMOR_52,Plans: Doctor's Pants
+TID_RECIPE_ARMOR_53,Plans: Linen Pants
+TID_RECIPE_ARMOR_54,Plans: Clean Suit Pants
+TID_RECIPE_ARMOR_55,Plans: Nurse's Pants
+TID_RECIPE_ARMOR_56,Plans: Exclusive Pants
+TID_RECIPE_ARMOR_57,Plans: Conference Trousers
+TID_RECIPE_ARMOR_58,Plans: Scalpel Pants
+TID_RECIPE_ARMOR_59,Plans: Casual Jeans
+TID_RECIPE_ARMOR_60,Plans: Bodyguard's Pants
+TID_RECIPE_ARMOR_61,Plans: Kevlar Pants
+TID_RECIPE_ARMOR_62,Plans: Bouncer's Jeans
+TID_RECIPE_ARMOR_63,Plans: Armored Jeans
+TID_RECIPE_ARMOR_64,Plans: Protector Pants
+TID_RECIPE_ARMOR_65,Plans: Bomber Pants
+TID_RECIPE_ARMOR_66,Plans: Tough Guy Trousers
+TID_RECIPE_ARMOR_67,Plans: Groin Protector Pants
+TID_RECIPE_ARMOR_68,Plans: Bodybuilder Slacks
+TID_RECIPE_ARMOR_69,Plans: Attitude Pants
+TID_RECIPE_ARMOR_70,Plans: Dragon Tights
+TID_RECIPE_ARMOR_71,Plans: Pitbull Pants
+TID_RECIPE_ARMOR_72,Plans: Muscle Pants
+TID_RECIPE_ARMOR_73,Plans: Light Jacket
+TID_RECIPE_ARMOR_74,Plans: Outdoor Jacket
+TID_RECIPE_ARMOR_75,Plans: Running Shirt
+TID_RECIPE_ARMOR_76,Plans: Heavy Jacket
+TID_RECIPE_ARMOR_77,Plans: Riot Coat
+TID_RECIPE_ARMOR_78,Plans: Hot Jacket
+TID_RECIPE_ARMOR_79,Plans: Light Pants
+TID_RECIPE_ARMOR_80,Plans: Outdoor Pants
+TID_RECIPE_ARMOR_81,Plans: Combat Trousers
+TID_RECIPE_ARMOR_82,Plans: Heavy Pants
+TID_RECIPE_ARMOR_83,Plans: Tearproof Pants
+TID_RECIPE_ARMOR_84,Plans: Heavy Jeans
+TID_RECIPE_ARMOR_85,Plans: Ordinary Pants
+TID_RECIPE_ARMOR_86,Plans: Favorite Pants
+TID_RECIPE_ARMOR_87,Plans: Rock Hard
+TID_RECIPE_ARMOR_88,Plans: Sandwashed
+TID_RECIPE_ARMOR_89,Plans: Jules Pants
+TID_RECIPE_ARMOR_90,Plans: Jules Trousers
+TID_RECIPE_ARMOR_91,Plans: Vega Jacket
+TID_RECIPE_ARMOR_92,Plans: Vega Coat
+TID_RECIPE_ARMOR_93,Plans: Worthy Custom Jacket
+TID_RECIPE_ARMOR_94,Plans: Boosted Custom Jacket
+TID_RECIPE_ARMOR_95,Plans: Acute Custom Jacket
+TID_RECIPE_ARMOR_96,Plans: Genuine Custom Jacket
+TID_RECIPE_ARMOR_97,Plans: Singular Custom Jacket
+TID_RECIPE_ARMOR_98,Plans: Exquisite Custom Jacket
+TID_RECIPE_ARMOR_99,Plans: High Power Custom Jacket
+TID_RECIPE_ARMOR_100,Plans: Special Custom Jacket
+TID_RECIPE_ARMOR_101,Plans: Elegant Custom Jacket
+TID_RECIPE_ARMOR_102,Plans: Great Custom Jacket
+TID_RECIPE_ARMOR_103,Plans: Cool Custom Jacket
+TID_RECIPE_ARMOR_104,Plans: Jagged Custom Jacket
+TID_RECIPE_ARMOR_105,Plans: Radical Custom Jacket
+TID_RECIPE_ARMOR_106,Plans: First Class Custom Jacket
+TID_RECIPE_ARMOR_107,Plans: Street Wise Protector
+TID_RECIPE_ARMOR_108,Plans: Worthy Protector
+TID_RECIPE_ARMOR_109,Plans: Boosted Protector
+TID_RECIPE_ARMOR_110,Plans: Acute Protector
+TID_RECIPE_ARMOR_111,Plans: Greater Protector
+TID_RECIPE_ARMOR_112,Plans: Singular Protector
+TID_RECIPE_ARMOR_113,Plans: Exquisite Protector
+TID_RECIPE_ARMOR_114,Plans: Worthy Thick Pants
+TID_RECIPE_ARMOR_115,Plans: Boosted Thick Pants
+TID_RECIPE_ARMOR_116,Plans: Acute Thick Pants
+TID_RECIPE_ARMOR_117,Plans: Genuine Thick Pants
+TID_RECIPE_ARMOR_118,Plans: Singular Thick Pants
+TID_RECIPE_ARMOR_119,Plans: Exquisite Thick Pants
+TID_RECIPE_ARMOR_120,Plans: High Power Thick Pants
+TID_RECIPE_ARMOR_121,Plans: Special Thick Pants
+TID_RECIPE_ARMOR_122,Plans: Elegant Thick Pants
+TID_RECIPE_ARMOR_123,Plans: Great Thick Pants
+TID_RECIPE_ARMOR_124,Plans: Cool Thick Pants
+TID_RECIPE_ARMOR_125,Plans: Jagged Thick Pants
+TID_RECIPE_ARMOR_126,Plans: Radical Thick Pants
+TID_RECIPE_ARMOR_127,Plans: First Class Thick Pants
+TID_RECIPE_ARMOR_128,Plans: Street Wise Protective Pants
+TID_RECIPE_ARMOR_129,Plans: Worthy Protective Pants
+TID_RECIPE_ARMOR_130,Plans: Boosted Protective Pants
+TID_RECIPE_ARMOR_131,Plans: Acute Protective Pants
+TID_RECIPE_ARMOR_132,Plans: Greater Protective Pants
+TID_RECIPE_ARMOR_133,Plans: Singular Protective Pants
+TID_RECIPE_ARMOR_134,Plans: Exquisite Protective Pants
+TID_RECIPE_ARMOR_135,Plans: Nice Protector
+TID_RECIPE_ARMOR_136,Plans: Nice Thick Pants
+TID_RECIPE_ARMOR_137,Plans: Cluster Stimulator Jacket
+TID_RECIPE_ARMOR_138,Plans: Neurodrive Coat
+TID_RECIPE_ARMOR_139,Plans: Self-regulating Healing Jacket
+TID_RECIPE_ARMOR_140,Plans: Optical Health Jacket
+TID_RECIPE_ARMOR_141,Plans: Subdermal Healt Coat
+TID_RECIPE_ARMOR_142,Plans: Nuclear Coat
+TID_RECIPE_ARMOR_143,Plans: Powered Osteonegator Jacket
+TID_RECIPE_ARMOR_144,Plans: Stabilizing Trousers
+TID_RECIPE_ARMOR_145,Plans: High-speed Aeropants
+TID_RECIPE_ARMOR_146,Plans: Adrenal Health Pants
+TID_RECIPE_ARMOR_147,Plans: Autotissue Trousers
+TID_RECIPE_ARMOR_148,Plans: Powered Charging Pants
+TID_RECIPE_ARMOR_149,Plans: Implanted Limb Pants
+TID_RECIPE_ARMOR_150,Plans: Optical Technocluster Trousers
+TID_RECIPE_ARMOR_151,Plans: Gastric Seeking Pants
+TID_RECIPE_ARMOR_152,Plans: Darkon-Darkener
+TID_RECIPE_ARMOR_153,Plans: Blocking Shroud
+TID_RECIPE_ARMOR_154,Plans: Guardian-Douser
+TID_RECIPE_ARMOR_155,Plans: Blocking Unit
+TID_RECIPE_ARMOR_156,Plans: Protective Cloak
+TID_RECIPE_ARMOR_157,Plans: Guardian Obscurer
+TID_RECIPE_ARMOR_158,Plans: Mobility Mechanism
+TID_RECIPE_ARMOR_159,Plans: Atomo Irradiator
+TID_RECIPE_ARMOR_160,Plans: Motion Relocator
+TID_RECIPE_ARMOR_161,Plans: Motion Attacker
+TID_RECIPE_ARMOR_162,Plans: Military War Battler
+TID_RECIPE_ARMOR_163,Plans: Battle-Relocator
+TID_RECIPE_ARMOR_164,Plans: Suit Pants
+TID_RECIPE_ARMOR_165,Plans: Schweiz Pants
+TID_RECIPE_ARMOR_166,Plans: Clinic Pants
+TID_RECIPE_ARMOR_167,Plans: Administrator Pants
+TID_RECIPE_ARMOR_168,Plans: Conference Trousers
+TID_RECIPE_ARMOR_169,Plans: Shrink's Pants
+TID_RECIPE_ARMOR_170,Plans: Euthanasia Pants
+TID_RECIPE_ARMOR_171,Plans: Pandemic Pants
+TID_RECIPE_ARMOR_172,Plans: Scalpel Pants
+TID_RECIPE_ARMOR_173,Plans: Antimicrobial Pants
+TID_RECIPE_ARMOR_174,Plans: Casual Jeans
+TID_RECIPE_ARMOR_175,Plans: Bodyguard's Pants
+TID_RECIPE_ARMOR_176,Plans: Kevlar Pants
+TID_RECIPE_ARMOR_177,Plans: Bouncer's Jeans
+TID_RECIPE_ARMOR_178,Plans: Armored Jeans
+TID_RECIPE_ARMOR_179,Plans: Protector Pants
+TID_RECIPE_ARMOR_180,Plans: Bomber Pants
+TID_RECIPE_ARMOR_181,Plans: Tough Guy Trousers
+TID_RECIPE_ARMOR_182,Plans: Groin Protector Pants
+TID_RECIPE_ARMOR_183,Plans: Bodybuilder Slacks
+TID_RECIPE_ARMOR_184,Plans: Bodyguard Pants
+TID_RECIPE_ARMOR_185,Plans: Attitude Pants
+TID_RECIPE_ARMOR_186,Plans: Tank Pants
+TID_RECIPE_ARMOR_187,Plans: Bulletproof Trousers
+TID_RECIPE_ARMOR_188,Plans: Band Jeans
+TID_RECIPE_ARMOR_189,Plans: Casual Slacks
+TID_RECIPE_ARMOR_190,Plans: Elite Pants
+TID_RECIPE_ARMOR_191,Plans: Rock Jeans
+TID_RECIPE_ARMOR_192,Plans: Secret Service Pants
+TID_RECIPE_ARMOR_193,Plans: Cordura Pants
+TID_RECIPE_ARMOR_194,Plans: Vanguard Trousers
+TID_RECIPE_ARMOR_195,Plans: Melee Pants
+TID_RECIPE_ARMOR_196,Plans: Dragon Tights
+TID_RECIPE_ARMOR_197,Plans: Championship Pants
+TID_RECIPE_ARMOR_198,Plans: Bulldog Jeans
+TID_RECIPE_ARMOR_199,Plans: Linebacker's Pants
+TID_RECIPE_ARMOR_200,Plans: Wrestling Pants
+TID_RECIPE_ARMOR_201,Plans: No Nonsense Pants
+TID_RECIPE_ARMOR_202,Plans: VIP Bottom
+TID_RECIPE_ARMOR_203,Plans: Dress Uniform Pants
+TID_RECIPE_ARMOR_204,Plans: Extra Large Pants
+TID_RECIPE_ARMOR_205,Plans: Pitbull Pants
+TID_RECIPE_ARMOR_206,Plans: Radical Pants
+TID_RECIPE_ARMOR_207,Plans: Flex Pants
+TID_RECIPE_ARMOR_208,Plans: Bouncer Pants
+TID_RECIPE_ARMOR_209,Plans: Muscle Pants
+TID_RECIPE_ARMOR_210,Plans: Hardman Pants
+TID_RECIPE_ARMOR_211,Plans: Digiplayer Shades
+TID_RECIPE_ARMOR_212,Plans: Solar Shades
+TID_RECIPE_ARMOR_213,Plans: Holo Shades
+TID_RECIPE_ARMOR_214,Plans: Hunter's Shades
+TID_RECIPE_ARMOR_215,Plans: Infiltrator's Shades
+TID_RECIPE_ARMOR_216,Plans: Sniper's Shades
+TID_RECIPE_ARMOR_217,Plans: One Eye Visor
+TID_RECIPE_ARMOR_218,Plans: Cyclops Visor
+TID_RECIPE_ARMOR_219,Plans: Pirate Vis-arrrrrrh!
+TID_RECIPE_ARMOR_220,Plans: Light Visor
+TID_RECIPE_ARMOR_221,Plans: Mirror Visor
+TID_RECIPE_ARMOR_222,Plans: Sungazing Visor
+TID_RECIPE_ARMOR_223,Plans: Pro-scout Headgear
+TID_RECIPE_ARMOR_224,Plans: Supersoldier Headgear
+TID_RECIPE_ARMOR_225,Plans: EyeSeaz
+TID_RECIPE_ARMOR_226,Plans: EyeSpotz
+TID_RECIPE_ARMOR_227,Plans: EyeSpyz
+TID_RECIPE_ARMOR_228,Plans: Collar Visor
+TID_RECIPE_ARMOR_229,Plans: Street Visor
+TID_RECIPE_ARMOR_230,Plans: Faceless Visor
+TID_RECIPE_ARMOR_231,Plans: Sentry Optics
+TID_RECIPE_ARMOR_232,Plans: Sharpshooter Optics
+TID_RECIPE_ARMOR_233,Plans: Orbital Optics
+TID_RECIPE_ARMOR_234,Plans: Steel-rimmed Shades
+TID_RECIPE_ARMOR_235,Plans: LED-enhanced Shades
+TID_RECIPE_ARMOR_236,Plans: Pyrox's Shades
+TID_RECIPE_ARMOR_237,Plans: SynthGlass Eye
+TID_RECIPE_ARMOR_238,Plans: Pirated LabyEye
+TID_RECIPE_ARMOR_239,Plans: Chicago Shades
+TID_RECIPE_ARMOR_240,Plans: Mirror Shades
+TID_RECIPE_ARMOR_241,Plans: Bionic Ocular
+TID_RECIPE_ARMOR_242,Plans: Green Scarf
+TID_RECIPE_ARMOR_243,Plans: Red Scarf
+TID_RECIPE_ARMOR_244,Plans: Blue Scarf
+TID_RECIPE_ARMOR_245,Plans: Mood Necklace
+TID_RECIPE_ARMOR_246,Plans: Power Bandana
+TID_RECIPE_ARMOR_247,Plans: Polished Necklace
+TID_RECIPE_ARMOR_248,Plans: Bandana
+TID_RECIPE_ARMOR_249,Plans: Blaster Necklace
+TID_RECIPE_ARMOR_250,Plans: Dramatic Power Bandana
+TID_RECIPE_ARMOR_251,Plans: Mega Power Bandana
+TID_RECIPE_ARMOR_252,Plans: Hyper Power Bandana
+TID_RECIPE_ARMOR_253,Plans: Piecemeal Necklace
+TID_RECIPE_ARMOR_254,Plans: Manufactured Necklace
+TID_RECIPE_ARMOR_255,Plans: Handmade Necklace
+TID_RECIPE_ARMOR_256,Plans: Unique Necklace
+TID_RECIPE_ARMOR_257,Plans: Steel Chain
+TID_RECIPE_ARMOR_258,Plans: Barbed Chain
+TID_RECIPE_ARMOR_259,Plans: Gilded Chain
+TID_RECIPE_ARMOR_260,Plans: Samaritan's Necklace
+TID_RECIPE_ARMOR_261,Plans: Crazy Ivan's Necklace
+TID_RECIPE_ARMOR_262,Plans: Feelgood Bandana
+TID_RECIPE_ARMOR_263,Plans: Comforting Bandana
+TID_RECIPE_ARMOR_264,Plans: Motivational Bandana
+TID_RECIPE_ARMOR_265,Plans: Inspirational Bandana
+TID_RECIPE_ARMOR_266,Plans: Crazy's Necklace
+TID_RECIPE_ARMOR_267,Plans: Lucky's Necklace
+TID_RECIPE_ARMOR_268,Plans: Rat Pack's Necklace
+TID_RECIPE_ARMOR_269,Plans: Top Dog's Necklace
+TID_RECIPE_ARMOR_270,Plans: Gunslinger's Bandana
+TID_RECIPE_ARMOR_271,Plans: Infiltrator's Bandana
+TID_RECIPE_ARMOR_272,Plans: Expert's Bandana
+TID_RECIPE_ARMOR_273,Plans: Mentor's Bandana
+TID_RECIPE_ARMOR_274,Plans: Guru's Bandana
+TID_RECIPE_ARMOR_275,Plans: Attitude Scarf
+TID_RECIPE_ARMOR_276,Plans: Neck Wrap
+TID_RECIPE_ARMOR_277,Plans: Neck Hugger
+TID_RECIPE_ARMOR_278,Plans: Voodoo Headwear
+TID_RECIPE_ARMOR_279,Plans: Hunter's Strap
+TID_RECIPE_ARMOR_280,Plans: Suspect Strap
+TID_RECIPE_ARMOR_281,Plans: Tight Strap
+TID_RECIPE_ARMOR_282,Plans: Armored Strap
+TID_RECIPE_ARMOR_283,Plans: Fitting Strap
+TID_RECIPE_ARMOR_284,Plans: Cardinal Strap
+TID_RECIPE_ARMOR_285,Plans: Crane Strap
+TID_RECIPE_ARMOR_286,Plans: Hawk Strap
+TID_RECIPE_ARMOR_287,Plans: Meteor Strap
+TID_RECIPE_ARMOR_288,Plans: Embossed Belt
+TID_RECIPE_ARMOR_289,Plans: Hunter's Belt
+TID_RECIPE_ARMOR_290,Plans: Ammo Belt
+TID_RECIPE_ARMOR_291,Plans: Infiltrator's Belt
+TID_RECIPE_ARMOR_292,Plans: Sniper's Belt
+TID_RECIPE_ARMOR_293,Plans: Blaster Belt
+TID_RECIPE_ARMOR_294,Plans: Holopic Belt
+TID_RECIPE_ARMOR_295,Plans: Spycam Belt
+TID_RECIPE_ARMOR_296,Plans: Nanotube Belt
+TID_RECIPE_ARMOR_297,Plans: Code Buckle
+TID_RECIPE_ARMOR_298,Plans: Safety Belt
+TID_RECIPE_ARMOR_299,Plans: Balancing Belt
+TID_RECIPE_ARMOR_300,Plans: Stabilizing Belt
+TID_RECIPE_ARMOR_301,Plans: Gyroscopic Belt
+TID_RECIPE_ARMOR_302,Plans: Light Metal Belt
+TID_RECIPE_ARMOR_303,Plans: Heavy Metal Belt
+TID_RECIPE_ARMOR_304,Plans: Pop Belt
+TID_RECIPE_ARMOR_305,Plans: Screamer Buckle
+TID_RECIPE_ARMOR_306,Plans: Notched Belt
+TID_RECIPE_ARMOR_307,Plans: Over-notched Belt
+TID_RECIPE_ARMOR_308,Plans: Faux Belt
+TID_RECIPE_ARMOR_309,Plans: Utility Belt
+TID_RECIPE_ARMOR_310,Plans: Handy Utility Belt
+TID_RECIPE_ARMOR_311,Plans: PI Utility Belt
+TID_RECIPE_ARMOR_312,Plans: Dark Utility Belt
+TID_RECIPE_ARMOR_313,Plans: Lost Buckle
+TID_RECIPE_ARMOR_314,Plans: Chimneysweep's Wonder Harness
+TID_RECIPE_ARMOR_315,Plans: Doctor's Belt
+TID_RECIPE_ARMOR_316,Plans: Worn Belt
+TID_RECIPE_ARMOR_317,Plans: Washed Out Belt
+TID_RECIPE_ARMOR_318,Plans: Doc's Leather Belt
+TID_RECIPE_ARMOR_319,Plans: Dust-covered Belt
+TID_RECIPE_ARMOR_320,Plans: Bent Buckle
+TID_RECIPE_ARMOR_321,Plans: Nail Buckle
+TID_RECIPE_ARMOR_322,Plans: Bone Buckle
+TID_RECIPE_ARMOR_323,Plans: Shiny Buckle
+TID_RECIPE_ARMOR_324,Plans: Tin-studded Belt
+TID_RECIPE_ARMOR_325,Plans: Rust-studded Belt
+TID_RECIPE_ARMOR_326,Plans: Silver-studded Belt
+TID_RECIPE_ARMOR_327,Plans: Iron-studded Belt
+TID_RECIPE_ARMOR_328,Plans: Steel-studded Belt
+TID_RECIPE_ARMOR_329,Plans: Titanium-studded Belt
+TID_RECIPE_ARMOR_330,Plans: Skull-studded Belt
+TID_RECIPE_ARMOR_331,Plans: Bunny-studded Belt
+TID_RECIPE_ARMOR_332,Plans: Mirror-studded Belt
+TID_RECIPE_ARMOR_333,Plans: Belt Fast
+TID_RECIPE_ARMOR_334,Plans: Duct-taped Belt
+TID_RECIPE_ARMOR_335,Plans: UV-Protected Belt
+TID_RECIPE_ARMOR_336,Plans: Bulletproof Belt
+TID_RECIPE_ARMOR_337,Plans: Supporting Belt
+TID_RECIPE_ARMOR_338,Plans: One-Size-Fits-All Belt
+TID_RECIPE_ARMOR_339,Plans: Golfing Belt
+TID_RECIPE_ARMOR_340,Plans: Properly Polished Belt
+TID_RECIPE_ARMOR_341,Plans: Expertly Polished Belt
+TID_RECIPE_ARMOR_342,Plans: Silk-lined Belt
+TID_RECIPE_ARMOR_343,Plans: Silver-lined Belt
+TID_RECIPE_ARMOR_344,Plans: Gold-lined Belt
+TID_RECIPE_ARMOR_345,Plans: Healer's Suspenders
+TID_RECIPE_ARMOR_346,Plans: Doctor's Suspenders
+TID_RECIPE_ARMOR_347,Plans: Surgeon's Suspenders
+TID_RECIPE_ARMOR_348,Plans: Elite Doctor's Suspenders
+TID_RECIPE_ARMOR_349,Plans: Bolt Lock
+TID_RECIPE_ARMOR_350,Plans: Waistland
+TID_RECIPE_ARMOR_351,Plans: Bodyguard's Strap
+TID_RECIPE_ARMOR_352,Plans: Dark Brown Leather Belt
+TID_RECIPE_ARMOR_353,Plans: Dark Grey Leather Belt
+TID_RECIPE_ARMOR_354,Plans: Bodyguard's Belt
+TID_RECIPE_ARMOR_355,Plans: Black Leather Belt
+TID_RECIPE_ARMOR_356,Plans: Midnight Leather Belt
+TID_RECIPE_ARMOR_357,Plans: Snake Skin Belt
+TID_RECIPE_ARMOR_358,Plans: Croc Skin Belt
+TID_RECIPE_ARMOR_359,Plans: Welted Buckle
+TID_RECIPE_ARMOR_360,Plans: Thick Tin-studded Belt
+TID_RECIPE_ARMOR_361,Plans: Thick Rust-studded Belt
+TID_RECIPE_ARMOR_362,Plans: Thick Silver-studded Belt
+TID_RECIPE_ARMOR_363,Plans: Thick Iron-studded Belt
+TID_RECIPE_ARMOR_364,Plans: Thick Steel-studded Belt
+TID_RECIPE_ARMOR_365,Plans: Thick Titanium-studded Belt
+TID_RECIPE_ARMOR_366,Plans: Thick Cap-studded Belt
+TID_RECIPE_ARMOR_367,Plans: Thick Skull-studded Belt
+TID_RECIPE_ARMOR_368,Plans: Magnet-studded Belt
+TID_RECIPE_ARMOR_369,Plans: Whipping Belt
+TID_RECIPE_ARMOR_370,Plans: Peddler Belt
+TID_RECIPE_ARMOR_371,Plans: Syndicate Belt
+TID_RECIPE_ARMOR_372,Plans: Biker Belt
+TID_RECIPE_ARMOR_373,Plans: Badass Belt
+TID_RECIPE_ARMOR_374,Plans: Dominator Belt
+TID_RECIPE_ARMOR_375,Plans: Bear Belt
+TID_RECIPE_ARMOR_376,Plans: Rhino Belt
+TID_RECIPE_ARMOR_377,Plans: Mammoth Belt
+TID_RECIPE_ARMOR_378,Plans: Belt of Annoyance
+TID_RECIPE_ARMOR_379,Plans: Belt of Frustration
+TID_RECIPE_ARMOR_380,Plans: Belt of Aggression
+TID_RECIPE_ARMOR_381,Plans: Belt of Destruction
+TID_RECIPE_ARMOR_382,Plans: Belt of Rebellion
+TID_RECIPE_ARMOR_383,Plans: Belt of Anarchy
+TID_RECIPE_ARMOR_384,Plans: Belt of Revolution
+TID_RECIPE_ARMOR_385,Plans: Belt of Universality
+TID_RECIPE_ARMOR_386,Plans: Extraordinary Belle T
+TID_RECIPE_ARMOR_387,Plans: Hunter's Jacket
+TID_RECIPE_ARMOR_388,Plans: Olive Drab Smock
+TID_RECIPE_ARMOR_389,Plans: Hunter's Top
+TID_RECIPE_ARMOR_390,Plans: Shooting Jacket
+TID_RECIPE_ARMOR_391,Plans: Aviator Jacket
+TID_RECIPE_ARMOR_392,Plans: Flak Vest
+TID_RECIPE_ARMOR_393,Plans: Hunter's Body Armor
+TID_RECIPE_ARMOR_394,Plans: Wolf Jacket
+TID_RECIPE_ARMOR_395,Plans: Shooting Shirt
+TID_RECIPE_ARMOR_396,Plans: Arabic Vest
+TID_RECIPE_ARMOR_397,Plans: Killer Shirt
+TID_RECIPE_ARMOR_398,Plans: Tactical Shirt
+TID_RECIPE_ARMOR_399,Plans: Range Shirt
+TID_RECIPE_ARMOR_400,Plans: Horsehair Shirt
+TID_RECIPE_ARMOR_401,Plans: Safari Shirt
+TID_RECIPE_ARMOR_402,Plans: Outdoor Shirt
+TID_RECIPE_ARMOR_403,Plans: Hunting Shirt
+TID_RECIPE_ARMOR_404,Plans: Utility Jacket
+TID_RECIPE_ARMOR_405,Plans: Range Sweater
+TID_RECIPE_ARMOR_406,Plans: Deerhunter's Sweater
+TID_RECIPE_ARMOR_407,Plans: Stealth Jacket
+TID_RECIPE_ARMOR_408,Plans: Camo Shirt
+TID_RECIPE_ARMOR_409,Plans: Camo Top
+TID_RECIPE_ARMOR_410,Plans: Stealth Shirt
+TID_RECIPE_ARMOR_411,Plans: Special Purpose Jacket
+TID_RECIPE_ARMOR_412,Plans: Duck Blind Jacket
+TID_RECIPE_ARMOR_413,Plans: Stalker Jacket
+TID_RECIPE_ARMOR_414,Plans: Killer Top
+TID_RECIPE_ARMOR_415,Plans: Turkey Hunt Top
+TID_RECIPE_ARMOR_416,Plans: Poacher's Shirt
+TID_RECIPE_ARMOR_417,Plans: Skinner Jacket
+TID_RECIPE_ARMOR_418,Plans: Predator Jacket
+TID_RECIPE_ARMOR_419,Plans: All-weather Jacket
+TID_RECIPE_ARMOR_420,Plans: One Shot Jacket
+TID_RECIPE_ARMOR_421,Plans: Doctor's Jacket
+TID_RECIPE_ARMOR_422,Plans: Doctor's Top
+TID_RECIPE_ARMOR_423,Plans: Designer Jacket
+TID_RECIPE_ARMOR_424,Plans: Dust Jacket
+TID_RECIPE_ARMOR_425,Plans: Suede Shirt
+TID_RECIPE_ARMOR_426,Plans: Surgeon's Shirt
+TID_RECIPE_ARMOR_427,Plans: Golf Polo
+TID_RECIPE_ARMOR_428,Plans: Hospital White Jacket
+TID_RECIPE_ARMOR_429,Plans: Orderly's Shirt
+TID_RECIPE_ARMOR_430,Plans: Nurse's Jacket
+TID_RECIPE_ARMOR_431,Plans: Surgical Shirt
+TID_RECIPE_ARMOR_432,Plans: Nursing Scrub Shirt
+TID_RECIPE_ARMOR_433,Plans: Lay Healer's Shirt
+TID_RECIPE_ARMOR_434,Plans: Physician's Top
+TID_RECIPE_ARMOR_435,Plans: Emergency Ward Shirt
+TID_RECIPE_ARMOR_436,Plans: Surgical Srub Shirt
+TID_RECIPE_ARMOR_437,Plans: Healer's Shirt
+TID_RECIPE_ARMOR_438,Plans: Physician's Shirt
+TID_RECIPE_ARMOR_439,Plans: Marrow Top
+TID_RECIPE_ARMOR_440,Plans: Scalpel Shirt
+TID_RECIPE_ARMOR_441,Plans: Exclusive Jacket
+TID_RECIPE_ARMOR_442,Plans: Medic Vest
+TID_RECIPE_ARMOR_443,Plans: Medic Shirt
+TID_RECIPE_ARMOR_444,Plans: Surgeon's Scrub Shirt
+TID_RECIPE_ARMOR_445,Plans: Medical Shirt
+TID_RECIPE_ARMOR_446,Plans: Conference Shirt
+TID_RECIPE_ARMOR_447,Plans: Schweiz Jacket
+TID_RECIPE_ARMOR_448,Plans: Clinic Jacket
+TID_RECIPE_ARMOR_449,Plans: Shrink's Shirt
+TID_RECIPE_ARMOR_450,Plans: Clinic Shirt
+TID_RECIPE_ARMOR_451,Plans: Euthanasia Jacket
+TID_RECIPE_ARMOR_452,Plans: Pandemic Jacket
+TID_RECIPE_ARMOR_453,Plans: Antimicrobial Shirt
+TID_RECIPE_ARMOR_454,Plans: Medical Service Shirt
+TID_RECIPE_ARMOR_455,Plans: Bodyguard's Shirt
+TID_RECIPE_ARMOR_456,Plans: Brawny Shirt
+TID_RECIPE_ARMOR_457,Plans: Bodyguard's Top
+TID_RECIPE_ARMOR_458,Plans: Protector Jacket
+TID_RECIPE_ARMOR_459,Plans: Bomber Jacket
+TID_RECIPE_ARMOR_460,Plans: Tough Guy Jacket
+TID_RECIPE_ARMOR_461,Plans: Biker Jacket
+TID_RECIPE_ARMOR_462,Plans: Night Club Jacket
+TID_RECIPE_ARMOR_463,Plans: Protector Shirt
+TID_RECIPE_ARMOR_464,Plans: Attitude Shirt
+TID_RECIPE_ARMOR_465,Plans: Vigilante Shirt
+TID_RECIPE_ARMOR_466,Plans: Bulletproof Vest
+TID_RECIPE_ARMOR_467,Plans: Tank Shirt
+TID_RECIPE_ARMOR_468,Plans: Casual Top
+TID_RECIPE_ARMOR_469,Plans: Guardian's Shirt
+TID_RECIPE_ARMOR_470,Plans: Band Shirt
+TID_RECIPE_ARMOR_471,Plans: Elite Shirt
+TID_RECIPE_ARMOR_472,Plans: Rock Shirt
+TID_RECIPE_ARMOR_473,Plans: Secret Service Shirt
+TID_RECIPE_ARMOR_474,Plans: Cordura Shirt
+TID_RECIPE_ARMOR_475,Plans: Dragon Vest
+TID_RECIPE_ARMOR_476,Plans: Protective Silk Shirt
+TID_RECIPE_ARMOR_477,Plans: Vanguard Shirt
+TID_RECIPE_ARMOR_478,Plans: Melee Top
+TID_RECIPE_ARMOR_479,Plans: Championship Shirt
+TID_RECIPE_ARMOR_480,Plans: Bulldog Shirt
+TID_RECIPE_ARMOR_481,Plans: VIP Jacket
+TID_RECIPE_ARMOR_482,Plans: Dress Uniform Jacket
+TID_RECIPE_ARMOR_483,Plans: Linebacker's Shirt
+TID_RECIPE_ARMOR_484,Plans: No Nonsense Shirt
+TID_RECIPE_ARMOR_485,Plans: Armored Shirt
+TID_RECIPE_ARMOR_486,Plans: Tank Top
+TID_RECIPE_ARMOR_487,Plans: Extra Large Shirt
+TID_RECIPE_ARMOR_488,Plans: Muscle Shirt
+TID_RECIPE_ARMOR_489,Plans: Blue Jeans
+TID_RECIPE_ARMOR_490,Plans: Hunter's Trousers
+TID_RECIPE_ARMOR_491,Plans: Beast Pants
+TID_RECIPE_ARMOR_492,Plans: Armored Pants
+TID_RECIPE_ARMOR_493,Plans: Safari Pants
+TID_RECIPE_ARMOR_494,Plans: Aviator Trousers
+TID_RECIPE_ARMOR_495,Plans: Combat Pants
+TID_RECIPE_ARMOR_496,Plans: Fatigue Pants
+TID_RECIPE_ARMOR_497,Plans: Hyena Pants
+TID_RECIPE_ARMOR_498,Plans: Wolf Pants
+TID_RECIPE_ARMOR_499,Plans: Arabic Pants
+TID_RECIPE_ARMOR_500,Plans: Outdoor Trousers
+TID_RECIPE_ARMOR_501,Plans: Hunting Pants
+TID_RECIPE_ARMOR_502,Plans: Cargo Pants
+TID_RECIPE_ARMOR_503,Plans: Jungle Pants
+TID_RECIPE_ARMOR_504,Plans: Deerhunter's Pants
+TID_RECIPE_ARMOR_505,Plans: Waterfowling Pants
+TID_RECIPE_ARMOR_506,Plans: Special Purpose Pants
+TID_RECIPE_ARMOR_507,Plans: Duck Blind Pants
+TID_RECIPE_ARMOR_508,Plans: Poacher's Pants
+TID_RECIPE_ARMOR_509,Plans: Turkey Hunt Pants
+TID_RECIPE_ARMOR_510,Plans: Stealth Pants
+TID_RECIPE_ARMOR_511,Plans: Utility Pants
+TID_RECIPE_ARMOR_512,Plans: Tactical Pants
+TID_RECIPE_ARMOR_513,Plans: Skinner Pants
+TID_RECIPE_ARMOR_514,Plans: Fowling Trousers
+TID_RECIPE_ARMOR_515,Plans: Trapper Pants
+TID_RECIPE_ARMOR_516,Plans: Stalker Pants
+TID_RECIPE_ARMOR_517,Plans: Killer Pants
+TID_RECIPE_ARMOR_518,Plans: One Shot Pants
+TID_RECIPE_ARMOR_519,Plans: Blend Camo Pants
+TID_RECIPE_ARMOR_520,Plans: Waterproof Pants
+TID_RECIPE_ARMOR_521,Plans: Camo Trousers
+TID_RECIPE_ARMOR_522,Plans: Predator Pants
+TID_RECIPE_ARMOR_523,Plans: Hi-Tech Hunting Pants
+TID_RECIPE_ARMOR_524,Plans: Dead Quiet Pants
+TID_RECIPE_ARMOR_525,Plans: Hiking Pants
+TID_RECIPE_ARMOR_526,Plans: Doctor's Trousers
+TID_RECIPE_ARMOR_527,Plans: Comfy Slacks
+TID_RECIPE_ARMOR_528,Plans: Armored Trousers
+TID_RECIPE_ARMOR_529,Plans: Pleated Pants
+TID_RECIPE_ARMOR_530,Plans: Suede Pants
+TID_RECIPE_ARMOR_531,Plans: Doctor's Pants
+TID_RECIPE_ARMOR_532,Plans: Linen Pants
+TID_RECIPE_ARMOR_533,Plans: Clean Suit Pants
+TID_RECIPE_ARMOR_534,Plans: Orderly's Pants
+TID_RECIPE_ARMOR_535,Plans: Nurse's Pants
+TID_RECIPE_ARMOR_536,Plans: Surgical Scrub Pants
+TID_RECIPE_ARMOR_537,Plans: Lay Healer's Pants
+TID_RECIPE_ARMOR_538,Plans: Nurse's Scrub Pants
+TID_RECIPE_ARMOR_539,Plans: Physician's Bottom
+TID_RECIPE_ARMOR_540,Plans: Doctor's Scrub Pants
+TID_RECIPE_ARMOR_541,Plans: Medic Pants
+TID_RECIPE_ARMOR_542,Plans: Casual Pants
+TID_RECIPE_ARMOR_543,Plans: Expensive Suitpants
+TID_RECIPE_ARMOR_544,Plans: Ergonomic Pants
+TID_RECIPE_ARMOR_545,Plans: Operation Pants
+TID_RECIPE_ARMOR_546,Plans: Exclusive Pants
+TID_RECIPE_ARMOR_547,Plans: Healer's Trousers
+TID_RECIPE_ARMOR_548,Plans: Emergency Ward Pants
+TID_RECIPE_ARMOR_549,Plans: Marrow Bottom
+TID_RECIPE_ARMOR_550,Plans: Medical Slacks
+TID_RECIPE_ARMOR_551,Plans: Suit Pants
+TID_RECIPE_ARMOR_552,Plans: Schweiz Pants
+TID_RECIPE_ARMOR_553,Plans: Clinic Pants
+TID_RECIPE_ARMOR_554,Plans: Administrator Pants
+TID_RECIPE_ARMOR_555,Plans: Conference Trousers
+TID_RECIPE_ARMOR_556,Plans: Shrink's Pants
+TID_RECIPE_ARMOR_557,Plans: Euthanasia Pants
+TID_RECIPE_ARMOR_558,Plans: Pandemic Pants
+TID_RECIPE_ARMOR_559,Plans: Scalpel Pants
+TID_RECIPE_ARMOR_560,Plans: Antimicrobial Pants
+TID_RECIPE_ARMOR_561,Plans: Casual Jeans
+TID_RECIPE_ARMOR_562,Plans: Bodyguard's Pants
+TID_RECIPE_ARMOR_563,Plans: Kevlar Pants
+TID_RECIPE_ARMOR_564,Plans: Bouncer's Jeans
+TID_RECIPE_ARMOR_565,Plans: Armored Jeans
+TID_RECIPE_ARMOR_566,Plans: Protector Pants
+TID_RECIPE_ARMOR_567,Plans: Bomber Pants
+TID_RECIPE_ARMOR_568,Plans: Tough Guy Trousers
+TID_RECIPE_ARMOR_569,Plans: Groin Protector Pants
+TID_RECIPE_ARMOR_570,Plans: Bodybuilder Slacks
+TID_RECIPE_ARMOR_571,Plans: Bodyguard Pants
+TID_RECIPE_ARMOR_572,Plans: Attitude Pants
+TID_RECIPE_ARMOR_573,Plans: Tank Pants
+TID_RECIPE_ARMOR_574,Plans: Bulletproof Trousers
+TID_RECIPE_ARMOR_575,Plans: Band Jeans
+TID_RECIPE_ARMOR_576,Plans: Casual Slacks
+TID_RECIPE_ARMOR_577,Plans: Elite Pants
+TID_RECIPE_ARMOR_578,Plans: Rock Jeans
+TID_RECIPE_ARMOR_579,Plans: Secret Service Pants
+TID_RECIPE_ARMOR_580,Plans: Cordura Pants
+TID_RECIPE_ARMOR_581,Plans: Vanguard Trousers
+TID_RECIPE_ARMOR_582,Plans: Melee Pants
+TID_RECIPE_ARMOR_583,Plans: Dragon Tights
+TID_RECIPE_ARMOR_584,Plans: Championship Pants
+TID_RECIPE_ARMOR_585,Plans: Bulldog Jeans
+TID_RECIPE_ARMOR_586,Plans: Linebacker's Pants
+TID_RECIPE_ARMOR_587,Plans: Wrestling Pants
+TID_RECIPE_ARMOR_588,Plans: No Nonsense Pants
+TID_RECIPE_ARMOR_589,Plans: VIP Bottom
+TID_RECIPE_ARMOR_590,Plans: Dress Uniform Pants
+TID_RECIPE_ARMOR_591,Plans: Extra Large Pants
+TID_RECIPE_ARMOR_592,Plans: Pitbull Pants
+TID_RECIPE_ARMOR_593,Plans: Radical Pants
+TID_RECIPE_ARMOR_594,Plans: Flex Pants
+TID_RECIPE_ARMOR_595,Plans: Bouncer Pants
+TID_RECIPE_ARMOR_596,Plans: Muscle Pants
+TID_RECIPE_ARMOR_597,Plans: Hardman Pants
+TID_RECIPE_ARMOR_598,Plans: Hunter's Gloves
+TID_RECIPE_ARMOR_599,Plans: All-weather Gloves
+TID_RECIPE_ARMOR_600,Plans: Hunter's Armored Gloves
+TID_RECIPE_ARMOR_601,Plans: Cat's Paws
+TID_RECIPE_ARMOR_602,Plans: Goose Down Gloves
+TID_RECIPE_ARMOR_603,Plans: Rock Climbing Gloves
+TID_RECIPE_ARMOR_604,Plans: Gun Gloves
+TID_RECIPE_ARMOR_605,Plans: Utility Gloves
+TID_RECIPE_ARMOR_606,Plans: Aviator Gloves
+TID_RECIPE_ARMOR_607,Plans: Jackal Gloves
+TID_RECIPE_ARMOR_608,Plans: Hyena Gloves
+TID_RECIPE_ARMOR_609,Plans: Shotgunner's Gloves
+TID_RECIPE_ARMOR_610,Plans: Bowhunter's Gloves
+TID_RECIPE_ARMOR_611,Plans: Skinner Gloves
+TID_RECIPE_ARMOR_612,Plans: Outdoor Gloves
+TID_RECIPE_ARMOR_613,Plans: Sniper Gloves
+TID_RECIPE_ARMOR_614,Plans: Precision Gloves
+TID_RECIPE_ARMOR_615,Plans: Predator Gloves
+TID_RECIPE_ARMOR_616,Plans: Range Gloves
+TID_RECIPE_ARMOR_617,Plans: All-purpose Gloves
+TID_RECIPE_ARMOR_618,Plans: Midnight Gloves
+TID_RECIPE_ARMOR_619,Plans: Tactical Gloves
+TID_RECIPE_ARMOR_620,Plans: Deerhunter's Gloves
+TID_RECIPE_ARMOR_621,Plans: Tearproof Gloves
+TID_RECIPE_ARMOR_622,Plans: Combat Gloves
+TID_RECIPE_ARMOR_623,Plans: Rustler's Gloves
+TID_RECIPE_ARMOR_624,Plans: Killer Gloves
+TID_RECIPE_ARMOR_625,Plans: Stalker Gloves
+TID_RECIPE_ARMOR_626,Plans: One Shot Gloves
+TID_RECIPE_ARMOR_627,Plans: Steady Hands
+TID_RECIPE_ARMOR_628,Plans: Scissorhands
+TID_RECIPE_ARMOR_629,Plans: Stealthy Gloves
+TID_RECIPE_ARMOR_630,Plans: Wolfskin Gloves
+TID_RECIPE_ARMOR_631,Plans: Bearskin Gloves
+TID_RECIPE_ARMOR_632,Plans: Regular Gloves
+TID_RECIPE_ARMOR_633,Plans: Fine Leather Gloves
+TID_RECIPE_ARMOR_634,Plans: Doc's Armored Gloves
+TID_RECIPE_ARMOR_635,Plans: Ski Gloves
+TID_RECIPE_ARMOR_636,Plans: Golf Gloves
+TID_RECIPE_ARMOR_637,Plans: Plaid Gloves
+TID_RECIPE_ARMOR_638,Plans: Yachting Gloves
+TID_RECIPE_ARMOR_639,Plans: Hi-Friction Gloves
+TID_RECIPE_ARMOR_640,Plans: Suede Gloves
+TID_RECIPE_ARMOR_641,Plans: Hiking Gloves
+TID_RECIPE_ARMOR_642,Plans: Medical Gloves
+TID_RECIPE_ARMOR_643,Plans: Combat Medic's Gloves
+TID_RECIPE_ARMOR_644,Plans: Rubber Gloves
+TID_RECIPE_ARMOR_645,Plans: Neoprene Gloves
+TID_RECIPE_ARMOR_646,Plans: Lab Gloves
+TID_RECIPE_ARMOR_647,Plans: Probing Gloves
+TID_RECIPE_ARMOR_648,Plans: Sterile Gloves
+TID_RECIPE_ARMOR_649,Plans: Antimicrobial Gloves
+TID_RECIPE_ARMOR_650,Plans: Healer's Gloves
+TID_RECIPE_ARMOR_651,Plans: Technician's Gloves
+TID_RECIPE_ARMOR_652,Plans: Orderly's Gloves
+TID_RECIPE_ARMOR_653,Plans: Doc's Gloves
+TID_RECIPE_ARMOR_654,Plans: Doctor's Gloves
+TID_RECIPE_ARMOR_655,Plans: Surgeon's Gloves
+TID_RECIPE_ARMOR_656,Plans: Neurosurgeon's Gloves
+TID_RECIPE_ARMOR_657,Plans: Hacker's Gloves
+TID_RECIPE_ARMOR_658,Plans: Virtual Reality Gloves
+TID_RECIPE_ARMOR_659,Plans: Second Skin Gloves
+TID_RECIPE_ARMOR_660,Plans: Hand-Eye Interface
+TID_RECIPE_ARMOR_661,Plans: Cybernetic Gloves
+TID_RECIPE_ARMOR_662,Plans: Panacea Gloves
+TID_RECIPE_ARMOR_663,Plans: Pandemic Gloves
+TID_RECIPE_ARMOR_664,Plans: Silk Gloves
+TID_RECIPE_ARMOR_665,Plans: Regenerative Gloves
+TID_RECIPE_ARMOR_666,Plans: Bodyguard's Gloves
+TID_RECIPE_ARMOR_667,Plans: Cordura Gloves
+TID_RECIPE_ARMOR_668,Plans: Bodyguard's Armored Gloves
+TID_RECIPE_ARMOR_669,Plans: Needleproof Gloves
+TID_RECIPE_ARMOR_670,Plans: Syndicate Gloves
+TID_RECIPE_ARMOR_671,Plans: Heavy Silk Gloves
+TID_RECIPE_ARMOR_672,Plans: Bodybuilder Gloves
+TID_RECIPE_ARMOR_673,Plans: Tough Guy Gloves
+TID_RECIPE_ARMOR_674,Plans: Armored Gloves
+TID_RECIPE_ARMOR_675,Plans: Heavy Metal Gloves
+TID_RECIPE_ARMOR_676,Plans: Hardman Gloves
+TID_RECIPE_ARMOR_677,Plans: Protector Gloves
+TID_RECIPE_ARMOR_678,Plans: Bomber Gloves
+TID_RECIPE_ARMOR_679,Plans: Vigilante Gloves
+TID_RECIPE_ARMOR_680,Plans: Massive Mittens
+TID_RECIPE_ARMOR_681,Plans: Championship Gloves
+TID_RECIPE_ARMOR_682,Plans: Bulldog Gloves
+TID_RECIPE_ARMOR_683,Plans: Attitude Adjusters
+TID_RECIPE_ARMOR_684,Plans: Team Gloves
+TID_RECIPE_ARMOR_685,Plans: Arm Wrestling Gloves
+TID_RECIPE_ARMOR_686,Plans: Powerlifting Gloves
+TID_RECIPE_ARMOR_687,Plans: Rodeo Gloves
+TID_RECIPE_ARMOR_688,Plans: Heavy Duty Gloves
+TID_RECIPE_ARMOR_689,Plans: Power Grips
+TID_RECIPE_ARMOR_690,Plans: Vanguard Gloves
+TID_RECIPE_ARMOR_691,Plans: Dragon Gloves
+TID_RECIPE_ARMOR_692,Plans: Knuckeduster Gloves
+TID_RECIPE_ARMOR_693,Plans: No Nonsense Gloves
+TID_RECIPE_ARMOR_694,Plans: Pitbull Gloves
+TID_RECIPE_ARMOR_695,Plans: Melee Gloves
+TID_RECIPE_ARMOR_696,Plans: Linebacker's Gloves
+TID_RECIPE_ARMOR_697,Plans: Tank Gloves
+TID_RECIPE_ARMOR_698,Plans: Gauntlets
+TID_RECIPE_ARMOR_699,Plans: Hands of Stone
+TID_RECIPE_ARMOR_700,Plans: Bot Master Boots
+TID_RECIPE_ARMOR_701,Plans: Bot Trampling Boots
+TID_RECIPE_ARMOR_702,Plans: Nano Glass Goggles
+TID_RECIPE_ARMOR_703,Plans: Fire-tempered Belt
+TID_RECIPE_ARMOR_704,Plans: Fire-forged Belt
+TID_RECIPE_ARMOR_705,Plans: Spidersilk-Stiched Pants
+TID_RECIPE_ARMOR_706,Plans: Poison-enlaced Pants
+TID_RECIPE_ARMOR_707,Plans: Cyber-enhanced Pants
+TID_RECIPE_ARMOR_708,Plans: Pneumatic Pants
+TID_RECIPE_ARMOR_709,Plans: Cyber-wired Jacket
+TID_RECIPE_ARMOR_710,Plans: Bot-plated Jacket
+TID_RECIPE_ARMOR_711,Plans: Radiation Jacket
+TID_RECIPE_ARMOR_712,Plans: Bot-Wrangling Jacket
+TID_RECIPE_ARMOR_713,Plans: Queen's Sparkling Belt
+TID_RECIPE_ARMOR_714,Plans: Queen's Whipper
+TID_RECIPE_ARMOR_715,Plans: Riot Jacket
+TID_RECIPE_ARMOR_716,Plans: Riot Leathers
+TID_RECIPE_ARMOR_717,Plans: Plated Cowboy Hat
+TID_RECIPE_ARMOR_718,Plans: Riot Face
+TID_RECIPE_ARMOR_719,Plans: Anarchy Leggings
+TID_RECIPE_ARMOR_720,Plans: Anarchy Jeans
+TID_RECIPE_ARMOR_721,Plans: IR Camouflage
+TID_RECIPE_ARMOR_722,Plans: The Heat Sink
+TID_RECIPE_ARMOR_723,Plans: Lava-tempered Helmet
+TID_RECIPE_ARMOR_724,Plans: Lava-forged Helmet
+TID_RECIPE_ARMOR_725,Plans: Lava Walkers
+TID_RECIPE_ARMOR_726,Plans: Lava Waders
+TID_RECIPE_ARMOR_727,Plans: Pest Squishers
+TID_RECIPE_ARMOR_728,Plans: Mite Stompers

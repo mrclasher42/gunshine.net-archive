@@ -1,0 +1,519 @@
+Name,Text
+TID_RECIPE_ACCESSORY_0,Plans: Hunter's Cap
+TID_RECIPE_ACCESSORY_1,Plans: Hat
+TID_RECIPE_ACCESSORY_2,Plans: Brimmed Hat
+TID_RECIPE_ACCESSORY_3,Plans: Rust-brimmed Hat
+TID_RECIPE_ACCESSORY_4,Plans: Iron-brimmed Hat
+TID_RECIPE_ACCESSORY_5,Plans: Silver-brimmed Hat
+TID_RECIPE_ACCESSORY_6,Plans: Titanium-brimmed Hat
+TID_RECIPE_ACCESSORY_7,Plans: Grim Brim
+TID_RECIPE_ACCESSORY_8,Plans: World Audio Club
+TID_RECIPE_ACCESSORY_9,Plans: Hat Titude
+TID_RECIPE_ACCESSORY_10,Plans: Doctor's Cap
+TID_RECIPE_ACCESSORY_11,Plans: Mask
+TID_RECIPE_ACCESSORY_12,Plans: Oil-Drenched Mask
+TID_RECIPE_ACCESSORY_13,Plans: Black Wood Mask
+TID_RECIPE_ACCESSORY_14,Plans: Dark Mask
+TID_RECIPE_ACCESSORY_15,Plans: Skull Face
+TID_RECIPE_ACCESSORY_16,Plans: Monster Face
+TID_RECIPE_ACCESSORY_17,Plans: Holo Mask
+TID_RECIPE_ACCESSORY_18,Plans: Terror Face
+TID_RECIPE_ACCESSORY_19,Plans: Eden Brim
+TID_RECIPE_ACCESSORY_20,Plans: Bodyguard's Hat
+TID_RECIPE_ACCESSORY_21,Plans: Stained Cap
+TID_RECIPE_ACCESSORY_22,Plans: Cap
+TID_RECIPE_ACCESSORY_23,Plans: Mob Cap
+TID_RECIPE_ACCESSORY_24,Plans: Fake Cap
+TID_RECIPE_ACCESSORY_25,Plans: Riot Cap
+TID_RECIPE_ACCESSORY_26,Plans: Doomsday Cap
+TID_RECIPE_ACCESSORY_27,Plans: Holo Cap
+TID_RECIPE_ACCESSORY_28,Plans: Steel Helmet
+TID_RECIPE_ACCESSORY_29,Plans: Can Can Cans
+TID_RECIPE_ACCESSORY_30,Plans: Sneakers
+TID_RECIPE_ACCESSORY_31,Plans: Used Moccasins
+TID_RECIPE_ACCESSORY_32,Plans: Quality Shoes
+TID_RECIPE_ACCESSORY_33,Plans: Comfortable Moccasins
+TID_RECIPE_ACCESSORY_34,Plans: Smooth Walkers
+TID_RECIPE_ACCESSORY_35,Plans: Moon Walkers
+TID_RECIPE_ACCESSORY_36,Plans: Fake Buckles
+TID_RECIPE_ACCESSORY_37,Plans: Hunter's Steel Tips
+TID_RECIPE_ACCESSORY_38,Plans: Boots-of-the-Puss
+TID_RECIPE_ACCESSORY_39,Plans: Shoes
+TID_RECIPE_ACCESSORY_40,Plans: Rubber Boots
+TID_RECIPE_ACCESSORY_41,Plans: Armored Boots
+TID_RECIPE_ACCESSORY_42,Plans: Worn-heeled Boots
+TID_RECIPE_ACCESSORY_43,Plans: No-Heels
+TID_RECIPE_ACCESSORY_44,Plans: Max Heels
+TID_RECIPE_ACCESSORY_45,Plans: Stylish Suede Shoes
+TID_RECIPE_ACCESSORY_46,Plans: Synth Skins
+TID_RECIPE_ACCESSORY_47,Plans: Heel Plz
+TID_RECIPE_ACCESSORY_48,Plans: Kickers
+TID_RECIPE_ACCESSORY_49,Plans: Wooden Heelers
+TID_RECIPE_ACCESSORY_50,Plans: Durable Boots
+TID_RECIPE_ACCESSORY_51,Plans: Steel Heelers
+TID_RECIPE_ACCESSORY_52,Plans: Steel Kick'rs
+TID_RECIPE_ACCESSORY_53,Plans: Meteor Kick'rs
+TID_RECIPE_ACCESSORY_54,Plans: Swamp Tramplers
+TID_RECIPE_ACCESSORY_55,Plans: Dominator Boots
+TID_RECIPE_ACCESSORY_56,Plans: Kickabout
+TID_RECIPE_ACCESSORY_57,Plans: Shutter Shades
+TID_RECIPE_ACCESSORY_58,Plans: Aviators
+TID_RECIPE_ACCESSORY_59,Plans: Pilot Goggles
+TID_RECIPE_ACCESSORY_60,Plans: Hot Rod Goggles
+TID_RECIPE_ACCESSORY_61,Plans: UV-Protected Shades
+TID_RECIPE_ACCESSORY_62,Plans: Combat Shades
+TID_RECIPE_ACCESSORY_63,Plans: Blaster Shades
+TID_RECIPE_ACCESSORY_64,Plans: Digiplayer Shades
+TID_RECIPE_ACCESSORY_65,Plans: Solar Shades
+TID_RECIPE_ACCESSORY_66,Plans: Holo Shades
+TID_RECIPE_ACCESSORY_67,Plans: Infiltrator's Shades
+TID_RECIPE_ACCESSORY_68,Plans: Pyrox's Shades
+TID_RECIPE_ACCESSORY_69,Plans: Bionic Ocular
+TID_RECIPE_ACCESSORY_70,Plans: Green Scarf
+TID_RECIPE_ACCESSORY_71,Plans: Red Scarf
+TID_RECIPE_ACCESSORY_72,Plans: Blue Scarf
+TID_RECIPE_ACCESSORY_73,Plans: Mood Necklace
+TID_RECIPE_ACCESSORY_74,Plans: Power Bandana
+TID_RECIPE_ACCESSORY_75,Plans: Polished Necklace
+TID_RECIPE_ACCESSORY_76,Plans: Bandana
+TID_RECIPE_ACCESSORY_77,Plans: Blaster Necklace
+TID_RECIPE_ACCESSORY_78,Plans: Dramatic Power Bandana
+TID_RECIPE_ACCESSORY_79,Plans: Mega Power Bandana
+TID_RECIPE_ACCESSORY_80,Plans: Hyper Power Bandana
+TID_RECIPE_ACCESSORY_81,Plans: Comforting Bandana
+TID_RECIPE_ACCESSORY_82,Plans: Infiltrator's Bandana
+TID_RECIPE_ACCESSORY_83,Plans: Voodoo Headwear
+TID_RECIPE_ACCESSORY_84,Plans: Hunter's Strap
+TID_RECIPE_ACCESSORY_85,Plans: Embossed Belt
+TID_RECIPE_ACCESSORY_86,Plans: Suspect Strap
+TID_RECIPE_ACCESSORY_87,Plans: Tight Strap
+TID_RECIPE_ACCESSORY_88,Plans: Armored Strap
+TID_RECIPE_ACCESSORY_89,Plans: Fitting Strap
+TID_RECIPE_ACCESSORY_90,Plans: Cardinal Strap
+TID_RECIPE_ACCESSORY_91,Plans: Crane Strap
+TID_RECIPE_ACCESSORY_92,Plans: Hawk Strap
+TID_RECIPE_ACCESSORY_93,Plans: Meteor Strap
+TID_RECIPE_ACCESSORY_94,Plans: Light Metal Belt
+TID_RECIPE_ACCESSORY_95,Plans: Chimneysweep's Wonder Harness
+TID_RECIPE_ACCESSORY_96,Plans: Doctor's Belt
+TID_RECIPE_ACCESSORY_97,Plans: Worn Belt
+TID_RECIPE_ACCESSORY_98,Plans: Washed Out Belt
+TID_RECIPE_ACCESSORY_99,Plans: Doc's Leather Belt
+TID_RECIPE_ACCESSORY_100,Plans: Dust-covered Belt
+TID_RECIPE_ACCESSORY_101,Plans: Bent Buckle
+TID_RECIPE_ACCESSORY_102,Plans: Nail Buckle
+TID_RECIPE_ACCESSORY_103,Plans: Bone Buckle
+TID_RECIPE_ACCESSORY_104,Plans: Shiny Buckle
+TID_RECIPE_ACCESSORY_105,Plans: One-Size-Fits-All Belt
+TID_RECIPE_ACCESSORY_106,Plans: Waistland
+TID_RECIPE_ACCESSORY_107,Plans: Bodyguard's Strap
+TID_RECIPE_ACCESSORY_108,Plans: Dark Brown Leather Belt
+TID_RECIPE_ACCESSORY_109,Plans: Dark Grey Leather Belt
+TID_RECIPE_ACCESSORY_110,Plans: Bodyguard's Belt
+TID_RECIPE_ACCESSORY_111,Plans: Black Leather Belt
+TID_RECIPE_ACCESSORY_112,Plans: Midnight Leather Belt
+TID_RECIPE_ACCESSORY_113,Plans: Snake Skin Belt
+TID_RECIPE_ACCESSORY_114,Plans: Croc Skin Belt
+TID_RECIPE_ACCESSORY_115,Plans: Welted Buckle
+TID_RECIPE_ACCESSORY_116,Plans: Dominator Belt
+TID_RECIPE_ACCESSORY_117,Plans: Extraordinary Belle T
+TID_RECIPE_ACCESSORY_118,Plans: Hunter's Gloves
+TID_RECIPE_ACCESSORY_119,Plans: All-weather Gloves
+TID_RECIPE_ACCESSORY_120,Plans: Hunter's Armored Gloves
+TID_RECIPE_ACCESSORY_121,Plans: Cat's Paws
+TID_RECIPE_ACCESSORY_122,Plans: Goose Down Gloves
+TID_RECIPE_ACCESSORY_123,Plans: Rock Climbing Gloves
+TID_RECIPE_ACCESSORY_124,Plans: Gun Gloves
+TID_RECIPE_ACCESSORY_125,Plans: Utility Gloves
+TID_RECIPE_ACCESSORY_126,Plans: Aviator Gloves
+TID_RECIPE_ACCESSORY_127,Plans: Steady Hands
+TID_RECIPE_ACCESSORY_128,Plans: Bearskin Gloves
+TID_RECIPE_ACCESSORY_129,Plans: Regular Gloves
+TID_RECIPE_ACCESSORY_130,Plans: Fine Leather Gloves
+TID_RECIPE_ACCESSORY_131,Plans: Doc's Armored Gloves
+TID_RECIPE_ACCESSORY_132,Plans: Ski Gloves
+TID_RECIPE_ACCESSORY_133,Plans: Golf Gloves
+TID_RECIPE_ACCESSORY_134,Plans: Plaid Gloves
+TID_RECIPE_ACCESSORY_135,Plans: Yachting Gloves
+TID_RECIPE_ACCESSORY_136,Plans: Hi-Friction Gloves
+TID_RECIPE_ACCESSORY_137,Plans: Suede Gloves
+TID_RECIPE_ACCESSORY_138,Plans: Cybernetic Gloves
+TID_RECIPE_ACCESSORY_139,Plans: Regenerative Gloves
+TID_RECIPE_ACCESSORY_140,Plans: Bodyguard's Gloves
+TID_RECIPE_ACCESSORY_141,Plans: Cordura Gloves
+TID_RECIPE_ACCESSORY_142,Plans: Bodyguard's Armored Gloves
+TID_RECIPE_ACCESSORY_143,Plans: Needleproof Gloves
+TID_RECIPE_ACCESSORY_144,Plans: Syndicate Gloves
+TID_RECIPE_ACCESSORY_145,Plans: Heavy Silk Gloves
+TID_RECIPE_ACCESSORY_146,Plans: Bodybuilder Gloves
+TID_RECIPE_ACCESSORY_147,Plans: Tough Guy Gloves
+TID_RECIPE_ACCESSORY_148,Plans: Armored Gloves
+TID_RECIPE_ACCESSORY_149,Plans: Melee Gloves
+TID_RECIPE_ACCESSORY_150,Plans: Hands of Stone
+TID_RECIPE_ACCESSORY_151,Plans: Bot Master Boots
+TID_RECIPE_ACCESSORY_152,Plans: Bot Trampling Boots
+TID_RECIPE_ACCESSORY_153,Plans: Nano Glass Goggles
+TID_RECIPE_ACCESSORY_154,Plans: Fire-tempered Belt
+TID_RECIPE_ACCESSORY_155,Plans: Fire-forged Belt
+TID_RECIPE_ACCESSORY_156,Plans: Spidersilk-Stiched Pants
+TID_RECIPE_ACCESSORY_157,Plans: Poison-enlaced Pants
+TID_RECIPE_ACCESSORY_158,Plans: Cyber-enhanced Pants
+TID_RECIPE_ACCESSORY_159,Plans: Pneumatic Pants
+TID_RECIPE_ACCESSORY_160,Plans: Cyber-wired Jacket
+TID_RECIPE_ACCESSORY_161,Plans: Bot-plated Jacket
+TID_RECIPE_ACCESSORY_162,Plans: Radiation Jacket
+TID_RECIPE_ACCESSORY_163,Plans: Bot-Wrangling Jacket
+TID_RECIPE_ACCESSORY_164,Plans: Queen's Sparkling Belt
+TID_RECIPE_ACCESSORY_165,Plans: Queen's Whipper
+TID_RECIPE_ACCESSORY_166,Plans: Riot Jacket
+TID_RECIPE_ACCESSORY_167,Plans: Riot Leathers
+TID_RECIPE_ACCESSORY_168,Plans: Plated Cowboy Hat
+TID_RECIPE_ACCESSORY_169,Plans: Riot Face
+TID_RECIPE_ACCESSORY_170,Plans: Anarchy Leggings
+TID_RECIPE_ACCESSORY_171,Plans: Anarchy Jeans
+TID_RECIPE_ACCESSORY_172,Plans: IR Camouflage
+TID_RECIPE_ACCESSORY_173,Plans: The Heat Sink
+TID_RECIPE_ACCESSORY_174,Plans: Lava-tempered Helmet
+TID_RECIPE_ACCESSORY_175,Plans: Lava-forged Helmet
+TID_RECIPE_ACCESSORY_176,Plans: Lava Walkers
+TID_RECIPE_ACCESSORY_177,Plans: Lava Waders
+TID_RECIPE_ACCESSORY_178,Plans: Pest Squishers
+TID_RECIPE_ACCESSORY_179,Plans: Mite Stompers
+TID_RECIPE_ACCESSORY_180,Plans: Rubber Soles
+TID_RECIPE_ACCESSORY_181,Plans: Crudkickers
+TID_RECIPE_ACCESSORY_182,Plans: Black Lab Gloves
+TID_RECIPE_ACCESSORY_183,Plans: Entry Gloves
+TID_RECIPE_ACCESSORY_184,Plans: Sheepskin Gloves
+TID_RECIPE_ACCESSORY_185,Plans: Cowhide Gloves
+TID_RECIPE_ACCESSORY_186,Plans: Woven Belt
+TID_RECIPE_ACCESSORY_187,Plans: Punk Belt
+TID_RECIPE_ACCESSORY_188,Plans: Pirate Vis-arrrrrrh!
+TID_RECIPE_ACCESSORY_189,Plans: Botmask Helmet
+TID_RECIPE_ACCESSORY_190,Plans: Gasbooster Helmet
+TID_RECIPE_ACCESSORY_191,Plans: Pilot Helmet
+TID_RECIPE_ACCESSORY_192,Plans: Predator Helmet
+TID_RECIPE_ACCESSORY_193,Plans: Master's Scarf
+TID_RECIPE_ACCESSORY_194,Plans: Sloth
+TID_RECIPE_ACCESSORY_195,Plans: Greed
+TID_RECIPE_ACCESSORY_196,Plans: Edward
+TID_RECIPE_ACCESSORY_197,Plans: Alphonse
+TID_RECIPE_ACCESSORY_198,Plans: Tech-enhanced Pants
+TID_RECIPE_ACCESSORY_199,Plans: Compressed Pants
+TID_RECIPE_ACCESSORY_200,Plans: Flux Capacitors
+TID_RECIPE_ACCESSORY_201,Plans: Zombie Scarf
+TID_RECIPE_ACCESSORY_202,Plans: Science Cowboyhat of Brains
+TID_RECIPE_ACCESSORY_203,Plans: Science Cowboycap of Brains
+TID_RECIPE_ACCESSORY_204,Plans: Gangsta's Scarf
+TID_RECIPE_ACCESSORY_205,Plans: Great Sash
+TID_RECIPE_ACCESSORY_206,Plans. Cool Sash
+TID_RECIPE_ACCESSORY_207,Plans. Good Sash
+TID_RECIPE_ACCESSORY_208,Plans: Outstanding Sash
+TID_RECIPE_ACCESSORY_209,Plans: Superfine Sash
+TID_RECIPE_ACCESSORY_210,Plans: Excellent Sash
+TID_RECIPE_ACCESSORY_211,Plans: Fine Sash
+TID_RECIPE_ACCESSORY_212,Plans: Credible Sash
+TID_RECIPE_ACCESSORY_213,Plans: Street Wise Sash
+TID_RECIPE_ACCESSORY_214,Plans: Marvelous Sash
+TID_RECIPE_ACCESSORY_215,Plans: Awesome Sash
+TID_RECIPE_ACCESSORY_216,Plans: Greater Sash
+TID_RECIPE_ACCESSORY_217,Plans: Worthy Sash
+TID_RECIPE_ACCESSORY_218,Plans: Boosted Sash
+TID_RECIPE_ACCESSORY_219,Plans: Acute Sash
+TID_RECIPE_ACCESSORY_220,Plans: Genuine Sash
+TID_RECIPE_ACCESSORY_221,Plans: Special Sash
+TID_RECIPE_ACCESSORY_222,Plans: Elegant Sash
+TID_RECIPE_ACCESSORY_223,Plans: Singular Sash
+TID_RECIPE_ACCESSORY_224,Plans: Exquisite Sash
+TID_RECIPE_ACCESSORY_225,Plans: High Power Sash
+TID_RECIPE_ACCESSORY_226,Plans: Credible Shades
+TID_RECIPE_ACCESSORY_227,Plans: Street Wise Shades
+TID_RECIPE_ACCESSORY_228,Plans: Worthy Shades
+TID_RECIPE_ACCESSORY_229,Plans: Boosted Shades
+TID_RECIPE_ACCESSORY_230,Plans: Hunting Shades
+TID_RECIPE_ACCESSORY_231,Plans: Superfine Visors
+TID_RECIPE_ACCESSORY_232,Plans: Excellent Visors
+TID_RECIPE_ACCESSORY_233,Plans: Cool Visors
+TID_RECIPE_ACCESSORY_234,Plans: Good Visors
+TID_RECIPE_ACCESSORY_235,Plans: Fine Visors
+TID_RECIPE_ACCESSORY_236,Plans: Credible Visors
+TID_RECIPE_ACCESSORY_237,Plans: Marvelous Visors
+TID_RECIPE_ACCESSORY_238,Plans: Awesome Visors
+TID_RECIPE_ACCESSORY_239,Plans: Greater Visors
+TID_RECIPE_ACCESSORY_240,Plans: Street Wise Visors
+TID_RECIPE_ACCESSORY_241,Plans: Worthy Visors
+TID_RECIPE_ACCESSORY_242,Plans: Boosted Visors
+TID_RECIPE_ACCESSORY_243,Plans: Acute Visors
+TID_RECIPE_ACCESSORY_244,Plans: Singular Visors
+TID_RECIPE_ACCESSORY_245,Plans: Exquisite Visors
+TID_RECIPE_ACCESSORY_246,Plans: High Power Visors
+TID_RECIPE_ACCESSORY_247,Plans: Casual Dark Gloves
+TID_RECIPE_ACCESSORY_248,Plans: Casual Black Gloves
+TID_RECIPE_ACCESSORY_249,Plans: Credible Tactical Gloves
+TID_RECIPE_ACCESSORY_250,Plans: Street Wise Tactical Gloves
+TID_RECIPE_ACCESSORY_251,Plans: Worthy Tactical Gloves
+TID_RECIPE_ACCESSORY_252,Plans: Boosted Tactical Gloves
+TID_RECIPE_ACCESSORY_253,Plans: Awesome Tactical Gloves
+TID_RECIPE_ACCESSORY_254,Plans: Greater Tactical Gloves
+TID_RECIPE_ACCESSORY_255,Plans: Singular Tactical Gloves
+TID_RECIPE_ACCESSORY_256,Plans: Acute Tactical Gloves
+TID_RECIPE_ACCESSORY_257,Plans: Genuine Tactical Gloves
+TID_RECIPE_ACCESSORY_258,Plans: Special Tactical Gloves
+TID_RECIPE_ACCESSORY_259,Plans: Elegant Tactical Gloves
+TID_RECIPE_ACCESSORY_260,Plans: Exquisite Tactical Gloves
+TID_RECIPE_ACCESSORY_261,Plans: High Power Tactical Gloves
+TID_RECIPE_ACCESSORY_262,Plans: Jagged Tactical Gloves
+TID_RECIPE_ACCESSORY_263,Plans: Fine Protective Gloves
+TID_RECIPE_ACCESSORY_264,Plans: Credible Protective Gloves
+TID_RECIPE_ACCESSORY_265,Plans: Street Wise Protective Gloves
+TID_RECIPE_ACCESSORY_266,Plans: Worthy Protective Gloves
+TID_RECIPE_ACCESSORY_267,Plans: Marvelous Protective Gloves
+TID_RECIPE_ACCESSORY_268,Plans: Awesome Protective Gloves
+TID_RECIPE_ACCESSORY_269,Plans: Greater Protective Gloves
+TID_RECIPE_ACCESSORY_270,Plans: Good Wrap
+TID_RECIPE_ACCESSORY_271,Plans: Fine Wrap
+TID_RECIPE_ACCESSORY_272,Plans: Credible Wrap
+TID_RECIPE_ACCESSORY_273,Plans: Bandit's Bandana
+TID_RECIPE_ACCESSORY_274,Plans: Excellent Wrap
+TID_RECIPE_ACCESSORY_275,Plans: Marvelous Wrap
+TID_RECIPE_ACCESSORY_276,Plans: Bandit's Headscarf
+TID_RECIPE_ACCESSORY_277,Plans: Street Wise Wrap
+TID_RECIPE_ACCESSORY_278,Plans: Worthy Wrap
+TID_RECIPE_ACCESSORY_279,Plans: Boosted Wrap
+TID_RECIPE_ACCESSORY_280,Plans: Trooper's Bandana
+TID_RECIPE_ACCESSORY_281,Plans: Awesome Wrap
+TID_RECIPE_ACCESSORY_282,Plans: Greater Wrap
+TID_RECIPE_ACCESSORY_283,Plans: Trooper's Headscarf
+TID_RECIPE_ACCESSORY_284,Plans: Acute Wrap
+TID_RECIPE_ACCESSORY_285,Plans: Genuine Wrap
+TID_RECIPE_ACCESSORY_286,Plans: Special Wrap
+TID_RECIPE_ACCESSORY_287,Plans: Bodyguard's Bandana
+TID_RECIPE_ACCESSORY_288,Plans: Singular Wrap
+TID_RECIPE_ACCESSORY_289,Plans: Exquisite Wrap
+TID_RECIPE_ACCESSORY_290,Plans: Bodyguard's Headscarf
+TID_RECIPE_ACCESSORY_291,Plans: Worthy Walkers
+TID_RECIPE_ACCESSORY_292,Plans: Boosted Walkers
+TID_RECIPE_ACCESSORY_293,Plans: Acute Walkers
+TID_RECIPE_ACCESSORY_294,Plans: Genuine Walkers
+TID_RECIPE_ACCESSORY_295,Plans: Singular Walkers
+TID_RECIPE_ACCESSORY_296,Plans: Exquisite Walkers
+TID_RECIPE_ACCESSORY_297,Plans: High Power Walkers
+TID_RECIPE_ACCESSORY_298,Plans: Special Walkers
+TID_RECIPE_ACCESSORY_299,Plans: Elegant Walkers
+TID_RECIPE_ACCESSORY_300,Plans: Great Walkers
+TID_RECIPE_ACCESSORY_301,Plans: Cool Walkers
+TID_RECIPE_ACCESSORY_302,Plans: Jagged Walkers
+TID_RECIPE_ACCESSORY_303,Plans: Radical Walkers
+TID_RECIPE_ACCESSORY_304,Plans: First Class Walkers
+TID_RECIPE_ACCESSORY_305,Plans: Good Walkers
+TID_RECIPE_ACCESSORY_306,Plans: Fine Walkers
+TID_RECIPE_ACCESSORY_307,Plans: Credible Walkers
+TID_RECIPE_ACCESSORY_308,Plans: Street Wise Walkers
+TID_RECIPE_ACCESSORY_309,Plans: Outstanding Walkers
+TID_RECIPE_ACCESSORY_310,Plans: Superfine Walkers
+TID_RECIPE_ACCESSORY_311,Plans: Excellent Walkers
+TID_RECIPE_ACCESSORY_312,Plans: Key to Power Plant
+TID_RECIPE_ACCESSORY_313,Plans: Key to Dr. Bauhoff
+TID_RECIPE_ACCESSORY_314,Plans: Key to 7 Deadly Sins
+TID_RECIPE_ACCESSORY_315,Plans: Key to Queen of Diamonds
+TID_RECIPE_ACCESSORY_316,Plans: Key to Riot Town
+TID_RECIPE_ACCESSORY_317,Plans: Key to the Slavemaster
+TID_RECIPE_ACCESSORY_318,Plans: Key to Raider Valley
+TID_RECIPE_ACCESSORY_319,Plans: Key to Devourer Dragon
+TID_RECIPE_ACCESSORY_320,Plans: Nice Sash
+TID_RECIPE_ACCESSORY_321,Plans: Mega Power Sash
+TID_RECIPE_ACCESSORY_322,Plans: Bebop
+TID_RECIPE_ACCESSORY_323,Plans: M-Base
+TID_RECIPE_ACCESSORY_324,Plans: Acid Jazz
+TID_RECIPE_ACCESSORY_325,Plans: Dixieland
+TID_RECIPE_ACCESSORY_326,Plans: Hoodoo
+TID_RECIPE_ACCESSORY_327,Plans: Roots
+TID_RECIPE_ACCESSORY_328,Plans: Fort Yuma
+TID_RECIPE_ACCESSORY_329,Plans: Buddha Guard
+TID_RECIPE_ACCESSORY_330,Plans: Confession Armor
+TID_RECIPE_ACCESSORY_331,Plans: Daath Guard
+TID_RECIPE_ACCESSORY_332,Plans: Bounce
+TID_RECIPE_ACCESSORY_333,Plans: Wonky
+TID_RECIPE_ACCESSORY_334,Plans: Glitch
+TID_RECIPE_ACCESSORY_335,Plans: Godfather
+TID_RECIPE_ACCESSORY_336,Plans: Steppa
+TID_RECIPE_ACCESSORY_337,Plans: Burrito
+TID_RECIPE_ACCESSORY_338,Plans: Bandido
+TID_RECIPE_ACCESSORY_339,Plans: Malkuth Sheath
+TID_RECIPE_ACCESSORY_340,Plans: Redeemer Guard
+TID_RECIPE_ACCESSORY_341,Plans: Savior Barrier
+TID_RECIPE_ACCESSORY_342,Plans: Singjay
+TID_RECIPE_ACCESSORY_343,Plans: Ragga
+TID_RECIPE_ACCESSORY_344,Plans: Sensi
+TID_RECIPE_ACCESSORY_345,Plans: Rumble Hat
+TID_RECIPE_ACCESSORY_346,Plans: Drango
+TID_RECIPE_ACCESSORY_347,Plans: K12
+TID_RECIPE_ACCESSORY_348,Plans: El Topo
+TID_RECIPE_ACCESSORY_349,Plans: Archangel Sheath
+TID_RECIPE_ACCESSORY_350,Plans: Avatar Barrier
+TID_RECIPE_ACCESSORY_351,Plans: Blessing Guard
+TID_RECIPE_ACCESSORY_352,Plans: Frosted Electromagnetic Chronobooster
+TID_RECIPE_ACCESSORY_353,Plans: Gastrointestinal Nuclear-powered Heliogroper
+TID_RECIPE_ACCESSORY_354,Plans: Golfing Nuclear-powered Ensnarerazer
+TID_RECIPE_ACCESSORY_355,Plans: Gyro-stabilized Aquadesk
+TID_RECIPE_ACCESSORY_356,Plans: Heavy-metal Ultrasonic Prowler-o-mat
+TID_RECIPE_ACCESSORY_357,Plans: Internet-enabled Nailfile
+TID_RECIPE_ACCESSORY_358,Plans: Janitorial Multiadapter
+TID_RECIPE_ACCESSORY_359,Plans: Magnetized Ensnaer
+TID_RECIPE_ACCESSORY_360,Plans: Gyroeye
+TID_RECIPE_ACCESSORY_361,Plans: Embedded Healing Motor
+TID_RECIPE_ACCESSORY_362,Plans: Healing Gear
+TID_RECIPE_ACCESSORY_363,Plans: Polarized Patchator
+TID_RECIPE_ACCESSORY_364,Plans: Terror Secretion
+TID_RECIPE_ACCESSORY_365,Plans: High-speed Scanning Gloves
+TID_RECIPE_ACCESSORY_366,Plans: Cardio Hands
+TID_RECIPE_ACCESSORY_367,Plans: Implanted Secretion Electrifier
+TID_RECIPE_ACCESSORY_368,Plans: Self-regulating Gyrosecretion
+TID_RECIPE_ACCESSORY_369,Plans: Optical Limb Modifier
+TID_RECIPE_ACCESSORY_370,Plans: Neural Dermoresistor
+TID_RECIPE_ACCESSORY_371,Plans: Regulator Hands
+TID_RECIPE_ACCESSORY_372,Plans: Gastrowire
+TID_RECIPE_ACCESSORY_373,Plans: Life Cell Necklace
+TID_RECIPE_ACCESSORY_374,Plans: Technowire
+TID_RECIPE_ACCESSORY_375,Plans: Gyrocontigation Necklace
+TID_RECIPE_ACCESSORY_376,Plans: Infecting Heart Boots
+TID_RECIPE_ACCESSORY_377,Plans: Black-market Skeletal Boots
+TID_RECIPE_ACCESSORY_378,Plans: Gravitic Contigation Boots
+TID_RECIPE_ACCESSORY_379,Plans: Explosive Cluster Boots
+TID_RECIPE_ACCESSORY_380,Plans: Powered Guiding Boots
+TID_RECIPE_ACCESSORY_381,Plans: Mutant's Shutter Shades
+TID_RECIPE_ACCESSORY_382,Plans: Mutant's Bling Shades
+TID_RECIPE_ACCESSORY_383,Plans: Mutant's Aviators
+TID_RECIPE_ACCESSORY_384,Plans: Key to Raider Village
+TID_RECIPE_ACCESSORY_385,Plans: Labycore Health Sash
+TID_RECIPE_ACCESSORY_386,Plans: Labycore Power Sash
+TID_RECIPE_ACCESSORY_387,Plans: Labycore Strength Sash
+TID_RECIPE_ACCESSORY_388,Plans: Labycore Health Hands
+TID_RECIPE_ACCESSORY_389,Plans: Labycore Power Gloves
+TID_RECIPE_ACCESSORY_390,Plans: Labycore Strength Hands
+TID_RECIPE_ACCESSORY_391,Plans: Labycore Health Eye
+TID_RECIPE_ACCESSORY_392,Plans: Labycore Power Eye
+TID_RECIPE_ACCESSORY_393,Plans: Labycore Strength Shades
+TID_RECIPE_ACCESSORY_394,Plans: Labycore Health Helmet
+TID_RECIPE_ACCESSORY_395,Plans: Labycore Power Helmet
+TID_RECIPE_ACCESSORY_396,Plans: Labycore Strength Helmet
+TID_RECIPE_ACCESSORY_397,Plans: Labycore Health Bandana
+TID_RECIPE_ACCESSORY_398,Plans: Labycore Power Scarf
+TID_RECIPE_ACCESSORY_399,Plans: Labycore Strength Scarf
+TID_RECIPE_ACCESSORY_400,Plans: Labycore Health Boots
+TID_RECIPE_ACCESSORY_401,Plans: Labycore Power Boots
+TID_RECIPE_ACCESSORY_402,Plans: Labycore Strength Boots
+TID_RECIPE_ACCESSORY_403,Plans: Farm Gloves
+TID_RECIPE_ACCESSORY_404,Plans: Farm Hands
+TID_RECIPE_ACCESSORY_405,Plans: Kelly Meow's
+TID_RECIPE_ACCESSORY_406,Plans: Meow Kelly's
+TID_RECIPE_ACCESSORY_407,Plans: Meow Meow
+TID_RECIPE_ACCESSORY_408,Plans: Kelly Meow Meow
+TID_RECIPE_ACCESSORY_409,Plans: Sweet Belt
+TID_RECIPE_ACCESSORY_410,Plans: Sweet Sash
+TID_RECIPE_ACCESSORY_411,Plans: Cal Al Cybers
+TID_RECIPE_ACCESSORY_412,Plans: Cal Al Eye
+TID_RECIPE_ACCESSORY_413,Plans: Cal Al Goggles
+TID_RECIPE_ACCESSORY_414,Plans: Cal Al Shades
+TID_RECIPE_ACCESSORY_415,Plans: Cal Al Sunglasses
+TID_RECIPE_ACCESSORY_416,Plans: Cal Al Visor
+TID_RECIPE_ACCESSORY_417,Plans: Deadguys Melee Scarf
+TID_RECIPE_ACCESSORY_418,Plans: Deadguys Ranged Lace
+TID_RECIPE_ACCESSORY_419,Plans: Deadguys Multibandana
+TID_RECIPE_ACCESSORY_420,Plans: Deadguys Scarf
+TID_RECIPE_ACCESSORY_421,Plans: Deadguys Necklace
+TID_RECIPE_ACCESSORY_422,Plans: Deadguys Bandana
+TID_RECIPE_ACCESSORY_423,Plans: Doc's Armored Gloves
+TID_RECIPE_ACCESSORY_424,Plans: Ski Gloves
+TID_RECIPE_ACCESSORY_425,Plans: Golf Gloves
+TID_RECIPE_ACCESSORY_426,Plans: Plaid Gloves
+TID_RECIPE_ACCESSORY_427,Plans: Yachting Gloves
+TID_RECIPE_ACCESSORY_428,Plans: Hi-Friction Gloves
+TID_RECIPE_ACCESSORY_429,Plans: Suede Gloves
+TID_RECIPE_ACCESSORY_430,Plans: Hiking Gloves
+TID_RECIPE_ACCESSORY_431,Plans: Medical Gloves
+TID_RECIPE_ACCESSORY_432,Plans: Combat Medic's Gloves
+TID_RECIPE_ACCESSORY_433,Plans: Rubber Gloves
+TID_RECIPE_ACCESSORY_434,Plans: Neoprene Gloves
+TID_RECIPE_ACCESSORY_435,Plans: Lab Gloves
+TID_RECIPE_ACCESSORY_436,Plans: Probing Gloves
+TID_RECIPE_ACCESSORY_437,Plans: Sterile Gloves
+TID_RECIPE_ACCESSORY_438,Plans: Antimicrobial Gloves
+TID_RECIPE_ACCESSORY_439,Plans: Healer's Gloves
+TID_RECIPE_ACCESSORY_440,Plans: Technician's Gloves
+TID_RECIPE_ACCESSORY_441,Plans: Orderly's Gloves
+TID_RECIPE_ACCESSORY_442,Plans: Doc's Gloves
+TID_RECIPE_ACCESSORY_443,Plans: Doctor's Gloves
+TID_RECIPE_ACCESSORY_444,Plans: Surgeon's Gloves
+TID_RECIPE_ACCESSORY_445,Plans: Neurosurgeon's Gloves
+TID_RECIPE_ACCESSORY_446,Plans: Hacker's Gloves
+TID_RECIPE_ACCESSORY_447,Plans: Virtual Reality Gloves
+TID_RECIPE_ACCESSORY_448,Plans: Second Skin Gloves
+TID_RECIPE_ACCESSORY_449,Plans: Hand-Eye Interface
+TID_RECIPE_ACCESSORY_450,Plans: Cybernetic Gloves
+TID_RECIPE_ACCESSORY_451,Plans: Panacea Gloves
+TID_RECIPE_ACCESSORY_452,Plans: Pandemic Gloves
+TID_RECIPE_ACCESSORY_453,Plans: Silk Gloves
+TID_RECIPE_ACCESSORY_454,Plans: Regenerative Gloves
+TID_RECIPE_ACCESSORY_455,Plans: Bodyguard's Gloves
+TID_RECIPE_ACCESSORY_456,Plans: Cordura Gloves
+TID_RECIPE_ACCESSORY_457,Plans: Bodyguard's Armored Gloves
+TID_RECIPE_ACCESSORY_458,Plans: Needleproof Gloves
+TID_RECIPE_ACCESSORY_459,Plans: Syndicate Gloves
+TID_RECIPE_ACCESSORY_460,Plans: Heavy Silk Gloves
+TID_RECIPE_ACCESSORY_461,Plans: Bodybuilder Gloves
+TID_RECIPE_ACCESSORY_462,Plans: Tough Guy Gloves
+TID_RECIPE_ACCESSORY_463,Plans: Armored Gloves
+TID_RECIPE_ACCESSORY_464,Plans: Heavy Metal Gloves
+TID_RECIPE_ACCESSORY_465,Plans: Hardman Gloves
+TID_RECIPE_ACCESSORY_466,Plans: Protector Gloves
+TID_RECIPE_ACCESSORY_467,Plans: Bomber Gloves
+TID_RECIPE_ACCESSORY_468,Plans: Vigilante Gloves
+TID_RECIPE_ACCESSORY_469,Plans: Massive Mittens
+TID_RECIPE_ACCESSORY_470,Plans: Championship Gloves
+TID_RECIPE_ACCESSORY_471,Plans: Bulldog Gloves
+TID_RECIPE_ACCESSORY_472,Plans: Attitude Adjusters
+TID_RECIPE_ACCESSORY_473,Plans: Team Gloves
+TID_RECIPE_ACCESSORY_474,Plans: Arm Wrestling Gloves
+TID_RECIPE_ACCESSORY_475,Plans: Powerlifting Gloves
+TID_RECIPE_ACCESSORY_476,Plans: Rodeo Gloves
+TID_RECIPE_ACCESSORY_477,Plans: Heavy Duty Gloves
+TID_RECIPE_ACCESSORY_478,Plans: Power Grips
+TID_RECIPE_ACCESSORY_479,Plans: Vanguard Gloves
+TID_RECIPE_ACCESSORY_480,Plans: Dragon Gloves
+TID_RECIPE_ACCESSORY_481,Plans: Knuckeduster Gloves
+TID_RECIPE_ACCESSORY_482,Plans: No Nonsense Gloves
+TID_RECIPE_ACCESSORY_483,Plans: Pitbull Gloves
+TID_RECIPE_ACCESSORY_484,Plans: Melee Gloves
+TID_RECIPE_ACCESSORY_485,Plans: Linebacker's Gloves
+TID_RECIPE_ACCESSORY_486,Plans: Tank Gloves
+TID_RECIPE_ACCESSORY_487,Plans: Gauntlets
+TID_RECIPE_ACCESSORY_488,Plans: Hands of Stone
+TID_RECIPE_ACCESSORY_489,Plans: Bot Master Boots
+TID_RECIPE_ACCESSORY_490,Plans: Bot Trampling Boots
+TID_RECIPE_ACCESSORY_491,Plans: Nano Glass Goggles
+TID_RECIPE_ACCESSORY_492,Plans: Fire-tempered Belt
+TID_RECIPE_ACCESSORY_493,Plans: Fire-forged Belt
+TID_RECIPE_ACCESSORY_494,Plans: Spidersilk-Stiched Pants
+TID_RECIPE_ACCESSORY_495,Plans: Poison-enlaced Pants
+TID_RECIPE_ACCESSORY_496,Plans: Cyber-enhanced Pants
+TID_RECIPE_ACCESSORY_497,Plans: Pneumatic Pants
+TID_RECIPE_ACCESSORY_498,Plans: Cyber-wired Jacket
+TID_RECIPE_ACCESSORY_499,Plans: Bot-plated Jacket
+TID_RECIPE_ACCESSORY_500,Plans: Radiation Jacket
+TID_RECIPE_ACCESSORY_501,Plans: Bot-Wrangling Jacket
+TID_RECIPE_ACCESSORY_502,Plans: Queen's Sparkling Belt
+TID_RECIPE_ACCESSORY_503,Plans: Queen's Whipper
+TID_RECIPE_ACCESSORY_504,Plans: Riot Jacket
+TID_RECIPE_ACCESSORY_505,Plans: Riot Leathers
+TID_RECIPE_ACCESSORY_506,Plans: Plated Cowboy Hat
+TID_RECIPE_ACCESSORY_507,Plans: Riot Face
+TID_RECIPE_ACCESSORY_508,Plans: Anarchy Leggings
+TID_RECIPE_ACCESSORY_509,Plans: Anarchy Jeans
+TID_RECIPE_ACCESSORY_510,Plans: IR Camouflage
+TID_RECIPE_ACCESSORY_511,Plans: The Heat Sink
+TID_RECIPE_ACCESSORY_512,Plans: Lava-tempered Helmet
+TID_RECIPE_ACCESSORY_513,Plans: Lava-forged Helmet
+TID_RECIPE_ACCESSORY_514,Plans: Lava Walkers
+TID_RECIPE_ACCESSORY_515,Plans: Lava Waders
+TID_RECIPE_ACCESSORY_516,Plans: Pest Squishers
+TID_RECIPE_ACCESSORY_517,Plans: Mite Stompers

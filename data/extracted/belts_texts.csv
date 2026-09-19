@@ -1,0 +1,251 @@
+Name,Text
+TID_BELT_0,NPC Belt
+TID_BELT_1,Common Belt
+TID_BELT_2,Simple Belt
+TID_BELT_3,Typical Belt
+TID_BELT_4,Usual Belt
+TID_BELT_5,Plain Belt
+TID_BELT_6,Standard Belt
+TID_BELT_7,Universal Belt
+TID_BELT_8,Common Black Belt
+TID_BELT_9,Simple Black Belt
+TID_BELT_10,Typical Black Belt
+TID_BELT_11,Usual Black Belt
+TID_BELT_12,Plain Black Belt
+TID_BELT_13,Simple Dark Leather Belt
+TID_BELT_14,Typical Dark Leather Belt
+TID_BELT_15,Usual Dark Leather Belt
+TID_BELT_16,Plain Dark Leather Belt
+TID_BELT_17,Standard Brown Belt
+TID_BELT_18,Universal Brown Belt
+TID_BELT_19,Average Brown Belt
+TID_BELT_20,Basic Brown Belt
+TID_BELT_21,Everyday Brown Belt
+TID_BELT_22,Regular Brown Belt
+TID_BELT_23,Universal Vented Leather Belt
+TID_BELT_24,Average Vented Leather Belt
+TID_BELT_25,Basic Vented Leather Belt
+TID_BELT_26,Basic Belt
+TID_BELT_27,Everyday Belt
+TID_BELT_28,Regular Belt
+TID_BELT_29,Average Belt
+TID_BELT_30,Standard Black Belt
+TID_BELT_31,Universal Black Belt
+TID_BELT_32,Average Black Belt
+TID_BELT_33,Basic Black Belt
+TID_BELT_34,Everyday Black Belt
+TID_BELT_35,Standard Dark Leather Belt
+TID_BELT_36,Universal Dark Leather Belt
+TID_BELT_37,Average Dark Leather Belt
+TID_BELT_38,Basic Dark Leather Belt
+TID_BELT_39,Popular Brown Belt
+TID_BELT_40,Common Brown Belt
+TID_BELT_41,Simple Brown Belt
+TID_BELT_42,Typical Brown Belt
+TID_BELT_43,Usual Brown Belt
+TID_BELT_44,Plain Brown Belt
+TID_BELT_45,Everyday Vented Leather Belt
+TID_BELT_46,Regular Vented Leather Belt
+TID_BELT_47,Popular Vented Leather Belt
+TID_BELT_48,Lame Brown Belt
+TID_BELT_49,Warped Brown Belt
+TID_BELT_50,Lousy Brown Belt
+TID_BELT_51,Worthless Brown Belt
+TID_BELT_52,Poor Brown Belt
+TID_BELT_53,Battered Belt
+TID_BELT_54,Cracked Belt
+TID_BELT_55,Shabby Brown Belt
+TID_BELT_56,Inferior Brown Belt
+TID_BELT_57,Rural Brown Belt
+TID_BELT_58,Barebones Brown Belt
+TID_BELT_59,Beer-soaked Brown Belt
+TID_BELT_60,Excellent Belt
+TID_BELT_61,Marvelous Belt
+TID_BELT_62,Marvelous Black Belt
+TID_BELT_63,Awesome Black Belt
+TID_BELT_64,Greater Black Belt
+TID_BELT_65,Singular Black Belt
+TID_BELT_66,Exquisite Black Belt
+TID_BELT_67,Awesome Dark Leather Belt
+TID_BELT_68,Greater Dark Leather Belt
+TID_BELT_69,Singular Dark Leather Belt
+TID_BELT_70,Exquisite Dark Leather Belt
+TID_BELT_71,High-Power Dark Leather Belt
+TID_BELT_72,Singular Belt with Golden Buckle
+TID_BELT_73,Exquisite Belt with Golden Buckle
+TID_BELT_74,High-Power Belt with Golden Buckle
+TID_BELT_75,Jagged Belt with Golden Buckle
+TID_BELT_76,Radical Belt with Golden Buckle
+TID_BELT_77,Exquisite Belt with Silver Buckle
+TID_BELT_78,High-Power Belt with Silver Buckle
+TID_BELT_79,Jagged Belt with Silver Buckle
+TID_BELT_80,Radical Belt with Silver Buckle
+TID_BELT_81,Jagged Vented Leather Belt
+TID_BELT_82,Radical Vented Leather Belt
+TID_BELT_83,First-Class Studded Bold Belt
+TID_BELT_84,Outstanding Studded Belt
+TID_BELT_85,Excellent Utility Belt
+TID_BELT_86,Marvelous Utility Belt
+TID_BELT_87,Awesome Belt
+TID_BELT_88,Greater Belt
+TID_BELT_89,High-Power Black Belt
+TID_BELT_90,Jagged Black Belt
+TID_BELT_91,Radical Black Belt
+TID_BELT_92,First-Class Black Belt
+TID_BELT_93,Outstanding Black Belt
+TID_BELT_94,Jagged Dark Leather Belt
+TID_BELT_95,Radical Dark Leather Belt
+TID_BELT_96,First-Class Dark Leather Belt
+TID_BELT_97,Outstanding Dark Leather Belt
+TID_BELT_98,Superfine Dark Leather Belt
+TID_BELT_99,First-Class Belt with Golden Buckle
+TID_BELT_100,Outstanding Belt with Golden Buckle
+TID_BELT_101,Superfine Belt with Golden Buckle
+TID_BELT_102,Excellent Belt with Golden Buckle
+TID_BELT_103,Marvelous Belt with Golden Buckle
+TID_BELT_104,First-Class Belt with Silver Buckle
+TID_BELT_105,Outstanding Belt with Silver Buckle
+TID_BELT_106,Superfine Belt with Silver Buckle
+TID_BELT_107,Excellent Belt with Silver Buckle
+TID_BELT_108,First-Class Vented Leather Belt
+TID_BELT_109,Outstanding Vented Leather Belt
+TID_BELT_110,Outstanding Studded Bold Belt
+TID_BELT_111,Superfine Studded Belt
+TID_BELT_112,Awesome Utility Belt
+TID_BELT_113,Greater Utility Belt
+TID_BELT_114,Good Belt
+TID_BELT_115,Fine Belt
+TID_BELT_116,Credible Belt
+TID_BELT_117,Street Wise Belt
+TID_BELT_118,Worthy Belt
+TID_BELT_119,Boosted Belt
+TID_BELT_120,Fine Black Belt
+TID_BELT_121,Credible Black Belt
+TID_BELT_122,Street Wise Black Belt
+TID_BELT_123,Worthy Black Belt
+TID_BELT_124,Credible Dark Leather Belt
+TID_BELT_125,Street Wise Dark Leather Belt
+TID_BELT_126,Worthy Dark Leather Belt
+TID_BELT_127,Boosted Dark Leather Belt
+TID_BELT_128,Worthy Belt with Golden Buckle
+TID_BELT_129,Boosted Belt with Golden Buckle
+TID_BELT_130,Acute Belt with Golden Buckle
+TID_BELT_131,Genuine Belt with Golden Buckle
+TID_BELT_132,Special Belt with Golden Buckle
+TID_BELT_133,Boosted Belt with Silver Buckle
+TID_BELT_134,Acute Belt with Silver Buckle
+TID_BELT_135,Genuine Belt with Silver Buckle
+TID_BELT_136,Special Belt with Silver Buckle
+TID_BELT_137,Elegant Belt with Silver Buckle
+TID_BELT_138,Great Belt with Silver Buckle
+TID_BELT_139,Genuine Vented Leather Belt
+TID_BELT_140,Special Vented Leather Belt
+TID_BELT_141,Elegant Vented Leather Belt
+TID_BELT_142,Great Vented Leather Belt
+TID_BELT_143,Elegant Studded Bold Belt
+TID_BELT_144,Great Studded Bold Belt
+TID_BELT_145,Great Studded Belt
+TID_BELT_146,Cool Studded Belt
+TID_BELT_147,Cool Design Belt
+TID_BELT_148,Good Design Belt
+TID_BELT_149,Fine Design Belt
+TID_BELT_150,Credible Design Belt
+TID_BELT_151,Good Utility Belt
+TID_BELT_152,Fine Utility Belt
+TID_BELT_153,Snakeskin Belt
+TID_BELT_154,Credible Snakeskin Belt
+TID_BELT_155,Special Belt
+TID_BELT_156,Elegant Belt
+TID_BELT_157,Great Belt
+TID_BELT_158,Cool Belt
+TID_BELT_159,All-around Belt
+TID_BELT_160,Boosted Black Belt
+TID_BELT_161,Acute Black Belt
+TID_BELT_162,Genuine Black Belt
+TID_BELT_163,Special Black Belt
+TID_BELT_164,Acute Dark Leather Belt
+TID_BELT_165,Genuine Dark Leather Belt
+TID_BELT_166,Special Dark Leather Belt
+TID_BELT_167,Elegant Dark Leather Belt
+TID_BELT_168,Elegant Belt with Golden Buckle
+TID_BELT_169,Great Belt with Golden Buckle
+TID_BELT_170,Cool Belt with Golden Buckle
+TID_BELT_171,Good Belt with Golden Buckle
+TID_BELT_172,Fine Belt with Golden Buckle
+TID_BELT_173,Cool Belt with Silver Buckle
+TID_BELT_174,Good Belt with Silver Buckle
+TID_BELT_175,Fine Belt with Silver Buckle
+TID_BELT_176,Credible Belt with Silver Buckle
+TID_BELT_177,Street Wise Belt with Silver Buckle
+TID_BELT_178,Worthy Belt with Silver Buckle
+TID_BELT_179,Cool Vented Leather Belt
+TID_BELT_180,Good Vented Leather Belt
+TID_BELT_181,Fine Vented Leather Belt
+TID_BELT_182,Credible Vented Leather Belt
+TID_BELT_183,Cool Studded Bold Belt
+TID_BELT_184,Good Studded Bold Belt
+TID_BELT_185,Good Studded Belt
+TID_BELT_186,Fine Studded Belt
+TID_BELT_187,Street Wise Design Belt
+TID_BELT_188,Worthy Design Belt
+TID_BELT_189,Boosted Design Belt
+TID_BELT_190,Acute Design Belt
+TID_BELT_191,Credible Utility Belt
+TID_BELT_192,Street Wise Utility Belt
+TID_BELT_193,Cool Engineer's Belt
+TID_BELT_194,Fine Engineer's Belt
+TID_BELT_195,Radical Belt
+TID_BELT_196,First Class Belt
+TID_BELT_197,Excellent Black Belt
+TID_BELT_198,High Power Black Belt
+TID_BELT_199,First Class Snake Leather Belt
+TID_BELT_200,Outstanding Snake Leather Belt
+TID_BELT_201,Superfine Snake Leather Belt
+TID_BELT_202,High Power Dark Leather Belt
+TID_BELT_203,First Class Dark Leather Belt
+TID_BELT_204,Excellent Snake Leather Belt
+TID_BELT_205,High Power Studded Bold Belt
+TID_BELT_206,Marvelous Snake Leather Belt
+TID_BELT_207,High Power Belt with Golden Buckle
+TID_BELT_208,First Class Belt with Golden Buckle
+TID_BELT_209,Jagged Studded Bold Belt
+TID_BELT_210,Outstanding Belt
+TID_BELT_211,Superfine Belt
+TID_BELT_212,Awesome Snake Leather Belt
+TID_BELT_213,Greater Snake Leather Belt
+TID_BELT_214,Singular Snake Leather Belt
+TID_BELT_215,Exquisite Snake Leather Belt
+TID_BELT_216,High Power Snake Leather Belt
+TID_BELT_217,Superior Leather Belt
+TID_BELT_218,First Class Leather Belt
+TID_BELT_219,Outstanding Leather Belt
+TID_BELT_220,Radical Studded Bold Belt
+TID_BELT_221,Jagged Snake Leather Belt
+TID_BELT_222,Radical Snake Leather Belt
+TID_BELT_223,Excellent Leather Belt
+TID_BELT_224,First Class Studded Bold Belt
+TID_BELT_225,NPC Desert Hooligans belt
+TID_BELT_226,NPC Mutant belt
+TID_BELT_227,Toxic Belt
+TID_BELT_228,Poisonous Belt
+TID_BELT_229,Calavera Belt
+TID_BELT_230,Skull Belt
+TID_BELT_231,Waterlogged Belt
+TID_BELT_232,Refugee Belt
+TID_BELT_233,Patched Belt
+TID_BELT_234,Manly Belt
+TID_BELT_235,Sandy Belt
+TID_BELT_236,Erosion Belt
+TID_BELT_237,Evolved Belt
+TID_BELT_238,Craggy Belt
+TID_BELT_239,New Breed Belt
+TID_BELT_240,Tank Track Belt
+TID_BELT_241,Demolished Belt
+TID_BELT_242,Genetic Belt
+TID_BELT_243,Hooligan Belt
+TID_BELT_244,Interrogator's Belt
+TID_BELT_245,Scooter's Belt
+TID_BELT_246,Shamanistic Sash
+TID_BELT_247,Shaman's Strap
+TID_BELT_248,Malfunctioning Sash
+TID_BELT_249,Malfunctioning Strap

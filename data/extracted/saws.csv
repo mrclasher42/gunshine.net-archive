@@ -1,0 +1,65 @@
+Name,WeaponClass,RequiredLevel,Rarity,Tier,DiamondsOnly,DiamondCostExact,Enhancement,ShopRecommend,CriticalChance,LootMinLevel,LootMaxLevel,LootResource,LootExportName,YELLOW_TEXT_TID,Muzzle,MuzzleGlow,BulletTrail,BulletFlash,MeleeTrail,LootDisabled,Icon,PostToSocialNetworks
+Good Jigsaw,Jigsaw,3,Uncommon,,,,,,,,,,,,,,,,,,162,TRUE
+Nifty Jigsaw,Jigsaw,5,Uncommon,,,,,,0,,,,,,,,,,,,,TRUE
+Badass Jigsaw,Jigsaw,9,Rare,,,,of the Painmaker,,1,,,,,,,,,,,,,TRUE
+Superior Jigsaw,Jigsaw,10,Rare,,,,of the Painmaker,,,,,,,,,,,,,,,TRUE
+Street Wise Jigsaw,Jigsaw,13,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+Gruesome Jigsaw,Jigsaw,14,Rare,,,,of the Painmaker,TRUE,7,,,,,,,,,,,,,TRUE
+Popular Jigsaw,Jigsaw,18,Common,,,,,,,,,,,,,,,,,,,TRUE
+Crazy Jigsaw,Jigsaw,20,Rare,,,,of the Painmaker,,4,,,,,,,,,,,,,TRUE
+Ideal Jigsaw,Jigsaw,21,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+Assault Jigsaw,Jigsaw,22,Rare,,,,of the Painmaker,,,,,,,,,,,,,,,TRUE
+Crude Jigsaw,Jigsaw,24,Poor,,,,,,0,,,,,,,,,,,,,TRUE
+Radical Jigsaw,Jigsaw,25,Rare,,,,of the Painmaker,,9,,,,,,,,,,,,,TRUE
+Boosted Jigsaw,Jigsaw,27,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+Common Jigsaw,Jigsaw,28,Common,,,,,,0,,,,,,,,,,,,,TRUE
+Acute Jigsaw,Jigsaw,30,Uncommon,,,,,,5,,,,,,,,,,,,,TRUE
+Greater Jigsaw,Jigsaw,30,Rare,2,,,of the Painmaker,,11,,,,,,,,,,,,,TRUE
+Ideal Reciprocating Saw,Reciprocating Saw,10,Uncommon,,,,,,4,,,,,,,,,,,,173,TRUE
+Gruesome Reciprocating Saw,Reciprocating Saw,13,Rare,,,,of the Destroyer,,5,,,,,,,,,,,,,TRUE
+Fine Reciprocating Saw,Reciprocating Saw,16,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+Extreme Reciprocating Saw,Reciprocating Saw,18,Rare,,,,of the Destroyer,,,,,,,,,,,,,,,TRUE
+Credible Reciprocating Saw,Reciprocating Saw,19,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+Assault Reciprocating Saw,Reciprocating Saw,22,Rare,,,,of the Destroyer,,4,,,,,,,,,,,,,TRUE
+Elegant Reciprocating Saw,Reciprocating Saw,24,Uncommon,,,,,,5,,,,,,,,,,,,,TRUE
+Jagged Reciprocating Saw,Reciprocating Saw,25,Rare,,,,of the Destroyer,,2,,,,,,,,,,,,,TRUE
+Street Wise Reciprocating Saw,Reciprocating Saw,26,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+Radical Reciprocating Saw,Reciprocating Saw,28,Rare,,,,of the Destroyer,,2,,,,,,,,,,,,,TRUE
+Boosted Reciprocating Saw,Reciprocating Saw,30,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+Greater Reciprocating Saw,Reciprocating Saw,30,Rare,,,,of the Destroyer,,5,,,,,,,,,,,,,TRUE
+Elegant Circular Saw,Circular Saw,15,Uncommon,,,,,,12,,,,,,,,,,,,165,TRUE
+Assault Circular Saw,Circular Saw,20,Rare,,,,of the Destroyer,,13,,,,,,,,,,,,,TRUE
+Boosted Circular Saw,Circular Saw,25,Uncommon,,,,,,8,,,,,,,,,,,,,TRUE
+Acute Circular Saw,Circular Saw,30,Uncommon,,,,,,4,,,,,,,,,,,,,TRUE
+Jagged Circular Saw,Circular Saw,30,Rare,,,,of the Destroyer,,14,,,,,,,,,,,,,TRUE
+Common Saw,Saw,1,Common,,,,,,,,,,,,,,,,,,160,TRUE
+Simple Saw,Saw,7,Common,,,,,,,,,,,,,,,,,,,TRUE
+Typical Saw,Saw,12,Common,,,,,,,,,,,,,,,,,,,TRUE
+Usual Saw,Saw,17,Common,,,,,,,,,,,,,,,,,,,TRUE
+Plain Saw,Saw,24,Common,,,,,,,,,,,,,,,,,,,TRUE
+Street Wise Saw,Saw,10,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+First-Class Saw,Saw,10,Rare,,,,of the Judgment,,,,,,,,,,,,,,,TRUE
+Worthy Saw,Saw,12,Uncommon,,,,,,,,,,,,,,,,,,,TRUE
+Singular Saw,Saw,14,Rare,,,,of the Judgment,,,,,,,,,,,,,,,TRUE
+Nifty Saw,Saw,16,Uncommon,,,,,,12,,,,,,,,,,,,,TRUE
+Crude Saw,Saw,19,Poor,,,,,,,,,,,,,,,,,,,TRUE
+Standard Saw,Saw,20,Common,,,,,,,,,,,,,,,,,,,TRUE
+Ideal Saw,Saw,21,Uncommon,,,,,,3,,,,,,,,,,,,,TRUE
+Excellent Saw,Saw,22,Rare,,,,of the Judgment,,7,,,,,,,,,,,,,TRUE
+Advanced Chainsaw,Chainsaw,23,Uncommon,,,,,,2,,,,,,,,,,,,,TRUE
+Lousy Chainsaw,Chainsaw,24,Poor,,,,,,,,,,,,,,,,,,,TRUE
+Awesome Chainsaw,Chainsaw,26,Rare,,,,of the Judgment,,2,,,,,,,,,,,,,TRUE
+Usual Chainsaw,Chainsaw,26,Common,,,,,,,,,,,,,,,,,,,TRUE
+Street Credible Chainsaw,Chainsaw,27,Uncommon,,,,,,6,,,,,,,,,,,,,TRUE
+Brutal Chainsaw,Chainsaw,28,Rare,,,,of the Judgment,,3,,,,,,,,,,,,,TRUE
+High-Power Chainsaw,Chainsaw,29,Rare,,,,of the Judgment,,,,,,,,,,,,,,,TRUE
+Crappy Chainsaw,Chainsaw,30,Poor,,,,,,,,,,,,,,,,,,,TRUE
+Massive Chainsaw,Chainsaw,30,Uncommon,,,,,,4,,,,,,,,,,,,,TRUE
+Marvelous Chainsaw,Chainsaw,30,Rare,2,,,of the Judgment,,2,,,,,,,,,,,,,TRUE
+Chainsaw XX-30,Chainsaw,30,Epic,3,,,,,7,,,,,,,,,,,,,TRUE
+Chainsaw X-11,Chainsaw,11,Epic,,,,of the Judgment,,2,,,,,,,,,,,,,TRUE
+Chainsaw X-15,Chainsaw,15,Epic,,,,of the Judgment,,4,,,,,,,,,,,,,TRUE
+Chainsaw X-21,Chainsaw,21,Epic,,,,of the Judgment,,4,,,,,,,,,,,,,TRUE
+Chainsaw X-27,Chainsaw,27,Epic,,,,of the Judgment,,4,,,,,,,,,,,,,TRUE
+Spare Sentrybot Part,Jigsaw,18,Uncommon,,,,,,,,,,,,,,,,,,162,TRUE
+Chainsaw X-30,Chainsaw,30,Epic,5,,,of the Judgment,,7,,,,,,,,,,,,,TRUE

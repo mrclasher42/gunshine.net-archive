@@ -1,0 +1,9 @@
+Name,DeathAnimation,DeathEffect,InstantDeathEffect,HideOnDeathEffect,RareDeathAnimation,RareDeathEffect,InstantRareDeathEffect,HideOnRareDeathEffect,Fire_DeathAnimation,Fire_DeathEffect,Fire_InstantFireDeathEffect,Fire_HideOnFireDeathEffect
+HumanDefault,Die,DeathEffect1,,,Die,ExploMan,TRUE,TRUE,Die_RunBurning,AshMan,,TRUE
+PlayerDefault,Die,DeathEffect1,,,,,,,,,,
+HumanBoss,Die,Decapitation,TRUE,TRUE,,,,,,,,
+RoboBoss,Die,ExploRobot,true,,,,,,,,,
+HumanExploding,Die,Explosion,,,,,,,,,,
+RoboDefault,Die,ExploRobotSmall,TRUE,TRUE,,,,,,,,
+RoboNuke,Die,Nuke,,,,,,,,,,
+AnimalDefault,Die,DeathEffect1,,,Die,ExploPig,TRUE,TRUE,,,,

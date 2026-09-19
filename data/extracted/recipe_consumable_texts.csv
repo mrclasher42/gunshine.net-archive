@@ -1,0 +1,92 @@
+Name,Text
+TID_RECIPE_0,Grenade
+TID_RECIPE_1,Bazooka
+TID_RECIPE_2,Flame Thrower
+TID_RECIPE_3,Molotov Cocktail
+TID_RECIPE_4,Medikit
+TID_RECIPE_5,Energy Drink
+TID_RECIPE_6,Shock Blow
+TID_RECIPE_7,Force Field
+TID_RECIPE_8,Test
+TID_RECIPE_9,Plans: Superior Bazooka
+TID_RECIPE_10,Plans: Flamethrower
+TID_RECIPE_11,Plans: Big Flame Thrower
+TID_RECIPE_12,Plans: Great Flame Thrower
+TID_RECIPE_13,Plans: Greater Flame Thrower
+TID_RECIPE_14,Plans: Superior Flame Thrower
+TID_RECIPE_15,Plans: Medikit
+TID_RECIPE_16,Plans: Big Medikit
+TID_RECIPE_17,Plans: Great Medikit
+TID_RECIPE_18,Plans: Greater Medikit
+TID_RECIPE_19,Plans: Superior Medikit
+TID_RECIPE_20,Plans: Energy Boost
+TID_RECIPE_21,Plans: Big Energy Boost
+TID_RECIPE_22,Plans: Great Energy Boost
+TID_RECIPE_23,Plans: Greater Energy Boost
+TID_RECIPE_24,Plans: Superior Energy Boost
+TID_RECIPE_25,Plans: Weak Force Field
+TID_RECIPE_26,Plans: Force Field
+TID_RECIPE_27,Plans: Strong Force Field
+TID_RECIPE_28,Plans: Molotov Cocktail
+TID_RECIPE_29,Plans: Big Molotov Cocktail
+TID_RECIPE_30,Plans: Great Molotov Cocktail
+TID_RECIPE_31,Plans: Greater Molotov Cocktail
+TID_RECIPE_32,Plans: Superior Molotov Cocktail
+TID_RECIPE_33,Plans: Shock Grenade
+TID_RECIPE_34,Plans: Big Shock Grenade
+TID_RECIPE_35,Plans: Great Shock Grenade
+TID_RECIPE_36,Plans: Greater Shock Grenade
+TID_RECIPE_37,Plans: Superior Shock Grenade
+TID_RECIPE_38,Plans: Shock Blow
+TID_RECIPE_39,Plans: Major Shock Blow
+TID_RECIPE_40,Plans: Great Shock Blow
+TID_RECIPE_41,Plans: Greater Shock Blow
+TID_RECIPE_42,Plans: Superior Shock Blow
+TID_RECIPE_CONSUMABLE_0,Plans: Grenade
+TID_RECIPE_CONSUMABLE_1,Plans: Bazooka
+TID_RECIPE_CONSUMABLE_2,Plans: Flame Thrower
+TID_RECIPE_CONSUMABLE_3,Plans: Molotov Cocktail
+TID_RECIPE_CONSUMABLE_4,Plans: Medikit
+TID_RECIPE_CONSUMABLE_5,Plans: Energy Drink
+TID_RECIPE_CONSUMABLE_6,Plans: Shock Blow
+TID_RECIPE_CONSUMABLE_7,Plans: Force Field
+TID_RECIPE_CONSUMABLE_8,Plans: Air Strike
+TID_RECIPE_CONSUMABLE_9,Plans: 10 x Medikit
+TID_RECIPE_CONSUMABLE_10,Plans: 8 x Energy Drink
+TID_RECIPE_CONSUMABLE_11,Plans: 50 x Super Bullet
+TID_RECIPE_CONSUMABLE_12,Plans: 50 x Exploding Bullet
+TID_RECIPE_CONSUMABLE_13,Plans: 50 x Piercing Bullet
+TID_RECIPE_CONSUMABLE_14,Plans: 50 x Modified Haft
+TID_RECIPE_CONSUMABLE_15,Plans: 50 x Exploding Add-on
+TID_RECIPE_CONSUMABLE_16,Plans: 50 x Cyanide Surprise
+TID_RECIPE_CONSUMABLE_17,Plans: 8 x Bandage
+TID_RECIPE_CONSUMABLE_18,Bullet Order (8h)
+TID_RECIPE_CONSUMABLE_19,Haft Order (8h)
+TID_RECIPE_CONSUMABLE_20,Plans: 10 x Blink
+TID_RECIPE_CONSUMABLE_21,Plans: 25 x Quick Help
+TID_RECIPE_CONSUMABLE_22,Plans: 25 x Sacrifier
+TID_RECIPE_CONSUMABLE_23,Plans: 25 x Emergency Treatment
+TID_RECIPE_CONSUMABLE_24,Plans: 25 x Healing Rays
+TID_RECIPE_CONSUMABLE_25,Plans: 25 x Friendly Enemy
+TID_RECIPE_CONSUMABLE_26,Plans: 25 x Heal Wave
+TID_RECIPE_CONSUMABLE_27,Plans: 25 x Medicine Shot
+TID_RECIPE_CONSUMABLE_28,Plans: 25 x Renew
+TID_RECIPE_CONSUMABLE_29,Plans: 25 x Smart Minds
+TID_RECIPE_CONSUMABLE_30,Plans: 25 x Nerve Gas
+TID_RECIPE_CONSUMABLE_31,Plans: 25 x Toxic Avenger
+TID_RECIPE_CONSUMABLE_32,Plans: 25 x Wounding Shot
+TID_RECIPE_CONSUMABLE_33,Plans: 25 x Trauma Shot
+TID_RECIPE_CONSUMABLE_34,Plans: 25 x Sinister Shot
+TID_RECIPE_CONSUMABLE_35,Plans: 25 x Head Shot
+TID_RECIPE_CONSUMABLE_36,Plans: 25 x Dum-Dum
+TID_RECIPE_CONSUMABLE_37,Plans: 25 x Shooting Madness
+TID_RECIPE_CONSUMABLE_38,Plans: 25 x Bouncing Bullet
+TID_RECIPE_CONSUMABLE_39,Plans: 25 x Flesh Eater
+TID_RECIPE_CONSUMABLE_40,Plans: 25 x Bone Cracker
+TID_RECIPE_CONSUMABLE_41,Plans: 25 x Skull Crusher
+TID_RECIPE_CONSUMABLE_42,Plans: 25 x Thruster
+TID_RECIPE_CONSUMABLE_43,Plans: 25 x Deception
+TID_RECIPE_CONSUMABLE_44,Plans: 25 x Leg Breaker
+TID_RECIPE_CONSUMABLE_45,Plans: 25 x Mass Damage
+TID_RECIPE_CONSUMABLE_46,Plans: 25 x Wounds For All
+TID_RECIPE_CONSUMABLE_47,Plans: 25 x Jaws Breaker

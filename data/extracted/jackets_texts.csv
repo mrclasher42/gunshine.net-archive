@@ -1,0 +1,665 @@
+Name,Text
+TID_JACKET_0,Worthy Anarchy Jacket
+TID_JACKET_1,Boosted Anarchy Jacket
+TID_JACKET_2,Acute Anarchy Jacket
+TID_JACKET_3,Genuine Anarchy Jacket
+TID_JACKET_4,Exquisite Armored Jacket
+TID_JACKET_5,High-Power Armored Jacket
+TID_JACKET_6,Jagged Armored Jacket
+TID_JACKET_7,High-Power Biker Jacket
+TID_JACKET_8,Jagged Biker Jacket
+TID_JACKET_9,Warped Blue Sport Coat
+TID_JACKET_10,Lousy Blue Sport Coat
+TID_JACKET_11,Worthless Blue Sport Coat
+TID_JACKET_12,Poor Blue Sport Coat
+TID_JACKET_13,Shabby Blue Sport Coat
+TID_JACKET_14,Inferior Blue Sport Coat
+TID_JACKET_15,Universal Blue Sport Coat
+TID_JACKET_16,Average Blue Sport Coat
+TID_JACKET_17,Basic Blue Sport Coat
+TID_JACKET_18,Everyday Blue Sport Coat
+TID_JACKET_19,Regular Blue Sport Coat
+TID_JACKET_20,Average Blue Striped Jacket
+TID_JACKET_21,Basic Blue Striped Jacket
+TID_JACKET_22,Everyday Blue Striped Jacket
+TID_JACKET_23,Regular Blue Striped Jacket
+TID_JACKET_24,Popular Blue Striped Jacket
+TID_JACKET_25,Worthless Blue Sweater
+TID_JACKET_26,Poor Blue Sweater
+TID_JACKET_27,Shabby Blue Sweater
+TID_JACKET_28,Inferior Blue Sweater
+TID_JACKET_29,Rural Blue Sweater
+TID_JACKET_30,Barebones Blue Sweater
+TID_JACKET_31,Basic Blue Sweater
+TID_JACKET_32,Everyday Blue Sweater
+TID_JACKET_33,Regular Blue Sweater
+TID_JACKET_34,Popular Blue Sweater
+TID_JACKET_35,Common Blue Sweater
+TID_JACKET_36,Outstanding Braided Leather Jacket
+TID_JACKET_37,Superfine Braided Leather Jacket
+TID_JACKET_38,Excellent Braided Leather Jacket
+TID_JACKET_39,Cool Brown Armor Vest
+TID_JACKET_40,Good Brown Leather Jacket
+TID_JACKET_41,Fine Brown Leather Jacket
+TID_JACKET_42,Credible Brown Leather Jacket
+TID_JACKET_43,Street Wise Brown Leather Jacket
+TID_JACKET_44,Common Brown Sweater
+TID_JACKET_45,Simple Brown Sweater
+TID_JACKET_46,Typical Brown Sweater
+TID_JACKET_47,Usual Brown Sweater
+TID_JACKET_48,Plain Brown Sweater
+TID_JACKET_49,Simple Butcher's Jacket
+TID_JACKET_50,Typical Butcher's Jacket
+TID_JACKET_51,Usual Butcher's Jacket
+TID_JACKET_52,Plain Butcher's Jacket
+TID_JACKET_53,Standard Butcher's Jacket
+TID_JACKET_54,Greater Buttoned Leather Jacket
+TID_JACKET_55,Singular Buttoned Leather Jacket
+TID_JACKET_56,Exquisite Buttoned Leather Jacket
+TID_JACKET_57,Singular Camo Shirt
+TID_JACKET_58,Exquisite Camo Shirt
+TID_JACKET_59,High-Power Camo Shirt
+TID_JACKET_60,Plain Casual Vest
+TID_JACKET_61,Standard Casual Vest
+TID_JACKET_62,Universal Casual Vest
+TID_JACKET_63,Average Casual Vest
+TID_JACKET_64,Basic Casual Vest
+TID_JACKET_65,Acute Cowhide Jacket
+TID_JACKET_66,Genuine Cowhide Jacket
+TID_JACKET_67,Special Cowhide Jacket
+TID_JACKET_68,Elegant Cowhide Jacket
+TID_JACKET_69,Universal Dark Red Sport Coat
+TID_JACKET_70,Average Dark Red Sport Coat
+TID_JACKET_71,Basic Dark Red Sport Coat
+TID_JACKET_72,Everyday Dark Red Sport Coat
+TID_JACKET_73,Regular Dark Red Sport Coat
+TID_JACKET_74,Radical Dark Trench Coat
+TID_JACKET_75,Ragged Denim Vest
+TID_JACKET_76,Worn Denim Vest
+TID_JACKET_77,Old Denim Vest
+TID_JACKET_78,Lame Denim Vest
+TID_JACKET_79,Warped Denim Vest
+TID_JACKET_80,Lousy Denim Vest
+TID_JACKET_81,Elegant Denim Vest
+TID_JACKET_82,Great Denim Vest
+TID_JACKET_83,Cool Denim Vest
+TID_JACKET_84,Good Denim Vest
+TID_JACKET_85,Great Distressed Jacket
+TID_JACKET_86,Cool Distressed Jacket
+TID_JACKET_87,Good Distressed Jacket
+TID_JACKET_88,Fine Distressed Jacket
+TID_JACKET_89,Regular Drum Dyed Jacket
+TID_JACKET_90,Popular Drum Dyed Jacket
+TID_JACKET_91,Common Drum Dyed Jacket
+TID_JACKET_92,Simple Drum Dyed Jacket
+TID_JACKET_93,Typical Drum Dyed Jacket
+TID_JACKET_94,Cool Drum Dyed Jacket
+TID_JACKET_95,Good Drum Dyed Jacket
+TID_JACKET_96,Fine Drum Dyed Jacket
+TID_JACKET_97,Credible Drum Dyed Jacket
+TID_JACKET_98,Good Faux Leather Jacket
+TID_JACKET_99,Fine Faux Leather Jacket
+TID_JACKET_100,Credible Faux Leather Jacket
+TID_JACKET_101,Street Wise Faux Leather Jacket
+TID_JACKET_102,Fine Gang Vest
+TID_JACKET_103,Credible Gang Vest
+TID_JACKET_104,Street Wise Gang Vest
+TID_JACKET_105,Worthy Gang Vest
+TID_JACKET_106,Credible Gray Fit Shirt
+TID_JACKET_107,Street Wise Gray Fit Shirt
+TID_JACKET_108,Worthy Gray Fit Shirt
+TID_JACKET_109,Boosted Gray Fit Shirt
+TID_JACKET_110,Typical Gray Sweater
+TID_JACKET_111,Usual Gray Sweater
+TID_JACKET_112,Plain Gray Sweater
+TID_JACKET_113,Standard Gray Sweater
+TID_JACKET_114,Universal Gray Sweater
+TID_JACKET_115,Average Gray Sweater
+TID_JACKET_116,Usual Green Sport Coat
+TID_JACKET_117,Plain Green Sport Coat
+TID_JACKET_118,Standard Green Sport Coat
+TID_JACKET_119,Universal Green Sport Coat
+TID_JACKET_120,Average Green Sport Coat
+TID_JACKET_121,Plain Green Sweater
+TID_JACKET_122,Standard Green Sweater
+TID_JACKET_123,Universal Green Sweater
+TID_JACKET_124,Average Green Sweater
+TID_JACKET_125,Basic Green Sweater
+TID_JACKET_126,Acute Hooded Jacket
+TID_JACKET_127,Genuine Hooded Jacket
+TID_JACKET_128,Special Hooded Jacket
+TID_JACKET_129,Elegant Hooded Jacket
+TID_JACKET_130,Jagged Leather Uniform
+TID_JACKET_131,Radical Leather Vest
+TID_JACKET_132,First-Class Leather Vest
+TID_JACKET_133,Outstanding Leather Vest
+TID_JACKET_134,Superfine Leather Vest
+TID_JACKET_135,Elegant M.C. Jacket
+TID_JACKET_136,Great M.C. Jacket
+TID_JACKET_137,Cool M.C. Jacket
+TID_JACKET_138,Good M.C. Jacket
+TID_JACKET_139,Outstanding Motorcycle Jacket
+TID_JACKET_140,Regular Multicolor Shirt
+TID_JACKET_141,Popular Multicolor Shirt
+TID_JACKET_142,Common Multicolor Shirt
+TID_JACKET_143,Simple Multicolor Shirt
+TID_JACKET_144,Typical Multicolor Shirt
+TID_JACKET_145,Battered Multicolor T-shirt
+TID_JACKET_146,Cracked Multicolor T-shirt
+TID_JACKET_147,Broken Multicolor T-shirt
+TID_JACKET_148,Ragged Multicolor T-shirt
+TID_JACKET_149,Worn Multicolor T-shirt
+TID_JACKET_150,Old Multicolor T-shirt
+TID_JACKET_151,Popular Multicolor T-shirt
+TID_JACKET_152,Common Multicolor T-shirt
+TID_JACKET_153,Simple Multicolor T-shirt
+TID_JACKET_154,Typical Multicolor T-shirt
+TID_JACKET_155,Usual Multicolor T-shirt
+TID_JACKET_156,Marvelous Navy Jacket
+TID_JACKET_157,Awesome Night Jacket
+TID_JACKET_158,Street Wise Open Blouse
+TID_JACKET_159,Worthy Open Blouse
+TID_JACKET_160,Boosted Open Blouse
+TID_JACKET_161,Acute Open Blouse
+TID_JACKET_162,Worn Orange Worker Coat
+TID_JACKET_163,Old Orange Worker Coat
+TID_JACKET_164,Lame Orange Worker Coat
+TID_JACKET_165,Warped Orange Worker Coat
+TID_JACKET_166,Lousy Orange Worker Coat
+TID_JACKET_167,Worthless Orange Worker Coat
+TID_JACKET_168,Usual Orange Worker Coat
+TID_JACKET_169,Plain Orange Worker Coat
+TID_JACKET_170,Standard Orange Worker Coat
+TID_JACKET_171,Universal Orange Worker Coat
+TID_JACKET_172,Average Orange Worker Coat
+TID_JACKET_173,Boosted Patterned Jacket
+TID_JACKET_174,Acute Patterned Jacket
+TID_JACKET_175,Genuine Patterned Jacket
+TID_JACKET_176,Special Patterned Jacket
+TID_JACKET_177,Elegant Patterned Jacket
+TID_JACKET_178,Exquisite Patterned Jacket
+TID_JACKET_179,Acute Protective Vest
+TID_JACKET_180,High-Power Protective Vest
+TID_JACKET_181,Jagged Protective Vest
+TID_JACKET_182,Radical Protective Vest
+TID_JACKET_183,First-Class Protective Vest
+TID_JACKET_184,Outstanding Protective Vest
+TID_JACKET_185,Genuine Red Coat
+TID_JACKET_186,Special Red Coat
+TID_JACKET_187,Elegant Red Coat
+TID_JACKET_188,Great Red Coat
+TID_JACKET_189,Average Red Sport Coat
+TID_JACKET_190,Basic Red Sport Coat
+TID_JACKET_191,Everyday Red Sport Coat
+TID_JACKET_192,Regular Red Sport Coat
+TID_JACKET_193,Popular Red Sport Coat
+TID_JACKET_194,Basic Red Sweater
+TID_JACKET_195,Everyday Red Sweater
+TID_JACKET_196,Regular Red Sweater
+TID_JACKET_197,Popular Red Sweater
+TID_JACKET_198,Common Red Sweater
+TID_JACKET_199,Outstanding Skull T-shirt
+TID_JACKET_200,Dawnbreak Shirt
+TID_JACKET_201,Superfine Smart Jacket
+TID_JACKET_202,Excellent Smart Jacket
+TID_JACKET_203,Excellent SPC Rider Jacket
+TID_JACKET_204,Marvelous SPC Rider Jacket
+TID_JACKET_205,Awesome SPC Rider Jacket
+TID_JACKET_206,Fine Sporty Vest
+TID_JACKET_207,Credible Sporty Vest
+TID_JACKET_208,Street Wise Sporty Vest
+TID_JACKET_209,Worthy Sporty Vest
+TID_JACKET_210,Credible Spy Coat
+TID_JACKET_211,Street Wise Studded Anarchy Jacket
+TID_JACKET_212,Worthy Studded Anarchy Jacket
+TID_JACKET_213,Boosted Studded Anarchy Jacket
+TID_JACKET_214,Acute Studded Anarchy Jacket
+TID_JACKET_215,Singular Studded Vest
+TID_JACKET_216,Exquisite Studded Vest
+TID_JACKET_217,High-Power Studded Vest
+TID_JACKET_218,Plain Suede Jacket
+TID_JACKET_219,Standard Suede Jacket
+TID_JACKET_220,Universal Suede Jacket
+TID_JACKET_221,Average Suede Jacket
+TID_JACKET_222,Basic Suede Jacket
+TID_JACKET_223,Acute Suit Jacket
+TID_JACKET_224,Genuine Suit Jacket
+TID_JACKET_225,Special Suit Jacket
+TID_JACKET_226,Elegant Suit Jacket
+TID_JACKET_227,Great Suit Jacket
+TID_JACKET_228,Cool Suit Jacket
+TID_JACKET_229,High-Power Suit Jacket
+TID_JACKET_230,Jagged Thick Coat
+TID_JACKET_231,Special Torso Protector
+TID_JACKET_232,Elegant Torso Protector
+TID_JACKET_233,Great Torso Protector
+TID_JACKET_234,First-Class Trench Coat
+TID_JACKET_235,Great Two Tone Sweater
+TID_JACKET_236,Cool Two Tone Sweater
+TID_JACKET_237,Good Two Tone Sweater
+TID_JACKET_238,Old Two Tone T-shirt
+TID_JACKET_239,Lame Two Tone T-shirt
+TID_JACKET_240,Warped Two Tone T-shirt
+TID_JACKET_241,Lousy Two Tone T-shirt
+TID_JACKET_242,Worthless Two Tone T-shirt
+TID_JACKET_243,Poor Two Tone T-shirt
+TID_JACKET_244,Regular Two Tone T-shirt
+TID_JACKET_245,Popular Two Tone T-shirt
+TID_JACKET_246,Common Two Tone T-shirt
+TID_JACKET_247,Simple Two Tone T-shirt
+TID_JACKET_248,Typical Two Tone T-shirt
+TID_JACKET_249,Good Two Tone Vest
+TID_JACKET_250,Fine Two Tone Vest
+TID_JACKET_251,Credible Two Tone Vest
+TID_JACKET_252,Street Wise Two Tone Vest
+TID_JACKET_253,Marvelous Vented Leather Jacket
+TID_JACKET_254,Awesome Vented Leather Jacket
+TID_JACKET_255,Greater Vented Leather Jacket
+TID_JACKET_256,Awesome White Custom Jacket
+TID_JACKET_257,Greater White Hoodie
+TID_JACKET_258,Worthy White Sweater
+TID_JACKET_259,Boosted White Sweater
+TID_JACKET_260,Acute White Sweater
+TID_JACKET_261,Genuine White Sweater
+TID_JACKET_262,Exquisite Rider Jacket
+TID_JACKET_263,Standard Yellow Sweater
+TID_JACKET_264,Universal Yellow Sweater
+TID_JACKET_265,Average Yellow Sweater
+TID_JACKET_266,Basic Yellow Sweater
+TID_JACKET_267,Everyday Yellow Sweater
+TID_JACKET_268,Jagged Zipped Gray Jacket
+TID_JACKET_269,Special Anarchy Jacket
+TID_JACKET_270,Elegant Anarchy Jacket
+TID_JACKET_271,Great Anarchy Jacket
+TID_JACKET_272,Cool Anarchy Jacket
+TID_JACKET_273,Radical Armored Jacket
+TID_JACKET_274,First-Class Armored Jacket
+TID_JACKET_275,Outstanding Armored Jacket
+TID_JACKET_276,Radical Biker Jacket
+TID_JACKET_277,First-Class Biker Jacket
+TID_JACKET_278,Rural Blue Sport Coat
+TID_JACKET_279,Barebones Blue Sport Coat
+TID_JACKET_280,Beer-soaked Blue Sport Coat
+TID_JACKET_281,Dirty Blue Sport Coat
+TID_JACKET_282,Crappy Blue Sport Coat
+TID_JACKET_283,Battered Blue Sport Coat
+TID_JACKET_284,Popular Blue Sport Coat
+TID_JACKET_285,Common Blue Sport Coat
+TID_JACKET_286,Simple Blue Sport Coat
+TID_JACKET_287,Typical Blue Sport Coat
+TID_JACKET_288,Usual Blue Sport Coat
+TID_JACKET_289,Common Blue Striped Jacket
+TID_JACKET_290,Simple Blue Striped Jacket
+TID_JACKET_291,Typical Blue Striped Jacket
+TID_JACKET_292,Usual Blue Striped Jacket
+TID_JACKET_293,Plain Blue Striped Jacket
+TID_JACKET_294,Beer-soaked Blue Sweater
+TID_JACKET_295,Dirty Blue Sweater
+TID_JACKET_296,Crappy Blue Sweater
+TID_JACKET_297,Battered Blue Sweater
+TID_JACKET_298,Cracked Blue Sweater
+TID_JACKET_299,Broken Blue Sweater
+TID_JACKET_300,Simple Blue Sweater
+TID_JACKET_301,Typical Blue Sweater
+TID_JACKET_302,Usual Blue Sweater
+TID_JACKET_303,Plain Blue Sweater
+TID_JACKET_304,Standard Blue Sweater
+TID_JACKET_305,Marvelous Braided Leather Jacket
+TID_JACKET_306,Awesome Braided Leather Jacket
+TID_JACKET_307,Greater Braided Leather Jacket
+TID_JACKET_308,Good Brown Armor Vest
+TID_JACKET_309,Worthy Brown Leather Jacket
+TID_JACKET_310,Boosted Brown Leather Jacket
+TID_JACKET_311,Acute Brown Leather Jacket
+TID_JACKET_312,Genuine Brown Leather Jacket
+TID_JACKET_313,Standard Brown Sweater
+TID_JACKET_314,Universal Brown Sweater
+TID_JACKET_315,Average Brown Sweater
+TID_JACKET_316,Basic Brown Sweater
+TID_JACKET_317,Everyday Brown Sweater
+TID_JACKET_318,Universal Butcher's Jacket
+TID_JACKET_319,Average Butcher's Jacket
+TID_JACKET_320,Basic Butcher's Jacket
+TID_JACKET_321,Everyday Butcher's Jacket
+TID_JACKET_322,Regular Butcher's Jacket
+TID_JACKET_323,High-Power Buttoned Leather Jacket
+TID_JACKET_324,Jagged Buttoned Leather Jacket
+TID_JACKET_325,Radical Buttoned Leather Jacket
+TID_JACKET_326,Jagged Camo Shirt
+TID_JACKET_327,Radical Camo Shirt
+TID_JACKET_328,First-Class Camo Shirt
+TID_JACKET_329,Everyday Casual Vest
+TID_JACKET_330,Regular Casual Vest
+TID_JACKET_331,Popular Casual Vest
+TID_JACKET_332,Common Casual Vest
+TID_JACKET_333,Simple Casual Vest
+TID_JACKET_334,Great Cowhide Jacket
+TID_JACKET_335,Cool Cowhide Jacket
+TID_JACKET_336,Good Cowhide Jacket
+TID_JACKET_337,Fine Cowhide Jacket
+TID_JACKET_338,Popular Dark Red Sport Coat
+TID_JACKET_339,Common Dark Red Sport Coat
+TID_JACKET_340,Simple Dark Red Sport Coat
+TID_JACKET_341,Typical Dark Red Sport Coat
+TID_JACKET_342,Usual Dark Red Sport Coat
+TID_JACKET_343,First-Class Dark Trench Coat
+TID_JACKET_344,Worthless Denim Vest
+TID_JACKET_345,Poor Denim Vest
+TID_JACKET_346,Shabby Denim Vest
+TID_JACKET_347,Inferior Denim Vest
+TID_JACKET_348,Rural Denim Vest
+TID_JACKET_349,Barebones Denim Vest
+TID_JACKET_350,Fine Denim Vest
+TID_JACKET_351,Credible Denim Vest
+TID_JACKET_352,Street Wise Denim Vest
+TID_JACKET_353,Worthy Denim Vest
+TID_JACKET_354,Credible Distressed Jacket
+TID_JACKET_355,Street Wise Distressed Jacket
+TID_JACKET_356,Worthy Distressed Jacket
+TID_JACKET_357,Boosted Distressed Jacket
+TID_JACKET_358,Usual Drum Dyed Jacket
+TID_JACKET_359,Plain Drum Dyed Jacket
+TID_JACKET_360,Standard Drum Dyed Jacket
+TID_JACKET_361,Universal Drum Dyed Jacket
+TID_JACKET_362,Average Drum Dyed Jacket
+TID_JACKET_363,Street Wise Drum Dyed Jacket
+TID_JACKET_364,Worthy Drum Dyed Jacket
+TID_JACKET_365,Boosted Drum Dyed Jacket
+TID_JACKET_366,Acute Drum Dyed Jacket
+TID_JACKET_367,Worthy Faux Leather Jacket
+TID_JACKET_368,Boosted Faux Leather Jacket
+TID_JACKET_369,Acute Faux Leather Jacket
+TID_JACKET_370,Genuine Faux Leather Jacket
+TID_JACKET_371,Boosted Gang Vest
+TID_JACKET_372,Acute Gang Vest
+TID_JACKET_373,Genuine Gang Vest
+TID_JACKET_374,Special Gang Vest
+TID_JACKET_375,Acute Gray Fit Shirt
+TID_JACKET_376,Genuine Gray Fit Shirt
+TID_JACKET_377,Special Gray Fit Shirt
+TID_JACKET_378,Elegant Gray Fit Shirt
+TID_JACKET_379,Basic Gray Sweater
+TID_JACKET_380,Everyday Gray Sweater
+TID_JACKET_381,Regular Gray Sweater
+TID_JACKET_382,Popular Gray Sweater
+TID_JACKET_383,Common Gray Sweater
+TID_JACKET_384,Simple Gray Sweater
+TID_JACKET_385,Basic Green Sport Coat
+TID_JACKET_386,Everyday Green Sport Coat
+TID_JACKET_387,Regular Green Sport Coat
+TID_JACKET_388,Popular Green Sport Coat
+TID_JACKET_389,Common Green Sport Coat
+TID_JACKET_390,Everyday Green Sweater
+TID_JACKET_391,Regular Green Sweater
+TID_JACKET_392,Popular Green Sweater
+TID_JACKET_393,Common Green Sweater
+TID_JACKET_394,Simple Green Sweater
+TID_JACKET_395,Great Hooded Jacket
+TID_JACKET_396,Cool Hooded Jacket
+TID_JACKET_397,Good Hooded Jacket
+TID_JACKET_398,Fine Hooded Jacket
+TID_JACKET_399,Radical Leather Uniform
+TID_JACKET_400,Excellent Leather Vest
+TID_JACKET_401,Marvelous Leather Vest
+TID_JACKET_402,Awesome Leather Vest
+TID_JACKET_403,Greater Leather Vest
+TID_JACKET_404,Fine M.C. Jacket
+TID_JACKET_405,Credible M.C. Jacket
+TID_JACKET_406,Street Wise M.C. Jacket
+TID_JACKET_407,Worthy M.C. Jacket
+TID_JACKET_408,Superfine Motorcycle Jacket
+TID_JACKET_409,Usual Multicolor Shirt
+TID_JACKET_410,Plain Multicolor Shirt
+TID_JACKET_411,Standard Multicolor Shirt
+TID_JACKET_412,Universal Multicolor Shirt
+TID_JACKET_413,Average Multicolor Shirt
+TID_JACKET_414,Lame Multicolor T-shirt
+TID_JACKET_415,Warped Multicolor T-shirt
+TID_JACKET_416,Lousy Multicolor T-shirt
+TID_JACKET_417,Worthless Multicolor T-shirt
+TID_JACKET_418,Poor Multicolor T-shirt
+TID_JACKET_419,Shabby Multicolor T-shirt
+TID_JACKET_420,Plain Multicolor T-shirt
+TID_JACKET_421,Standard Multicolor T-shirt
+TID_JACKET_422,Universal Multicolor T-shirt
+TID_JACKET_423,Average Multicolor T-shirt
+TID_JACKET_424,Basic Multicolor T-shirt
+TID_JACKET_425,Awesome Navy Jacket
+TID_JACKET_426,Greater Night Jacket
+TID_JACKET_427,Genuine Open Blouse
+TID_JACKET_428,Special Open Blouse
+TID_JACKET_429,Elegant Open Blouse
+TID_JACKET_430,Great Open Blouse
+TID_JACKET_431,Poor Orange Worker Coat
+TID_JACKET_432,Shabby Orange Worker Coat
+TID_JACKET_433,Inferior Orange Worker Coat
+TID_JACKET_434,Rural Orange Worker Coat
+TID_JACKET_435,Barebones Orange Worker Coat
+TID_JACKET_436,Beer-soaked Orange Worker Coat
+TID_JACKET_437,Basic Orange Worker Coat
+TID_JACKET_438,Everyday Orange Worker Coat
+TID_JACKET_439,Regular Orange Worker Coat
+TID_JACKET_440,Popular Orange Worker Coat
+TID_JACKET_441,Common Orange Worker Coat
+TID_JACKET_442,Great Patterned Jacket
+TID_JACKET_443,Cool Patterned Jacket
+TID_JACKET_444,Good Patterned Jacket
+TID_JACKET_445,Fine Patterned Jacket
+TID_JACKET_446,Credible Patterned Jacket
+TID_JACKET_447,High-Power Patterned Jacket
+TID_JACKET_448,Genuine Protective Vest
+TID_JACKET_449,Superfine Protective Vest
+TID_JACKET_450,Excellent Protective Vest
+TID_JACKET_451,Marvelous Protective Vest
+TID_JACKET_452,Awesome Protective Vest
+TID_JACKET_453,Greater Protective Vest
+TID_JACKET_454,Cool Red Coat
+TID_JACKET_455,Good Red Coat
+TID_JACKET_456,Fine Red Coat
+TID_JACKET_457,Credible Red Coat
+TID_JACKET_458,Common Red Sport Coat
+TID_JACKET_459,Simple Red Sport Coat
+TID_JACKET_460,Typical Red Sport Coat
+TID_JACKET_461,Usual Red Sport Coat
+TID_JACKET_462,Plain Red Sport Coat
+TID_JACKET_463,Simple Red Sweater
+TID_JACKET_464,Typical Red Sweater
+TID_JACKET_465,Usual Red Sweater
+TID_JACKET_466,Plain Red Sweater
+TID_JACKET_467,Standard Red Sweater
+TID_JACKET_468,Superfine Skull T-shirt
+TID_JACKET_469,Dawnbreak T-Shirt
+TID_JACKET_470,Marvelous Smart Jacket
+TID_JACKET_471,Awesome Smart Jacket
+TID_JACKET_472,Greater SPC Rider Jacket
+TID_JACKET_473,Singular SPC Rider Jacket
+TID_JACKET_474,Exquisite SPC Rider Jacket
+TID_JACKET_475,Boosted Sporty Vest
+TID_JACKET_476,Acute Sporty Vest
+TID_JACKET_477,Genuine Sporty Vest
+TID_JACKET_478,Special Sporty Vest
+TID_JACKET_479,Street Wise Spy Coat
+TID_JACKET_480,Genuine Studded Anarchy Jacket
+TID_JACKET_481,Special Studded Anarchy Jacket
+TID_JACKET_482,Elegant Studded Anarchy Jacket
+TID_JACKET_483,Great Studded Anarchy Jacket
+TID_JACKET_484,Jagged Studded Vest
+TID_JACKET_485,Radical Studded Vest
+TID_JACKET_486,First-Class Studded Vest
+TID_JACKET_487,Everyday Suede Jacket
+TID_JACKET_488,Regular Suede Jacket
+TID_JACKET_489,Popular Suede Jacket
+TID_JACKET_490,Common Suede Jacket
+TID_JACKET_491,Simple Suede Jacket
+TID_JACKET_492,Good Suit Jacket
+TID_JACKET_493,Fine Suit Jacket
+TID_JACKET_494,Credible Suit Jacket
+TID_JACKET_495,Street Wise Suit Jacket
+TID_JACKET_496,Worthy Suit Jacket
+TID_JACKET_497,Boosted Suit Jacket
+TID_JACKET_498,Jagged Suit Jacket
+TID_JACKET_499,Radical Thick Coat
+TID_JACKET_500,Cool Torso Protector
+TID_JACKET_501,Good Torso Protector
+TID_JACKET_502,Fine Torso Protector
+TID_JACKET_503,Outstanding Trench Coat
+TID_JACKET_504,Fine Two Tone Sweater
+TID_JACKET_505,Credible Two Tone Sweater
+TID_JACKET_506,Street Wise Two Tone Sweater
+TID_JACKET_507,Shabby Two Tone T-shirt
+TID_JACKET_508,Inferior Two Tone T-shirt
+TID_JACKET_509,Rural Two Tone T-shirt
+TID_JACKET_510,Barebones Two Tone T-shirt
+TID_JACKET_511,Beer-soaked Two Tone T-shirt
+TID_JACKET_512,Dirty Two Tone T-shirt
+TID_JACKET_513,Usual Two Tone T-shirt
+TID_JACKET_514,Plain Two Tone T-shirt
+TID_JACKET_515,Standard Two Tone T-shirt
+TID_JACKET_516,Universal Two Tone T-shirt
+TID_JACKET_517,Average Two Tone T-shirt
+TID_JACKET_518,Worthy Two Tone Vest
+TID_JACKET_519,Boosted Two Tone Vest
+TID_JACKET_520,Acute Two Tone Vest
+TID_JACKET_521,Genuine Two Tone Vest
+TID_JACKET_522,Singular Vented Leather Jacket
+TID_JACKET_523,Exquisite Vented Leather Jacket
+TID_JACKET_524,High-Power Vented Leather Jacket
+TID_JACKET_525,Greater White Custom Jacket
+TID_JACKET_526,Singular White Hoodie
+TID_JACKET_527,Special White Sweater
+TID_JACKET_528,Elegant White Sweater
+TID_JACKET_529,Great White Sweater
+TID_JACKET_530,Cool White Sweater
+TID_JACKET_531,High-Power Rider Jacket
+TID_JACKET_532,Regular Yellow Sweater
+TID_JACKET_533,Popular Yellow Sweater
+TID_JACKET_534,Common Yellow Sweater
+TID_JACKET_535,Simple Yellow Sweater
+TID_JACKET_536,Typical Yellow Sweater
+TID_JACKET_537,Radical Zipped Gray Jacket
+TID_JACKET_538,NPC FEMALE Eastern Queen Shirt 01
+TID_JACKET_539,NPC FEMALE Eastern Queen Shirt 02
+TID_JACKET_540,NPC FEMALE Valkyeries Jacket 01
+TID_JACKET_541,NPC FEMALE Valkyeries Jacket 02
+TID_JACKET_542,NPC MALE Docker Worker Jacket
+TID_JACKET_543,NPC MALE 13 Diablos Jacket 01
+TID_JACKET_544,NPC MALE 13 Diablos Jacket 02
+TID_JACKET_545,NPC MALE Vermillion Jacket 01
+TID_JACKET_546,NPC MALE Voodoo Jacket 01
+TID_JACKET_547,NPC MALE Hooligan Jacket 01
+TID_JACKET_548,NPC MALE Hooligan Jacket 02
+TID_JACKET_549,NPC MALE Mad Dogs Jacket 01
+TID_JACKET_550,NPC MALE Mad Dogs Jacket 02
+TID_JACKET_551,NPC MALE Hired Guns Jacket 01
+TID_JACKET_552,NPC MALE Voodoo Jacket 02
+TID_JACKET_553,NPC MALE Hired Guns Jacket 02
+TID_JACKET_554,NPC FEMALE Tour Guide
+TID_JACKET_555,Credible Spider Jacket
+TID_JACKET_556,Boosted Spider Jacket
+TID_JACKET_557,Good Spider Shirt
+TID_JACKET_558,Elegant Spider Shirt
+TID_JACKET_559,Genuine Blackbeard Jacket
+TID_JACKET_560,Boosted Blackbeard Jacket
+TID_JACKET_561,NPC Chef Jacket
+TID_JACKET_562,Labycore Worker's Jacket
+TID_JACKET_563,Labycore Worker's Coat
+TID_JACKET_564,Labycore Worker's Orange Jacket
+TID_JACKET_565,Labycore Worker's Orange Coat
+TID_JACKET_566,NPC MALE Prison Warder Jacket
+TID_JACKET_567,ED's Armor Plate
+TID_JACKET_568,ED's Armor Mesh
+TID_JACKET_569,Mighty Jacket of Awesomeness
+TID_JACKET_570,Healing Scrubs of Epic
+TID_JACKET_571,Fluffy West of Legendary
+TID_JACKET_572,NPC MALE Scientist Jacket
+TID_JACKET_573,NPC Harbor Worker Blue Jacket
+TID_JACKET_574,Tough Dark Trench Coat
+TID_JACKET_575,Superior Dark Trench Coat
+TID_JACKET_576,Greater Dark Trench Coat
+TID_JACKET_577,Extreme Dark Trench Coat
+TID_JACKET_578,Awesome Dark Trench Coat
+TID_JACKET_579,Excellent Dark Trench Coat
+TID_JACKET_580,Jagged Dark Trench Coat
+TID_JACKET_581,Exquisite Dark Trench Coat
+TID_JACKET_582,Black Protective Vest
+TID_JACKET_583,Dark Protective Vest
+TID_JACKET_584,Strong Protective Vest
+TID_JACKET_585,Superior Protective Vest
+TID_JACKET_586,Mighty Jacket
+TID_JACKET_587,Awesome Jacket
+TID_JACKET_588,First Class Jacket
+TID_JACKET_589,Superfine Jacket
+TID_JACKET_590,Excellent Jacket
+TID_JACKET_591,Marvelous Jacket
+TID_JACKET_592,Singular Jacket
+TID_JACKET_593,Greater Jacket
+TID_JACKET_594,Excellent Vest
+TID_JACKET_595,Singular Vest
+TID_JACKET_596,Greater Vest
+TID_JACKET_597,Mighty Vest
+TID_JACKET_598,First Class Skull T-shirt
+TID_JACKET_599,Singular Skull T-shirt
+TID_JACKET_600,Greater Skull T-shirt
+TID_JACKET_601,Tough Skull T-shirt
+TID_JACKET_602,Awesome Skull T-shirt
+TID_JACKET_603,Superior Skull T-shirt
+TID_JACKET_604,Jagged Skull T-shirt
+TID_JACKET_605,Mercelous Skull T-shirt
+TID_JACKET_606,NPC Mutant Shirt
+TID_JACKET_607,NPC Hired Gung T-Shirt
+TID_JACKET_608,NPC Mutant Vest
+TID_JACKET_609,Surgeon's Scrubs
+TID_JACKET_610,Manhunter's Overcoat
+TID_JACKET_611,Bodybreaker's Greatcoat
+TID_JACKET_612,Submariner's Anarchy Jacket
+TID_JACKET_613,Submariner's Suit Jacket
+TID_JACKET_614,Submariner's Spy Coat
+TID_JACKET_615,Saboteur's Drum Dyed Jacket
+TID_JACKET_616,Saboteur's Hooded Jacket
+TID_JACKET_617,Saboteur's Brown Leather Jacket
+TID_JACKET_618,Acid-splashed Leather Vest
+TID_JACKET_619,Acid-splashed Casual Vest
+TID_JACKET_620,Acid-splashed Denim Vest
+TID_JACKET_621,Bomber's Blue Sport Coat
+TID_JACKET_622,Bomber's Green Sport Coat
+TID_JACKET_623,Bomber's Red Sport Coat
+TID_JACKET_624,Patched Up Leather Jacket
+TID_JACKET_625,Patched Up Camo Shirt
+TID_JACKET_626,Patched Up Scrubs
+TID_JACKET_627,Elastic Labcoat
+TID_JACKET_628,Fireheart's Favorite T-shirt
+TID_JACKET_629,Diamond-Studded Vest
+TID_JACKET_630,Amorous Vest
+TID_JACKET_631,Salvaged Armor Plate
+TID_JACKET_632,Anarchy Coat
+TID_JACKET_633,Supersoldier's Uniform
+TID_JACKET_634,Riot Uniform
+TID_JACKET_635,Liutenant's Uniform
+TID_JACKET_636,Hothead's Navy Jacket
+TID_JACKET_637,Daredevil's Navy Jacket
+TID_JACKET_638,Crymaker's Navy Jacket
+TID_JACKET_639,Anguisher's Navy Jacket
+TID_JACKET_640,Painmaker's Navy Jacket
+TID_JACKET_641,Wacko's Navy Jacket
+TID_JACKET_642,Pimp's Navy Jacket
+TID_JACKET_643,Maniac's Navy Jacket
+TID_JACKET_644,Destroyer's Navy Jacket
+TID_JACKET_645,Killer's Navy Jacket
+TID_JACKET_646,Psycho's Navy Jacket
+TID_JACKET_647,Hannibal's Navy Jacket
+TID_JACKET_648,Damn Nice Navy Jacket
+TID_JACKET_649,Helluva Navy Jacket
+TID_JACKET_650,Criminal's Two Tone Vest
+TID_JACKET_651,Ruffian's Two Tone Vest
+TID_JACKET_652,Thug's Two Tone Vest
+TID_JACKET_653,Lawbreaker's Two Tone Vest
+TID_JACKET_654,Offender's Two Tone Vest
+TID_JACKET_655,Hitman's Two Tone Vest
+TID_JACKET_656,Lunatic's Two Tone Vest
+TID_JACKET_657,Cleaner's Two Tone Vest
+TID_JACKET_658,Devastator's Two Tone Vest
+TID_JACKET_659,Interrogator's Two Tone Vest
+TID_JACKET_660,Torture's Two Tone Vest
+TID_JACKET_661,Troublemaker's Two Tone Vest
+TID_JACKET_662,Hustla's Two Tone Vest
+TID_JACKET_663,Madcap's Two Tone Vest

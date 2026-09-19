@@ -1,0 +1,574 @@
+Name,LevelUpUnlock,UnlockedByMission,Item,Ingredient,IngredientCount,IngredientsAdditional,DiamondCost,CraftTimeHours,CraftTimeMinutes,CraftTimeSeconds,LootDisabled,DiamondsOnly,TreasureBoxLoot,DropSound,LootResource,LootExportName
+Plans: Hunter's Cap,TRUE,TRUE,Discarded Cap,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Felt Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Robber Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Ice Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Lucky Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Cap Tain,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hat,TRUE,TRUE,Cyber Cowboy Hat,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Steel-brimmed Hat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Razor-brimmed Hat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Brimstone,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Brimmed Hat,,,Brimmed Hat,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Rust-brimmed Hat,,,Rust-brimmed Hat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Iron-brimmed Hat,,,Iron-brimmed Hat,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Silver-brimmed Hat,,,Silver-brimmed Hat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Titanium-brimmed Hat,,,Titanium-brimmed Hat,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Grim Brim,,,Grim Brim,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: World Audio Club,,,World Audio Club,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hat Titude,,,Hat Titude,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doctor's Cap,TRUE,TRUE,Dusty Cap,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Desert Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Dune Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Faithful Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Brand New Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Quality Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mask,TRUE,TRUE,Stained Mask,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Tailormade Mask,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Hypno Face,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Dramatic Mask,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Oil-Drenched Mask,,,Oil-Drenched Mask,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Black Wood Mask,,,Black Wood Mask,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dark Mask,,,Dark Mask,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Skull Face,,,Skull Face,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Monster Face,,,Monster Face,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Holo Mask,,,Holo Mask,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Terror Face,,,Terror Face,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Eden Brim,,,Eden Brim,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Hat,TRUE,TRUE,Moldy Cap,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Plywood Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Aggro Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Biker Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Top Notch Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Titanium Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Stained Cap,,,Stained Cap,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cap,TRUE,TRUE,Sat-on Cap,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Extra Large Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Apocalypse Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Caput,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mob Cap,,,Mob Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fake Cap,,,Fake Cap,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Riot Cap,,,Riot Cap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doomsday Cap,,,Doomsday Cap,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Holo Cap,,,Holo Cap,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Steel Helmet,,,Steel Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Can Can Cans,,,Can Can Cans,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Sneakers,TRUE,TRUE,Worn Trainers,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Black Trainers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Brand New Trainers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Pump Trainers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Soft-soled Sneakers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Parkour Sneakers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Gyroscopic Sneakers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Used Moccasins,,,Used Moccasins,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Quality Shoes,TRUE,TRUE,Squeaky Moccasins,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Brand New Moccasins,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Bowhunter's Moccasins,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Swift Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Sleep Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Fire Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Comfortable Moccasins,,,Comfortable Moccasins,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Smooth Walkers,,,Smooth Walkers,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Moon Walkers,,,Moon Walkers,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fake Buckles,,,Fake Buckles,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hunter's Steel Tips,,,Hunter's Steel Tips,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boots-of-the-Puss,,,Boots-of-the-Puss,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Shoes,TRUE,TRUE,Worn Hiking Shoes,,,,,,,3,TRUE,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Squeaky Hiking Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Brand New Hiking Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Comfortable Hiking Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Glitter Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Glamour Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Extreme Glitter Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Rubber Boots,,,Rubber Boots,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Armored Boots,TRUE,TRUE,Para Boots,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Sailing Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Well-heeled Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Smooth Heels,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Pro Heels,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Salaryman Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worn-heeled Boots,,,Worn-heeled Boots,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: No-Heels,,,No-Heels,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Max Heels,,,Max Heels,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Stylish Suede Shoes,,,Stylish Suede Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Synth Skins,,,Synth Skins,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Heel Plz,,,Heel Plz,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Kickers,TRUE,TRUE,Cotton Kick'rs,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Can Kick'rs,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Bin Kick'rs,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Shin Kick'rs,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Brawny Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Grounded Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Strongman Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Wooden Heelers,,,Wooden Heelers,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Durable Boots,TRUE,TRUE,Rubber Heelers,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Spring Heelers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Teamster Shoes,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Wicker Kick'rs,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Titanium Kick'rs,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Mountain Kick'rs,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Steel Heelers,,,Steel Heelers,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Steel Kick'rs,,,Steel Kick'rs,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Meteor Kick'rs,,,Meteor Kick'rs,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Swamp Tramplers,,,Swamp Tramplers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dominator Boots,,,Dominator Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Kickabout,,,Kickabout,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Shutter Shades,TRUE,TRUE,Duct-taped Shades,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Plastic Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Venetian Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Polarization Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Blind Science Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Aviators,TRUE,TRUE,Plywood Shades,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Desert Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Aviator Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Lucky Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Titanium Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Pilot Goggles,,,Pilot Goggles,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hot Rod Goggles,,,Hot Rod Goggles,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: UV-Protected Shades,,,UV-Protected Shades,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Combat Shades,TRUE,TRUE,HUD Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Lunar Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Bulletproof Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Blaster Shades,,,Blaster Shades,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Digiplayer Shades,,,Digiplayer Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Solar Shades,,,Eclipse Shades,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Holo Shades,,,Holo Shades,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Infiltrator's Shades,,,Infiltrator's Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Pyrox's Shades,,,Plasma Vision,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bionic Ocular,,,Bionic Ocular,Dragon Scales,30,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Green Scarf,TRUE,TRUE,Plain Green Scarf,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Green Fan Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Knitted Green Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Exquisite Green Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Red Scarf,TRUE,TRUE,Plain Red Scarf,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Red Fan Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Knitted Red Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Exquisite Red Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Blue Scarf,TRUE,TRUE,Plain Blue Scarf,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Blue Fan Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Knitted Blue Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Exquisite Blue Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mood Necklace,,,Mood Necklace,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Power Bandana,,,Power Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Polished Necklace,,,Polished Necklace,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bandana,TRUE,TRUE,Extra Power Bandana,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Holo Necklace,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Celestial Power Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Blaster Necklace,,,Blaster Necklace,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dramatic Power Bandana,,,Dramatic Power Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mega Power Bandana,,,Mega Power Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hyper Power Bandana,,,Hyper Power Bandana,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Comforting Bandana,,,Comforting Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Infiltrator's Bandana,,,Infiltrator's Bandana,Flaming Heart,8,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,,
+Plans: Voodoo Headwear,,,Voodoo Headwear,Dragon Scales,30,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hunter's Strap,TRUE,TRUE,Rope Strap,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Cloth Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Canvas Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Leather Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Reinforced Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Synth Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Embossed Belt,,,Embossed Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Suspect Strap,,,Suspect Strap,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Tight Strap,,,Tight Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Armored Strap,TRUE,TRUE,Loose Strap,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Crow Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Eagle Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fitting Strap,,,Fitting Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cardinal Strap,,,Cardinal Strap,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Crane Strap,,,Crane Strap,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hawk Strap,,,Hawk Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Meteor Strap,,,Meteor Strap,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Light Metal Belt,,,Light Metal Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Chimneysweep's Wonder Harness,,,Chimneysweep's Wonder Harness,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doctor's Belt,TRUE,TRUE,Nylon Belt,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Felt Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Suede Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Elastic Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Scrub Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Golf Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worn Belt,,,Worn Belt,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Washed Out Belt,,,Washed Out Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doc's Leather Belt,TRUE,TRUE,Bleached Belt,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Tooth Buckle,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Kneecap Buckle,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dust-covered Belt,,,Dust-covered Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bent Buckle,,,Bent Buckle,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Nail Buckle,,,Nail Buckle,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bone Buckle,,,Bone Buckle,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Shiny Buckle,,,Shiny Buckle,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: One-Size-Fits-All Belt,,,One-Size-Fits-All Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Waistland,,,Waistland,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Strap,TRUE,TRUE,Thick Rope Strap,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Thick Cloth Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Thick Canvas Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Thick Leather Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Thick Reinforced Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Thick Synth Strap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dark Brown Leather Belt,,,Dark Brown Leather Belt,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dark Grey Leather Belt,,,Dark Grey Leather Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Belt,TRUE,TRUE,Navy Leather Belt,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Lizard Skin Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Weight-lifting Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Black Leather Belt,,,Black Leather Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Midnight Leather Belt,,,Midnight Leather Belt,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Snake Skin Belt,,,Snake Skin Belt,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Croc Skin Belt,,,Croc Skin Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Welted Buckle,,,Welted Buckle,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dominator Belt,,,Dominator Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Extraordinary Belle T,,,Extraordinary Belle T,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hunter's Gloves,TRUE,TRUE,Woodsman Gloves,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Whittling Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Shooting Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Camo Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Safari Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: All-weather Gloves,,,All-weather Gloves,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hunter's Armored Gloves,TRUE,TRUE,Poacher's Gloves,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Special Purpose Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Burnproof Gloves,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cat's Paws,,,Cat's Paws,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Goose Down Gloves,,,Goose Down Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Rock Climbing Gloves,,,Rock Climbing Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gun Gloves,,,Gun Gloves,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Utility Gloves,,,Utility Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Aviator Gloves,,,Aviator Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Steady Hands,,,Steady Hands,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bearskin Gloves,,,Bearskin Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Regular Gloves,TRUE,TRUE,Disposable Gloves,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Examination Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Faux Leather Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Driving Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Leather Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fine Leather Gloves,,,Fine Leather Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Doc's Armored Gloves,TRUE,TRUE,Waterproof Gloves,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Ergonomic Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Quality Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Ski Gloves,,,Ski Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Golf Gloves,,,Golf Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Plaid Gloves,,,Plaid Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Yachting Gloves,,,Yachting Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hi-Friction Gloves,,,Hi-Friction Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Suede Gloves,,,Suede Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cybernetic Gloves,,,Cybernetic Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Regenerative Gloves,,,Regenerative Gloves,Dragon Scales,30,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Gloves,TRUE,TRUE,Bouncer Gloves,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Brawny Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Casual Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Biker Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Reinforced Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cordura Gloves,,,Cordura Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Armored Gloves,TRUE,TRUE,Kevlar Gloves,,,,,,,3,,TRUE,,,graphics/loot/loot_drops.swf,blueprint
+,,,Bodyguard's Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,Hardened Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Needleproof Gloves,,,Needleproof Gloves,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Syndicate Gloves,,,Syndicate Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Heavy Silk Gloves,,,Heavy Silk Gloves,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodybuilder Gloves,,,Bodybuilder Gloves,,,,,,,3,,,TRUE,,graphics/loot/loot_drops.swf,blueprint
+Plans: Tough Guy Gloves,,,Tough Guy Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Armored Gloves,,,Armored Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Melee Gloves,,,Melee Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hands of Stone,,,Hands of Stone,Dragon Scales,30,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bot Master Boots,,,Bot Master Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bot Trampling Boots,,,Bot Trampling Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Nano Glass Goggles,,,Nano Glass Goggles,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fire-tempered Belt,,,Fire-tempered Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fire-forged Belt,,,Fire-forged Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Spidersilk-Stiched Pants,,,Spidersilk-Stiched Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Poison-enlaced Pants,,,Poison-enlaced Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cyber-enhanced Pants,,,Cyber-enhanced Pants,Cyber Chips,14,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Pneumatic Pants,,,Pneumatic Pants,Cyber Chips,14,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,,
+Plans: Cyber-wired Jacket,,,Cyber-wired Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bot-plated Jacket,,,Bot-plated Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Radiation Jacket,,,Radiation Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bot-Wrangling Jacket,,,Bot-Wrangling Jacket,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Queen's Sparkling Belt,,,Queen's Sparkling Belt,Dragon Scales,30,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Queen's Whipper,,,Queen's Whipper,Dragon Scales,30,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Riot Jacket,,,Riot Jacket,Riot Plates,15,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Riot Leathers,,,Riot Leathers,Riot Plates,15,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Plated Cowboy Hat,,,Plated Cowboy Hat,Riot Plates,10,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Riot Face,,,Riot Face,Riot Plates,10,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,,
+Plans: Anarchy Leggings,,,Anarchy Leggings,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Anarchy Jeans,,,Anarchy Jeans,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: IR Camouflage,,,IR Camouflage,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: The Heat Sink,,,The Heat Sink,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Lava-tempered Helmet,,,Lava-tempered Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Lava-forged Helmet,,,Lava-forged Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Lava Walkers,,,Lava Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Lava Waders,,,Lava Waders,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Pest Squishers,,,Pest Squishers,Cyber Chips,9,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mite Stompers,,,Mite Stompers,Cyber Chips,9,TRUE,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Rubber Soles,,,Rubber Soles,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Crudkickers,,,Crudkickers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Black Lab Gloves,,,Black Lab Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Entry Gloves,,,Entry Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Sheepskin Gloves,,,Sheepskin Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cowhide Gloves,,,Cowhide Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Woven Belt,,,Woven Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Punk Belt,,,Punk Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Pirate Vis-arrrrrrh!,,,Pirate Vis-arrrrrrh!,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Botmask Helmet,,,Botmask Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gasbooster Helmet,,,Gasbooster Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Pilot Helmet,,,Pilot Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Predator Helmet,,,Predator Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Master's Scarf,,,Master's Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Sloth,,,Sloth,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Greed,,,Greed,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Edward,,,Edward,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Alphonse,,,Alphonse,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Tech-enhanced Pants,,,Tech-enhanced Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Compressed Pants,,,Compressed Pants,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Flux Capacitors,,,Flux Capacitors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Zombie Scarf,,,Zombie Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Science Cowboyhat of Brains,,,Science Cowboyhat of Brains,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Science Cowboycap of Brains,,,Science Cowboycap of Brains,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gangsta's Scarf,,,Gangsta's Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Great Sash,,,Great Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans. Cool Sash,,,Cool Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans. Good Sash,,,Good Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Outstanding Sash,,,Outstanding Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Superfine Sash,,,Superfine Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Excellent Sash,,,Excellent Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fine Sash,,,Fine Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Credible Sash,,,Credible Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Sash,,,Street Wise Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Marvelous Sash,,,Marvelous Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Awesome Sash,,,Awesome Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Greater Sash,,,Greater Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Sash,,,Worthy Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Sash,,,Boosted Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Sash,,,Acute Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Genuine Sash,,,Genuine Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Special Sash,,,Special Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Elegant Sash,,,Elegant Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Sash,,,Singular Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Sash,,,Exquisite Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: High Power Sash,,,High Power Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Credible Shades,,,Credible Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Shades,,,Street Wise Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Shades,,,Worthy Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Shades,,,Boosted Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hunting Shades,,,Hunting Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Superfine Visors,,,Superfine Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Excellent Visors,,,Excellent Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cool Visors,,,Cool Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Good Visors,,,Good Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fine Visors,,,Fine Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Credible Visors,,,Credible Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Marvelous Visors,,,Marvelous Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Awesome Visors,,,Awesome Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Greater Visors,,,Greater Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Visors,,,Street Wise Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Visors,,,Worthy Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Visors,,,Boosted Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Visors,,,Acute Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Visors,,,Singular Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Visors,,,Exquisite Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: High Power Visors,,,High Power Visors,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Casual Dark Gloves,,,Casual Dark Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Casual Black Gloves,,,Casual Black Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Credible Tactical Gloves,,,Credible Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Tactical Gloves,,,Street Wise Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Tactical Gloves,,,Worthy Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Tactical Gloves,,,Boosted Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Awesome Tactical Gloves,,,Awesome Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Greater Tactical Gloves,,,Greater Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Tactical Gloves,,,Singular Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Tactical Gloves,,,Acute Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Genuine Tactical Gloves,,,Genuine Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Special Tactical Gloves,,,Special Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Elegant Tactical Gloves,,,Elegant Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Tactical Gloves,,,Exquisite Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: High Power Tactical Gloves,,,High Power Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Jagged Tactical Gloves,,,Jagged Tactical Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fine Protective Gloves,,,Fine Protective Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Credible Protective Gloves,,,Credible Protective Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Protective Gloves,,,Street Wise Protective Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Protective Gloves,,,Worthy Protective Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Marvelous Protective Gloves,,,Marvelous Protective Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Awesome Protective Gloves,,,Awesome Protective Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Greater Protective Gloves,,,Greater Protective Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Good Wrap,,,Good Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fine Wrap,,,Fine Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Credible Wrap,,,Credible Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bandit's Bandana,,,Bandit's Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Excellent Wrap,,,Excellent Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Marvelous Wrap,,,Marvelous Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bandit's Headscarf,,,Bandit's Headscarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Wrap,,,Street Wise Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Wrap,,,Worthy Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Wrap,,,Boosted Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Trooper's Bandana,,,Trooper's Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Awesome Wrap,,,Awesome Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Greater Wrap,,,Greater Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Trooper's Headscarf,,,Trooper's Headscarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Wrap,,,Acute Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Genuine Wrap,,,Genuine Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Special Wrap,,,Special Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Bandana,,,Bodyguard's Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Wrap,,,Singular Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Wrap,,,Exquisite Wrap,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bodyguard's Headscarf,,,Bodyguard's Headscarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Worthy Walkers,,,Worthy Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Boosted Walkers,,,Boosted Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acute Walkers,,,Acute Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Genuine Walkers,,,Genuine Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singular Walkers,,,Singular Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Exquisite Walkers,,,Exquisite Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: High Power Walkers,,,High Power Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Special Walkers,,,Special Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Elegant Walkers,,,Elegant Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Great Walkers,,,Great Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cool Walkers,,,Cool Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Jagged Walkers,,,Jagged Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Radical Walkers,,,Radical Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: First Class Walkers,,,First Class Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Good Walkers,,,Good Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fine Walkers,,,Fine Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Credible Walkers,,,Credible Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Street Wise Walkers,,,Street Wise Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Outstanding Walkers,,,Outstanding Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Superfine Walkers,,,Superfine Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Excellent Walkers,,,Excellent Walkers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Key to Power Plant,,,Key to Power Plant,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,,,,,,,
+,,,,Power Cells,1,,,,,,,,,,,
+Plans: Key to Dr. Bauhoff,,,Key to Dr. Bauhoff,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,,,,,,,
+,,,,Power Cells,1,,,,,,,,,,,
+Plans: Key to 7 Deadly Sins,,,Key to Seven Deadly Sins,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,,,,,,,
+,,,,Power Cells,1,,,,,,,,,,,
+Plans: Key to Queen of Diamonds,,,Key to Queen of Diamonds,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,,,,,,,
+,,,,Power Cells,1,,,,,,,,,,,
+Plans: Key to Riot Town,,,Key to Riot Town,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,,,,,,,
+,,,,Power Cells,1,,,,,,,,,,,
+Plans: Key to the Slavemaster,,,Key to the Slavemaster,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,,,,,,,
+,,,,Power Cells,1,,,,,,,,,,,
+Plans: Key to Raider Valley,,,Key to Raider Valley,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,,,,,,,
+,,,,Power Cells,1,,,,,,,,,,,
+Plans: Key to Devourer Dragon,,,Key to Devourer Dragon,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,,,,,,,
+,,,,Power Cells,1,,,,,,,,,,,
+Plans: Nice Sash,,,Nice Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mega Power Sash,,,Mega Power Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bebop,,,Bebop,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: M-Base,,,M-Base,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Acid Jazz,,,Acid Jazz,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Dixieland,,,Dixieland,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Hoodoo,,,Hoodoo,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Roots,,,Roots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Fort Yuma,,,Fort Yuma,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Buddha Guard,,,Buddha Guard,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Confession Armor,,,Confession Armor,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Daath Guard,,,Daath Guard,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bounce,,,Bounce,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Wonky,,,Wonky,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Glitch,,,Glitch,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Godfather,,,Godfather,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Steppa,,,Steppa,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Burrito,,,Burrito,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Bandido,,,Bandido,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Malkuth Sheath,,,Malkuth Sheath,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Redeemer Guard,,,Redeemer Guard,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Savior Barrier,,,Savior Barrier,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Singjay,,,Singjay,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Ragga,,,Ragga,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Sensi,,,Sensi,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Rumble Hat,,,Rumble Hat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Drango,,,Drango,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: K12,,,K12,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: El Topo,,,El Topo,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Archangel Sheath,,,Archangel Sheath,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Avatar Barrier,,,Avatar Barrier,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Blessing Guard,,,Blessing Guard,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Frosted Electromagnetic Chronobooster,,,Chronobooster Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gastrointestinal Nuclear-powered Heliogroper,,,Heliogroper Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Golfing Nuclear-powered Ensnarerazer,,,Ensnarerazer Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gyro-stabilized Aquadesk,,,Gyro-stabilized Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Heavy-metal Ultrasonic Prowler-o-mat,,,Heavy-metal Ultrasonic Prowler-o-mat,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Internet-enabled Nailfile,,,Internet-enabled Nailfile,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Janitorial Multiadapter,,,Janitorial Multiadapter,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Magnetized Ensnaer,,,Magnetized Ensnaer,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gyroeye,,,Gyroeye,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Embedded Healing Motor,,,Embedded Healing Motor,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Healing Gear,,,Healing Gear,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Polarized Patchator,,,Polarized Patchator,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Terror Secretion,,,Terror Secretion,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: High-speed Scanning Gloves,,,High-speed Scanning Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cardio Hands,,,Cardio Hands,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Implanted Secretion Electrifier,,,Implanted Secretion Electrifier,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Self-regulating Gyrosecretion,,,Self-regulating Gyrosecretion,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Optical Limb Modifier,,,Optical Limb Modifier,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Neural Dermoresistor,,,Neural Dermoresistor,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Regulator Hands,,,Regulator Hands,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gastrowire,,,Gastrowire,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Life Cell Necklace,,,Life Cell Necklace,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Technowire,,,Technowire,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gyrocontigation Necklace,,,Gyrocontigation Necklace,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Infecting Heart Boots,,,Infecting Heart Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Black-market Skeletal Boots,,,Black-market Skeletal Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Gravitic Contigation Boots,,,Gravitic Contigation Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Explosive Cluster Boots,,,Explosive Cluster Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Powered Guiding Boots,,,Powered Guiding Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mutant's Shutter Shades,,,Mutant's Shutter Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mutant's Bling Shades,,,Mutant's Bling Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Mutant's Aviators,,,Mutant's Aviators,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Key to Raider Village,,,Key to Raider Village,Fabric,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Bolts,200,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+,,,,Power Cells,1,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Health Sash,,,Labycore Health Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Power Sash,,,Labycore Power Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Strength Sash,,,Labycore Strength Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Health Hands,,,Labycore Health Hands,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Power Gloves,,,Labycore Power Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Strength Hands,,,Labycore Strength Hands,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Health Eye,,,Labycore Health Eye,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Power Eye,,,Labycore Power Eye,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Strength Shades,,,Labycore Strength Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Health Helmet,,,Labycore Health Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Power Helmet,,,Labycore Power Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Strength Helmet,,,Labycore Strength Helmet,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Health Bandana,,,Labycore Health Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Power Scarf,,,Labycore Power Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Strength Scarf,,,Labycore Strength Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Health Boots,,,Labycore Health Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Power Boots,,,Labycore Power Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Labycore Strength Boots,,,Labycore Strength Boots,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Farm Gloves,,,Farm Gloves,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Farm Hands,,,Farm Hands,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Kelly Meow's,,,Kelly Meow's,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Meow Kelly's,,,Meow Kelly's,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Meow Meow,,,Meow Meow,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Kelly Meow Meow,,,Kelly Meow Meow,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Sweet Belt,,,Sweet Belt,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Sweet Sash,,,Sweet Sash,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cal Al Cybers,,,Cal Al Cybers,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cal Al Eye,,,Cal Al Eye,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cal Al Goggles,,,Cal Al Goggles,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cal Al Shades,,,Cal Al Shades,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cal Al Sunglasses,,,Cal Al Sunglasses,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Cal Al Visor,,,Cal Al Visor,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Deadguys Melee Scarf,,,Deadguys Melee Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Deadguys Ranged Lace,,,Deadguys Ranged Lace,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Deadguys Multibandana,,,Deadguys Multibandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Deadguys Scarf,,,Deadguys Scarf,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Deadguys Necklace,,,Deadguys Necklace,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint
+Plans: Deadguys Bandana,,,Deadguys Bandana,,,,,,,3,,,,,graphics/loot/loot_drops.swf,blueprint

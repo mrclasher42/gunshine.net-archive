@@ -1,0 +1,142 @@
+Name,NPCItem,RequiredLevel,Rarity,Enhancement,Tier,EquipmentClass,ClothClass,Texture,FemaleTexture,LootDisabled,Icon,PostToSocialNetworks
+NPC Normal Gloves,true,1,Common,,,Gloves,,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,7,
+NPC Yellow Working Gloves,true,1,Common,,,Gloves,,graphics/3d/character/gloves/gloves_yellow_01_m.png,graphics/3d/character/gloves/gloves_yellow_01_f.png,TRUE,7,
+Typical Black Gloves,,3,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Usual Black Gloves,,5,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Plain Black Gloves,,8,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Standard Black Gloves,,9,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Universal Black Gloves,,11,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Average Black Gloves,,2,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Basic Black Gloves,,4,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Everyday Black Gloves,,6,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Regular Black Gloves,,9,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Popular Black Gloves,,9,Common,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Common Black Gloves,,11,Common,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Simple Black Gloves,,2,Common,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Beer-soaked Black Gloves,,4,Poor,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Dirty Black Gloves,,6,Poor,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Crappy Black Gloves,,9,Poor,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Marvelous Gloves,,24,Rare,of the Hunter,2,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Awesome Gloves,,21,Rare,of the Beast,,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Greater Gloves,,23,Rare,of Health,,Gloves,Large,graphics/3d/character/gloves/gloves_black_green_02_m.png,graphics/3d/character/gloves/gloves_black_green_02_f.png,TRUE,,TRUE
+Singular Gloves,,25,Rare,of Brightness,1,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Exquisite Gloves,,28,Rare,of the Troublemaker,,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+High-Power Gloves,,30,Rare,of the Assassin,1,Gloves,Large,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+Jagged Biker Gloves,,16,Rare,of Capacity,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Radical Biker Gloves,,20,Rare,of Rationality,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+First-Class Biker Gloves,,25,Rare,of the Thug,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Outstanding Biker Gloves,,29,Rare,of Guts,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Superfine Biker Gloves,,30,Rare,of Awareness,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Exquisite M.C. Gloves,,5,Rare,of Determination,1,M.C. Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+High-Power M.C. Gloves,,7,Rare,of Intuition,,M.C. Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Jagged M.C. Gloves,,9,Rare,of the Scientist,,M.C. Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Radical M.C. Gloves,,13,Rare,of the Thug,,M.C. Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+First-Class M.C. Gloves,,15,Rare,of Guts,,M.C. Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Jagged Gloves,,24,Rare,of Awareness,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Radical Gloves,,21,Rare,of Determination,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+First-Class Gloves,,23,Rare,of Intuition,2,Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Outstanding Gloves,,25,Rare,of the Hunter,,Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Superfine Gloves,,28,Rare,of the Beast,,Gloves,Small,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+Excellent Gloves,,30,Rare,of Health,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Excellent Biker Gloves,,16,Rare,of Brightness,1,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Marvelous Biker Gloves,,20,Rare,of the Troublemaker,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+Awesome Biker Gloves,,25,Rare,of the Assassin,1,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Greater Biker Gloves,,29,Rare,of Capacity,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+Singular Biker Gloves,,30,Rare,of the Hunter,1,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Greater Black Gloves,,14,Rare,of the Hunter,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Outstanding M.C. Gloves,,5,Rare,of the Beast,,M.C. Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Superfine M.C. Gloves,,7,Rare,of Health,1,M.C. Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Excellent M.C. Gloves,,9,Rare,of Brightness,,M.C. Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Marvelous M.C. Gloves,,13,Rare,of the Troublemaker,,M.C. Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Awesome M.C. Gloves,,15,Rare,of the Assassin,,M.C. Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Fine Gloves,,19,Uncommon,,,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Credible Gloves,,22,Uncommon,,,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Street Wise Gloves,,27,Uncommon,,,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Worthy Gloves,,30,Uncommon,,,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Genuine Biker Gloves,,17,Uncommon,,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Special Biker Gloves,,18,Uncommon,,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Elegant Biker Gloves,,24,Uncommon,,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Great Biker Gloves,,27,Uncommon,,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Cool Biker Gloves,,30,Uncommon,,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Street Wise Black Gloves,,4,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Worthy Black Gloves,,6,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Boosted Black Gloves,,10,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Acute Black Gloves,,12,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Genuine Black Gloves,,14,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Boosted Gloves,,19,Uncommon,,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Acute Gloves,,22,Uncommon,,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Genuine Gloves,,27,Uncommon,,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Special Gloves,,30,Uncommon,,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Good Biker Gloves,,17,Uncommon,,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Fine Biker Gloves,,18,Uncommon,,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Credible Biker Gloves,,24,Uncommon,,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Street Wise Biker Gloves,,27,Uncommon,,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Worthy Biker Gloves,,30,Uncommon,,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Special Black Gloves,,3,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Elegant Black Gloves,,5,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Great Black Gloves,,8,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Cool Black Gloves,,4,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Good Black Gloves,,6,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Fine Black Gloves,,10,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Credible Black Gloves,,12,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Piggy Bob's Swine Lovers,,15,Uncommon,,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Piggy Bob's Pork Porkers,,15,Uncommon,,,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Cool Spider Gloves,,11,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Genuine Spider Gloves,,11,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+First Class M.C. Gloves,,1,Rare,of Capacity,,M.C. Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Greater M.C. Gloves,,2,Rare,of Rationality,,M.C. Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Greater Rider Gloves,,3,Rare,of the Thug,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_green_02_m.png,graphics/3d/character/gloves/gloves_black_green_02_f.png,TRUE,,TRUE
+Singular Rider Gloves,,4,Rare,of Guts,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Exquisite Rider Gloves,,6,Rare,of Awareness,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+High Power Rider Gloves,,8,Rare,of Determination,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+First Class Biker Gloves,,10,Rare,of Intuition,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_green_02_m.png,graphics/3d/character/gloves/gloves_black_green_02_f.png,TRUE,,TRUE
+Exquisite Biker Gloves,,11,Rare,of the Scientist,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Jagged Rider Gloves,,12,Rare,of the Thug,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_green_02_m.png,graphics/3d/character/gloves/gloves_black_green_02_f.png,TRUE,,TRUE
+Radical Rider Gloves,,17,Rare,of Guts,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+First Class Rider Gloves,,18,Rare,of Awareness,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Awesome Black Gloves,,19,Rare,of Determination,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Outstanding Rider Gloves,,26,Rare,of Capacity,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Superfine Rider Gloves,,1,Rare,of Rationality,,Rider Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Marvelous Leather Gloves,,2,Rare,of the Thug,,Leather Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Excellent Rider Gloves,,3,Rare,of Guts,,Rider Gloves,Large,graphics/3d/character/gloves/gloves_black_green_02_m.png,graphics/3d/character/gloves/gloves_black_green_02_f.png,TRUE,,TRUE
+Marvelous Rider Gloves,,4,Rare,of Awareness,,Rider Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Awesome Rider Gloves,,6,Rare,of Determination,,Rider Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Jagged Dark Gloves,,8,Rare,of Intuition,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,,TRUE
+Radical Dark Gloves,,10,Rare,of the Scientist,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_green_02_m.png,graphics/3d/character/gloves/gloves_black_green_02_f.png,TRUE,,TRUE
+First Class Dark Gloves,,11,Rare,of the Thug,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Outstanding Dark Gloves,,12,Rare,of Guts,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_green_02_m.png,graphics/3d/character/gloves/gloves_black_green_02_f.png,TRUE,,TRUE
+Superfine Dark Gloves,,14,Rare,of Awareness,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+Excellent Dark Gloves,,17,Rare,of Determination,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_green_02_m.png,graphics/3d/character/gloves/gloves_black_green_02_f.png,TRUE,,TRUE
+Marvelous Dark Gloves,,18,Rare,of Intuition,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Awesome Dark Gloves,,19,Rare,of the Hunter,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+Greater Dark Gloves,,24,Rare,of the Beast,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Singular Dark Gloves,,26,Rare,of Health,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+Exquisite Dark Gloves,,27,Rare,of Brightness,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+NPC Desert Hooligans Gloves,true,1,Common,,,Gloves,,graphics/3d/character/gloves/desert_hooligan_wrist_band_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,7,
+NPC Mutant Gloves,true,1,Common,,,Gloves,,graphics/3d/character/labycorp_textures/mutant_glove_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,7,
+NPC Mutant Gloves 2,true,1,Common,,,Gloves,,graphics/3d/character/labycorp_textures/mutant_glove2_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,7,
+Smiths Handy Cloves,,15,Uncommon,,,Gloves,Small,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,1,TRUE
+Smiths Finger Cloves,,15,Uncommon,,,Gloves,Large,graphics/3d/character/gloves/gloves_black_01_m.png,graphics/3d/character/gloves/gloves_black_01_f.png,TRUE,1,TRUE
+Bodybreaker's Gloves,,30,Epic,of the Judgment,,Dark Gloves,Large,graphics/3d/character/gloves/gloves_black_cyan_02_m.png,graphics/3d/character/gloves/gloves_black_cyan_02_f.png,TRUE,,TRUE
+Manhunter's Gloves,,30,Epic,of the Ambusher,,Biker Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Surgeon's Gloves,,30,Epic,of the Crymaker,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Brawler's Gloves,,3,Common,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Fistycuff Gloves,,3,Common,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Bloodied Gloves,,3,Common,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Drunk's Gloves,,10,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Hobo Gloves,,10,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Junkie Gloves,,10,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Hunky Gloves,,12,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Ant Crusher's Gloves,,12,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Lovebug Gloves,,12,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Terrorist's Gloves,,20,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Saboteur's Gloves,,20,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Meltdown Gloves,,20,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+High Octane Gloves,,25,Uncommon,,,Black Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Turbo Gloves,,25,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Fueled Gloves,,25,Uncommon,,,Black Gloves,Small,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,
+Lava-Heated Gloves,,28,Rare,of the Crymaker,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Dragon Gloves,,28,Rare,of the Judgment,,Biker Gloves,Large,graphics/3d/character/gloves/gloves_black_03_m.png,graphics/3d/character/gloves/gloves_black_03_f.png,TRUE,,TRUE
+Magma Gloves,,20,Rare,of Rationality,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Supersoldier Gloves,,30,Epic,of the Crymaker,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE
+Swarm Gloves,,30,Epic,of 6th Sense,,Rider Gloves,Small,graphics/3d/character/gloves/gloves_black_02_m.png,graphics/3d/character/gloves/gloves_black_02_f.png,TRUE,,TRUE

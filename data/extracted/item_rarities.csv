@@ -1,0 +1,110 @@
+Name,LootFlyTime,Color,AttributeModifier,DamageModifier,ArmorModifier,WeaponTexts,EquipmentTexts
+Poor,700,0x999999,,60,60,Crappy,Beer Soaked
+,,,,,,Antiquated,Dirty
+,,,,,,Piece of Crap,Crappy
+,,,,,,Battered,Battered
+,,,,,,Cracked,Cracked
+,,,,,,Broken,Broken
+,,,,,,Corroded,Ragged
+,,,,,,Crude,Worn
+,,,,,,Old,Old
+,,,,,,Lame,Lame
+,,,,,,Brittle,Warped
+,,,,,,Lousy,Lousy
+,,,,,,Crappy,Worthless
+,,,,,,Poor,Poor
+,,,,,,Shoddy,Shabby
+,,,,,,Inferior,Inferior
+,,,,,,Rural,Rural
+,,,,,,Barebones,Barebones
+Common,800,0xFFFFFF,,80,80,Basic,Basic
+,,,,,,Average,Everyday
+,,,,,,Everyday,Regular
+,,,,,,Regular,Popular
+,,,,,,Popular,Common
+,,,,,,Common,Simple
+,,,,,,Simple,Typical
+,,,,,,Typical,Usual
+,,,,,,Usual,Plain
+,,,,,,Plain,Standard
+,,,,,,Standard,Universal
+,,,,,,Normal,Average
+,,,,,,Universal,
+Uncommon,1000,0x00FF00,1,100,90,Okayish,Elegant
+,,,,,,Great,Great
+,,,,,,Illegal,Cool
+,,,,,,Cool,Good
+,,,,,,Good,Fine
+,,,,,,Fine,Credible
+,,,,,,Credible,Street Wise
+,,,,,,Street Wise,Worthy
+,,,,,,Worthy,Boosted
+,,,,,,Nifty,Acute
+,,,,,,Ideal,Genuine
+,,,,,,Elegant,Special
+,,,,,,Boosted,
+,,,,,,Acute,
+,,,,,,Advanced,
+,,,,,,Street Credible,
+,,,,,,Massive,
+Rare,1200,0xAAAAFF,2,115,120,Greater,First Class
+,,,,,,Awesome,Outstanding
+,,,,,,Brutal,Superfine
+,,,,,,Marvelous,Excellent
+,,,,,,Mighty,Marvelous
+,,,,,,Righteuous,Awesome
+,,,,,,Victorious,Greater
+,,,,,,First Class,Singular
+,,,,,,Singular,Exquisite
+,,,,,,Excellent,High Power
+,,,,,,Outstanding,Jagged
+,,,,,,Superfine,Radical
+,,,,,,Exquisite,
+,,,,,,Respectable,
+,,,,,,Crazy,
+,,,,,,Extreme,
+,,,,,,Wacky,
+,,,,,,High Power,
+,,,,,,Tough,
+,,,,,,Superior,
+,,,,,,Gruesome,
+,,,,,,Assault,
+,,,,,,Jagged,
+,,,,,,Radical,
+Epic,1400,0xFFAAFF,3,130,140,Damn Nice,Damn Nice
+,,,,,,Helluva,Helluva
+,,,,,,Stellar,Insane
+,,,,,,Insane,Badass
+,,,,,,Incredible,Incredible
+,,,,,,Kick-ass,Stellar
+,,,,,,Relentless,Kick-ass
+,,,,,,Badass,Relentless
+,,,,,,Rebel's,Rebel's
+,,,,,,Gangsta's,Gangsta's
+,,,,,,Criminal's,Criminal's
+,,,,,,Ruffian's,Ruffian's
+,,,,,,Thug's,Thug's
+,,,,,,Lawbreaker's,Lawbreaker's
+,,,,,,Offender's,Offender's
+,,,,,,Hitman's,Hitman's
+,,,,,,Lunatic's,Lunatic's
+,,,,,,Cleaner's,Cleaner's
+,,,,,,Devastator's,Devastator's
+,,,,,,Interrogator's,Interrogator's
+,,,,,,Torture's,Torture's
+,,,,,,Troublemaker's,Troublemaker's
+,,,,,,Hustla's,Hustla's
+,,,,,,Madcap's,Madcap's
+,,,,,,Hothead's,Hothead's
+,,,,,,Daredevil's,Daredevil's
+,,,,,,Crymaker's,Crymaker's
+,,,,,,Anguisher's,Anguisher's
+,,,,,,Painmaker's,Painmaker's
+,,,,,,Wacko's,Wacko's
+,,,,,,Pimp's,Pimp's
+,,,,,,Maniac's,Maniac's
+,,,,,,Destroyer's,Destroyer's
+,,,,,,Killer's,Killer's
+,,,,,,Psycho's,Psycho's
+,,,,,,Hannibal's,Hannibal's
+Mission,1000,0xFFFF00,,,,,

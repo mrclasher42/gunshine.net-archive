@@ -1,0 +1,12 @@
+Name,Tags,Resource,ExportName,Width,Height,BlocksLineOfSight,FadeToTransparent,Effect,ShadowSize,ShadowBlur,ShadowAlpha,AnimationSound,ActiveEffect,ActiveEffectX,ActiveEffectY,OpenSound,CloseSound
+automated_bollard,gate,graphics/decos/gate/automated_bollard.swf,automated_bollards,1,4,,,,,,,,,,,PoleGateOpening,PoleGateOpening
+sliding_gate,gate sliding fence,graphics/decos/gate/automated_gate_metal.swf,sliding_gate,1,4,true,true,,-2,,,,,,,PoleGateOpening,PoleGateOpening
+sliding_gate2,gate sliding fence,graphics/decos/gate/automated_gate_metal.swf,sliding_gate2,1,4,true,true,,-1,,,,,,,PoleGateOpening,PoleGateOpening
+sliding_gate_wide,gate sliding fence,graphics/decos/gate/automated_gate_metal.swf,sliding_gate_wide,1,5,true,true,,-2,,,,,,,PoleGateOpening,PoleGateOpening
+sliding_gate_wide2,gate sliding fence,graphics/decos/gate/automated_gate_metal.swf,sliding_gate_wide2,1,5,true,true,,-1,,,,,,,PoleGateOpening,PoleGateOpening
+sliding_gate_into_wall,gate sliding fence,graphics/decos/gate/automated_gate_metal.swf,sliding_gate_into_wall,1,4,true,true,,-2,,,,,,,PoleGateOpening,PoleGateOpening
+sliding_gate_into_wall2,gate sliding fence,graphics/decos/gate/automated_gate_metal.swf,sliding_gate_into_wall2,1,4,true,true,,,,,,,,,PoleGateOpening,PoleGateOpening
+beam_gate,gate force field beam labycore,graphics/decos/gate/automated_gate_beam.swf,beam_gate,1,9,true,,,-2,,,,BeamGateGreenLight,,,,
+glass_shelter_front_door,glass sliding door,graphics/decos/buildings/glass_shelter.swf,glass_shelter_front_door,1,3,true,,,-4,3,,,,,,,
+forcefield_gate_10tile,gate force field labycore,graphics/decos/gate/force_field_gates.swf,forcefield_gate_10tile,10,1,true,,,,,1,,,,,,
+forcefield_gate_3tile,gate force field labycore,graphics/decos/gate/force_field_gates.swf,forcefield_gate_3tile,3,1,true,,,,,1,,,,,,

@@ -1,0 +1,251 @@
+Name,NPCItem,EquipmentClass,ClothClass,Enhancement,Tier,RequiredLevel,Rarity,LootDisabled,Texture,FemaleTexture,PostToSocialNetworks
+NPC Belt,true,Belt,,,,1,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Common Belt,,Belt,Large,,,5,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Simple Belt,,Belt,Large,,,10,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Typical Belt,,Belt,Large,,,15,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Usual Belt,,Belt,Large,,,20,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Plain Belt,,Belt,Large,,,25,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Standard Belt,,Belt,Large,,,30,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Universal Belt,,Belt,Large,,,5,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Common Black Belt,,Black Belt,Large,,,7,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Simple Black Belt,,Black Belt,Large,,,12,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Typical Black Belt,,Black Belt,Large,,,17,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Usual Black Belt,,Black Belt,Large,,,22,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Plain Black Belt,,Black Belt,Large,,,27,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Simple Dark Leather Belt,,Dark Leather Belt,Large,,,14,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Typical Dark Leather Belt,,Dark Leather Belt,Large,,,19,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Usual Dark Leather Belt,,Dark Leather Belt,Large,,,24,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Plain Dark Leather Belt,,Dark Leather Belt,Large,,,29,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Standard Brown Belt,,Brown Belt,Large,,,5,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Universal Brown Belt,,Brown Belt,Large,,,6,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Average Brown Belt,,Brown Belt,Large,,,7,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Basic Brown Belt,,Brown Belt,Large,,,8,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Everyday Brown Belt,,Brown Belt,Large,,,9,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Regular Brown Belt,,Brown Belt,Large,,,10,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Universal Vented Leather Belt,,Vented Leather Belt,Large,,,13,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Average Vented Leather Belt,,Vented Leather Belt,Large,,,16,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Basic Vented Leather Belt,,Vented Leather Belt,Large,,,6,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Basic Belt,,Belt,Small,,,10,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Everyday Belt,,Belt,Small,,,15,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Regular Belt,,Belt,Small,,,20,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Average Belt,,Belt,Small,,,25,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Standard Black Belt,,Black Belt,Small,,,7,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Universal Black Belt,,Black Belt,Small,,,12,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Average Black Belt,,Black Belt,Small,,,17,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Basic Black Belt,,Black Belt,Small,,,22,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Everyday Black Belt,,Black Belt,Small,,,27,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Standard Dark Leather Belt,,Dark Leather Belt,Small,,,14,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Universal Dark Leather Belt,,Dark Leather Belt,Small,,,19,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Average Dark Leather Belt,,Dark Leather Belt,Small,,,24,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Basic Dark Leather Belt,,Dark Leather Belt,Small,,,29,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Popular Brown Belt,,Brown Belt,Small,,,5,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Common Brown Belt,,Brown Belt,Small,,,6,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Simple Brown Belt,,Brown Belt,Small,,,7,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Typical Brown Belt,,Brown Belt,Small,,,8,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Usual Brown Belt,,Brown Belt,Small,,,9,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Plain Brown Belt,,Brown Belt,Small,,,10,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Everyday Vented Leather Belt,,Vented Leather Belt,Small,,,13,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Regular Vented Leather Belt,,Vented Leather Belt,Small,,,16,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Popular Vented Leather Belt,,Vented Leather Belt,Small,,,6,Common,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Lame Brown Belt,,Brown Belt,Large,,,5,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Warped Brown Belt,,Brown Belt,Large,,,6,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Lousy Brown Belt,,Brown Belt,Large,,,7,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Worthless Brown Belt,,Brown Belt,Large,,,8,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Poor Brown Belt,,Brown Belt,Large,,,9,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Battered Belt,,Belt,Small,,,30,Poor,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Cracked Belt,,Belt,Small,,,5,Poor,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Shabby Brown Belt,,Brown Belt,Small,,,5,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Inferior Brown Belt,,Brown Belt,Small,,,6,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Rural Brown Belt,,Brown Belt,Small,,,7,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Barebones Brown Belt,,Brown Belt,Small,,,8,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Beer-soaked Brown Belt,,Brown Belt,Small,,,9,Poor,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,
+Excellent Belt,,Belt,Large,of the Hunter,,3,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Marvelous Belt,,Belt,Large,of the Beast,,7,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Marvelous Black Belt,,Black Belt,Large,of Health,,5,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Awesome Black Belt,,Black Belt,Large,of Brightness,,10,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Greater Black Belt,,Black Belt,Large,of the Troublemaker,,15,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Singular Black Belt,,Black Belt,Large,of the Assassin,,20,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Exquisite Black Belt,,Black Belt,Large,of Capacity,,25,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Awesome Dark Leather Belt,,Dark Leather Belt,Large,of Rationality,,26,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Greater Dark Leather Belt,,Dark Leather Belt,Large,of the Thug,,27,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Singular Dark Leather Belt,,Dark Leather Belt,Large,of Guts,,28,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Exquisite Dark Leather Belt,,Dark Leather Belt,Large,of Awareness,,29,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+High-Power Dark Leather Belt,,Dark Leather Belt,Large,of Determination,,30,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Singular Belt with Golden Buckle,,Belt with Golden Buckle,Large,of Intuition,,21,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Exquisite Belt with Golden Buckle,,Belt with Golden Buckle,Large,of the Scientist,,23,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+High-Power Belt with Golden Buckle,,Belt with Golden Buckle,Large,of the Thug,,25,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Jagged Belt with Golden Buckle,,Belt with Golden Buckle,Large,of Guts,,27,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Radical Belt with Golden Buckle,,Belt with Golden Buckle,Large,of Awareness,,30,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Exquisite Belt with Silver Buckle,,Belt with Silver Buckle,Large,of Determination,,20,Rare,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+High-Power Belt with Silver Buckle,,Belt with Silver Buckle,Large,of Intuition,,21,Rare,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Jagged Belt with Silver Buckle,,Belt with Silver Buckle,Large,of the Hunter,,26,Rare,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Radical Belt with Silver Buckle,,Belt with Silver Buckle,Large,of the Beast,,30,Rare,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Jagged Vented Leather Belt,,Vented Leather Belt,Large,of Health,,23,Rare,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Radical Vented Leather Belt,,Vented Leather Belt,Large,of Brightness,,25,Rare,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+First-Class Studded Bold Belt,,Studded Bold Belt,Large,of the Troublemaker,,30,Rare,TRUE,graphics/3d/character/belt/belt_studded_01_m.png,graphics/3d/character/belt/belt_studded_01_f.png,TRUE
+Outstanding Studded Belt,,Studded Belt,Large,of the Assassin,,24,Rare,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Excellent Utility Belt,,Utility Belt,Large,of Capacity,,5,Rare,TRUE,graphics/3d/character/belt/belt_utility_01_m.png,graphics/3d/character/belt/belt_utility_01_f.png,TRUE
+Marvelous Utility Belt,,Utility Belt,Large,of the Hunter,,28,Rare,TRUE,graphics/3d/character/belt/belt_utility_01_m.png,graphics/3d/character/belt/belt_utility_01_f.png,TRUE
+Awesome Belt,,Belt,Small,of the Hunter,,3,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Greater Belt,,Belt,Small,of the Beast,,7,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+High-Power Black Belt,,Black Belt,Small,of Health,,5,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Jagged Black Belt,,Black Belt,Small,of Brightness,,10,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Radical Black Belt,,Black Belt,Small,of the Troublemaker,,15,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+First-Class Black Belt,,Black Belt,Small,of the Assassin,,20,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Outstanding Black Belt,,Black Belt,Small,of Capacity,,25,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Jagged Dark Leather Belt,,Dark Leather Belt,Small,of Rationality,,26,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Radical Dark Leather Belt,,Dark Leather Belt,Small,of the Thug,,27,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+First-Class Dark Leather Belt,,Dark Leather Belt,Small,of Guts,,28,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Outstanding Dark Leather Belt,,Dark Leather Belt,Small,of Awareness,,29,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Superfine Dark Leather Belt,,Dark Leather Belt,Small,of Determination,,30,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+First-Class Belt with Golden Buckle,,Belt with Golden Buckle,Small,of Intuition,,21,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Outstanding Belt with Golden Buckle,,Belt with Golden Buckle,Small,of the Scientist,,23,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Superfine Belt with Golden Buckle,,Belt with Golden Buckle,Small,of the Thug,,25,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Excellent Belt with Golden Buckle,,Belt with Golden Buckle,Small,of Guts,,27,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Marvelous Belt with Golden Buckle,,Belt with Golden Buckle,Small,of Awareness,,30,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+First-Class Belt with Silver Buckle,,Belt with Silver Buckle,Small,of Determination,,20,Rare,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Outstanding Belt with Silver Buckle,,Belt with Silver Buckle,Small,of Intuition,,21,Rare,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Superfine Belt with Silver Buckle,,Belt with Silver Buckle,Small,of the Hunter,,26,Rare,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Excellent Belt with Silver Buckle,,Belt with Silver Buckle,Small,of the Beast,,30,Rare,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+First-Class Vented Leather Belt,,Vented Leather Belt,Small,of Health,,23,Rare,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Outstanding Vented Leather Belt,,Vented Leather Belt,Small,of Brightness,,25,Rare,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Outstanding Studded Bold Belt,,Studded Bold Belt,Small,of the Troublemaker,,30,Rare,TRUE,graphics/3d/character/belt/belt_studded_01_m.png,graphics/3d/character/belt/belt_studded_01_f.png,TRUE
+Superfine Studded Belt,,Studded Belt,Small,of the Assassin,,24,Rare,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Awesome Utility Belt,,Utility Belt,Small,of Capacity,,5,Rare,TRUE,graphics/3d/character/belt/belt_utility_01_m.png,graphics/3d/character/belt/belt_utility_01_f.png,TRUE
+Greater Utility Belt,,Utility Belt,Small,of the Hunter,,28,Rare,TRUE,graphics/3d/character/belt/belt_utility_01_m.png,graphics/3d/character/belt/belt_utility_01_f.png,TRUE
+Good Belt,,Belt,Large,,,5,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Fine Belt,,Belt,Large,,,10,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Credible Belt,,Belt,Large,,,15,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Street Wise Belt,,Belt,Large,,,20,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Worthy Belt,,Belt,Large,,,25,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Boosted Belt,,Belt,Large,,,30,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Fine Black Belt,,Black Belt,Large,,,12,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Credible Black Belt,,Black Belt,Large,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Street Wise Black Belt,,Black Belt,Large,,,22,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Worthy Black Belt,,Black Belt,Large,,,27,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Credible Dark Leather Belt,,Dark Leather Belt,Large,,,3,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Street Wise Dark Leather Belt,,Dark Leather Belt,Large,,,4,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Worthy Dark Leather Belt,,Dark Leather Belt,Large,,,5,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Boosted Dark Leather Belt,,Dark Leather Belt,Large,,,6,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Worthy Belt with Golden Buckle,,Belt with Golden Buckle,Large,,,20,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Boosted Belt with Golden Buckle,,Belt with Golden Buckle,Large,,,22,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Acute Belt with Golden Buckle,,Belt with Golden Buckle,Large,,,24,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Genuine Belt with Golden Buckle,,Belt with Golden Buckle,Large,,,27,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Special Belt with Golden Buckle,,Belt with Golden Buckle,Large,,,30,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Boosted Belt with Silver Buckle,,Belt with Silver Buckle,Large,,,6,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Acute Belt with Silver Buckle,,Belt with Silver Buckle,Large,,,9,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Genuine Belt with Silver Buckle,,Belt with Silver Buckle,Large,,,13,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Special Belt with Silver Buckle,,Belt with Silver Buckle,Large,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Elegant Belt with Silver Buckle,,Belt with Silver Buckle,Large,,,21,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Great Belt with Silver Buckle,,Belt with Silver Buckle,Large,,,28,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Genuine Vented Leather Belt,,Vented Leather Belt,Large,,,18,Uncommon,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Special Vented Leather Belt,,Vented Leather Belt,Large,,,20,Uncommon,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Elegant Vented Leather Belt,,Vented Leather Belt,Large,,,12,Uncommon,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Great Vented Leather Belt,,Vented Leather Belt,Large,,,14,Uncommon,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Elegant Studded Bold Belt,,Studded Bold Belt,Large,,,26,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_01_m.png,graphics/3d/character/belt/belt_studded_01_f.png,TRUE
+Great Studded Bold Belt,,Studded Bold Belt,Large,,,29,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_01_m.png,graphics/3d/character/belt/belt_studded_01_f.png,TRUE
+Great Studded Belt,,Studded Belt,Large,,,20,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Cool Studded Belt,,Studded Belt,Large,,,22,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Cool Design Belt,,Design Belt,Large,,,7,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_03_m.png,graphics/3d/character/belt/belt_studded_03_f.png,TRUE
+Good Design Belt,,Design Belt,Large,,,11,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_03_m.png,graphics/3d/character/belt/belt_studded_03_f.png,TRUE
+Fine Design Belt,,Design Belt,Large,,,14,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_03_m.png,graphics/3d/character/belt/belt_studded_03_f.png,TRUE
+Credible Design Belt,,Design Belt,Large,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_03_m.png,graphics/3d/character/belt/belt_studded_03_f.png,TRUE
+Good Utility Belt,,Utility Belt,Large,,,15,Uncommon,TRUE,graphics/3d/character/belt/belt_utility_01_m.png,graphics/3d/character/belt/belt_utility_01_f.png,TRUE
+Fine Utility Belt,,Utility Belt,Large,,,21,Uncommon,TRUE,graphics/3d/character/belt/belt_utility_01_m.png,graphics/3d/character/belt/belt_utility_01_f.png,TRUE
+Snakeskin Belt,,Belt,Small,,,5,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Credible Snakeskin Belt,,Belt,Small,,,30,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Special Belt,,Belt,Small,,,5,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Elegant Belt,,Belt,Small,,,10,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Great Belt,,Belt,Small,,,15,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Cool Belt,,Belt,Small,,,20,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+All-around Belt,,Belt,Small,,,25,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Boosted Black Belt,,Black Belt,Small,,,12,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Acute Black Belt,,Black Belt,Small,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Genuine Black Belt,,Black Belt,Small,,,22,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Special Black Belt,,Black Belt,Small,,,27,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Acute Dark Leather Belt,,Dark Leather Belt,Small,,,3,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Genuine Dark Leather Belt,,Dark Leather Belt,Small,,,4,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Special Dark Leather Belt,,Dark Leather Belt,Small,,,5,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Elegant Dark Leather Belt,,Dark Leather Belt,Small,,,6,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Elegant Belt with Golden Buckle,,Belt with Golden Buckle,Small,,,20,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Great Belt with Golden Buckle,,Belt with Golden Buckle,Small,,,22,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Cool Belt with Golden Buckle,,Belt with Golden Buckle,Small,,,24,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Good Belt with Golden Buckle,,Belt with Golden Buckle,Small,,,27,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Fine Belt with Golden Buckle,,Belt with Golden Buckle,Small,,,30,Uncommon,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Cool Belt with Silver Buckle,,Belt with Silver Buckle,Small,,,6,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Good Belt with Silver Buckle,,Belt with Silver Buckle,Small,,,9,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Fine Belt with Silver Buckle,,Belt with Silver Buckle,Small,,,13,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Credible Belt with Silver Buckle,,Belt with Silver Buckle,Small,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Street Wise Belt with Silver Buckle,,Belt with Silver Buckle,Small,,,21,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Worthy Belt with Silver Buckle,,Belt with Silver Buckle,Small,,,28,Uncommon,TRUE,graphics/3d/character/belt/belt_black_03_m.png,graphics/3d/character/belt/belt_black_03_f.png,TRUE
+Cool Vented Leather Belt,,Vented Leather Belt,Small,,,18,Uncommon,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Good Vented Leather Belt,,Vented Leather Belt,Small,,,20,Uncommon,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Fine Vented Leather Belt,,Vented Leather Belt,Small,,,12,Uncommon,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Credible Vented Leather Belt,,Vented Leather Belt,Small,,,14,Uncommon,TRUE,graphics/3d/character/belt/belt_brown_01_m.png,graphics/3d/character/belt/belt_brown_01_f.png,TRUE
+Cool Studded Bold Belt,,Studded Bold Belt,Small,,,26,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_01_m.png,graphics/3d/character/belt/belt_studded_01_f.png,TRUE
+Good Studded Bold Belt,,Studded Bold Belt,Small,,,29,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_01_m.png,graphics/3d/character/belt/belt_studded_01_f.png,TRUE
+Good Studded Belt,,Studded Belt,Small,,,20,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Fine Studded Belt,,Studded Belt,Small,,,22,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Street Wise Design Belt,,Design Belt,Small,,,7,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_03_m.png,graphics/3d/character/belt/belt_studded_03_f.png,TRUE
+Worthy Design Belt,,Design Belt,Small,,,11,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_03_m.png,graphics/3d/character/belt/belt_studded_03_f.png,TRUE
+Boosted Design Belt,,Design Belt,Small,,,14,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_03_m.png,graphics/3d/character/belt/belt_studded_03_f.png,TRUE
+Acute Design Belt,,Design Belt,Small,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_studded_03_m.png,graphics/3d/character/belt/belt_studded_03_f.png,TRUE
+Credible Utility Belt,,Utility Belt,Small,,,15,Uncommon,TRUE,graphics/3d/character/belt/belt_utility_01_m.png,graphics/3d/character/belt/belt_utility_01_f.png,TRUE
+Street Wise Utility Belt,,Utility Belt,Small,,,21,Uncommon,TRUE,graphics/3d/character/belt/belt_utility_01_m.png,graphics/3d/character/belt/belt_utility_01_f.png,TRUE
+Cool Engineer's Belt,,Black Belt,Small,,,30,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Fine Engineer's Belt,,Black Belt,Large,,,30,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Radical Belt,,Belt,Small,of the Hunter,,1,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+First Class Belt,,Belt,Small,of the Beast,,2,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Excellent Black Belt,,Black Belt,Small,of Health,,4,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+High Power Black Belt,,Black Belt,Small,of Brightness,,6,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+First Class Snake Leather Belt,,Snake Leather Belt,Small,of the Troublemaker,,8,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Outstanding Snake Leather Belt,,Snake Leather Belt,Small,of the Assassin,,9,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Superfine Snake Leather Belt,,Snake Leather Belt,Small,of Capacity,,11,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+High Power Dark Leather Belt,,Dark Leather Belt,Small,of Rationality,,12,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+First Class Dark Leather Belt,,Dark Leather Belt,Small,of the Thug,,13,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Excellent Snake Leather Belt,,Snake Leather Belt,Small,of Guts,,14,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+High Power Studded Bold Belt,,Studded Bold Belt,Small,of Awareness,,16,Rare,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Marvelous Snake Leather Belt,,Snake Leather Belt,Small,of Determination,,17,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+High Power Belt with Golden Buckle,,Belt with Golden Buckle,Small,of Intuition,,18,Rare,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+First Class Belt with Golden Buckle,,Belt with Golden Buckle,Small,of the Scientist,,19,Rare,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Jagged Studded Bold Belt,,Studded Bold Belt,Small,of the Thug,,22,Rare,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Outstanding Belt,,Belt,Large,of Guts,,1,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Superfine Belt,,Belt,Large,of Awareness,,2,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Awesome Snake Leather Belt,,Snake Leather Belt,Large,of Determination,,4,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Greater Snake Leather Belt,,Snake Leather Belt,Large,of Intuition,,6,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Singular Snake Leather Belt,,Snake Leather Belt,Large,of the Hunter,,8,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Exquisite Snake Leather Belt,,Snake Leather Belt,Large,of the Beast,,9,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+High Power Snake Leather Belt,,Snake Leather Belt,Large,of Health,,11,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Superior Leather Belt,,Dark Leather Belt,Large,of Brightness,,12,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+First Class Leather Belt,,Dark Leather Belt,Large,of the Troublemaker,,13,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Outstanding Leather Belt,,Dark Leather Belt,Large,of the Assassin,,14,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Radical Studded Bold Belt,,Studded Bold Belt,Large,of Capacity,,16,Rare,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+Jagged Snake Leather Belt,,Snake Leather Belt,Large,of the Hunter,,17,Rare,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Radical Snake Leather Belt,,Snake Leather Belt,Large,of the Troublemaker,,18,Rare,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+Excellent Leather Belt,,Snake Leather Belt,Large,of the Assassin,,19,Rare,TRUE,graphics/3d/character/belt/belt_black_02_m.png,graphics/3d/character/belt/belt_black_02_f.png,TRUE
+First Class Studded Bold Belt,,Studded Bold Belt,Large,of Capacity,,22,Rare,TRUE,graphics/3d/character/belt/belt_studded_02_m.png,graphics/3d/character/belt/belt_studded_02_f.png,TRUE
+NPC Desert Hooligans belt,true,Belt,,,,1,Common,TRUE,graphics/3d/character/belt/desert_hooligan_belt1_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+NPC Mutant belt,true,Belt,,,,1,Common,TRUE,graphics/3d/character/labycorp_textures/mutant_tech_belt1_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Toxic Belt,,Belt,Large,,5,30,Epic,TRUE,graphics/3d/character/belt/belt_champion_01_m.png,graphics/3d/character/belt/belt_champion_01_f.png,TRUE
+Poisonous Belt,,Belt,Small,,5,30,Epic,TRUE,graphics/3d/character/belt/belt_champion_01_m.png,graphics/3d/character/belt/belt_champion_01_f.png,TRUE
+Calavera Belt,,Belt,Large,of the Hunter,,15,Rare,TRUE,graphics/3d/character/belt/belt_champion_01_m.png,graphics/3d/character/belt/belt_champion_01_f.png,TRUE
+Skull Belt,,Belt,Small,of the Beast,,15,Rare,TRUE,graphics/3d/character/belt/belt_champion_01_m.png,graphics/3d/character/belt/belt_champion_01_f.png,TRUE
+Waterlogged Belt,,Black Belt,Large,,,3,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Refugee Belt,,Black Belt,Small,,,3,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Patched Belt,,Black Belt,Small,,,3,Common,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Manly Belt,,Black Belt,Large,,,9,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Sandy Belt,,Black Belt,Small,,,9,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Erosion Belt,,Black Belt,Small,,,9,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Evolved Belt,,Black Belt,Large,,,12,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Craggy Belt,,Black Belt,Small,,,12,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+New Breed Belt,,Black Belt,Small,,,12,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Tank Track Belt,,Black Belt,Large,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Demolished Belt,,Black Belt,Small,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Genetic Belt,,Black Belt,Small,,,17,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Hooligan Belt,,Black Belt,Large,,,24,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Interrogator's Belt,,Black Belt,Small,,,24,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Scooter's Belt,,Black Belt,Small,,,24,Uncommon,TRUE,graphics/3d/character/belt/belt_black_01_m.png,graphics/3d/character/belt/belt_black_01_f.png,
+Shamanistic Sash,,Belt,Small,,2,30,Rare,TRUE,graphics/3d/character/belt/desert_hooligan_belt1_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Shaman's Strap,,Belt,Large,,2,30,Rare,TRUE,graphics/3d/character/belt/desert_hooligan_belt1_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Malfunctioning Sash,,Belt,Small,,2,30,Rare,TRUE,graphics/3d/character/belt/desert_hooligan_belt1_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE
+Malfunctioning Strap,,Belt,Large,,2,30,Rare,TRUE,graphics/3d/character/belt/desert_hooligan_belt1_m.png,graphics/3d/character/belt/belt_black_01_f.png,TRUE

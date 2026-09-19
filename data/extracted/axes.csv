@@ -1,0 +1,57 @@
+Name,WeaponClass,RequiredLevel,Rarity,Tier,DiamondsOnly,ShopRecommend,Enhancement,CriticalChance,LootMinLevel,LootMaxLevel,LootResource,LootExportName,YELLOW_TEXT_TID,Muzzle,MuzzleGlow,BulletTrail,BulletFlash,MeleeTrail,LootDisabled,PostToSocialNetworks
+Normal Cleaver,Cleaver,3,Common,,,,,,,,,,,,,,,,TRUE,
+Basic Cleaver,Cleaver,6,Common,,,,,,,,,,,,,,,,TRUE,
+Universal Cleaver,Cleaver,9,Common,,,,,,,,,,,,,,,,TRUE,
+Average Cleaver,Cleaver,13,Common,,,,,,,,,,,,,,,,TRUE,
+Everyday Cleaver,Cleaver,17,Common,,,,,,,,,,,,,,,,TRUE,
+Regular Cleaver,Cleaver,21,Common,,,,,,,,,,,,,,,,TRUE,
+Popular Cleaver,Cleaver,25,Common,,,,,,,,,,,,,,,,TRUE,
+Common Cleaver,Cleaver,29,Common,,,,,,,,,,,,,,,,TRUE,
+Simple Cleaver,Cleaver,30,Common,,,,,,,,,,,,,,,,TRUE,
+Antiquated Cleaver,Cleaver,1,Poor,,,,,,,,,,,,,,,,TRUE,
+Piece of Crap Cleaver,Cleaver,5,Poor,,,,,,,,,,,,,,,,TRUE,TRUE
+Battered Cleaver,Cleaver,8,Poor,,,,,,,,,,,,,,,,TRUE,
+Cracked Cleaver,Cleaver,12,Poor,,,,,,,,,,,,,,,,TRUE,
+Broken Cleaver,Cleaver,16,Poor,,,,,,,,,,,,,,,,TRUE,
+Corroded Cleaver,Cleaver,20,Poor,,,,,,,,,,,,,,,,TRUE,
+Crude Cleaver,Cleaver,24,Poor,,,,,,,,,,,,,,,,TRUE,
+Old Cleaver,Cleaver,28,Poor,,,,,,,,,,,,,,,,TRUE,
+Respectable Cleaver,Cleaver,11,Rare,,,TRUE,of the Legend,3,,,,,,,,,,,TRUE,TRUE
+Crazy Cleaver,Cleaver,15,Rare,,,,of the Legend,4,,,,,,,,,,,TRUE,TRUE
+Extreme Cleaver,Cleaver,19,Rare,,,TRUE,of the Legend,,,,,,,,,,,,TRUE,TRUE
+Wacky Cleaver,Cleaver,23,Rare,,,,of the Legend,5,,,,,,,,,,,TRUE,TRUE
+High-Power Cleaver,Cleaver,27,Rare,,,,of the Legend,2,,,,,,,,,,,TRUE,TRUE
+Tough Cleaver,Cleaver,30,Rare,4,,,of the Legend,6,,,,,,,,,,,TRUE,TRUE
+High-Power Power Cutter,Power Cutter,5,Rare,,,,of the Painmaker,3,,,,,,,,,,,TRUE,TRUE
+Tough Power Cutter,Power Cutter,10,Rare,,,,of the Painmaker,5,,,,,,,,,,,TRUE,TRUE
+Superior Power Cutter,Power Cutter,15,Rare,,,,of the Painmaker,1,,,,,,,,,,,TRUE,TRUE
+Gruesome Power Cutter,Power Cutter,20,Rare,,,,of the Painmaker,5,,,,,,,,,,,TRUE,TRUE
+Assault Power Cutter,Power Cutter,25,Rare,,,,of the Painmaker,,,,,,,,,,,,TRUE,TRUE
+Jagged Power Cutter,Power Cutter,30,Rare,,,,of the Painmaker,5,,,,,,,,,,,TRUE,TRUE
+Good Cleaver,Cleaver,4,Uncommon,,,,,1,,,,,,,,,,,TRUE,TRUE
+Cool Cleaver,Cleaver,7,Uncommon,,,,,,,,,,,,,,,,TRUE,TRUE
+Fine Cleaver,Cleaver,10,Uncommon,,,,,,,,,,,,,,,,TRUE,TRUE
+Credible Cleaver,Cleaver,14,Uncommon,,,,,2,,,,,,,,,,,TRUE,TRUE
+Street Wise Cleaver,Cleaver,18,Uncommon,,,,,,,,,,,,,,,,TRUE,TRUE
+Worthy Cleaver,Cleaver,22,Uncommon,,,,,1,,,,,,,,,,,TRUE,TRUE
+Nifty Cleaver,Cleaver,26,Uncommon,,,,,,,,,,,,,,,,TRUE,TRUE
+Ideal Cleaver,Cleaver,30,Uncommon,,,,,2,,,,,,,,,,,TRUE,TRUE
+Street Wise Power Cutter,Power Cutter,7,Uncommon,,,,,1,,,,,,,,,,,TRUE,TRUE
+Worthy Power Cutter,Power Cutter,12,Uncommon,,,,,,,,,,,,,,,,TRUE,TRUE
+Nifty Power Cutter,Power Cutter,18,Uncommon,,,,,3,,,,,,,,,,,TRUE,TRUE
+Ideal Power Cutter,Power Cutter,24,Uncommon,,,,,,,,,,,,,,,,TRUE,TRUE
+Elegant Power Cutter,Power Cutter,28,Uncommon,,,,,5,,,,,,,,,,,TRUE,TRUE
+Boosted Power Cutter,Power Cutter,29,Uncommon,,,,,6,,,,,,,,,,,TRUE,TRUE
+Acute Power Cutter,Power Cutter,30,Uncommon,,,,,2,,,,,,,,,,,TRUE,TRUE
+Victorious Axe,Axe,7,Rare,,,,of the Painmaker,10,,,,,,,,,,,TRUE,TRUE
+First-Class Axe,Axe,9,Rare,,,,of the Painmaker,10,,,,,,,,,,,TRUE,TRUE
+Singular Axe,Axe,10,Rare,,,,of the Painmaker,5,,,,,,,,,,,TRUE,TRUE
+Excellent Axe,Axe,12,Rare,,,,of the Painmaker,5,,,,,,,,,,,TRUE,TRUE
+Crazy Axe,Axe,17,Rare,,,,of the Painmaker,5,,,,,,,,,,,TRUE,TRUE
+Radical Axe,Axe,26,Rare,,,TRUE,of the Painmaker,10,,,,,,,,,,,TRUE,TRUE
+Wacky Axe,Axe,30,Rare,,,,of the Predator,5,,,,,,,,,,,TRUE,TRUE
+Extreme Axe,Axe,3,Rare,,,,of the Predator,5,,,,,,,,,,,TRUE,TRUE
+Brutal Axe,Axe,1,Rare,,,TRUE,of the Predator,10,,,,,,,,,,,TRUE,TRUE
+Jagged Axe,Axe,11,Rare,,,,of the Predator,10,,,,,,,,,,,TRUE,TRUE
+Assault Axe,Axe,30,Rare,3,,,of the Predator,20,,,,,,,,,,,TRUE,TRUE
+Champ's Cleaver,Cleaver,12,Uncommon,,,,,,,,,,,,,,,,TRUE,

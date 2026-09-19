@@ -1,0 +1,251 @@
+Name,Text
+TID_LEVEL_0,B2: Idas North East
+TID_LEVEL_1,Tourist Harbor
+TID_LEVEL_2,Old_Central Waterfront (E1)
+TID_LEVEL_3,Old_Hospital (E3)
+TID_LEVEL_4,B1: Idas East
+TID_LEVEL_5,A1: Idas West
+TID_LEVEL_6,A2: Idas North West
+TID_LEVEL_7,Idas Harbor Square
+TID_LEVEL_8,Old_Wares (I4)
+TID_LEVEL_9,Old Town DAPD (B1)
+TID_LEVEL_10,Old_Western Waterfront (D1)
+TID_LEVEL_11,Old Northern Waterfront (F1)
+TID_LEVEL_12,Old Town Wares (B2)
+TID_LEVEL_13,Old Workers Lane Wares A3
+TID_LEVEL_14,Old Loading Docks (B3)
+TID_LEVEL_15,Old Tobacco Wares (C3)
+TID_LEVEL_16,Old Bricks (D3)
+TID_LEVEL_17,Old Central of Lights (F3)
+TID_LEVEL_18,Old Northern Central of Lights (G3)
+TID_LEVEL_19,Old Eastern Docking Coast (H3)
+TID_LEVEL_20,Old Steves Garage Area (A4)
+TID_LEVEL_21,Old Booze Wares (B4)
+TID_LEVEL_22,Old Workers Quarters (C4)
+TID_LEVEL_23,Old Capardis Cargo (D4)
+TID_LEVEL_24,Old Pharmaceutical Wares (E4)
+TID_LEVEL_25,Old F4_Deadly_Warehouse
+TID_LEVEL_26,Casino Royale
+TID_LEVEL_27,Blackbeard's Base
+TID_LEVEL_28,Prison
+TID_LEVEL_29,Wetlands
+TID_LEVEL_30,Achilles
+TID_LEVEL_31,Maze Pit
+TID_LEVEL_32,OLD: Immigration Area
+TID_LEVEL_33,Pipe Square
+TID_LEVEL_34,Drug Field East
+TID_LEVEL_35,The Pit
+TID_LEVEL_36,Drydock
+TID_LEVEL_37,Import Area
+TID_LEVEL_38,Omega Island Harbor
+TID_LEVEL_39,Old_E6
+TID_LEVEL_40,Old F6
+TID_LEVEL_41,Old G6
+TID_LEVEL_42,Old H6
+TID_LEVEL_43,Internment
+TID_LEVEL_44,Magazine
+TID_LEVEL_45,DefaultWaterLevel
+TID_LEVEL_46,Excluded2
+TID_LEVEL_47,Excluded3
+TID_LEVEL_48,Excluded4
+TID_LEVEL_49,Troll's Lair
+TID_LEVEL_50,Excluded6
+TID_LEVEL_51,Shelly Beach
+TID_LEVEL_52,Eureka Research
+TID_LEVEL_53,Dreamlab
+TID_LEVEL_54,Weed Patch
+TID_LEVEL_55,Storehouse
+TID_LEVEL_56,Anchorage
+TID_LEVEL_57,Loading Bay
+TID_LEVEL_58,Container Yard
+TID_LEVEL_59,Car Park
+TID_LEVEL_60,Pirate Bay
+TID_LEVEL_61,Dawnbreak Square
+TID_LEVEL_62,Truck Dock
+TID_LEVEL_63,Messina Desert
+TID_LEVEL_64,Oasis Health Station
+TID_LEVEL_65,Motor Pool
+TID_LEVEL_66,Holiday Resort
+TID_LEVEL_67,Alloy Plaza
+TID_LEVEL_68,Refinery
+TID_LEVEL_69,Lovens Park North
+TID_LEVEL_70,Freedom Island
+TID_LEVEL_71,Seawater Intake
+TID_LEVEL_72,Fresh Water Reservoir
+TID_LEVEL_73,Water Purification Facility
+TID_LEVEL_74,East Canal
+TID_LEVEL_75,Raw Materials
+TID_LEVEL_76,Barracks
+TID_LEVEL_77,Power Plant East
+TID_LEVEL_78,Power Plant South
+TID_LEVEL_79,Power Plant West
+TID_LEVEL_80,Power Plant North
+TID_LEVEL_81,Wells Wharf
+TID_LEVEL_82,Foundry Way
+TID_LEVEL_83,Desert Highway
+TID_LEVEL_84,Paradise Power
+TID_LEVEL_85,Camping Grounds
+TID_LEVEL_86,Muck Beach
+TID_LEVEL_54_INSTANCE_0,Piggy Bob
+TID_LEVEL_87,Berlin Street Hospital
+TID_LEVEL_88,Orleans Street
+TID_LEVEL_89,Amsterdam Street
+TID_LEVEL_90,Copenhagen Street
+TID_LEVEL_91,West Canal
+TID_LEVEL_92,WIP Lava Street
+TID_LEVEL_93,WIP Volcano Square
+TID_LEVEL_94,WIP Lava Beach
+TID_LEVEL_95,New Roma Street
+TID_LEVEL_96,New Naples Street
+TID_LEVEL_97,WIP New Milano Street
+TID_LEVEL_98,New Venice Square
+TID_LEVEL_99,Venice Canal East
+TID_LEVEL_100,WIP Venice Canal West
+TID_LEVEL_101,Venice Bridge Street
+TID_LEVEL_102,Venice Hospital
+TID_LEVEL_103,New Venice Hotel
+TID_LEVEL_104,New Peking Street
+TID_LEVEL_105,WIP New Seoul
+TID_LEVEL_106,New Moscow Street
+TID_LEVEL_107,Market Square New Paris
+TID_LEVEL_108,New London Street
+TID_LEVEL_109,New Dublin Street
+TID_LEVEL_110,Old World Hotel
+TID_LEVEL_111,Freedom Park
+TID_LEVEL_112,South Park Garden
+TID_LEVEL_113,Lovens Park West
+TID_LEVEL_114,Lovens Park South
+TID_LEVEL_115,Mill Park
+TID_LEVEL_115_INSTANCE_0,Demolisherbot
+TID_LEVEL_116,Soggy Bottom
+TID_LEVEL_117,Steel Pier
+TID_LEVEL_118,Processing Plant
+TID_LEVEL_119,B1: Argus East
+TID_LEVEL_120,B2: Argus North East
+TID_LEVEL_121,A1: Argus West
+TID_LEVEL_122,A2: Argus North West
+TID_LEVEL_123,Argus Harbor Square
+TID_LEVEL_124,B1: Actor East
+TID_LEVEL_125,B2: Actor North East
+TID_LEVEL_126,A1: Actor West
+TID_LEVEL_127,A2: Actor North West
+TID_LEVEL_128,Actor Harbor Square
+TID_LEVEL_129,B1: Castor East
+TID_LEVEL_130,B2: Castor North East
+TID_LEVEL_131,A1: Castor West
+TID_LEVEL_132,A2: Castor North West
+TID_LEVEL_133,Castor Harbor Square
+TID_LEVEL_134,B1: Medea East
+TID_LEVEL_135,B2: Medea North East
+TID_LEVEL_136,A1: Medea West
+TID_LEVEL_137,A2: Medea North West
+TID_LEVEL_138,Medea Harbor Square
+TID_LEVEL_139,B1: Heracles East
+TID_LEVEL_140,B2: Heracles North East
+TID_LEVEL_141,A1: Heracles West
+TID_LEVEL_142,A2: Heracles North West
+TID_LEVEL_143,Heracles Harbor Square
+TID_LEVEL_144,B1: Theseus East
+TID_LEVEL_145,B2: Theseus North East
+TID_LEVEL_146,A1: Theseus West
+TID_LEVEL_147,A2: Theseus North West
+TID_LEVEL_148,Theseus Harbor Square
+TID_LEVEL_149,B1: Oileus East
+TID_LEVEL_150,B2: Oileus North East
+TID_LEVEL_151,A1: Oileus West
+TID_LEVEL_152,A2: Oileus North West
+TID_LEVEL_153,Oileus Harbor Square
+TID_LEVEL_154,B1: Zetes East
+TID_LEVEL_155,B2: Zetes North East
+TID_LEVEL_156,A1: Zetes West
+TID_LEVEL_157,A2: Zetes North West
+TID_LEVEL_158,Zetes Harbor Square
+TID_LEVEL_159,B1: Idmon East
+TID_LEVEL_160,B2: Idmon North East
+TID_LEVEL_161,A1: Idmon West
+TID_LEVEL_162,A2: Idmon North West
+TID_LEVEL_163,Idmon Harbor Square
+TID_LEVEL_164,B1: Leitus East
+TID_LEVEL_165,B2: Leitus North East
+TID_LEVEL_166,A1: Leitus West
+TID_LEVEL_167,A2: Leitus North West
+TID_LEVEL_168,Leitus Harbor Square
+TID_LEVEL_169,B1: Phlias East
+TID_LEVEL_170,B2: Phlias South East
+TID_LEVEL_171,A1: Philas South West
+TID_LEVEL_172,A2: Phlias West
+TID_LEVEL_173,Phlias Harbor Square
+TID_LEVEL_74_INSTANCE_0,Akirun (Easy)
+TID_LEVEL_61_INSTANCE_0,SENTINEL (Easy)
+TID_LEVEL_27_INSTANCE_0,Blackbeard
+TID_LEVEL_34_INSTANCE_0,Drug Field East
+TID_LEVEL_26_INSTANCE_0,Pimp Mother
+TID_LEVEL_174,Desert Storm
+TID_LEVEL_175,Steel Heliport
+TID_LEVEL_175_INSTANCE_0,ED-187
+TID_LEVEL_176,Ratched Lane
+TID_LEVEL_177,Bromden Park
+TID_LEVEL_178,McMurphy Asylum
+TID_LEVEL_106_INSTANCE_0,Sun Spider
+TID_LEVEL_179,AudioAndBossTestLevel
+TID_LEVEL_180,Pulpy Way
+TID_LEVEL_181,Harbor Bridge
+TID_LEVEL_182,Paradise Bridge
+TID_LEVEL_183,Freedom Woods
+TID_LEVEL_184,Evolution Gate
+TID_LEVEL_185,Toxic Wasteland
+TID_LEVEL_186,Steel Island Bridge
+TID_LEVEL_187,Ruins
+TID_LEVEL_188,Rio Desert
+TID_LEVEL_189,Lemon Desert
+TID_LEVEL_190,New World Bridge
+TID_LEVEL_191,Supply Depot
+TID_LEVEL_192,Power Drive
+TID_LEVEL_193,Immigration
+TID_LEVEL_79_INSTANCE_0,Power Plant (Key - Medium)
+TID_LEVEL_113_INSTANCE_0,Red Hot (Easy)
+TID_LEVEL_174_INSTANCE_0,The Slavemaster (Key - Hard)
+TID_LEVEL_185_INSTANCE_0,Calavera Ant
+TID_LEVEL_194,Pearl Beach
+TID_LEVEL_195,Palm Beach
+TID_LEVEL_196,Pearl Station
+TID_LEVEL_197,Refugee Camp
+TID_LEVEL_198,Test: Labycore RD
+TID_LEVEL_196_INSTANCE_0,The Tankinator
+TID_LEVEL_96_INSTANCE_0,Dr. Bauhoff (Key - Medium)
+TID_LEVEL_199,Needlewood
+TID_LEVEL_82_INSTANCE_0,Gentec Lab
+TID_LEVEL_192_INSTANCE_0,Devourer Dragon (Key - Hard)
+TID_LEVEL_104_INSTANCE_0,Riot Town (Key - Hard)
+TID_LEVEL_189_INSTANCE_0,Raider Valley (Key - Hard)
+TID_LEVEL_99_INSTANCE_0,QoD (Key - Hard)
+TID_LEVEL_69_INSTANCE_0,Killmaster
+TID_LEVEL_88_INSTANCE_0,Yellow Spider
+TID_LEVEL_49_INSTANCE_0,Troll's Lair
+TID_LEVEL_37_INSTANCE_0,Don Wang
+TID_LEVEL_200,Deeper Caves
+TID_LEVEL_98_INSTANCE_0,7 Deadly Sins (Key - Hard)
+TID_LEVEL_201,The Colosseum
+TID_LEVEL_202,Dark Forest
+TID_LEVEL_203,The Road
+TID_LEVEL_204,Highway Bridge
+TID_LEVEL_205,L.A.R.P.U.
+TID_LEVEL_205_INSTANCE_0,L.A.R.P.U. (HARD - Beta Key)
+TID_LEVEL_206,bouncers paradise
+TID_LEVEL_207,Northern Harbor
+TID_LEVEL_208,Lovens Road
+TID_LEVEL_209,Dawnbreak Avenue
+TID_LEVEL_203_INSTANCE_0,Secret Cave (HARD - Beta Key)
+TID_LEVEL_210,Deserted Village
+TID_LEVEL_210_INSTANCE_0,Raider Village (Key - Medium)
+TID_LEVEL_211,Hotel de Sol
+TID_LEVEL_103_INSTANCE_0,Ship de Palma (Easy)
+TID_LEVEL_212,Subway station
+TID_LEVEL_212_INSTANCE_0,Mutated Zombie
+TID_LEVEL_28_INSTANCE_0,Prison (Hard)
+TID_LEVEL_213,Forest Highway
+TID_LEVEL_214,Omega Avenue
+TID_LEVEL_214_INSTANCE_0,Headless Zombie (Beta Key)
+TID_LEVEL_38_INSTANCE_0,Omega Harbor (HARD - Beta Key)
+TID_LEVEL_29_INSTANCE_0,Wetlands (HARD - Beta Key)
+TID_LEVEL_90_INSTANCE_0,Maniac Mansion (HARD)

@@ -1,0 +1,48 @@
+Name,Text
+TID_MISSION_3_1_TASK_0,Talk to Worden on Argus isle
+TID_MISSION_3_2_TASK_0,Talk to Wladislaw on Actor isle
+TID_MISSION_3_3_TASK_0,Talk to Franko on Castor isle
+TID_MISSION_3_4_TASK_0,Talk to Jefferson on Medea isle
+TID_MISSION_3_5_TASK_0,Talk to Browen on Heracles isle
+TID_MISSION_3_6_TASK_0,Talk to Armbruster on Theseus isle
+TID_MISSION_3_7_TASK_0,Talk to Jiminez on Oileus isle
+TID_MISSION_3_8_TASK_0,Talk to Kinder on Zetes isle
+TID_MISSION_3_9_TASK_0,Talk to Dasher on Idmon isle
+TID_MISSION_3_10_TASK_0,Talk to Maggott on Leitus isle
+TID_MISSION_3_11_TASK_0,Talk to Pinkley on Phlias isle
+TID_MISSION_3_0,Travel To Idas
+TID_MISSION_3_1,Travel To Argus
+TID_MISSION_3_2,Travel To Actor
+TID_MISSION_3_3,Travel To Castor
+TID_MISSION_3_4,Travel To Medea
+TID_MISSION_3_5,Travel To Heracles
+TID_MISSION_3_6,Travel To Theseus
+TID_MISSION_3_7,Travel To Oileus
+TID_MISSION_3_8,Travel To Zetes
+TID_MISSION_3_9,Travel To Idmon
+TID_MISSION_3_10,Travel To Leitus
+TID_MISSION_3_11,Travel To Phlias
+TID_MISSION_3_0_OBJECTIVE,Travel to Idas isle to help the Resistance to battle Labycore.
+TID_MISSION_3_0_RECEIVING_MESSAGE,"Welcome to Idas, soldier."
+TID_MISSION_3_1_OBJECTIVE,Travel to Argus isle to help the Resistance to battle Labycore.
+TID_MISSION_3_1_RECEIVING_MESSAGE,New meat to the grinder! Excellent!
+TID_MISSION_3_2_OBJECTIVE,Travel to Actor isle to help the Resistance to battle Labycore.
+TID_MISSION_3_2_RECEIVING_MESSAGE,"Right. Let's get down to business, shall we?"
+TID_MISSION_3_3_OBJECTIVE,Travel to Castor isle to help the Resistance to battle Labycore.
+TID_MISSION_3_3_RECEIVING_MESSAGE,I hope you brought your own ammo and band aids?
+TID_MISSION_3_4_OBJECTIVE,Travel to Medea isle to help the Resistance to battle Labycore.
+TID_MISSION_3_4_RECEIVING_MESSAGE,"Be prepared for some heavy fightin', kid."
+TID_MISSION_3_5_OBJECTIVE,Travel to Heracles isle to help the Resistance to battle Labycore.
+TID_MISSION_3_5_RECEIVING_MESSAGE,"Aight. Get some kip an' food, an' I'll prepare your mission in the meantime."
+TID_MISSION_3_6_OBJECTIVE,Travel to Theseus isle to help the Resistance to battle Labycore.
+TID_MISSION_3_6_RECEIVING_MESSAGE,"Shake, rattle and hum!"
+TID_MISSION_3_7_OBJECTIVE,Travel to Oileus isle to help the Resistance to battle Labycore.
+TID_MISSION_3_7_RECEIVING_MESSAGE,Well now. Looks like our prayers have been met. Welcome to Hell.
+TID_MISSION_3_8_OBJECTIVE,Travel to Zetes isle to help the Resistance to battle Labycore.
+TID_MISSION_3_8_RECEIVING_MESSAGE,I hope you aren't in the habit of holding back when the enemy comes charging at you.
+TID_MISSION_3_9_OBJECTIVE,Travel to Idmon isle to help the Resistance to battle Labycore.
+TID_MISSION_3_9_RECEIVING_MESSAGE,Let's get to work!\nHooyah!
+TID_MISSION_3_10_OBJECTIVE,Travel to Leitus isle to help the Resistance to battle Labycore.
+TID_MISSION_3_10_RECEIVING_MESSAGE,"Say, you wouldn't happen to have a few extra cigs, do you?"
+TID_MISSION_3_11_OBJECTIVE,Travel to Phlias isle to help the Resistance to battle Labycore.
+TID_MISSION_3_11_RECEIVING_MESSAGE,Huh. Is that the best Vladek could do? Hrm. All right. Let me know when you're ready to do the work of real men.

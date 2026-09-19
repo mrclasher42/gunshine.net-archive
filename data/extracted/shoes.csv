@@ -1,0 +1,176 @@
+Name,NPCItem,EquipmentClass,ClothClass,RequiredLevel,Rarity,Tier,Enhancement,Texture,FemaleTexture,LootDisabled,PostToSocialNetworks
+NPC Male Hooligans Shoes 01,true,Boots,,1,Common,,,graphics/3d/character/shoes/npc_hooligans_boots_01.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male Hooligans Shoes 02,true,Shoes,,1,Common,,,graphics/3d/character/shoes/npc_hooligans_sneakers_01.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male Mad Dogs Shoes 01,true,Boots,,1,Common,,,graphics/3d/character/shoes/npc_mad_dogs_boots_01.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male Mad Dogs Shoes 02,true,Shoes,,1,Common,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male 13 Diablos Shoes 01,true,Shoes,,1,Common,,,graphics/3d/character/shoes/sneakers_03_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male 13 Diablos Shoes 02,true,Shoes,,1,Common,,,graphics/3d/character/shoes/sneakers_02_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male Hired Guns Shoes 01,true,Shoes,,1,Common,,,graphics/3d/character/shoes/npc_hooligans_boots_01.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male Hired Guns Shoes 02,true,Shoes,,1,Common,,,graphics/3d/character/shoes/shoes_outfit_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male Voodoo Shoes 01,true,Shoes,,1,Common,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Male Voodoo Shoes 02,true,Shoes,,1,Common,,,graphics/3d/character/shoes/shoes_black_03_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Female Valkyries Shoes 01,true,Shoes,,1,Common,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/npc_valkyries_boots_01.png,TRUE,
+NPC Female Valkyries Shoes 02,true,Shoes,,1,Common,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/npc_valkyries_boots_02.png,TRUE,
+NPC Female Eastern Queens Shoes 01,true,Shoes,,1,Common,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/npc_eastern_queens_shoes_01.png,TRUE,
+NPC Female Eastern Queens Shoes 02,true,Shoes,,1,Common,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/npc_eastern_queens_sockshoes_01.png,TRUE,
+Standard Boots,,Boots,Large,1,Common,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+Universal Boots,,Boots,Large,5,Common,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+Average Boots,,Boots,Large,7,Common,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+Basic Boots,,Boots,Large,24,Common,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_02_f.png,TRUE,
+Everyday Black Shoes,,Black Shoes,Large,4,Common,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Regular Black Shoes,,Black Shoes,Large,6,Common,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Popular Black Shoes,,Black Shoes,Large,11,Common,,,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Common Black Shoes,,Black Shoes,Large,13,Common,,,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Simple Black Shoes,,Black Shoes,Large,18,Common,,,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Typical Black Shoes,,Black Shoes,Large,19,Common,,,graphics/3d/character/shoes/shoes_black_03_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Usual Black Shoes,,Black Shoes,Large,20,Common,,,graphics/3d/character/shoes/shoes_black_03_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Popular Sneakers,,Sneakers,Large,13,Common,,,graphics/3d/character/shoes/sneakers_01_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,
+Common Sneakers,,Sneakers,Large,18,Common,,,graphics/3d/character/shoes/sneakers_02_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,
+Simple Sneakers,,Sneakers,Large,21,Common,,,graphics/3d/character/shoes/sneakers_04_m.png,graphics/3d/character/shoes/sneakers_04_f.png,TRUE,
+Typical Sneakers,,Sneakers,Large,23,Common,,,graphics/3d/character/shoes/sneakers_04_m.png,graphics/3d/character/shoes/sneakers_04_f.png,TRUE,
+Usual Sneakers,,Sneakers,Large,25,Common,,,graphics/3d/character/shoes/sneakers_04_m.png,graphics/3d/character/shoes/sneakers_04_f.png,TRUE,
+Standard Dark Sneakers,,Dark Sneakers,Large,18,Common,,,graphics/3d/character/shoes/sneakers_06_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,
+Everyday Boots,,Boots,Small,1,Common,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+Regular Boots,,Boots,Small,5,Common,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+Popular Boots,,Boots,Small,7,Common,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+Common Boots,,Boots,Small,24,Common,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_02_f.png,TRUE,
+Plain Black Shoes,,Black Shoes,Small,4,Common,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Standard Black Shoes,,Black Shoes,Small,6,Common,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Universal Black Shoes,,Black Shoes,Small,11,Common,,,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Average Black Shoes,,Black Shoes,Small,13,Common,,,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Basic Black Shoes,,Black Shoes,Small,18,Common,,,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Plain Sneakers,,Sneakers,Small,13,Common,,,graphics/3d/character/shoes/sneakers_01_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,
+Standard Sneakers,,Sneakers,Small,18,Common,,,graphics/3d/character/shoes/sneakers_02_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,
+Universal Sneakers,,Sneakers,Small,21,Common,,,graphics/3d/character/shoes/sneakers_04_m.png,graphics/3d/character/shoes/sneakers_04_f.png,TRUE,
+Average Sneakers,,Sneakers,Small,23,Common,,,graphics/3d/character/shoes/sneakers_04_m.png,graphics/3d/character/shoes/sneakers_04_f.png,TRUE,
+Basic Sneakers,,Sneakers,Small,25,Common,,,graphics/3d/character/shoes/sneakers_04_m.png,graphics/3d/character/shoes/sneakers_04_f.png,TRUE,
+Everyday Sneakers,,Sneakers,Small,24,Common,,,graphics/3d/character/shoes/sneakers_05_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,
+NPC Poor Shoes,true,Shoes,,3,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Dirty Shoes,,Shoes,Large,3,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Shitty Shoes,,Shoes,Large,6,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Battered Shoes,,Shoes,Large,9,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Cracked Shoes,,Shoes,Large,12,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Broken Shoes,,Shoes,Large,15,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Cracked Open Shoes,,Open Shoes,Large,18,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Broken Open Shoes,,Open Shoes,Large,21,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Ragged Open Shoes,,Open Shoes,Large,24,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Worn Open Shoes,,Open Shoes,Large,27,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Old Open Shoes,,Open Shoes,Large,30,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Dirty Black Shoes,,Black Shoes,Small,20,Poor,,,graphics/3d/character/shoes/shoes_black_03_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Ragged Shoes,,Shoes,Small,3,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Worn Shoes,,Shoes,Small,6,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Old Shoes,,Shoes,Small,9,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Lame Shoes,,Shoes,Small,12,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Warped Shoes,,Shoes,Small,15,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Lame Open Shoes,,Open Shoes,Small,18,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Warped Open Shoes,,Open Shoes,Small,21,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Lousy Open Shoes,,Open Shoes,Small,24,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Worthless Open Shoes,,Open Shoes,Small,27,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Poor Open Shoes,,Open Shoes,Small,30,Poor,,,graphics/3d/character/shoes/shoes_crappy_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Battered Sneakers,,Sneakers,Small,22,Poor,,,graphics/3d/character/shoes/sneakers_05_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,
+Dawnbreak Sneakers,,Sneakers,Large,,Poor,,,graphics/3d/character/shoes/start_shoest_male.png,graphics/3d/character/shoes/start_shoest_female.png,TRUE,
+Dawnbreak Shoes,,Sneakers,Small,,Poor,,,graphics/3d/character/shoes/start_shoest_male.png,graphics/3d/character/shoes/start_shoest_female.png,TRUE,
+Superfine Brown Shoes,,Brown Shoes,Large,19,Rare,,of the Judgment,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Jagged White Sneakers,,White Sneakers,Large,28,Rare,,of the Destroyer,graphics/3d/character/shoes/sneakers_03_m.png,graphics/3d/character/shoes/sneakers_03_f.png,TRUE,TRUE
+Radical White Sneakers,,White Sneakers,Large,29,Rare,,of the Painmaker,graphics/3d/character/shoes/sneakers_03_m.png,graphics/3d/character/shoes/sneakers_03_f.png,TRUE,TRUE
+First-Class White Sneakers,,White Sneakers,Large,30,Rare,,of the Predator,graphics/3d/character/shoes/sneakers_03_m.png,graphics/3d/character/shoes/sneakers_03_f.png,TRUE,TRUE
+Excellent Brown Shoes,,Brown Shoes,Small,19,Rare,,of the Legend,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Outstanding White Sneakers,,White Sneakers,Small,28,Rare,,of the Ambusher,graphics/3d/character/shoes/sneakers_03_m.png,graphics/3d/character/shoes/sneakers_03_f.png,TRUE,TRUE
+Superfine White Sneakers,,White Sneakers,Small,29,Rare,,of the Crymaker,graphics/3d/character/shoes/sneakers_03_m.png,graphics/3d/character/shoes/sneakers_03_f.png,TRUE,TRUE
+Excellent White Sneakers,,White Sneakers,Small,30,Rare,,of 6th Sense,graphics/3d/character/shoes/sneakers_03_m.png,graphics/3d/character/shoes/sneakers_03_f.png,TRUE,TRUE
+Worthy Boots,,Boots,Large,28,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_02_f.png,TRUE,TRUE
+Boosted Boots,,Boots,Large,30,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_02_f.png,TRUE,TRUE
+Worthy Black Boots,,Black Boots,Large,20,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Boosted Black Boots,,Black Boots,Large,23,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Acute Black Boots,,Black Boots,Large,25,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Great Black Shoes,,Black Shoes,Large,9,Uncommon,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Cool Black Shoes,,Black Shoes,Large,14,Uncommon,,,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Good Black Shoes,,Black Shoes,Large,25,Uncommon,,,graphics/3d/character/shoes/shoes_black_03_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Cool Brown Shoes,,Brown Shoes,Large,15,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Good Brown Shoes,,Brown Shoes,Large,16,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Good Sneakers,,Sneakers,Large,12,Uncommon,,,graphics/3d/character/shoes/sneakers_01_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,TRUE
+Fine Sneakers,,Sneakers,Large,15,Uncommon,,,graphics/3d/character/shoes/sneakers_01_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,TRUE
+Credible Sneakers,,Sneakers,Large,16,Uncommon,,,graphics/3d/character/shoes/sneakers_02_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,TRUE
+Street Wise Sneakers,,Sneakers,Large,19,Uncommon,,,graphics/3d/character/shoes/sneakers_02_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,TRUE
+Worthy Sneakers,,Sneakers,Large,20,Uncommon,,,graphics/3d/character/shoes/sneakers_05_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Boosted Sneakers,,Sneakers,Large,22,Uncommon,,,graphics/3d/character/shoes/sneakers_05_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Acute Sneakers,,Sneakers,Large,24,Uncommon,,,graphics/3d/character/shoes/sneakers_05_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Acute Dark Sneakers,,Dark Sneakers,Large,14,Uncommon,,,graphics/3d/character/shoes/sneakers_06_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Genuine Dark Sneakers,,Dark Sneakers,Large,17,Uncommon,,,graphics/3d/character/shoes/sneakers_06_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Acute Boots,,Boots,Small,28,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_02_f.png,TRUE,TRUE
+Genuine Boots,,Boots,Small,30,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_02_f.png,TRUE,TRUE
+Street Wise Black Boots,,Black Boots,Small,20,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Genuine Black Boots,,Black Boots,Small,23,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Special Black Boots,,Black Boots,Small,25,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Fine Black Shoes,,Black Shoes,Small,9,Uncommon,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Credible Black Shoes,,Black Shoes,Small,14,Uncommon,,,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Street Wise Black Shoes,,Black Shoes,Small,19,Uncommon,,,graphics/3d/character/shoes/shoes_black_03_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Worthy Black Shoes,,Black Shoes,Small,25,Uncommon,,,graphics/3d/character/shoes/shoes_black_03_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Fine Brown Shoes,,Brown Shoes,Small,15,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Credible Brown Shoes,,Brown Shoes,Small,16,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Genuine Sneakers,,Sneakers,Small,12,Uncommon,,,graphics/3d/character/shoes/sneakers_01_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,TRUE
+Special Sneakers,,Sneakers,Small,15,Uncommon,,,graphics/3d/character/shoes/sneakers_01_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,TRUE
+Elegant Sneakers,,Sneakers,Small,16,Uncommon,,,graphics/3d/character/shoes/sneakers_02_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,TRUE
+Great Sneakers,,Sneakers,Small,19,Uncommon,,,graphics/3d/character/shoes/sneakers_02_m.png,graphics/3d/character/shoes/sneakers_02_f.png,TRUE,TRUE
+Cool Sneakers,,Sneakers,Small,20,Uncommon,,,graphics/3d/character/shoes/sneakers_05_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Special Dark Sneakers,,Dark Sneakers,Small,14,Uncommon,,,graphics/3d/character/shoes/sneakers_06_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Elegant Dark Sneakers,,Dark Sneakers,Small,17,Uncommon,,,graphics/3d/character/shoes/sneakers_06_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Great Dark Sneakers,,Dark Sneakers,Small,19,Uncommon,,,graphics/3d/character/shoes/sneakers_06_m.png,graphics/3d/character/shoes/sneakers_06_f.png,TRUE,TRUE
+Special Madman's Shoes,,Brown Shoes,Small,11,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Great Madman's Shoes,,Brown Shoes,Large,11,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Credible Killmaster's Shoes,,Black Shoes,Small,25,Uncommon,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Fine Killmaster's Shoes,,Black Shoes,Large,25,Uncommon,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+NPC MALE Prison Warder Shoes,true,Boots,Large,1,Uncommon,,,graphics/3d/character/labycorp_textures/npc_security_guard_boots.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+Boots of Normal,,Shoes,Large,1,Poor,,,graphics/3d/character/shoes/bodyguard_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Diagnostic's Clogs of Mundane,,Shoes,Small,1,Poor,,,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Fluffy Shoes of Ordinary,,Shoes,Small,1,Poor,,,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/hunter_shoes_f.png,TRUE,
+Greater Boots,,Shoes,Large,3,Rare,,of the Judgment,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Awesome Boots,,Shoes,Large,10,Rare,,of the Judgment,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Marvelous Boots,,Shoes,Large,17,Rare,,of the Judgment,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Mighty Boots,,Shoes,Large,21,Rare,,of the Judgment,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Righteuous Boots,,Shoes,Large,30,Rare,3,of the Judgment,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Singular Boots,,Shoes,Small,3,Rare,,of the Ambusher,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Exquisite Boots,,Shoes,Small,10,Rare,,of the Ambusher,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Wacky Boots,,Shoes,Small,17,Rare,,of the Ambusher,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Extreme Boots,,Shoes,Small,21,Rare,,of the Ambusher,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Superior Boots,,Shoes,Small,30,Rare,4,of the Ambusher,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Singular Shoes,,Sneakers,Small,7,Rare,,of 6th Sense,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Exquisite Shoes,,Sneakers,Small,13,Rare,,of 6th Sense,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Wacky Shoes,,Sneakers,Small,19,Rare,,of 6th Sense,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Extreme Shoes,,Sneakers,Small,24,Rare,,of 6th Sense,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Superior Shoes,,Sneakers,Small,28,Rare,4,of 6th Sense,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Singular Sneakers,,Sneakers,Large,7,Rare,,of the Painmaker,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Exquisite Sneakers,,Sneakers,Large,13,Rare,,of the Painmaker,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Wacky Sneakers,,Sneakers,Large,19,Rare,,of the Painmaker,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Extreme Sneakers,,Sneakers,Large,24,Rare,,of the Painmaker,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Superior Sneakers,,Sneakers,Large,28,Rare,3,of the Painmaker,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+NPC Mutant Shoes,true,Boots,Large,1,Uncommon,,,graphics/3d/character/labycorp_textures/mutant_shoes_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+NPC Mutant Shoes 2,true,Boots,Large,1,Uncommon,,,graphics/3d/character/labycorp_textures/mutant_shoes2_m.png,graphics/3d/character/shoes/boots_black_01_f.png,TRUE,
+Hermit Shoes,,Shoes,Large,15,Rare,,,graphics/3d/character/shoes/bodyguard_shoes_m.png,graphics/3d/character/shoes/bodyguard_shoes_f.png,TRUE,
+Hermit Boots,,Shoes,Small,15,Rare,,,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/hunter_shoes_f.png,TRUE,
+Surgeon's Shoes,,Black Shoes,Small,30,Epic,,of the Crymaker,graphics/3d/character/shoes/shoes_black_02_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,TRUE
+Manhunter's Boots,,Black Boots,Small,30,Epic,,of the Ambusher,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Bodybreaker's Boots,,Black Boots,Large,30,Epic,,of the Judgment,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Waterlogged Shoes,,Black Shoes,Large,4,Common,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Refugee's Shoes,,Black Shoes,Small,4,Common,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Rebellious Shoes,,Black Shoes,Small,4,Common,,,graphics/3d/character/shoes/shoes_black_01_m.png,graphics/3d/character/shoes/shoes_black_03_f.png,TRUE,
+Drug-Stained Shoes,,Sneakers,Large,10,Uncommon,,,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Psychedelic Shoes,,Sneakers,Small,10,Uncommon,,,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Stoned Shoes,,Sneakers,Small,10,Uncommon,,,graphics/3d/character/shoes/doctor_shoes_m.png,graphics/3d/character/shoes/doctor_shoes_f.png,TRUE,
+Hydrated Shoes,,Brown Shoes,Large,13,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Eroded Shoes,,Brown Shoes,Small,13,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Sandy Shoes,,Brown Shoes,Small,13,Uncommon,,,graphics/3d/character/shoes/shoes_brown_01_m.png,graphics/3d/character/shoes/shoes_brown_01_f.png,TRUE,TRUE
+Engineer's Boots,,Black Boots,Large,16,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Hacker's Boots,,Black Boots,Small,16,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Viral Boots,,Black Boots,Small,16,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Slayer's Boots,,Black Boots,Large,24,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Killer's Boots,,Black Boots,Small,24,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Murderer's Boots,,Black Boots,Small,24,Uncommon,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Chieftain's Boots,,Black Boots,Small,30,Epic,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Skullstomper Boots,,Black Boots,Large,30,Epic,,,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Function Boots,,Black Boots,Small,30,Epic,,of the Scientist,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Algorithm Boots,,Black Boots,Large,30,Epic,,of the Predator,graphics/3d/character/shoes/boots_black_01_m.png,graphics/3d/character/shoes/boots_black_03_f.png,TRUE,TRUE
+Stalker Sneakers,,Black Boots,Small,26,Rare,,,graphics/3d/character/shoes/hunter_shoes_m.png,graphics/3d/character/shoes/hunter_shoes_f.png,TRUE,
+Predator Moccasins,,Black Boots,Small,30,Epic,,,graphics/3d/character/shoes/hunter_set_m30_shoes.png,graphics/3d/character/shoes/hunter_set_m30_shoes.png,TRUE,
+Pandemic Shoes,,Black Boots,Small,30,Epic,,,graphics/3d/character/shoes/doctor_set_m30_shoes.png,graphics/3d/character/shoes/doctor_set_m30_shoes.png,TRUE,
+Bouncer Boots,,Black Boots,Large,30,Epic,,,graphics/3d/character/shoes/tank_set_m30_shoes.png,graphics/3d/character/shoes/tank_set_m30_shoes.png,TRUE,

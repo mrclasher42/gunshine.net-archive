@@ -1,0 +1,55 @@
+Name,MainIsland,MinExpLevel,MaxExpLevel,MapX,MapY,Set1,Set2,Set3,Set4,Set5,Set6,Set7,Set8,Set9,Set10
+Dawnbreak City,TRUE,1,30,,,,,,,,,,,,
+Island Idas,,10,12,6,-1,Stoned Hooligan,Mad Dog Runner,Mad Dog Brawler,Stoned Hooligan,Mad Dog Runner,Stoned Hooligan,Stoned Hooligan,Scarred Hooligan,Triggerhappy Hooligan,Stoned Hooligan
+,,,,,,Aggressive Hooligan,Mad Dog Gunner,Mad Dog Gunner,Haywire Hooligan,Mad Dog Gunner,Triggerhappy Hooligan,Triggerhappy Hooligan,Aggressive Hooligan,Aggressive Hooligan,Haywire Hooligan
+,,,,,,Triggerhappy Hooligan,Mad Dog Fighter,Mad Dog Fighter,Triggerhappy Hooligan,Mad Dog Fighter,Scarred Hooligan,Aggressive Hooligan,Triggerhappy Hooligan,Stoned Hooligan,Triggerhappy Hooligan
+,,,,,,Triggerhappy Hooligan,Mad Dog Fighter,Mad Dog Fighter,Triggerhappy Hooligan,Mad Dog Gunner,Triggerhappy Hooligan,Triggerhappy Hooligan,Aggressive Hooligan,Aggressive Hooligan,Haywire Hooligan
+Island Argus,,30,30,10,3,Mad Dog Gunner,Mad Dog Gunner,Hired Guns Grenadier,Stoned Hooligan,Mad Dog Gunner,Hired Guns Shooter,Mad Dog Brawler,Hired Guns Rocketeer,Mad Dog Gunner,Stoned Hooligan
+,,,,,,Mad Dog Brawler,Mad Dog Fighter,Hired Guns Rocketeer,Mad Dog Brawler,Mad Dog Runner,Hired Guns Shooter,Mad Dog Brawler,Hired Guns Shooter,Mad Dog Brawler,Aggressive Hooligan
+,,,,,,Mad Dog Brawler,Mad Dog Gunner,Hired Guns Shooter,Mad Dog Gunner,Mad Dog Gunner,Hired Guns Grenadier,Mad Dog Gunner,Hired Guns Grenadier,Mad Dog Fighter,Triggerhappy Hooligan
+,,,,,,Mad Dog Brawler,Mad Dog Gunner,Hired Guns Shooter,Mad Dog Gunner,Mad Dog Gunner,Hired Guns Grenadier,Mad Dog Gunner,Hired Guns Grenadier,Mad Dog Fighter,Triggerhappy Hooligan
+Island Actor,,12,13,13,7,Hired Guns Grenadier,Security Trooper,Hired Guns Rocketeer,Security Trooper,Hired Guns Grenadier,Security Officer,Hired Guns Grenadier,Security Trooper,Hired Guns Shooter,Security Officer
+,,,,,,Hired Guns Rocketeer,Security Officer,Hired Guns Grenadier,Security Officer,Hired Guns Grenadier,Security Trooper,Hired Guns Rocketeer,Security Officer,Hired Guns Grenadier,Security Trooper
+,,,,,,Hired Guns Shooter,Security Trooper,Hired Guns Shooter,Security Officer,Hired Guns Shooter,Security Trooper,Hired Guns Shooter,Security Trooper,Hired Guns Rocketeer,Security Officer
+,,,,,,Hired Guns Shooter,Security Trooper,Hired Guns Rocketeer,Security Officer,Hired Guns Grenadier,Security Officer,Hired Guns Grenadier,Security Trooper,Hired Guns Shooter,Security Officer
+Island Castor,,14,15,16,11,Security Trooper,Stoned Hooligan,Stoned Hooligan,Security Trooper,Stoned Hooligan,Security Officer,Stoned Hooligan,Security Trooper,Stoned Hooligan,Triggerhappy Hooligan
+,,,,,,Security Officer,Haywire Hooligan,Triggerhappy Hooligan,Security Officer,Triggerhappy Hooligan,Security Officer,Aggressive Hooligan,Security Officer,Aggressive Hooligan,Aggressive Hooligan
+,,,,,,Security Officer,Scarred Hooligan,Scarred Hooligan,Security Trooper,Stoned Hooligan,Security Trooper,Triggerhappy Hooligan,Security Trooper,Triggerhappy Hooligan,Stoned Hooligan
+,,,,,,Scarred Hooligan,Security Trooper,Stoned Hooligan,Security Trooper,Triggerhappy Hooligan,Security Trooper,Triggerhappy Hooligan,Security Officer,Triggerhappy Hooligan,Stoned Hooligan
+Island Medea,,16,17,19,19,Club Flesh Assassin,Stoned Hooligan,Club Flesh Assassin,Stoned Hooligan,Club Flesh Assassin,Stoned Hooligan,Club Flesh Assassin,Stoned Hooligan,Club Flesh Assassin,Stoned Hooligan
+,,,,,,Club Flesh Skinner,Haywire Hooligan,Club Flesh Skinner,Haywire Hooligan,Club Flesh Skinner,Haywire Hooligan,Club Flesh Skinner,Aggressive Hooligan,Club Flesh Skinner,Aggressive Hooligan
+,,,,,,Club Flesh Seeker,Stoned Hooligan,Club Flesh Seeker,Scarred Hooligan,Club Flesh Seeker,Scarred Hooligan,Club Flesh Seeker,Triggerhappy Hooligan,Club Flesh Seeker,Stoned Hooligan
+,,,,,,Club Flesh Seeker,Stoned Hooligan,Club Flesh Assassin,Scarred Hooligan,Club Flesh Seeker,Scarred Hooligan,Club Flesh Seeker,Scarred Hooligan,Club Flesh Seeker,Club Flesh Seeker
+Island Heracles,,18,19,19,24,Club Flesh Assassin,Mad Dog Gunner,Club Flesh Assassin,Mad Dog Fighter,Club Flesh Assassin,Mad Dog Fighter,Club Flesh Assassin,Mad Dog Fighter,Mad Dog Brawler,Club Flesh Assassin
+,,,,,,Club Flesh Skinner,Mad Dog Fighter,Club Flesh Skinner,Mad Dog Brawler,Club Flesh Skinner,Mad Dog Gunner,Club Flesh Skinner,Mad Dog Gunner,Mad Dog Gunner,Club Flesh Skinner
+,,,,,,Club Flesh Seeker,Mad Dog Gunner,Club Flesh Seeker,Mad Dog Runner,Club Flesh Seeker,Mad Dog Runner,Club Flesh Seeker,Mad Dog Brawler,Mad Dog Runner,Club Flesh Seeker
+,,,,,,Club Flesh Assassin,Mad Dog Gunner,Club Flesh Assassin,Mad Dog Fighter,Club Flesh Seeker,Mad Dog Gunner,Club Flesh Seeker,Mad Dog Runner,Mad Dog Brawler,Mad Dog Fighter
+Island Theseus,,20,21,9,23,Mad Dog Gunner,Mad Dog Gunner,Hired Guns Grenadier,Mad Dog Fighter,Mad Dog Gunner,Hired Guns Shooter,Mad Dog Brawler,Hired Guns Rocketeer,Mad Dog Gunner,Stoned Hooligan
+,,,,,,Mad Dog Brawler,Mad Dog Fighter,Hired Guns Rocketeer,Mad Dog Brawler,Mad Dog Runner,Hired Guns Shooter,Mad Dog Brawler,Hired Guns Rocketeer,Mad Dog Brawler,Aggressive Hooligan
+,,,,,,Mad Dog Brawler,Mad Dog Gunner,Hired Guns Shooter,Mad Dog Gunner,Mad Dog Gunner,Hired Guns Grenadier,Mad Dog Gunner,Hired Guns Grenadier,Mad Dog Fighter,Stoned Hooligan
+,,,,,,Mad Dog Fighter,Mad Dog Gunner,Hired Guns Grenadier,Mad Dog Fighter,Mad Dog Runner,Hired Guns Grenadier,Mad Dog Fighter,Hired Guns Rocketeer,Mad Dog Brawler,Aggressive Hooligan
+Island Oileus,,22,23,4,21,Eastern Queen Maniac,Mad Dog Gunner,Eastern Queen Maniac,Mad Dog Gunner,Eastern Queen Maniac,Mad Dog Gunner,Eastern Queen Maniac,Mad Dog Gunner,Eastern Queen Maniac,Mad Dog Gunner
+,,,,,,Eastern Queen,Mad Dog Brawler,Eastern Queen,Mad Dog Brawler,Eastern Queen,Mad Dog Brawler,Eastern Queen,Mad Dog Brawler,Eastern Queen,Mad Dog Brawler
+,,,,,,Eastern Queen Heavy,Mad Dog Fighter,Eastern Queen Heavy,Mad Dog Fighter,Eastern Queen Heavy,Mad Dog Fighter,Eastern Queen Heavy,Mad Dog Fighter,Eastern Queen Heavy,Mad Dog Fighter
+,,,,,,Mad Dog Fighter,Mad Dog Gunner,Mad Dog Fighter,Mad Dog Gunner,Eastern Queen,Mad Dog Fighter,Eastern Queen Maniac,Mad Dog Gunner,Eastern Queen Maniac,Mad Dog Fighter
+Island Zetes,,24,25,-1,16,Hired Guns Grenadier,Eastern Queen Maniac,Hired Guns Grenadier,Eastern Queen Maniac,Hired Guns Grenadier,Eastern Queen Maniac,Hired Guns Grenadier,Eastern Queen Maniac,Hired Guns Grenadier,Eastern Queen Maniac
+,,,,,,Hired Guns Rocketeer,Eastern Queen,Hired Guns Rocketeer,Eastern Queen,Hired Guns Rocketeer,Eastern Queen,Hired Guns Rocketeer,Eastern Queen,Hired Guns Rocketeer,Eastern Queen
+,,,,,,Hired Guns Shooter,Eastern Queen Heavy,Hired Guns Shooter,Eastern Queen Heavy,Hired Guns Shooter,Eastern Queen Heavy,Hired Guns Shooter,Eastern Queen Heavy,Hired Guns Shooter,Eastern Queen Heavy
+,,,,,,Hired Guns Shooter,Eastern Queen Heavy,Hired Guns Shooter,Eastern Queen Heavy,Hired Guns Shooter,Eastern Queen Maniac,Hired Guns Grenadier,Eastern Queen Maniac,Hired Guns Grenadier,Eastern Queen Maniac
+Island Idmon,,26,27,-2,10,Club Flesh Assassin,Hired Guns Grenadier,Club Flesh Assassin,Hired Guns Grenadier,Club Flesh Assassin,Hired Guns Grenadier,Club Flesh Assassin,Hired Guns Grenadier,Club Flesh Assassin,Hired Guns Grenadier
+,,,,,,Club Flesh Skinner,Hired Guns Rocketeer,Club Flesh Skinner,Hired Guns Rocketeer,Club Flesh Skinner,Hired Guns Rocketeer,Club Flesh Skinner,Hired Guns Rocketeer,Club Flesh Skinner,Hired Guns Rocketeer
+,,,,,,Club Flesh Seeker,Hired Guns Shooter,Club Flesh Seeker,Hired Guns Shooter,Club Flesh Seeker,Hired Guns Shooter,Club Flesh Seeker,Hired Guns Shooter,Club Flesh Seeker,Hired Guns Shooter
+,,,,,,Club Flesh Seeker,Hired Guns Shooter,Club Flesh Seeker,Hired Guns Shooter,Club Flesh Seeker,Hired Guns Grenadier,Club Flesh Skinner,Hired Guns Shooter,Club Flesh Skinner,Hired Guns Shooter
+Island Leitus,,28,29,-2,4,Security Trooper,Club Flesh Assassin,Security Trooper,Club Flesh Assassin,Security Trooper,Club Flesh Assassin,Security Trooper,Club Flesh Assassin,Security Officer,Club Flesh Assassin
+,,,,,,Security Officer,Club Flesh Skinner,Security Officer,Club Flesh Skinner,Security Officer,Club Flesh Skinner,Security Trooper,Club Flesh Skinner,Security Trooper,Club Flesh Skinner
+,,,,,,Security Officer,Club Flesh Seeker,Security Trooper,Club Flesh Seeker,Security Officer,Club Flesh Seeker,Security Officer,Club Flesh Seeker,Security Officer,Club Flesh Seeker
+,,,,,,Security Officer,Club Flesh Seeker,Security Trooper,Club Flesh Seeker,Security Officer,Club Flesh Skinner,Security Trooper,Club Flesh Skinner,Security Trooper,Club Flesh Skinner
+Island Phlias,,30,30,2,1,Security Trooper,Security Trooper,Security Trooper,Security Trooper,Security Trooper,Heavy Security Trooper,Security Trooper,Heavy Security Trooper,Security Trooper,Heavy Security Trooper
+,,,,,,Heavy Security Trooper,Security Trooper,Heavy Security Trooper,Security Trooper,Security Trooper,Security Trooper,Security Trooper,Security Trooper,Heavy Security Trooper,Heavy Security Trooper
+,,,,,,Security Trooper,Security Trooper,Security Trooper,Heavy Security Trooper,Heavy Security Trooper,Heavy Security Trooper,Security Trooper,Heavy Security Trooper,Security Trooper,Security Trooper
+,,,,,,Security Trooper,Security Trooper,Security Trooper,Security Trooper,Heavy Security Trooper,Security Trooper,Heavy Security Trooper,Security Trooper,Heavy Security Trooper,Security Trooper
+Island Achilles,,5,5,11,1,Security Trooper,Security Officer,Heavy Security Trooper,Security Trooper,Security Trooper,Heavy Security Trooper,Security Recruit,Security Trooper,Security Trooper,Security Trooper
+,,,,,,Security Officer,Security Recruit,Security Recruit,Security Officer,Security Officer,Security Recruit,Heavy Security Trooper,Security Officer,Security Recruit,Security Recruit
+,,,,,,Security Officer,Security Recruit,Security Officer,Security Recruit,Security Recruit,Security Officer,Security Recruit,Security Recruit,Security Officer,Security Recruit
+,,,,,,Security Officer,Security Recruit,Heavy Security Trooper,Security Officer,Security Recruit,Security Recruit,Security Recruit,Security Recruit,Security Officer,Security Officer
+The Colosseum,,1,30,15,17,,,,,,,,,,

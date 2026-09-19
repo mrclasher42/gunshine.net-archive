@@ -1,0 +1,7 @@
+Name,Column1_Skill,Column1_PassiveSkill,Column2_Skill,Column2_PassiveSkill,Column3_Skill,Column3_PassiveSkill,IconIndex,TOOL_TIP_TID
+Juggernaut,,,,,,,1,TID_SPECIALIZATION_JUGGERNAUT_TOOL_TIP
+Maverick,,,,,,,1,TID_SPECIALIZATION_MAVERICK_TOOL_TIP
+Drugs,,,,,,,3,TID_SPECIALIZATION_LIGHT_SPEC_1_TOOL_TIP
+Toxicology,,,,,,,4,TID_SPECIALIZATION_LIGHT_SPEC_2_TOOL_TIP
+Shooter,,,,,,,5,TID_SPECIALIZATION_Shooter_SPEC_TOOL_TIP
+Eviscerator,,,,,,,6,TID_SPECIALIZATION_eviscerator_SPEC_TOOL_TIP

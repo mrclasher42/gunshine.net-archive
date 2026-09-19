@@ -1,0 +1,6 @@
+Name,Text
+TID_PASSIVE_SKILL_CONSUMABLE_0,Energizer Mastery
+TID_PASSIVE_SKILL_CONSUMABLE_1,Explosive Mastery
+TID_PASSIVE_SKILL_ConsumableCriticalHit,<CONSUMABLE_ITEM_CLASS> critical hit chance improved by <CRITICAL_CHANCE>.
+TID_PASSIVE_SKILL_CONSUMABLE_2,Medikit Mastery
+TID_PASSIVE_SKILL_CONSUMABLE_3,Projectile Mastery

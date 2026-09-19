@@ -1,0 +1,84 @@
+Name,EquipmentClass,RequiredLevel,Rarity,Enhancement,Tier,Enhancement,Texture,FemaleTexture,Model,Mesh,FemaleModel,FemaleMesh,ModelTexture,LootDisabled,PostToSocialNetworks
+Superfine Necklace,Necklace,26,Rare,of the Beast,,of 6th Sense,,,,,,,,True,TRUE
+Excellent Necklace,Necklace,21,Rare,of Health,,of the Destroyer,,,,,,,,True,TRUE
+Marvelous Necklace,Necklace,3,Rare,of Brightness,,of the Painmaker,,,,,,,,True,TRUE
+Awesome Necklace,Necklace,5,Rare,of the Beast,,of the Judgment,,,,,,,,True,TRUE
+Greater Necklace,Necklace,8,Rare,of Health,,of the Destroyer,,,,,,,,True,TRUE
+Singular Necklace,Necklace,11,Rare,of Brightness,,of the Painmaker,,,,,,,,True,TRUE
+Exquisite Necklace,Necklace,14,Rare,of the Troublemaker,,of the Predator,,,,,,,,True,TRUE
+High-Power Necklace,Necklace,17,Rare,of Brightness,,of the Legend,,,,,,,,True,TRUE
+Jagged Necklace,Necklace,19,Rare,of the Troublemaker,,of the Ambusher,,,,,,,,True,TRUE
+Radical Necklace,Necklace,23,Rare,of the Assassin,,of the Crymaker,,,,,,,,True,TRUE
+First-Class Necklace,Necklace,25,Rare,of Capacity,,of 6th Sense,,,,,,,,True,TRUE
+Outstanding Necklace,Necklace,27,Rare,of the Hunter,,of 6th Sense,,,,,,,,True,TRUE
+Excellent Scarf,Scarf,5,Rare,of the Hunter,,of the Painmaker,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Marvelous Scarf,Scarf,8,Rare,of the Beast,,of the Judgment,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Awesome Scarf,Scarf,21,Rare,of Health,,of the Destroyer,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+Greater Scarf,Scarf,24,Rare,of Brightness,,of the Painmaker,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+Singular Scarf,Scarf,30,Rare,of the Troublemaker,3,of the Predator,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+Exquisite Scarf,Scarf,12,Rare,of the Assassin,,of the Legend,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+High-Power Scarf,Scarf,15,Rare,of Intuition,,of the Ambusher,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Jagged Scarf,Scarf,30,Rare,of the Scientist,,of the Crymaker,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE
+Radical Scarf,Scarf,28,Rare,of the Thug,,of 6th Sense,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE
+First-Class Scarf,Scarf,26,Rare,of Guts,,of the Judgment,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE
+Outstanding Scarf,Scarf,29,Rare,of Awareness,,of the Destroyer,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE
+Superfine Scarf,Scarf,27,Rare,of Determination,,of the Painmaker,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE
+Cool Necklace,Necklace,2,Uncommon,,,,,,,,,,,True,TRUE
+Good Necklace,Necklace,4,Uncommon,,,,,,,,,,,True,TRUE
+Fine Necklace,Necklace,6,Uncommon,,,,,,,,,,,True,TRUE
+Credible Necklace,Necklace,8,Uncommon,,,,,,,,,,,True,TRUE
+Street Wise Necklace,Necklace,10,Uncommon,,,,,,,,,,,True,TRUE
+Worthy Necklace,Necklace,12,Uncommon,,,,,,,,,,,True,TRUE
+Boosted Necklace,Necklace,14,Uncommon,,,,,,,,,,,True,TRUE
+Acute Necklace,Necklace,16,Uncommon,,,,,,,,,,,True,TRUE
+Genuine Necklace,Necklace,18,Uncommon,,,,,,,,,,,True,TRUE
+Special Necklace,Necklace,20,Uncommon,,,,,,,,,,,True,TRUE
+Elegant Necklace,Necklace,22,Uncommon,,,,,,,,,,,True,TRUE
+Great Necklace,Necklace,24,Uncommon,,,,,,,,,,,True,TRUE
+Good Scarf,Scarf,4,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Fine Scarf,Scarf,7,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Credible Scarf,Scarf,9,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Street Wise Scarf,Scarf,23,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+Worthy Scarf,Scarf,26,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+Boosted Scarf,Scarf,10,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Acute Scarf,Scarf,17,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Genuine Scarf,Scarf,19,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Sentry's Scarf,Scarf,30,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+Sentry's Necklace,Necklace,12,Uncommon,,,,,,,,,,,True,TRUE
+Soulless Scarf,Scarf,10,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Pimp's Muffler,Scarf,20,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Superior Necklace,Necklace,30,Rare,of Brightness,3,of the Painmaker,,,,,,,,True,TRUE
+Outstanding Headscarf,Headscarf,1,Rare,of the Troublemaker,,of 6th Sense,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Superfine Headscarf,Headscarf,2,Rare,of Brightness,,of the Painmaker,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Excellent Headscarf,Headscarf,4,Rare,of the Troublemaker,,of the Judgment,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Marvelous Headscarf,Headscarf,6,Rare,of the Assassin,,of the Destroyer,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE
+First Class Bandana,Bandana,7,Rare,of Capacity,,of the Painmaker,graphics/3d/hats/on_skin_textures/bandana_blackgold_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Outstanding Bandana,Bandana,9,Rare,of the Hunter,,of the Predator,graphics/3d/hats/on_skin_textures/bandana_blackred_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE
+Superfine Bandana,Bandana,10,Rare,of the Hunter,1,of the Legend,graphics/3d/hats/on_skin_textures/bandana_green_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Excellent Bandana,Bandana,13,Rare,of the Beast,,of the Ambusher,graphics/3d/hats/on_skin_textures/bandana_purple_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Marvelous Bandana,Bandana,16,Rare,of Health,2,of the Crymaker,graphics/3d/hats/on_skin_textures/bandana_green_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Awesome Bandana,Bandana,18,Rare,of Brightness,,of 6th Sense,graphics/3d/hats/on_skin_textures/bandana_purple_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Greater Bandana,Bandana,20,Rare,of the Troublemaker,2,of the Judgment,graphics/3d/hats/on_skin_textures/bandana_blackgold_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Singular Bandana,Bandana,22,Rare,of the Assassin,,of the Destroyer,graphics/3d/hats/on_skin_textures/bandana_blackred_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Bot Maker's Bandana,Bandana,29,Rare,,,,graphics/3d/hats/on_skin_textures/bandana_blackred_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+DLL-471 Scarf,Scarf,10,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+DLL-471 Bandana,Bandana,10,Uncommon,,,,graphics/3d/hats/on_skin_textures/bandana_blackred_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Catherine's Heirloom,Necklace,30,Epic,of Brightness,3,of the Painmaker,,,,,,,,True,TRUE
+Sugarcube's Scarf,Scarf,30,Rare,of the Painmaker,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Green Scarf,Scarf,5,Common,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Red Scarf,Scarf,5,Common,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+Blue Scarf,Scarf,5,Common,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Helper's Necklace,Necklace,6,Uncommon,,,,,,,,,,,True,TRUE
+Assistant's Necklace,Necklace,6,Uncommon,,,,,,,,,,,True,TRUE
+Samaritan's Necklace,Necklace,6,Uncommon,,,,,,,,,,,True,TRUE
+Desperado's Bandana,Bandana,13,Uncommon,,,,graphics/3d/hats/on_skin_textures/bandana_blackred_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE
+Outlaw's Bandana,Bandana,13,Uncommon,,,,graphics/3d/hats/on_skin_textures/bandana_purple_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Gunslinger's Bandana,Bandana,13,Uncommon,,,,graphics/3d/hats/on_skin_textures/bandana_green_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Hobo Necklace,Necklace,17,Uncommon,,,,,,,,,,,True,TRUE
+Drunk's Necklace,Necklace,17,Uncommon,,,,,,,,,,,True,TRUE
+Crazy's Necklace,Necklace,17,Uncommon,,,,,,,,,,,True,TRUE
+Voodoo Scarf,Scarf,30,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_green.png,True,TRUE
+Hoodoo Scarf,Scarf,30,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_red.png,True,TRUE
+Witch Doctor Scarf,Scarf,30,Uncommon,,,,,,graphics/3d/scarf/male_scarf.SUP,scarf_black,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_blue.png,True,TRUE
+Primal Necklace,Necklace,20,Rare,of the Painmaker,,,,,,,,,,True,TRUE
+Anarchy Bandana,Bandana,30,Rare,of 6th Sense,,,graphics/3d/hats/on_skin_textures/bandana_blackred_face.png,graphics/3d/scarf/textures/female_bandana_texture.png,,,graphics/3d/scarf/female_scarf.SUP,scarf,graphics/3d/scarf/textures/scarf_grey.png,True,TRUE

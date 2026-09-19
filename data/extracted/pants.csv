@@ -1,0 +1,387 @@
+Name,NPCItem,PlaceableInEditor,RequiredLevel,Rarity,Tier,Icon,EquipmentClass,ClothClass,Enhancement,Texture,FemaleTexture,LootDisabled,PostToSocialNetworks
+NPC GENERIC Black Pants,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Popular Dark Pants,,,20,Common,,21,Dark Pants,Large,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Common Dark Pants,,,22,Common,,21,Dark Pants,Large,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Simple Dark Pants,,,25,Common,,21,Dark Pants,Large,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Typical Dark Pants,,,27,Common,,21,Dark Pants,Large,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Usual Dark Pants,,,29,Common,,21,Dark Pants,Large,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Plain Dark Pants,,,30,Common,,21,Dark Pants,Large,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Standard Dark Pants,,,20,Common,,21,Dark Pants,Small,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Universal Dark Pants,,,22,Common,,21,Dark Pants,Small,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Average Dark Pants,,,25,Common,,21,Dark Pants,Small,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Basic Dark Pants,,,27,Common,,21,Dark Pants,Small,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Everyday Dark Pants,,,29,Common,,21,Dark Pants,Small,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Regular Dark Pants,,,30,Common,,21,Dark Pants,Small,,graphics/3d/character/pants/jeans_black_01_m.png,graphics/3d/character/pants/jeans_black_01_f.png,TRUE,
+Fine Black Jeans,,,2,Uncommon,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Credible Black Jeans,,,4,Uncommon,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Street Wise Black Jeans,,,8,Uncommon,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Worthy Black Jeans,,,11,Uncommon,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Boosted Black Jeans,,,13,Uncommon,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Acute Black Jeans,,,2,Uncommon,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Genuine Black Jeans,,,4,Uncommon,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Special Black Jeans,,,8,Uncommon,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Elegant Black Jeans,,,11,Uncommon,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Great Black Jeans,,,13,Uncommon,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+NPC MALE 13 Diablos Pants 01,true,,1,Common,,21,Pants,,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Awesome Branded Jeans,,,2,Rare,,21,Branded Jeans,Large,of the Judgment,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Greater Branded Jeans,,,4,Rare,,21,Branded Jeans,Large,of the Destroyer,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Singular Branded Jeans,,,7,Rare,,21,Branded Jeans,Large,of the Painmaker,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Exquisite Branded Jeans,,,11,Rare,,21,Branded Jeans,Large,of the Predator,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+High-Power Branded Jeans,,,14,Rare,,21,Branded Jeans,Large,of the Legend,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Jagged Branded Jeans,,,2,Rare,,21,Branded Jeans,Small,of the Ambusher,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Radical Branded Jeans,,,4,Rare,,21,Branded Jeans,Small,of the Crymaker,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+First-Class Branded Jeans,,,7,Rare,,21,Branded Jeans,Small,of 6th Sense,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Outstanding Branded Jeans,,,11,Rare,,21,Branded Jeans,Small,of the Crymaker,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Superfine Branded Jeans,,,14,Rare,,21,Branded Jeans,Small,of 6th Sense,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Credible Branded Jeans,,,10,Uncommon,,21,Branded Jeans,Large,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Street Wise Branded Jeans,,,14,Uncommon,,21,Branded Jeans,Large,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Worthy Branded Jeans,,,17,Uncommon,,21,Branded Jeans,Large,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Boosted Branded Jeans,,,22,Uncommon,,21,Branded Jeans,Large,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Acute Branded Jeans,,,24,Uncommon,,21,Branded Jeans,Large,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Genuine Branded Jeans,,,10,Uncommon,,21,Branded Jeans,Small,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Special Branded Jeans,,,14,Uncommon,,21,Branded Jeans,Small,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Elegant Branded Jeans,,,17,Uncommon,,21,Branded Jeans,Small,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Great Branded Jeans,,,22,Uncommon,,21,Branded Jeans,Small,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Cool Branded Jeans,,,24,Uncommon,,21,Branded Jeans,Small,,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Street Wise Dark Jeans,,,21,Uncommon,,21,Dark Jeans,Large,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Worthy Dark Jeans,,,23,Uncommon,,21,Dark Jeans,Large,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Boosted Dark Jeans,,,25,Uncommon,,21,Dark Jeans,Large,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Acute Dark Jeans,,,27,Uncommon,,21,Dark Jeans,Large,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Genuine Dark Jeans,,,30,Uncommon,,21,Dark Jeans,Large,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Special Dark Jeans,,,21,Uncommon,,21,Dark Jeans,Small,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Elegant Dark Jeans,,,23,Uncommon,,21,Dark Jeans,Small,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Great Dark Jeans,,,25,Uncommon,,21,Dark Jeans,Small,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Cool Dark Jeans,,,27,Uncommon,,21,Dark Jeans,Small,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Good Dark Jeans,,,30,Uncommon,,21,Dark Jeans,Small,,graphics/3d/character/pants/jeans_black_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Rural Black Jeans,,,2,Poor,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Barebones Black Jeans,,,7,Poor,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Beer-soaked Black Jeans,,,14,Poor,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Dirty Black Jeans,,,20,Poor,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Shitty Black Jeans,,,24,Poor,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Battered Black Jeans,,,27,Poor,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Cracked Black Jeans,,,29,Poor,,21,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Shabby Pants,,,3,Poor,,21,Pants,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Inferior Pants,,,8,Poor,,21,Pants,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Rural Pants,,,13,Poor,,21,Pants,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Barebones Pants,,,17,Poor,,21,Pants,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Beer-soaked Pants,,,22,Poor,,21,Pants,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Dirty Pants,,,28,Poor,,21,Pants,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Shitty Pants,,,30,Poor,,21,Pants,Large,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Broken Black Jeans,,,4,Poor,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Ragged Black Jeans,,,7,Poor,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Worn Black Jeans,,,12,Poor,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Old Black Jeans,,,20,Poor,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Lame Black Jeans,,,24,Poor,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Warped Black Jeans,,,27,Poor,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Lousy Black Jeans,,,29,Poor,,21,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Battered Pants,,,3,Poor,,21,Pants,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Cracked Pants,,,8,Poor,,21,Pants,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Broken Pants,,,11,Poor,,21,Pants,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Ragged Pants,,,16,Poor,,21,Pants,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Worn Pants,,,22,Poor,,21,Pants,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Old Pants,,,28,Poor,,21,Pants,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Lame Pants,,,30,Poor,,21,Pants,Small,,graphics/3d/character/pants/jeans_black_dirty_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+NPC MALE 13 Diablos Pants 02,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Boosted Brown Jeans,,,1,Uncommon,,11,Brown Jeans,Large,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Acute Brown Jeans,,,3,Uncommon,,11,Brown Jeans,Large,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Genuine Brown Jeans,,,6,Uncommon,,11,Brown Jeans,Large,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Special Brown Jeans,,,8,Uncommon,,11,Brown Jeans,Large,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Elegant Brown Jeans,,,9,Uncommon,,11,Brown Jeans,Large,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Great Brown Jeans,,,12,Uncommon,,11,Brown Jeans,Large,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Cool Brown Jeans,,,1,Uncommon,,11,Brown Jeans,Small,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Good Brown Jeans,,,3,Uncommon,,11,Brown Jeans,Small,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Fine Brown Jeans,,,6,Uncommon,,11,Brown Jeans,Small,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Credible Brown Jeans,,,8,Uncommon,,11,Brown Jeans,Small,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Street Wise Brown Jeans,,,9,Uncommon,,11,Brown Jeans,Small,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Worthy Brown Jeans,,,12,Uncommon,,11,Brown Jeans,Small,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+NPC GENERIC Jeans,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Plain Denim Jeans,,,1,Common,,1,Denim Jeans,Large,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Standard Denim Jeans,,,2,Common,,1,Denim Jeans,Large,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Usual Denim Jeans,,,4,Common,,1,Denim Jeans,Large,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Universal Denim Jeans,,,6,Common,,1,Denim Jeans,Large,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Average Denim Jeans,,,8,Common,,1,Denim Jeans,Large,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Basic Denim Jeans,,,9,Common,,1,Denim Jeans,Large,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Everyday Denim Jeans,,,1,Common,,1,Denim Jeans,Small,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Regular Denim Jeans,,,3,Common,,1,Denim Jeans,Small,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Popular Denim Jeans,,,4,Common,,1,Denim Jeans,Small,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Common Denim Jeans,,,7,Common,,1,Denim Jeans,Small,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Simple Denim Jeans,,,8,Common,,1,Denim Jeans,Small,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Typical Denim Jeans,,,9,Common,,1,Denim Jeans,Small,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+NPC MALE Mad Dogs Pants 02,true,,1,Common,,1,Pants,,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+NPC MALE Docker Worker Pants 02,true,,1,Common,,1,Pants,,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Universal Stonewashed,,,16,Common,,1,Stonewashed,Large,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Average Stonewashed,,,23,Common,,1,Stonewashed,Large,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Basic Stonewashed,,,26,Common,,1,Stonewashed,Large,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Everyday Stonewashed,,,28,Common,,1,Stonewashed,Large,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Regular Stonewashed,,,29,Common,,1,Stonewashed,Large,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Popular Stonewashed,,,30,Common,,1,Stonewashed,Large,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Common Stonewashed,,,16,Common,,1,Stonewashed,Small,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Simple Stonewashed,,,23,Common,,1,Stonewashed,Small,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Typical Stonewashed,,,26,Common,,1,Stonewashed,Small,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Usual Stonewashed,,,28,Common,,1,Stonewashed,Small,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Plain Stonewashed,,,29,Common,,1,Stonewashed,Small,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Standard Stonewashed,,,30,Common,,1,Stonewashed,Small,,graphics/3d/character/pants/jeans_stone_washed_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+NPC MALE Hooligans Pants 02,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/npc_hooligans_pants_01.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+NPC MALE Hooligans Pants 03,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/npc_hooligans_pants_02.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+NPC MALE Mad Dogs Pants 01,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/npc_mad_dogs_pants_01.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+NPC MALE Voodoo Pants 01,true,,1,Common,,1,Pants,,,graphics/3d/character/pants/npc_voodoo_pants_01.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+NPC MALE Voodoo Pants 02,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/npc_voodoo_pants_02.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+NPC MALE Hired Guns Pants 01,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Special Camo Pants,,,5,Uncommon,,21,Camo Pants,Large,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Elegant Camo Pants,,,7,Uncommon,,21,Camo Pants,Large,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Great Camo Pants,,,9,Uncommon,,21,Camo Pants,Large,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Cool Camo Pants,,,11,Uncommon,,21,Camo Pants,Large,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Good Camo Pants,,,13,Uncommon,,21,Camo Pants,Large,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Fine Camo Pants,,,15,Uncommon,,21,Camo Pants,Large,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Credible Camo Pants,,,5,Uncommon,,21,Camo Pants,Small,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Street Wise Camo Pants,,,7,Uncommon,,21,Camo Pants,Small,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Worthy Camo Pants,,,9,Uncommon,,21,Camo Pants,Small,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Boosted Camo Pants,,,11,Uncommon,,21,Camo Pants,Small,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Acute Camo Pants,,,13,Uncommon,,21,Camo Pants,Small,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Genuine Camo Pants,,,15,Uncommon,,21,Camo Pants,Small,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+NPC FEMALE Eastern Queen Pants,true,,1,Common,,21,Pants,,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,
+NPC FEMALE Eastern Queen Pants 02,true,,1,Common,,21,Pants,,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/npc_eastern_queens_skirt_01.png,TRUE,
+NPC MALE Hired Guns Pants 02,true,,1,Common,,21,Pants,,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+NPC FEMALE Valkyries Pants 01,true,,1,Common,,21,Pants,,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/npc_valkyries_pants_01.png,TRUE,
+NPC FEMALE Valkyries Pants 02,true,,1,Common,,21,Pants,,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,
+First-Class Custom Pants,,,21,Rare,,21,Custom Pants,Large,of the Judgment,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Outstanding Custom Pants,,,22,Rare,,21,Custom Pants,Large,of the Destroyer,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Superfine Custom Pants,,,23,Rare,,21,Custom Pants,Large,of the Painmaker,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Excellent Custom Pants,,,24,Rare,,21,Custom Pants,Large,of the Predator,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Marvelous Custom Pants,,,25,Rare,,21,Custom Pants,Large,of the Legend,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Awesome Custom Pants,,,21,Rare,,21,Custom Pants,Small,of the Ambusher,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Greater Custom Pants,,,22,Rare,,21,Custom Pants,Small,of the Crymaker,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Singular Custom Pants,,,23,Rare,,21,Custom Pants,Small,of 6th Sense,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Exquisite Custom Pants,,,24,Rare,,21,Custom Pants,Small,of the Judgment,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+High-Power Custom Pants,,,25,Rare,,21,Custom Pants,Small,of the Destroyer,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Everyday Leather Trousers,,,2,Common,,11,Leather Trousers,Large,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Regular Leather Trousers,,,3,Common,,11,Leather Trousers,Large,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Popular Leather Trousers,,,6,Common,,11,Leather Trousers,Large,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Common Leather Trousers,,,8,Common,,11,Leather Trousers,Large,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Simple Leather Trousers,,,10,Common,,11,Leather Trousers,Large,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Typical Leather Trousers,,,12,Common,,11,Leather Trousers,Large,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Usual Leather Trousers,,,2,Common,,11,Leather Trousers,Small,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Plain Leather Trousers,,,3,Common,,11,Leather Trousers,Small,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Standard Leather Trousers,,,6,Common,,11,Leather Trousers,Small,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Universal Leather Trousers,,,8,Common,,11,Leather Trousers,Small,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Average Leather Trousers,,,10,Common,,11,Leather Trousers,Small,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Basic Leather Trousers,,,12,Common,,11,Leather Trousers,Small,,graphics/3d/character/pants/pants_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Cool Armored Pants,,,25,Uncommon,,21,Armored Pants,Large,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Good Armored Pants,,,26,Uncommon,,21,Armored Pants,Large,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Fine Armored Pants,,,22,Uncommon,,21,Armored Pants,Large,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Credible Armored Pants,,,28,Uncommon,,21,Armored Pants,Large,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Street Wise Armored Pants,,,29,Uncommon,,21,Armored Pants,Large,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Worthy Armored Pants,,,30,Uncommon,,21,Armored Pants,Large,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Boosted Armored Pants,,,25,Uncommon,,21,Armored Pants,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Acute Armored Pants,,,26,Uncommon,,21,Armored Pants,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Genuine Armored Pants,,,22,Uncommon,,21,Armored Pants,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Special Armored Pants,,,28,Uncommon,,21,Armored Pants,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Elegant Armored Pants,,,29,Uncommon,,21,Armored Pants,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Great Armored Pants,,,30,Uncommon,,21,Armored Pants,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+NPC MALE Docker Worker Pants 01,true,,1,Common,,2,Pants,,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,
+Good Orange Pants,,,10,Uncommon,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Fine Orange Pants,,,12,Uncommon,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Credible Orange Pants,,,14,Uncommon,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Street Wise Orange Pants,,,16,Uncommon,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Worthy Orange Pants,,,18,Uncommon,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Boosted Orange Pants,,,19,Uncommon,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Acute Orange Pants,,,10,Uncommon,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Genuine Orange Pants,,,12,Uncommon,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Special Orange Pants,,,14,Uncommon,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Elegant Orange Pants,,,16,Uncommon,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Great Orange Pants,,,18,Uncommon,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Cool Orange Pants,,,19,Uncommon,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_01_m.png,graphics/3d/character/pants/pants_orange_01_f.png,TRUE,TRUE
+Lame Orange Pants,,,1,Poor,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Warped Orange Pants,,,5,Poor,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Lousy Orange Pants,,,10,Poor,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Worthless Orange Pants,,,15,Poor,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Poor Orange Pants,,,19,Poor,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Shabby Orange Pants,,,25,Poor,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Inferior Orange Pants,,,26,Poor,,16,Orange Pants,Large,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Rural Orange Pants,,,1,Poor,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Barebones Orange Pants,,,5,Poor,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Beer-soaked Orange Pants,,,9,Poor,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Dirty Orange Pants,,,14,Poor,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Shitty Orange Pants,,,18,Poor,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Battered Orange Pants,,,25,Poor,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+Cracked Orange Pants,,,26,Poor,,16,Orange Pants,Small,,graphics/3d/character/pants/pants_orange_02_m.png,graphics/3d/character/pants/pants_orange_02_f.png,TRUE,
+High-Power White Custom Pants,,,20,Rare,,6,White Custom Pants,Large,of the Judgment,graphics/3d/character/pants/pants_outfit_01_m.png,graphics/3d/character/pants/pants_outfit_01_f.png,TRUE,TRUE
+Jagged White Custom Pants,,,27,Rare,,6,White Custom Pants,Small,of the Destroyer,graphics/3d/character/pants/pants_outfit_01_m.png,graphics/3d/character/pants/pants_outfit_01_f.png,TRUE,TRUE
+Radical White Custom Pants,,,26,Rare,,6,White Custom Pants,Large,of the Painmaker,graphics/3d/character/pants/pants_outfit_01_m.png,graphics/3d/character/pants/pants_outfit_01_f.png,TRUE,TRUE
+First-Class White Custom Pants,,,30,Rare,,6,White Custom Pants,Small,of the Predator,graphics/3d/character/pants/pants_outfit_01_m.png,graphics/3d/character/pants/pants_outfit_01_f.png,TRUE,TRUE
+Outstanding White Custom Pants,,,30,Rare,,6,White Custom Pants,Large,of the Legend,graphics/3d/character/pants/pants_outfit_01_m.png,graphics/3d/character/pants/pants_outfit_01_f.png,TRUE,TRUE
+NPC MALE Hooligans Pants 01,true,,1,Common,,21,Pants,,,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Marvelous Studded Pants,,,10,Rare,,21,Studded Pants,Large,of the Crymaker,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Awesome Studded Pants,,,13,Rare,,21,Studded Pants,Large,of 6th Sense,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Greater Studded Pants,,,15,Rare,,21,Studded Pants,Large,of the Judgment,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Singular Studded Pants,,,17,Rare,,21,Studded Pants,Large,of the Destroyer,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Exquisite Studded Pants,,,19,Rare,,21,Studded Pants,Large,of the Judgment,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+High-Power Studded Pants,,,20,Rare,,21,Studded Pants,Large,of the Destroyer,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Jagged Studded Pants,,,10,Rare,,21,Studded Pants,Small,of the Painmaker,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Radical Studded Pants,,,13,Rare,,21,Studded Pants,Small,of the Predator,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+First-Class Studded Pants,,,15,Rare,,21,Studded Pants,Small,of the Legend,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Outstanding Studded Pants,,,17,Rare,,21,Studded Pants,Small,of the Ambusher,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Superfine Studded Pants,,,19,Rare,,21,Studded Pants,Small,of the Crymaker,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Excellent Studded Pants,,,20,Rare,,21,Studded Pants,Small,of 6th Sense,graphics/3d/character/pants/pants_studded_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Simple Butcher's Pants,,,5,Common,,6,Butcher's Pants,Large,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Typical Butcher's Pants,,,7,Common,,6,Butcher's Pants,Large,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Usual Butcher's Pants,,,9,Common,,6,Butcher's Pants,Large,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Plain Butcher's Pants,,,11,Common,,6,Butcher's Pants,Large,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Standard Butcher's Pants,,,13,Common,,6,Butcher's Pants,Large,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Universal Butcher's Pants,,,15,Common,,6,Butcher's Pants,Large,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Average Butcher's Pants,,,5,Common,,6,Butcher's Pants,Small,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Basic Butcher's Pants,,,7,Common,,6,Butcher's Pants,Small,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Everyday Butcher's Pants,,,9,Common,,6,Butcher's Pants,Small,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Regular Butcher's Pants,,,11,Common,,6,Butcher's Pants,Small,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Popular Butcher's Pants,,,13,Common,,6,Butcher's Pants,Small,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Common Butcher's Pants,,,15,Common,,6,Butcher's Pants,Small,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Greater White Pants,,,5,Rare,,6,White Pants,Large,of the Judgment,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Singular White Pants,,,6,Rare,,6,White Pants,Large,of the Destroyer,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Exquisite White Pants,,,8,Rare,,6,White Pants,Large,of the Painmaker,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+High-Power White Pants,,,9,Rare,,6,White Pants,Large,of the Predator,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Jagged White Pants,,,12,Rare,,6,White Pants,Large,of the Legend,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Exquisite Rider Pants,,,30,Rare,4,16,Yellow Rider Pants,Large,of the Ambusher,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_yellow_01_f.png,TRUE,TRUE
+Radical White Pants,,,5,Rare,,6,White Pants,Small,of the Crymaker,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+First-Class White Pants,,,6,Rare,,6,White Pants,Small,of 6th Sense,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Outstanding White Pants,,,8,Rare,,6,White Pants,Small,of the Judgment,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Superfine White Pants,,,9,Rare,,6,White Pants,Small,of the Destroyer,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Excellent White Pants,,,12,Rare,,6,White Pants,Small,of the Crymaker,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+High-Power Rider Pants,,,30,Rare,4,16,Yellow Rider Pants,Small,of 6th Sense,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_yellow_01_f.png,TRUE,TRUE
+Acute Denim Shorts,,,21,Uncommon,,1,Denim Shorts,Large,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Genuine Denim Shorts,,,23,Uncommon,,1,Denim Shorts,Large,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Special Denim Shorts,,,25,Uncommon,,1,Denim Shorts,Large,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Elegant Denim Shorts,,,27,Uncommon,,1,Denim Shorts,Large,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Great Denim Shorts,,,28,Uncommon,,1,Denim Shorts,Large,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Cool Denim Shorts,,,30,Uncommon,,1,Denim Shorts,Large,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Good Denim Shorts,,,21,Uncommon,,1,Denim Shorts,Small,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Fine Denim Shorts,,,23,Uncommon,,1,Denim Shorts,Small,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Credible Denim Shorts,,,25,Uncommon,,1,Denim Shorts,Small,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Street Wise Denim Shorts,,,27,Uncommon,,1,Denim Shorts,Small,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Worthy Denim Shorts,,,28,Uncommon,,1,Denim Shorts,Small,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Boosted Denim Shorts,,,30,Uncommon,,1,Denim Shorts,Small,,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/shorts_blue_01_f.png,TRUE,TRUE
+Singular White Camo Pants,,,27,Rare,,6,White Camo Pants,Large,of the Judgment,graphics/3d/character/pants/pants_white_03_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Exquisite White Camo Pants,,,28,Rare,,6,White Camo Pants,Large,of the Judgment,graphics/3d/character/pants/pants_white_03_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+High-Power White Camo Pants,,,29,Rare,,6,White Camo Pants,Large,of the Judgment,graphics/3d/character/pants/pants_white_03_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Jagged White Camo Pants,,,30,Rare,2,6,White Camo Pants,Large,of the Judgment,graphics/3d/character/pants/pants_white_03_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Radical White Camo Pants,,,27,Rare,,6,White Camo Pants,Small,of 6th Sense,graphics/3d/character/pants/pants_white_03_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+First-Class White Camo Pants,,,28,Rare,,6,White Camo Pants,Small,of 6th Sense,graphics/3d/character/pants/pants_white_03_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Outstanding White Camo Pants,,,29,Rare,,6,White Camo Pants,Small,of 6th Sense,graphics/3d/character/pants/pants_white_03_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Superfine White Camo Pants,,,30,Rare,2,6,White Camo Pants,Small,of 6th Sense,graphics/3d/character/pants/pants_white_03_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Dawnbreak Jeans,,,,Poor,,2,Jeans,Large,,graphics/3d/character/pants/start_pants_male.png,graphics/3d/character/pants/start_pants_female.png,TRUE,
+Dawnbreak Trousers,,,,Poor,,2,Jeans,Small,,graphics/3d/character/pants/start_pants_male.png,graphics/3d/character/pants/start_pants_female.png,TRUE,
+Genuine Striped Trousers,,,20,Uncommon,,21,Striped Trousers,Large,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Special Striped Trousers,,,24,Uncommon,,21,Striped Trousers,Large,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Elegant Striped Trousers,,,25,Uncommon,,21,Striped Trousers,Large,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Great Striped Trousers,,,22,Uncommon,,21,Striped Trousers,Large,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Cool Striped Trousers,,,29,Uncommon,,21,Striped Trousers,Large,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Good Striped Trousers,,,30,Uncommon,,21,Striped Trousers,Large,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Fine Striped Trousers,,,20,Uncommon,,21,Striped Trousers,Small,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Credible Striped Trousers,,,24,Uncommon,,21,Striped Trousers,Small,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Street Wise Striped Trousers,,,25,Uncommon,,21,Striped Trousers,Small,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Worthy Striped Trousers,,,22,Uncommon,,21,Striped Trousers,Small,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Boosted Striped Trousers,,,29,Uncommon,,21,Striped Trousers,Small,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Acute Striped Trousers,,,30,Uncommon,,21,Striped Trousers,Small,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Average Suit Trousers,,,14,Common,,21,Suit Trousers,Large,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Basic Suit Trousers,,,17,Common,,21,Suit Trousers,Large,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Everyday Suit Trousers,,,19,Common,,21,Suit Trousers,Large,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Regular Suit Trousers,,,21,Common,,21,Suit Trousers,Large,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Popular Suit Trousers,,,23,Common,,21,Suit Trousers,Large,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Common Suit Trousers,,,25,Common,,21,Suit Trousers,Large,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Simple Suit Trousers,,,14,Common,,21,Suit Trousers,Small,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Typical Suit Trousers,,,17,Common,,21,Suit Trousers,Small,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Usual Suit Trousers,,,19,Common,,21,Suit Trousers,Small,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Plain Suit Trousers,,,21,Common,,21,Suit Trousers,Small,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Standard Suit Trousers,,,23,Common,,21,Suit Trousers,Small,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Universal Suit Trousers,,,25,Common,,21,Suit Trousers,Small,,graphics/3d/character/pants/suit_trousers_02_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Elegant Black Trousers,,,25,Uncommon,,21,Black Trousers,Large,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Great Black Trousers,,,26,Uncommon,,21,Black Trousers,Large,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Cool Black Trousers,,,20,Uncommon,,21,Black Trousers,Large,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Good Black Trousers,,,28,Uncommon,,21,Black Trousers,Large,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Fine Black Trousers,,,29,Uncommon,,21,Black Trousers,Large,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Credible Black Trousers,,,30,Uncommon,,21,Black Trousers,Large,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Street Wise Black Trousers,,,25,Uncommon,,21,Black Trousers,Small,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Worthy Black Trousers,,,26,Uncommon,,21,Black Trousers,Small,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Boosted Black Trousers,,,20,Uncommon,,21,Black Trousers,Small,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Acute Black Trousers,,,28,Uncommon,,21,Black Trousers,Small,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Genuine Black Trousers,,,29,Uncommon,,21,Black Trousers,Small,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Special Black Trousers,,,30,Uncommon,,21,Black Trousers,Small,,graphics/3d/character/pants/suit_trousers_03_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Great Dark Trousers,,,15,Uncommon,,21,Dark Trousers,Large,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Cool Dark Trousers,,,16,Uncommon,,21,Dark Trousers,Large,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Good Dark Trousers,,,17,Uncommon,,21,Dark Trousers,Large,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Fine Dark Trousers,,,18,Uncommon,,21,Dark Trousers,Large,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Credible Dark Trousers,,,19,Uncommon,,21,Dark Trousers,Large,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Street Wise Dark Trousers,,,20,Uncommon,,21,Dark Trousers,Large,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Worthy Dark Trousers,,,15,Uncommon,,21,Dark Trousers,Small,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Boosted Dark Trousers,,,16,Uncommon,,21,Dark Trousers,Small,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Acute Dark Trousers,,,17,Uncommon,,21,Dark Trousers,Small,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Genuine Dark Trousers,,,18,Uncommon,,21,Dark Trousers,Small,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Special Dark Trousers,,,19,Uncommon,,21,Dark Trousers,Small,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Elegant Dark Trousers,,,20,Uncommon,,21,Dark Trousers,Small,,graphics/3d/character/pants/suit_trousers_04_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,TRUE
+Cool Voodoo Jeans,,,30,Uncommon,,30,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Great Voodoo Jeans,,,30,Uncommon,,30,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+NPC Chef Trousers,true,,1,Uncommon,,21,Striped Trousers,Large,,graphics/3d/character/pants/suit_trousers_01_m.png,graphics/3d/character/pants/jeans_black_04_f.png,TRUE,
+Labycore Worker's Trousers,,TRUE,1,Poor,,16,Orange Pants,Large,,graphics/3d/character/pants/orange_jail_pants_m.png,graphics/3d/character/pants/orange_jail_pants_f.png,TRUE,
+Labycore Worker's Pants,,TRUE,1,Poor,,16,Orange Pants,Small,,graphics/3d/character/pants/orange_jail_pants_m.png,graphics/3d/character/pants/orange_jail_pants_f.png,TRUE,
+NPC MALE Prison Warder Pants,true,,1,Poor,,16,Pants,Large,,graphics/3d/character/labycorp_textures/npc_security_guard_pants.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Agile Tanker Trousers,,,8,Uncommon,,24,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Stiff Tanker Trousers,,,8,Uncommon,,24,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Mighty Pants of Awesomeness,,,1,Poor,,21,Pants,Large,,graphics/3d/character/pants/bodyguard_pants_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,
+Reviving Scrubs of Epic,,,1,Poor,,21,Pants,Small,,graphics/3d/character/pants/doctor_pants_m.png,graphics/3d/character/pants/doctor_pants_f.png,TRUE,
+Fluffy Pants of Legendary,,,1,Poor,,21,Pants,Small,,graphics/3d/character/pants/hunter_pants_m.png,graphics/3d/character/pants/hunter_pants_f.png,TRUE,
+Superior Pants,,,10,Rare,,21,Custom Pants,Large,of the Predator,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Wacky Pants,,,30,Rare,4,21,Custom Pants,Large,of the Predator,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Tough Pants,,,10,Rare,,21,Custom Pants,Small,of the Crymaker,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Radical Pants,,,30,Rare,4,21,Custom Pants,Small,of the Crymaker,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+NPC Mutant Pants,,,1,Poor,,16,Pants,Large,,graphics/3d/character/labycorp_textures/mutant_pants_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+NPC Mutant Pants 2,,,1,Poor,,16,Pants,Large,,graphics/3d/character/labycorp_textures/mutant_pants2_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Slavemaster Pants,,,30,Epic,,21,Pants,Small,,graphics/3d/character/pants/hunter_pants_m.png,graphics/3d/character/pants/hunter_pants_f.png,TRUE,
+Slavemaster Trousers,,,30,Epic,,21,Pants,Large,,graphics/3d/character/pants/hunter_pants_m.png,graphics/3d/character/pants/hunter_pants_f.png,TRUE,
+Bodybreaker's Trousers,,,30,Epic,,24,Black Jeans,Large,of the Judgment,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Manhunter's Trousers,,,30,Epic,,21,Branded Jeans,Small,of the Ambusher,graphics/3d/character/pants/jeans_black_03_m.png,graphics/3d/character/pants/jeans_black_03_f.png,TRUE,TRUE
+Surgeon's Trousers,,,30,Epic,,6,White Pants,Small,of the Crymaker,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Worked Jeans,,,3,Common,,1,Denim Jeans,Large,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Refugee Jeans,,,3,Common,,1,Denim Jeans,Small,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Soaked Jeans,,,3,Common,,1,Denim Jeans,Small,,graphics/3d/character/pants/jeans_stone_washed_01_m.png,graphics/3d/character/pants/jeans_stone_washed_01_f.png,TRUE,
+Tank Hunter's Pants,,,8,Uncommon,,6,Butcher's Pants,Large,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Tankbuster Pants,,,8,Uncommon,,6,Butcher's Pants,Small,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Tank Captain's Pants,,,8,Uncommon,,6,Butcher's Pants,Small,,graphics/3d/character/pants/pants_white_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,
+Desperado's Trousers,,,15,Uncommon,,11,Brown Jeans,Large,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Cowboy Jeans,,,15,Uncommon,,11,Brown Jeans,Small,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Treasure Hunter's Jeans,,,15,Uncommon,,11,Brown Jeans,Small,,graphics/3d/character/pants/jeans_brown_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Freedom Fighter's Pants,,,20,Uncommon,,21,Camo Pants,Large,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Saboteur's Camo Pants,,,20,Uncommon,,21,Camo Pants,Small,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Specialist's Camo Pants,,,20,Uncommon,,21,Camo Pants,Small,,graphics/3d/character/pants/pants_army_01_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Stiff Trousers,,,22,Uncommon,,24,Black Jeans,Large,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Rebel's Trousers,,,22,Uncommon,,24,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Queen Killer's Trousers,,,22,Uncommon,,24,Black Jeans,Small,,graphics/3d/character/pants/jeans_black_02_m.png,graphics/3d/character/pants/jeans_black_02_f.png,TRUE,TRUE
+Mutagen-Stained Pants,,,20,Rare,,6,White Pants,Large,of the Thug,graphics/3d/character/pants/pants_white_02_m.png,graphics/3d/character/pants/pants_white_02_f.png,TRUE,TRUE
+Riot Pants,,,30,Rare,,21,Custom Pants,Large,of the Judgment,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Riot Trousers,,,30,Rare,,21,Custom Pants,Small,of the Crymaker,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/jeans_green_01_f.png,TRUE,TRUE
+Gangsta's Dark Trousers,,,1,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Criminal's Dark Trousers,,,3,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Ruffian's Dark Trousers,,,6,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Thug's Dark Trousers,,,9,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Lawbreaker's Dark Trousers,,,12,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Offender's Dark Trousers,,,14,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Hitman's Dark Trousers,,,16,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Lunatic's Dark Trousers,,,18,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Cleaner's Dark Trousers,,,20,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Devastator's Dark Trousers,,,22,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Interrogator's Dark Trousers,,,24,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Torture's Dark Trousers,,,26,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Troublemaker's Dark Trousers,,,28,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Hustla's Dark Trousers,,,30,Epic,2,21,Dark Trousers,Small,,graphics/3d/character/pants/pants_gray_01_m.png,graphics/3d/character/pants/npc_valkyries_pants_02.png,TRUE,TRUE
+Destroyer's Custom Pants,,,1,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Killer's Custom Pants,,,3,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Psycho's Custom Pants,,,6,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Hannibal's Custom Pants,,,9,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Damn Nice Custom Pants,,,12,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Helluva Custom Pants,,,14,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Insane Custom Pants,,,16,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Badass Custom Pants,,,18,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Incredible Custom Pants,,,20,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Stellar Custom Pants,,,22,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Kick-ass Custom Pants,,,24,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Relentless Custom Pants,,,26,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Rebel's Custom Pants,,,28,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE
+Gangsta's Custom Pants,,,30,Epic,2,21,Custom Pants,Large,,graphics/3d/character/pants/pants_army_02_m.png,graphics/3d/character/pants/bodyguard_pants_f.png,TRUE,TRUE

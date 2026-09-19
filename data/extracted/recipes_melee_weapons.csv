@@ -1,0 +1,89 @@
+Name,LevelUpUnlock,UnlockedByMission,Item,Ingredient,IngredientCount,IngredientsAdditional,DiamondCost,CraftTimeHours,CraftTimeMinutes,CraftTimeSeconds,LootDisabled,DiamondsOnly,DropSound,LootResource,LootExportName,DropOnlyTo
+Plans: Street Weapon,TRUE,TRUE,Pipe,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Knife,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Baseball Bat,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Cleaver,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Bowie Knife,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Crocodile Knife,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Sabre,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Molecular Sword,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Nano Sword,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hit Weapon,TRUE,TRUE,Flat Iron,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Steel Mace,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Street Whacker,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Cutter Weapon,TRUE,TRUE,Hobby Saw,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Power Cutter,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,Modified Cutter,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Power Sword,,,Power Sword,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Steel Cutter,,,Steel Cutter,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Massive Hammer,,,Massive Hammer,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Pavement Crusher,,,Pavement Crusher,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Chainsaw,,,Chainsaw,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Blood Sputterer,,,Blood Sputterer,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: TacKnife,,,TacKnife,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Two-by-Four,,,Two-by-Four,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Modified Katana,,,Modified Katana,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Jungle Knife,,,Jungle Knife,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Broadsword,,,Broadsword,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Charged Sword,,,Charged Sword,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Gut Surgeon,,,Gut Surgeon,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Mutant Thigh Bone,,,Mutant Thigh Bone,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Rock Head,,,Rock Head,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Chieftain Blade,,,Chieftain Blade,Raider Tech,40,TRUE,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Axe,,,Johnny's Credible Cleaver,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Shovel,,,Shovel,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Atomic Wrench,,,Atomic Wrench,,5,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Sharpened Katana,,,Sharpened Katana,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Ace of Spades,,,Ace of Spades,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: The Sledge,,,The Sledge,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hermana,,,Hermana,,,,,,,3,TRUE,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Wrath of God,,,Wrath of God,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Grim Reaper,,,Grim Reaper,Raider Tech,40,TRUE,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: The Ash,,,The Ash,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Tooth Pick,,,Tooth Pick,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Migraine,,,Migraine,Bolts,3000,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+,,,,Fabric,3000,,,,,,,,,,,
+Plans: Csejte,,,Csejte,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Angelspinner,,,Angelspinner,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Chaostwister,,,Chaostwister,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: The Edge [Hurricane],,,The Edge [Hurricane],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Cloudholder,,,Cloudholder,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Aerohacker,,,Aerohacker,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Demonspinner,,,Demonspinner,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Cutspinner,,,Cutspinner,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Cyclocutter,,,Cyclocutter,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Spaceaxe [Hurricane],,,Spaceaxe [Hurricane],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Baneaxe [Hurricane],,,Baneaxe [Hurricane],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Gyroclub,,,Gyroclub,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Darkgrind,,,Darkgrind,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Devilpick,,,Devilpick,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Octasword,,,Octasword,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Dirklance,,,Dirklance,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Shinesword,,,Shinesword,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Shockpiercer,,,Shockpiercer,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Speedsword,,,Speedsword,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Whirlknife,,,Whirlknife,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Triknife,,,Triknife,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Helioknife,,,Helioknife,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Smokecrusher,,,Smokecrusher,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Hexaspinner,,,Hexaspinner,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Wishbreaker,,,Wishbreaker,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Technoblade [Hurricane],,,Technoblade [Hurricane],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Bladeflail,,,Bladeflail,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Rainchopper,,,Rainchopper,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Warriorknife,,,Warriorknife,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Omni Scythe,,,Omni Scythe,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Blight Sawer,,,The Blight,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Worldslayer [Bulwark],,,Worldslayer [Bulwark],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Skullmaster [Bulwark],,,Skullmaster [Bulwark],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: PowerHammer [Bulwark],,,PowerHammer [Bulwark],Dragon Scales,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Steel Head [Bulwark],,,Steel Head [Bulwark],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Blight Sawer [Rampage],,,Blight Sawer [Rampage],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Chainblade [Rampage],,,Chainblade [Rampage],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Vibroquaker [Rampage],,,Vibroquaker [Rampage],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Metalcutter [Rampage],,,Metalcutter [Rampage],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Facemace,,,Facemace,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Broadholder,,,Broadholder,,,,,,,3,,,,graphics/loot/loot_drops.swf,blueprint,
+Plans: Cosmobelcher [Hurricane],,,Cosmobelcher [Hurricane],Raider Tech,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Spazzernoid [Bulwark],,,Spazzernoid [Bulwark],,,,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard
+Plans: Cell Gyrostinker[Rampage],,,Cell Gyrostinker[Rampage],Riot Plates,20,TRUE,,8,,,,,,graphics/loot/loot_drops.swf,blueprint,Bodyguard

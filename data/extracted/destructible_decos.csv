@@ -1,0 +1,19 @@
+Name,Tags,Resource,ExportName,Width,Height,BlocksLineOfSight,FadeToTransparent,Effect,Health,DestructSkill,Loot
+ExplodingBarrel,barrel,graphics/decos/train_yard/industrial_common.swf,BarrelOrange,1,1,,,,1,Barrel Explosion,
+CrateBreakable,crate,graphics/decos/items/crates.swf,wooden_crate_1,1,1,,,,1,Crate Breaking,TRUE
+CrateBreakable2,crate,graphics/decos/items/crates.swf,wooden_crate_2,1,1,,,,1,Crate Breaking,TRUE
+wooden_crate_explosive,crate,graphics/decos/items/crates.swf,wooden_crate_explosive,1,1,,,,1,Barrel Stun,
+destructible_electric_booth,street electric,graphics/decos/street/street_generic.swf,electric_booth,1,2,,,,1,Barrel Stun,
+propane_tank_1,propane,graphics/decos/train_yard/industrial_common.swf,propane_tank_1,1,1,,,,1,Barrel Explosion,
+propane_tank_2,propane,graphics/decos/train_yard/industrial_common.swf,propane_tank_2,1,1,,,,1,Barrel Explosion,
+PoisonBarrel,barrel,graphics/decos/train_yard/industrial_common.swf,BarrelGreen,1,1,,,PoisonSteam,1,Barrel Poison,
+StunBarrel,barrel,graphics/decos/train_yard/industrial_common.swf,BarrelBlue,1,1,,,,1,Barrel Stun,
+StandBreakable,stand,graphics/decos/street/street_generic.swf,hotdog_stand1,1,2,,,,1,Barrel Poison,
+Destructible Concrete Wall,basement wall concrete,graphics/decos/interiors_basement/walls_pillars_grates_pipes.swf,wall_concrete2,1,3,TRUE,FALSE,,1,Wall Explosion,
+Destructible inside_wall_glass,interior wall glass,graphics/decos/interiors_walls_doors/interiors_walls_doors.swf,inside_wall_glass,1,4,TRUE,TRUE,,1,Glass Wall Break,
+AlarmDevice,alarm,graphics/decos/alarm/alarm.swf,AlarmDevice,1,1,,,,1,Alarm,
+MagicMushroom,cave magic,graphics/decos/desert/cave.swf,cave_mushroom,1,1,,,,1,Mushroom Burst,
+liz_egg_big,lizard egg cave,graphics/decos/lizard_eggs/lizard_eggs.swf,liz_egg_big,1,1,,,EggSteam,1,Mushroom Burst,
+liz_egg_small,lizard egg cave,graphics/decos/lizard_eggs/lizard_eggs.swf,liz_egg_small,1,1,,,,1,Mushroom Burst,
+Cavedragon_egg,lizard egg cave,graphics/decos/lizard_eggs/lizard_eggs.swf,liz_egg_big,1,1,,,EggSteam,500,Cavedragon Egg,
+DestructibleGlassDoor,glass door,graphics/decos/interiors_walls_doors/interiors_walls_doors.swf,inside_glass_door,1,4,,,,1,Glass Wall Break,

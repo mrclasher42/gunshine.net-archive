@@ -1,0 +1,200 @@
+Name,ExitsTop,ExitsLeft,ExitsRight,ExitsBottom
+A2: Idas North West,,,,34
+B2: Idas North East,,,,19
+,,,,41
+A2: Phlias West,,,29,35
+Phlias Harbor Square,,30,31,
+B1: Phlias East,,31,,33
+A1: Idas West,34,,30,
+Idas Harbor Square,,30,24,
+B1: Idas East,19,25,,
+,41,,,
+L.A.R.P.U.,,,38,
+The Road,,38,38,42
+Highway Bridge,,38,38,
+Forest Highway,,38,38,
+Omega Avenue,,38,56,
+Omega Island Harbor,,56,,43
+A1: Philas South West,35,,,
+B2: Phlias South East,33,,,
+Achilles,,,,
+Dark Forest,41,,,
+Wetlands,44,,,
+Northern Harbor,,,24,
+Lovens Road,,23,,35
+A2: Argus North West,,,,34
+B2: Argus North East,,,,19
+,,,,42
+A2: Leitus North West,,,,34
+B2: Leitus North East,,,,19
+,,,,41
+Subway station,,,,
+Dawnbreak Avenue,35,,46,
+Refugee Camp,,46,46,
+Palm Beach,,45,,62
+,,,,62
+A1: Argus West,35,,29,
+Argus Harbor Square,,30,25,
+B1: Argus East,19,25,,
+,42,,,
+A1: Leitus West,35,,30,
+Leitus Harbor Square,,30,24,
+B1: Leitus East,19,25,,
+,41,,,
+Pulpy Way,62,,,48
+Troll's Lair,,,,42
+Needlewood,48,,27,
+Pirate Bay,42,27,,44
+Weed Patch,,,61,46
+Storehouse,44,61,,44
+Eureka Research,,,26,
+Dreamlab,,27,,
+A2: Actor North West,,,,34
+B2: Actor North East,,,,19
+,,,,41
+Shelly Beach,46,,,
+Anchorage,44,,46,
+Car Park,,46,46,
+Loading Bay,,46,,39
+Prison,,,,
+A1: Actor West,35,,30,
+Actor Harbor Square,,30,24,
+B1: Actor East,18,25,,
+,41,,,
+Import Area,,,55,
+Internment,,55,68,28
+Container Yard,39,68,36,
+Muck Beach,,37,,
+A2: Idmon North West,,,,35
+B2: Idmon North East,,,,40
+,,,,18
+Drydock,,,19,
+,,,53,
+Magazine,28,19,21,10
+,,53,,
+Soggy Bottom,,22,,
+A2: Castor North West,,,,34
+B2: Castor North East,,,,18
+,,,,40
+A1: Idmon West,35,,30,
+Idmon Harbor Square,,30,24,
+B1: Idmon East,41,24,,
+,19,,,
+Blackbeard's Base,,,,44
+Paradise Bridge,9,,,9
+A1: Castor West,36,,30,
+Castor Harbor Square,,30,24,
+B1: Castor East,19,25,,
+,42,,,
+Water Purification Facility,,,14,
+Fresh Water Reservoir,43,15,,26
+The Pit,,,47,
+Oasis Health Station,,47,67,62
+Desert Highway,10,67,16,72
+Paradise Power,,16,,42
+Freedom Island,,,,41
+Seawater Intake,26,,37,
+Holiday Resort,,37,13,42
+Messina Desert,63,14,36,10
+Camping Grounds,72,37,,59
+Desert Storm,43,,,
+Freedom Park,41,,,22
+,,,,54
+Deserted Village,,,24,
+Rio Desert,,24,50,
+Lemon Desert,42,50,25,
+Toxic Wasteland,11,26,32,
+Evolution Gate,60,33,,34
+Lovens Park North,,,,
+South Park Garden,23,,,38
+,54,,,
+Steel Island Bridge,34,,,34
+Lovens Park West,66,,42,41
+Lovens Park South,38,42,67,61
+Casino Royale,,67,,
+A2: Zetes North West,,,,35
+B2: Zetes North East,,,,19
+,,,,41
+McMurphy Asylum,,,34,
+Bromden Park,,34,34,
+Ratched Lane,,34,34,
+Motor Pool,,34,33,40
+Truck Dock,,34,34,72
+Refinery,,34,73,49
+Alloy Plaza,33,73,45,21
+Mill Park,,45,,
+Old World Hotel,41,,68,41
+Berlin Street Hospital,62,68,46,31
+,28,38,,
+,,46,,
+Maze Pit,,46,,
+A1: Zetes West,35,,30,
+Zetes Harbor Square,,30,24,
+B1: Zetes East,,,,
+Barracks,41,,,
+Raw Materials,72,,,44
+Processing Plant,49,,,
+Wells Wharf,22,,17,65
+Foundry Way,,17,33,
+New World Bridge,,33,32,
+Supply Depot,,33,33,
+New Dublin Street,41,34,49,
+New Moscow Street,31,49,,31
+The Colosseum,10,,,
+Power Plant North,,,41,
+Power Plant East,,41,35,17
+Power Drive,,35,47,
+Ruins,48,46,,
+Steel Pier,65,,39,
+Steel Heliport,,39,,
+New London Street,,,70,51
+Market Square New Paris,31,70,,32
+New Peking Street,,,,32
+Power Plant West,,,19,
+Power Plant South,18,19,,
+West Canal,,,61,
+,,,16,
+Copenhagen Street,52,61,,
+,,15,,
+Amsterdam Street,32,16,44,31
+Orleans Street,32,44,68,
+,,,20,
+East Canal,,68,,
+,,20,,
+A2: Medea North West,,,,35
+B2: Medea North East,,,,19
+,,,,41
+Venice Bridge Street,31,,47,31
+Venice Canal East,,47,,
+A1: Medea West,35,,30,
+Medea Harbor Square,,30,24,
+B1: Medea East,19,25,,
+,41,,,
+A2: Oileus North West,,,,34
+B2: Oileus North East,,,,18
+,,,,41
+Venice Hospital,31,,41,32
+New Venice Square,60,42,,
+,42,,,
+A1: Oileus West,35,,30,
+Oileus Harbor Square,,30,24,
+B1: Oileus East,19,25,,
+,41,,,
+New Venice Hotel,32,,25,
+New Roma Street,52,25,,52
+A2: Theseus North West,,,,34
+B2: Theseus North East,,,,19
+,,,,41
+New Naples Street,52,,35,
+Dawnbreak Square,,35,,
+A1: Theseus West,35,,30,
+Theseus Harbor Square,,30,24,
+B1: Theseus East,19,25,,
+,42,,,
+A2: Heracles North West,,,,35
+B2: Heracles North East,,,,18
+,,,,41
+A1: Heracles West,35,,30,
+Heracles Harbor Square,,30,24,
+B1: Heracles East,19,25,,
+,41,,,

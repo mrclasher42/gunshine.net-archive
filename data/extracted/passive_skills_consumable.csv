@@ -1,0 +1,21 @@
+Name,ConsumableItemClass,DamageOrHeal%,CriticalChance,EnergyCost%,CoolDown,Threat%,Icon,TOOL_TIP_TID
+Energizer Mastery,Energizer,,1,,,,47,TID_PASSIVE_SKILL_ConsumableCriticalHit
+,,,2,,,,,
+,,,3,,,,,
+,,,4,,,,,
+,,,5,,,,,
+Explosive Mastery,Explosive,,1,,,,39,TID_PASSIVE_SKILL_ConsumableCriticalHit
+,,,2,,,,,
+,,,3,,,,,
+,,,4,,,,,
+,,,5,,,,,
+Medikit Mastery,Medikit,,1,,,,31,TID_PASSIVE_SKILL_ConsumableCriticalHit
+,,,2,,,,,
+,,,3,,,,,
+,,,4,,,,,
+,,,5,,,,,
+Projectile Mastery,Projectile,,1,,,,45,TID_PASSIVE_SKILL_ConsumableCriticalHit
+,,,2,,,,,
+,,,3,,,,,
+,,,4,,,,,
+,,,5,,,,,

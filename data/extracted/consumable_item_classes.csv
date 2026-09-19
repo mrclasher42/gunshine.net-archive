@@ -1,0 +1,44 @@
+Name,SpecialWeapon,Booster,HealthAndEnergy,DropSound,Range,CoolDown
+Explosive,TRUE,,,DropItemConsumable,120,20000
+Medikit,,,TRUE,DropItemConsumable,20,30000
+Projectile,TRUE,,,DropItemConsumable,160,20000
+Energizer,,,TRUE,DropItemConsumable,120,30000
+Combat Booster,,TRUE,,DropItemConsumable,20,30000
+Stimulant,,TRUE,,DropItemConsumable,20,5000
+Special Weapon,TRUE,,,DropItemConsumable,80,10000
+Special Missile,TRUE,,TRUE,DropItemConsumable,100,120000
+Super Ammo,TRUE,,,DropItemConsumable,100,6000
+Exploding Ammo,TRUE,,,DropItemConsumable,100,6000
+Piercing Ammo,TRUE,,,DropItemConsumable,20,6000
+Enhanced Weapon,TRUE,,,DropItemConsumable,20,6000
+Exploding Add-on,TRUE,,,DropItemConsumable,20,6000
+Cyanide Surprise,TRUE,,,DropItemConsumable,20,6000
+Food,,,TRUE,DropItemConsumable,20,6000
+Drink,,,TRUE,DropItemConsumable,20,6000
+Insta-Healer Ability 1,TRUE,,,DropItemConsumable,,15000
+Insta-Healer Ability 2,TRUE,,,DropItemConsumable,,25000
+Insta-Healer Ability 3,TRUE,,,DropItemConsumable,,60000
+Area-Healer Ability 1,TRUE,,,DropItemConsumable,,12000
+Area-Healer Ability 2,TRUE,,,DropItemConsumable,,16000
+Area-Healer Ability 3,TRUE,,,DropItemConsumable,,20000
+Prolonger Ability 1,TRUE,,,DropItemConsumable,,18000
+Prolonger Ability 2,TRUE,,,DropItemConsumable,,15000
+Prolonger Ability 3,TRUE,TRUE,,DropItemConsumable,,150000
+Wasp Ability 1,TRUE,,,DropItemConsumable,,30000
+Wasp Ability 2,TRUE,,,DropItemConsumable,,16000
+Wasp Ability 3,TRUE,,,DropItemConsumable,,20000
+Firefly Ability 1,TRUE,,,DropItemConsumable,,12000
+Firefly Ability 2,TRUE,,,DropItemConsumable,,16000
+Firefly Ability 3,TRUE,,,DropItemConsumable,,20000
+Leviathan Ability 1,TRUE,,,DropItemConsumable,,14000
+Leviathan Ability 2,TRUE,TRUE,,DropItemConsumable,,16000
+Leviathan Ability 3,TRUE,,,DropItemConsumable,,20000
+Rampage Ability 1,TRUE,,,DropItemConsumable,,12000
+Rampage Ability 2,TRUE,,,DropItemConsumable,,16000
+Rampage Ability 3,TRUE,,,DropItemConsumable,,20000
+Bulwark Ability 1,TRUE,TRUE,,DropItemConsumable,,12000
+Bulwark Ability 2,TRUE,,,DropItemConsumable,,16000
+Bulwark Ability 3,TRUE,,,DropItemConsumable,,20000
+Hurricane Ability 1,TRUE,,,DropItemConsumable,,12000
+Hurricane Ability 2,TRUE,,,DropItemConsumable,,16000
+Hurricane Ability 3,TRUE,,,DropItemConsumable,,20000

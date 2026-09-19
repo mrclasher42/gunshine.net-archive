@@ -1,0 +1,7 @@
+Name,WeaponClass,NPCItem,RequiredLevel,Rarity,LootMinLevel,LootMaxLevel,LootResource,LootExportName,YELLOW_TEXT_TID,Model,Mesh,ModelTexture,Muzzle,MuzzleGlow,BulletTrail,BulletFlash,MeleeTrail,CriticalChance,LootDisabled,Icon,PostToSocialNetworks
+DefaultWeapon,Unarmed,,1,Common,,,,,,,,,,,,,,,TRUE,,
+NPC_MeleeBazooka,MeleeBazooka,true,1,Common,,,,,,,,,,,,,,,TRUE,,
+UnarmedAnt,Ant,true,1,Common,,,,,,,,,,,,,,,TRUE,,
+UnarmedAntQueen,AntQueen,true,1,Common,,,,,,,,,,,,,,,TRUE,,
+UnarmedLizard,Lizard,true,1,Common,,,,,,,,,,,,,,,TRUE,,
+UnarmedDog,Dog,true,1,Common,,,,,,,,,,,,,,,TRUE,,

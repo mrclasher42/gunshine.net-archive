@@ -1,0 +1,13 @@
+Name,RequiredExpLevel,RecommendedExpLevel,Difficulty,GiverLevel,GiverObjectType,MissionLevel,ReceiverLevel,ReceiverObjectType,Dependency,TaskType,TaskObject,TaskObjectCount,TaskLootSourceObject,TaskLevel,CustomReward,XPReward,CashReward,DailyMission,Deprecated,Item,ItemEnhancement,ItemCount,Item_Bodyguard,ItemEnhancement_Bodyguard,Item_Hunter,ItemEnhancement_Hunter,Item_Doctor,ItemEnhancement_Doctor,MissionGroup,RewardIngredient,RewardIngredientAmount
+Travel To Idas,10,10,Easy,Pirate Bay,Vladek,Idas Harbor Square,Idas Harbor Square,Reisman,,talk,Reisman,,,,,,,TRUE,TRUE,,,,,,,,,,Daily,,
+Travel To Argus,28,30,Easy,Pirate Bay,Vladek,Argus Harbor Square,Argus Harbor Square,Worden,,talk,Worden,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Actor,12,12,Easy,Pirate Bay,Vladek,Actor Harbor Square,Actor Harbor Square,Wladislaw,,talk,Wladislaw,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Castor,14,14,Easy,Pirate Bay,Vladek,Castor Harbor Square,Castor Harbor Square,Franko,,talk,Franko,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Medea,16,16,Easy,Pirate Bay,Vladek,Medea Harbor Square,Medea Harbor Square,Jefferson,,talk,Jefferson,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Heracles,18,18,Easy,Pirate Bay,Vladek,Heracles Harbor Square,Heracles Harbor Square,Browen,,talk,Browen,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Theseus,20,20,Easy,Pirate Bay,Vladek,Theseus Harbor Square,Theseus Harbor Square,Armbruster,,talk,Armbruster,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Oileus,22,22,Easy,Pirate Bay,Vladek,Oileus Harbor Square,Oileus Harbor Square,Jiminez,,talk,Jiminez,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Zetes,24,24,Easy,Pirate Bay,Vladek,Zetes Harbor Square,Zetes Harbor Square,Kinder,,talk,Kinder,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Idmon,26,26,Easy,Pirate Bay,Vladek,Idmon Harbor Square,Idmon Harbor Square,Dasher,,talk,Dasher,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Leitus,28,28,Easy,Pirate Bay,Vladek,Leitus Harbor Square,Leitus Harbor Square,Maggott,,talk,Maggott,1,,,,,,TRUE,,,,,,,,,,,Daily,,
+Travel To Phlias,30,30,Easy,Pirate Bay,Vladek,Phlias Harbor Square,Phlias Harbor Square,Pinkley,,talk,Pinkley,1,,,,,,TRUE,,,,,,,,,,,Daily,,

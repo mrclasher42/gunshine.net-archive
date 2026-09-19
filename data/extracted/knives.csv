@@ -1,0 +1,78 @@
+Name,WeaponClass,RequiredLevel,Rarity,Tier,Enhancement,DiamondsOnly,ShopRecommend,CriticalChance,LootDisabled,Icon,PostToSocialNetworks
+Simple Knife,Knife,1,Common,,,,,,TRUE,,
+Typical Knife,Knife,4,Common,,,,,,TRUE,,
+Everyday Knife,Knife,10,Common,,,,,,TRUE,,
+Plain Knife,Knife,16,Common,,,,,,TRUE,,
+Popular Jungle Knife,Jungle Knife,20,Common,,,,,,TRUE,,TRUE
+Standard Knife,Knife,22,Common,,,,,,TRUE,,
+Common Jungle Knife,Jungle Knife,25,Common,,,,,,TRUE,,
+Normal Knife,Knife,26,Common,,,,,,TRUE,,
+Universal Knife,Knife,27,Common,,,,,,TRUE,,
+Simple Jungle Knife,Jungle Knife,28,Common,,,,,,TRUE,,
+Regular Knife,Knife,29,Common,,,,,,TRUE,,
+Typical Jungle Knife,Jungle Knife,30,Common,,,,,,TRUE,,
+Crappy Knife,Knife,1,Poor,,,,,,TRUE,,
+Battered Knife,Knife,3,Poor,,,,,,TRUE,,
+Cracked Knife,Knife,6,Poor,,,,,,TRUE,,
+Antiquated Knife,Knife,10,Poor,,,,,,TRUE,,
+Broken Knife,Knife,12,Poor,,,,,0,TRUE,,
+Cracked Jungle Knife,Jungle Knife,13,Poor,,,,,,TRUE,,
+Piece of Crap Knife,Knife,15,Poor,,,,,,TRUE,,
+Corroded Knife,Knife,17,Poor,,,,,,TRUE,,
+Crude Knife,Knife,18,Poor,,,,,0,TRUE,,
+Broken Jungle Knife,Jungle Knife,19,Poor,,,,,,TRUE,,
+Corroded Jungle Knife,Jungle Knife,20,Poor,,,,,,TRUE,,
+Credible Knife,Knife,23,Poor,,,,,,TRUE,,
+Lame Knife,Knife,24,Poor,,,,,,TRUE,,
+Brittle Knife,Knife,26,Poor,,,,,,TRUE,,
+Crude Jungle Knife,Jungle Knife,28,Poor,,,,,,TRUE,,
+Lousy Knife,Knife Fork,29,Poor,,,,,,TRUE,11,
+Bottle,Paperbag Bottle,30,Poor,,,,,10,TRUE,,
+Marvelous Knife,Knife,2,Rare,,of the Judgment,,,0,TRUE,,TRUE
+Mighty Knife,Knife,7,Rare,,of the Destroyer,,TRUE,,TRUE,,TRUE
+Mighty Jungle Knife,Jungle Knife,8,Rare,,of the Painmaker,,,3,TRUE,,TRUE
+Righteous Knife,Knife,10,Rare,,of the Predator,,,5,TRUE,,TRUE
+Righteous Jungle Knife,Jungle Knife,14,Rare,,of the Judgment,,,6,TRUE,,TRUE
+Victorious Jungle Knife,Jungle Knife,15,Rare,,of the Destroyer,,,,TRUE,,TRUE
+Victorious Knife,Knife,20,Rare,,of the Painmaker,,,11,TRUE,,TRUE
+First-Class Knife,Knife,20,Rare,,of the Predator,,,,TRUE,,TRUE
+Singular Knife,Knife,25,Rare,,of the Judgment,,,,TRUE,,TRUE
+First-Class Jungle Knife,Jungle Knife,25,Rare,,of the Destroyer,,,4,TRUE,,TRUE
+Singular Jungle Knife,Jungle Knife,26,Rare,,of the Painmaker,,,12,TRUE,,TRUE
+Excellent Jungle Knife,Jungle Knife,27,Rare,,of the Predator,,,3,TRUE,,TRUE
+Outstanding Jungle Knife,Jungle Knife,28,Rare,,of the Predator,,,,TRUE,,TRUE
+Okayish Knife,Knife,1,Uncommon,,,,,6,TRUE,,TRUE
+Great Knife,Knife,5,Uncommon,,,,,,TRUE,,TRUE
+Good Jungle Knife,Jungle Knife,9,Uncommon,,,,,2,TRUE,,TRUE
+Illegal Knife,Knife,10,Uncommon,,,,,4,TRUE,,TRUE
+Cool Knife,Knife,11,Uncommon,,,,,,TRUE,,TRUE
+Good Knife,Knife,15,Uncommon,,,,,,TRUE,,TRUE
+Fine Knife,Knife,17,Uncommon,,,,,4,TRUE,,TRUE
+Fine Jungle Knife,Jungle Knife,18,Uncommon,,,,,,TRUE,,TRUE
+Credible Jungle Knife,Jungle Knife,21,Uncommon,,,,,,TRUE,,TRUE
+Street Wise Jungle Knife,Jungle Knife,25,Uncommon,,,,,,TRUE,,TRUE
+Street Wise Knife,Knife,26,Uncommon,,,,,,TRUE,,TRUE
+Nifty Knife,Knife,27,Uncommon,,,,,,TRUE,,TRUE
+Ideal Knife,Knife,29,Uncommon,,,,,1,TRUE,,TRUE
+Elegant Knife,Knife,29,Uncommon,,,,,2,TRUE,,TRUE
+Worthy Jungle Knife,Jungle Knife,30,Uncommon,2,,,,3,TRUE,,TRUE
+Labytech LK-10,Labytech Knife,10,Epic,,of the Destroyer,,,18,TRUE,,TRUE
+Labytech LK-30,Labytech Knife,30,Epic,4,of the Destroyer,,TRUE,18,TRUE,,TRUE
+Labytech LK-28,Labytech Knife,28,Epic,,of the Destroyer,,,18,TRUE,,TRUE
+Labytech LK-22,Labytech Knife,22,Epic,,of the Destroyer,,TRUE,18,TRUE,,TRUE
+Labytech LK-17,Labytech Knife,19,Epic,,of the Painmaker,,,18,TRUE,,TRUE
+Labytech LK-12,Labytech Knife,14,Epic,,of the Painmaker,,,18,TRUE,,TRUE
+Labytech LK-02,Labytech Knife,8,Epic,,of the Painmaker,,,18,TRUE,,TRUE
+Labytech LK-06,Labytech Knife,5,Epic,,of the Painmaker,,TRUE,18,TRUE,,TRUE
+Labytech LK-13,Labytech Knife,13,Epic,,of the Destroyer,,,14,TRUE,,TRUE
+Labytech LK-21,Labytech Knife,21,Epic,,of the Destroyer,,,27,TRUE,,TRUE
+Labytech LK-29,Labytech Knife,29,Epic,,of the Destroyer,,,27,TRUE,,TRUE
+Knife X-3,Knife,3,Epic,,of the Painmaker,,,5,TRUE,,TRUE
+Knife X-7,Knife,7,Epic,,of the Painmaker,,,5,TRUE,,TRUE
+Knife X-12,Knife,12,Epic,,of the Painmaker,,TRUE,5,TRUE,,TRUE
+Knife X-17,Knife,17,Epic,,of the Painmaker,,,5,TRUE,,TRUE
+Knife X-20,Knife,20,Epic,,of the Painmaker,,,5,TRUE,,TRUE
+Knife X-25,Knife,25,Epic,,of the Painmaker,,,5,TRUE,,TRUE
+Knife X-30,Knife,30,Epic,5,of the Painmaker,,,,TRUE,,TRUE
+Champ's Shank,Knife,12,Uncommon,,,,,,TRUE,,
+Sunny Jungle Knife,Jungle Knife,30,Common,,,,,,TRUE,,TRUE
