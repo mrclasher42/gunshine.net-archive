@@ -1,89 +1,69 @@
-# Gunshine.net - Preservation Archive
+# Gunshine.net
 
-Complete archive of **Gunshine.net**, also known as **Zombies Online** — the first browser game developed by **Supercell** (2011–2012). Servers were shut down on **November 30, 2012**.
+Archive of Gunshine.net — the first game by Supercell (2011-2012).
 
-## Contents
+Shut down on November 30, 2012. Everything here is what's left.
 
-| Directory | Description | Files |
-|-----------|-------------|-------|
-| `data/` | Game data — `data.zzz` + 194 extracted CSVs | 195 |
-| `graphics/ui/` | Named UI sprites from SWF | 161 PNG |
-| `graphics/atlas/` | Full image atlas from SWF | 592 PNG |
-| `swf/` | Original compressed Adobe Flash SWF files | 6 SWF |
-| `decompiled/` | Decompressed SWFs + 185 AS3 scripts | 185 AS |
-| `docs/` | Class names, asset lists | 5 TXT |
+## What's inside
 
-## Data Files (194 CSVs)
+| Folder | Contents |
+|--------|----------|
+| `data/` | data.zzz + 194 CSVs (characters, weapons, missions, skills, factions, items, maps, localization) |
+| `graphics/ui/` | 161 named UI sprites from hud.swf |
+| `graphics/atlas/` | 592 raw images from SWF |
+| `swf/` | 6 original Flash files (hud, pistol, intro, hit, target_indicators, shadow) |
+| `decompiled/` | Decompressed SWFs + 185 AS3 scripts |
+| `docs/` | Class names + asset lists |
 
-- **Characters** — 1,188 entries with attributes, skills, equipment
-- **Weapons** — Hand guns, shotguns, rifles, SMGs, snipers, swords, axes, knives, saws, miniguns
-- **Missions** — 5 mission sets + daily + boss missions + mission groups
-- **Skills** — AI skills, player skills, weapon skills, passive skills
-- **Factions** — 40+ (Hooligans, Mad Dogs, Resistance, Mutants, Undead, etc.)
-- **Districts** — 13 districts + 20 islands (Dawnbreak City, Idas, Argus, etc.)
-- **Items** — Belts, glasses, jackets, pants, shoes, gloves, hats, necklaces
-- **Crafting** — Recipes for all equipment types
-- **Localization** — Multiple languages (English, German, French, Spanish, Russian, Japanese, Chinese, Korean, etc.)
-- **Sounds** — FX, music, voice-over references
-- **Animations** — Character animation definitions
-- **Maps** — Level layouts, tilesets, decorations
+## What's in the data
+
+- 1,188 characters
+- Hand guns, shotguns, rifles, SMGs, snipers, swords, axes, knives, miniguns
+- Mission sets + daily + boss missions
+- AI skills, player skills, weapon skills, passive skills
+- 40+ factions (Hooligans, Mad Dogs, Resistance, Mutants, Undead...)
+- 13 districts, 20 islands
+- Belts, glasses, jackets, pants, shoes, gloves, hats, necklaces
+- Recipes, ingredients, achievements
+- Multiple languages
 
 ## Graphics
 
-**161 named UI sprites** extracted from `hud.swf`:
+161 named UI sprites — LoginScreen, TopHUD, BottomHUD, CharacterSelectionScreen, MissionList, Chat, Inventory, Shop, MiniMap, scoreboard, popups, and more.
 
-- `LoginScreen.png` — Login interface
-- `CharacterSelectionScreen.png` — Character selection
-- `CreateCharacterScreen.png` — Character creation
-- `TopHUD.png`, `BottomHUD.png`, `TopHUD_Right.png` — In-game HUD
-- `TopMoneyHUD.png`, `XPText.png`, `DamageText.png` — HUD elements
-- `MissionList.png`, `MissionIcon.png`, `MissionTaskWindow.png` — Mission UI
-- `Chat2_Expanded.png`, `Chat2_Maximized.png` — Chat interface
-- `InventoryCombo.png`, `ItemPreview.png` — Inventory
-- `InGameShop2.png`, `ShopItem2.png` — Shop
-- `MiniMap_2.png`, `MiniMapIcons.png`, `map_new.png` — Maps
-- `Window_Settings.png`, `HelpWindow.png` — Settings
-- `scoreboard_1.png` — Leaderboard
-- `NotificationBox.png`, `QuestionBox.png`, `TreasureBoxPopUp.png` — Popups
-- And 140+ more UI elements
+592 atlas images — everything extracted from the SWFs.
 
-**592 atlas images** — Full raw images extracted from SWF.
+## SWFs
 
-## Original SWFs
+| File | Size |
+|------|------|
+| hud.swf | 790 KB |
+| pistol.swf | 676 KB |
+| intro.swf | 240 KB |
+| hit.swf | 29 KB |
+| target_indicators.swf | 25 KB |
+| shadow.swf | 2 KB |
 
-| File | Size | Description |
-|------|------|-------------|
-| `hud.swf` | 790 KB | In-game HUD (main UI) |
-| `pistol.swf` | 676 KB | Weapon animations |
-| `intro.swf` | 240 KB | Game intro sequence |
-| `hit.swf` | 29 KB | Hit effects |
-| `target_indicators.swf` | 25 KB | Target UI |
-| `shadow.swf` | 2 KB | Shadow effects |
+## Tech
 
-## Technical Details
-
-- **Engine:** Adobe Flash / ActionScript 3
-- **Protocol:** Piranha Message (same format as Clash of Clans)
-- **Header:** `[ID:2][Len:3][Ver:2]` + payload
-- **Encryption:** RC4 with key + nonce
-- **Server Port:** 9339
-- **Database:** MongoDB (server-side)
+- Adobe Flash / ActionScript 3
+- Piranha Message protocol
+- Header: [ID:2][Len:3][Ver:2] + payload
+- RC4 encryption
+- Port 9339
+- MongoDB
 
 ## Sources
 
-- **Game data:** Official Supercell package via [archive.org](https://archive.org/details/Gunshine.net)
-- **SWF files:** Rackspace CDN (archived via Wayback Machine)
-- **Server protocol:** [antzsmt/Gunshine.net](https://github.com/antzsmt/Gunshine.net)
-- **Community preservation:** Multiple contributors
+- Game data — Supercell package on archive.org
+- SWFs — Rackspace CDN via Wayback Machine
+- Protocol — antzsmt/Gunshine.net
+- Community contributions
 
 ## Missing
 
-The **main client** (`GamePopup.swf`, ~10-20 MB) has not been located in any public archive. All other assets are preserved here.
+GamePopup.swf — the main client (~10-20 MB). Not found in any public archive.
 
 ## License
 
-**Preservation purposes only.** Original game © Supercell (2011–2012). All rights, trademarks, and code belong to their respective owners. This archive is provided as-is for historical, educational, and research purposes only. No commercial use intended or permitted.
-
----
-
-**Preserved for video game history.**
+Preservation only. All original content belongs to Supercell. No commercial use.
